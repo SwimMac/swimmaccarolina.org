@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include "head.njk" %}
+    {% if site.env %}
+      <!-- capture the CSS content as a Liquid variable -->
+      {% set css %}{% include "app.compiled.css" %}{% endset %}
+      <style>
+        {{css | safe}}
+      </style>
+    {% else %}
+      <link rel="stylesheet" href="/static/app.compiled.css">
+    {% endif %}
+  </head>
+  <body>
+    <a href="#main" class="skip-link">Skip to main content</a>
+    <header class="container flex flex-wrap justify-center md:justify-between items-center py-6">
+      <a href="/" class="block">
+        <img src="/static/swimmac-logo.svg" alt="ARC Waste Compactors" class="w-18">
+      </a>
+
+      <nav class="flex flex-wrap justify-center md:justify-between items-center">
+        <ul class="flex text-lg my-4 mr-4">
+          <li class="px-2"><a href="/" class="no-underline {% if name === 'Home' %}border-b-2 border-primary{% endif %}">Home</a></li>
+        </ul>
+      </nav>
+    </header>
+    {{ content | safe }}
+    <footer class="bg-primary py-6">
+     <div class="container">
+        <p class="text-white">
+          Copyright © 2019-2021 SwimMAC Carolina - All Rights Reserved.
+        </p>
+     </div>
+    </footer>
+  </body>
+  <script src="/static/app.bundled.js"></script>
+</html>

@@ -1,0 +1,33 @@
+
+@import 'utils/_tailwind.css';
+@import 'utils/_accessibility.css';
+
+/* purgecss start ignore */
+@layer base {
+	:focus, button:focus {
+			outline: solid  3px rgba(0,0,0,0.05);
+			outline-offset: 4px;
+	}
+
+	body {
+		@apply text-gray-900;
+	}
+
+	a {
+		@apply text-primary underline;
+	}
+
+	.button {
+		@apply inline-block no-underline bg-primary text-white hover:bg-blue-600 rounded shadow hover:shadow-lg py-3 px-6 text-lg;
+	}
+
+	.button.secondary {
+		@apply bg-secondary text-gray-900;
+	}
+
+	.hero--home {
+		background: url('/static/hero.png') no-repeat center 150px #dfb;
+		min-height: 500px;
+	}
+}
+/* purgecss end ignore */
