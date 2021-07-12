@@ -5,33 +5,64 @@
     {% if site.env %}
       <!-- capture the CSS content as a Liquid variable -->
       {% set css %}{% include "app.compiled.css" %}{% endset %}
-      <style>
-        {{css | safe}}
-      </style>
+      <style>{{css | safe}}</style>
     {% else %}
       <link rel="stylesheet" href="/static/app.compiled.css">
     {% endif %}
   </head>
+
   <body>
     <a href="#main" class="skip-link">Skip to main content</a>
+
+    <nav class="bg-primary">
+      <ul class="flex">
+        <li class="p-2">
+          <a href="/" class="no-underline text-white {% if name === 'Home' %}border-b-2 border-primary{% endif %}">Public Lap Swim</a>
+        </li>
+        <li class="p-2">
+          <a href="/" class="no-underline text-white {% if name === 'Home' %}border-b-2 border-primary{% endif %}">Sponsors</a>
+        </li>
+      </ul>
+    </nav>
+
     <header class="container flex flex-wrap justify-center md:justify-between items-center py-6">
       <a href="/" class="block">
         <img src="/static/swimmac-logo.svg" alt="SwimMAC Carolina" class="w-18">
       </a>
 
       <nav class="flex flex-wrap justify-center md:justify-between items-center">
-        <ul class="flex text-lg my-4 mr-4">
-          <li class="px-2"><a href="/" class="no-underline {% if name === 'Home' %}border-b-2 border-primary{% endif %}">Home</a></li>
+        <ul class="flex text-lg my-4 mr-4"  x-data="{ isOpen: false}">
+          <li class="px-2">
+            <a href="/" class="no-underline {% if name === 'Home' %}border-b-2 border-primary{% endif %}">Home</a>
+          </li>
+
+          <li @mouseenter="isOpen = true" @mouseleave="isOpen = false" class="relative">
+            <button class="flex items-center">
+              Programs
+            </button>
+            <ul x-show="isOpen" class="absolute font-normal bg-white shadow overflow-hidden rounded w-48 border py-1 right-0 z-20">
+              {% for program in programs %}
+              <li class="border-b border-gray-400">
+                <a href="#" class="flex items-center px-3 py-3 hover:bg-gray-200">
+                  {{ program.name }}
+                </a>
+              </li>
+              {% endfor %}
+
+            </ul>
+          </li>
         </ul>
-      </nav>
+       </nav>
     </header>
+
     {{ content | safe }}
+
     <footer class="bg-primary py-6">
-     <div class="container">
+      <div class="container">
         <p class="text-white">
           Copyright © 2019-2021 SwimMAC Carolina - All Rights Reserved.
         </p>
-     </div>
+      </div>
     </footer>
   </body>
   <script src="/static/app.bundled.js"></script>

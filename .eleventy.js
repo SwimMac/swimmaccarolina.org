@@ -1,12 +1,21 @@
 const filters = require('./utils/filters.js')
 const transforms = require('./utils/transforms.js')
 const collections = require('./utils/collections.js')
+const now = String(Date.now())
 
 module.exports = function (eleventyConfig) {
     // Folders to copy to build dir (See. 1.1)
     eleventyConfig.addPassthroughCopy("src/static");
 
-    // Filters 
+    eleventyConfig.addPassthroughCopy({
+        './node_modules/alpinejs/dist/cdn.js': './js/alpine.js',
+    })
+
+    eleventyConfig.addShortcode('version', function () {
+        return now
+    })
+
+    // Filters
     Object.keys(filters).forEach((filterName) => {
         eleventyConfig.addFilter(filterName, filters[filterName])
     })
