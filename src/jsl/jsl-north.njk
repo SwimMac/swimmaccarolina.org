@@ -1,0 +1,58 @@
+---
+layout : base.njk
+title : Junior Swim League (JSL) - North
+coach:
+    name: Brittany Ward
+    email: bward@swimmaccarolina.org
+---
+
+{% banner title, {image: 'jsl.jpg'} %}
+
+<main id="main" class="bg-gray-100 py-6">
+    {% include 'covid-notice.njk' %}
+
+    <div class="container overflow-hidden">
+
+        <p>
+            <a href="/">Home</a> /
+            <a href="/jsl/">Junior Swim League</a> /
+            {{ title }}
+        </p>
+
+        <p class="lead">
+            For swimmers ages 6-12 who can swim one length (25 yards) Freestyle and Backstroke and have some knowledge of Butterfly
+            and Breaststroke. Advanced JSL is by coach recommendation only. This group is for swimmers who are looking for a more
+            challenging program and can complete one length of all four strokes.
+        </p>
+
+        <div class="card p-4">
+           <div class="flex flex-wrap -mx-4">
+                <div class="w-full md:w-1/2 p-4">
+                   <h2>Overview</h2>
+
+                    <ul>
+                        <li>For ages 6–12</li>
+                        <li>Taught by trained SwimMAC coaches</li>
+                        <li>Fosters teamwork and sportsmanship</li>
+                        <li>For swimmers who can Swim one pool length (25 yards) of Free and Back and swim Breast or Fly with some proficiency</li>
+                    </ul>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h4>Structure</h4>
+                    <ul>
+                        <li>Evaluations are held the months of June, July, and August and throughout the year by appointment</li>
+                        <li>Classes held twice per week for 30–45 minutes</li>
+                        <li>Length of session varies per location</li>
+                        <li>Choose from early afternoons, evenings, weekdays, and weekends</li>
+                    </ul>
+               </div>
+            </div>
+
+            {% coachContact coach.name, coach.email %}
+        </div>
+
+        {% include 'hffa-map.njk' %}
+    </div>
+
+</main>

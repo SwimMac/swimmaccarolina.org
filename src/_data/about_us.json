@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Overview",
+    "url": "about-us"
+  },
+  {
+    "name": "News",
+    "url": "news"
+  },
+  {
+    "name": "Our People",
+    "url": "our-people"
+  },
+  {
+    "name": "Alumni",
+    "url": "alumni"
+  },
+  {
+    "name": "Achievements & Records",
+    "url": "achievements-and-records"
+  },
+  {
+    "name": "Employment",
+    "url": "employment"
+  }
+]

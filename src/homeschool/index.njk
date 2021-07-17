@@ -1,0 +1,41 @@
+---
+layout : base.njk
+title : Homeschool
+---
+
+<main id="main" class="bg-gray-100">
+
+    {% banner title %}
+
+    <div class="container py-6">
+        <p class="lead">
+            SwimMAC Junior Swim League (JSL) allows swimmers the opportunity to continue the fun of summer league
+            throughout the year. JSL offers a chance for your child to improve in all 4 strokes with individual
+            attention from highly qualified coaches. Swimmers gain endurance, strength and confidence while having
+            fun with swimming. JSL can be a stepping stone from lessons or summer league to year round competitive swimming.
+        </p>
+
+        {% include 'covid-notice.njk' %}
+
+        <div class="flex flex-wrap -mx-4 justify-center">
+            <div class="w-full md:w-1/2 lg:w-1/3 p-4">
+                <a href="homeschool-north/" class="card h-full overflow-hidden">
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/hffa.png');"></div>
+                    <div class="text-gray-900 p-4">
+                        <h2>Homeschool North</h2>
+                    </div>
+                </a>
+            </div>
+
+            <div class="w-full md:w-1/2 lg:w-1/3 p-4">
+                <a href="homeschool-south/" class="card h-full overflow-hidden">
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/latin.jpg');"></div>
+                    <div class="text-gray-900 p-4">
+                        <h2>Homeschool South</h2>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+</main>

@@ -1,0 +1,92 @@
+---
+layout : base.njk
+title : Homeschool - South
+coach:
+    name: Carrie Andrews
+    email: candrews@swimmaccarolina.org
+---
+
+{% banner title, {image: 'kid-laughing.jpg'} %}
+
+<main id="main" class="bg-gray-100 py-6">
+    {% include 'covid-notice.njk' %}
+
+    <div class="container overflow-hidden">
+
+        <p>
+            <a href="/">Home</a> /
+            <a href="/homeschool/">Homeschool</a> /
+            {{ title }}
+        </p>
+
+        <p class="lead">
+           Structured with homeschool families in mind, we offer three different levels for ages 3–18 years taught simultaneously
+           in the same pool during the school day.
+           Convenient for families of multiple swimmers! Fulfills PE requirements.
+        </p>
+
+        <div class="card p-4">
+            <h3>Excellent Program for swimmers who want to:</h3>
+
+            <ul>
+                <li>Exercise for recreational swimming and advance their technique</li>
+                <li>Develop skills needed to earn Boy Scouts Swimmer Merit Badge</li>
+                <li>Develop skills needed for Girl Scouts programs, such as ShapeUP!</li>
+                <li>Improve Strength/Agility in a non-impact/aerobic conditioning program</li>
+                <li>Learn fundamental racing technique for competitive swimming or triathlons</li>
+            </ul>
+
+            <div class="flex flex-wrap -mx-4">
+                <div class="w-full md:w-1/3 p-4">
+                    <h2 class="separator-left">Level 1</h2>
+                    <h3>Safety</h3>
+                    <ul>
+                        <li>For children ready to learn water acclimation skills and beginning strokes</li>
+                        <li>Lower levels focus on Freestyle &amp; Backstroke</li>
+                        <li>Upper levels focus on all four strokes</li>
+                        <li>No previous swimming experience necessary</li>
+                        <li>Swimmer-to-coach ratio of 5:1</li>
+                        <li>Classes meet two days per week for 30 minutes</li>
+                    </ul>
+                </div>
+
+                <div class="w-full md:w-1/3 p-4">
+                    <h2 class="separator-left">Level 2</h2>
+                    <h3>Intro to competitive technique</h3>
+                    <p>For swimmers who can:</p>
+                    <ul>
+                        <li>Swim 25 yards freestyle with bilateral breathing and body rotation</li>
+                        <li>Swim 25 yards backstroke with body rotation</li>
+                        <li>Swim 25 yards breaststroke with legal kick</li>
+                        <li>Complete 25 yards of dolphin roll (butterfly kick, body motion)</li>
+                        <li>Classes meet two days per week for 45 minutes</li>
+                    </ul>
+                </div>
+
+                <div class="w-full md:w-1/3 p-4">
+                    <h2 class="separator-left">Level 3</h2>
+                    <h3>Advanced strokes/conditioning</h3>
+                    <p>For swimmers who can:</p>
+                    <ul>
+                        <li>Swim 100 yards freestyle and backstroke</li>
+                        <li>Swim 50 yards breaststroke</li>
+                        <li>Swim 25 yards butterfly</li>
+                        <li>Swim 100 IM</li>
+                        <li>“Dip’n’Slip,” underwater streamline off walls</li>
+                        <li>Dive from the blocks</li>
+                        <li>Classes meet two days per week for 1 hour 15 minutes</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3 class="separator-center">South Region Class Registration</h3>
+
+            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=541681&amp;cat1=homeschool&amp;hidecols=Gender,Session&amp;style=font-size:16px&amp;sort=days" type="text/javascript"></script>
+
+            {% coachContact coach.name, coach.email %}
+        </div>
+
+        {% include 'latin-map.njk' %}
+    </div>
+
+</main>

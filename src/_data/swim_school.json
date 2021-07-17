@@ -1,0 +1,177 @@
+{
+  "groups": [
+    {
+      "name": "MiniMAC",
+      "url": "minimac",
+      "ages": "6 months to 2 years",
+      "description": "MiniMAC is a safe place for little swimmers to learn how to swim with the guidance of an adult* and instructors. Lessons will include water safety, along with songs, games and toys to build confidence and prepare for group lessons.",
+      "image": "minimac.jpg",
+      "north": true,
+      "south": true,
+      "levels": [
+        {
+          "name": "MiniMAC Beginner",
+          "url": "minimac-beginner",
+          "description": "Skills include blowing bubbles, kicking, scooping arms, floating, etc.",
+          "image": "minimac-beginner.jpg",
+          "north": true,
+          "south": false
+        },
+        {
+          "name": "MiniMAC Advanced",
+          "url": "minimac-advanced",
+          "description": "Designed for toddlers who have mastered junior and intermediate skills, and are moving toward a class without a parent. The goal for the end of the class is to have adults out of the water by the last class of the session. This class prepares the swimmer for our group classes without an adult in the pool.",
+          "image": "minimac-advanced.jpg",
+          "north": true,
+          "south": false
+        }
+      ]
+    },
+    {
+      "name": "Preschool",
+      "url": "preschool",
+      "ages": "3 to 5 years",
+      "description": "Classes will help little ones feel relaxed in the water and meet milestones in the sport of swimming. Skills range from floating, kicking, breathing techniques, freestyle, and backstroke.",
+      "image": "preschool.jpg",
+      "north": true,
+      "south": true,
+      "levels": [
+        {
+          "name": "Blue-P2",
+          "url": "blue-p2",
+          "color":"Blue",
+          "description": "We recommend that all new swimmers to our program start here.",
+          "image": "blue-p2.jpg",
+          "north": true,
+          "south": false
+        },
+        {
+          "name": "Red-P3",
+          "url": "red-p3",
+          "color":"Red",
+          "description": "Swimmers should feel comfortable with their face in the water and being in the water without flotation devices.",
+          "image": "red-p3.jpg",
+          "north": true,
+          "south": true
+        },
+        {
+          "name": "Orange-P4",
+          "url": "orange-p4",
+          "color":"Orange",
+          "description": "Swimmers should be able to float on their front and back for at least 10 seconds and also kick 5–10 yards on stomach independently.",
+          "image": "orange-p4.jpg",
+          "north": true,
+          "south": true
+        },
+        {
+          "name": "Yellow-P5",
+          "url": "yellow-p5",
+          "color":"Yellow",
+          "description": "Swimmers should be able to show 5–10 yards of kicking with successful breathing and be able to kick comfortably on their back.",
+          "image": "yellow-p5.jpg",
+          "north": true,
+          "south": true
+        }
+      ]
+    },
+    {
+      "name": "Grade School",
+      "url": "grade-school",
+      "ages": "6 to 11 years",
+      "description": "These classes focus on developing the skill set needed for swimming. Techniques learned include freestyle, side breathing, backstroke, breaststroke, and butterfly.",
+      "image": "gradeschool.jpg",
+      "north": true,
+      "south": true,
+      "levels": [
+        {
+          "name": "Blue-G2",
+          "url": "blue-g2",
+          "color":"Blue",
+          "description": "Recommended for swimmers who are uncomfortable with the water (will not put face in, don't want to go in water over head, etc).",
+          "image": "blue-g2.jpg",
+          "north": true,
+          "south": true
+        },
+        {
+          "name": "Red-G3",
+          "url": "red-g3",
+          "color":"Red",
+          "description": "Swimmers should feel comfortable retrieving a toy from the bottom.",
+          "image": "red-g3.jpg",
+          "north": true,
+          "south": true
+        },
+        {
+          "name": "Orange-G4",
+          "url": "orange-g4",
+          "color":"Orange",
+          "description": "Swimmers should be able to kick 5–10 yards independently on front and back.",
+          "image": "orange-g4.jpg",
+          "north": true,
+          "south": true
+        },
+        {
+          "name": "Yellow-G5",
+          "url": "yellow-g5",
+          "color":"Yellow",
+          "description": "Swimmers should be able to swim 10 yards of freestyle and do 5–10 yards of backstroke kicking.",
+          "image": "yellow-g5.jpg",
+          "north": true,
+          "south": true
+        },
+        {
+          "name": "Green-G6",
+          "url": "green-g6",
+          "color":"Green",
+          "description": "Swimmers should be able to do 15–20 yards of freestyle with bilateral breathing and maintain a streamline position while kicking on both stomach & back.",
+          "image": "green-g6.jpg",
+          "north": true,
+          "south": true
+        },
+        {
+          "name": "White-G7",
+          "url": "white-g7",
+          "color":"White",
+          "description": "Swimmer should be able to swim 20–25 yards freestyle and backstroke and have a proper dolphin kick.",
+          "image": "white-g7.jpg",
+          "north": true,
+          "south": true
+        },
+        {
+          "name": "Silver-G8",
+          "url": "silver-g8",
+          "color":"Silver",
+          "description": "Swimmers should be proficient in freestyle and backstroke (or completed all prior G levels). Recommendation required.",
+          "image": "silver-g8.jpg",
+          "north": false,
+          "south": true
+        },
+        {
+          "name": "Gold-Olympic Strokes",
+          "url": "gold-olympic-strokes",
+          "color":"Gold",
+          "description": "Swimmers should be able to swim 25 yards of freestyle, backstroke, and breaststroke (or completed all prior G levels). Recommendation required.",
+          "image": "gold-olympic-strokes.jpg",
+          "north": false,
+          "south": true
+        }
+      ]
+    },
+    {
+      "name": "Adult Lessons",
+      "url": "adult-lessons",
+      "ages": "18 years and older",
+      "description": "This is a beginner group lesson for adults 18 and over. Lessons will range from learning the basics of blowing bubbles and ﬂoating, to recreational swimming for fitness. Classes are 30 minutes long, and have a maximum of 3 adults per instructor.",
+      "north": true,
+      "south": true
+    },
+    {
+      "name": "Teen Lessons",
+      "url": "teen-lessons",
+      "ages": "12 to 17 years",
+      "description": "This is a beginner group lesson for teens. Lessons will range anywhere from learning the basics of blowing bubbles and ﬂoating, to mastering all 4 strokes. Classes are 45 minutes long, and have a maximum of 4 teens per instructor.",
+      "north": true,
+      "south": false
+    }
+  ]
+}

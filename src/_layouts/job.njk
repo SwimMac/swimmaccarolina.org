@@ -1,0 +1,23 @@
+---
+layout: base.njk
+---
+
+<main id="main" class="bg-gray-100 py-6">
+
+  <div class="container">
+
+      <p>
+         <a href="/">Home</a> /
+         <a href="/employment/">Employment</a> /
+         {{ title }}
+      </p>
+
+
+    <h2>{{ title }}</h2>
+
+    <div class="radius shadow card p-4">
+      {{ content | safe }}
+    </div>
+  </div>
+
+</main>

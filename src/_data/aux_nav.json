@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Public Lap Swim",
+    "url": "/lap-swim"
+  },
+  {
+    "name": "Sponsors",
+    "url": "/sponsors"
+  },
+  {
+    "name": "Support Us",
+    "url": "/support-us"
+  },
+  {
+    "name": "Swim Shop",
+    "url": "http://www.carolinaswimshop.com",
+    "targetBlank": true
+  },
+  {
+    "name": "TeamUnify",
+    "url": "https://www.teamunify.com/Home.jsp?_tabid_=0&team=ncmac",
+    "targetBlank": true
+  }
+]

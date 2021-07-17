@@ -1,0 +1,74 @@
+---
+layout : base.njk
+pagination:
+    data: swim_school.groups[2].levels
+    size: 1
+    alias: swim
+permalink: "swim-school/south/grade-school/{{ swim.name | slug }}/"
+---
+
+<main id="main" class="bg-gray-100 overflow-hidden">
+    {% banner swim.name, {image: swim.image} %}
+
+    {% include 'covid-notice.njk' %}
+
+    <div class="container my-6">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/swim-school/">Swim School</a> /
+            <a href="/swim-school/south/">Swim School South</a> /
+            {{ swim.name }}
+        </p>
+
+        <div class="card p-6 my-6">
+            <p class="lead">
+                {{ swim.description }}
+            </p>
+        </div>
+
+        <div class="card p-6 my-6">
+            <div class="text-right">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.south.orgId }}" class="button">Portal Login</a>
+                <a href="/swim-school/north/preschool/{{ swim.name | slug }}/" class="button hollow">
+                    Go To North Location Page
+                </a>
+            </div>
+
+            <div class="mb-6">
+                <h2 class="separator-center">Charlotte Latin Schedule</h2>
+
+                {% if jackrabbit.south.sessions.length > 0 %}
+                    {% for session in jackrabbit.south.sessions %}
+                    <h3 class="separator-left">{{ session }}</h3>
+                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=Grade School&amp;Cat3={{ swim.color }}&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                    {% endfor %}
+                {% else %}
+                    <div class="bg-red-100 border border-red-900 p-4 my-6">
+                        There are no scheduled {{ swim.name }} classes at this time
+                    </div>
+                {% endif %}
+            </div>
+
+            {% include 'location-details-north.njk' %}
+    </div>
+
+    <div class="container card p-4 my-6">
+        <div id="map2" style="height: 600px; width: 100%;"></div>
+    </div>
+</main>
+
+<script async='' defer='defer' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDRlGlxv8MwYW4cJ0_BvVvDDYpB0-XEhCQ&amp;callback=initMap'></script>
+<script>
+    function initMap() {
+    var charlotte = {
+        lat: 35.074969, lng: -80.774027};
+        var map = new google.maps.Map(document.getElementById('map2'), {
+            zoom: 9,
+            center: charlotte
+        });
+        var north_clt = new google.maps.Marker({
+            position: charlotte,
+            map: map
+        });
+    }
+</script>

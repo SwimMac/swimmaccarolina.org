@@ -1,0 +1,38 @@
+---
+layout : base.njk
+title : Swim School South
+---
+<main id="main" class="bg-gray-100 overflow-hidden">
+    {% banner title, {image: 'latin.jpg'} %}
+
+    {% include 'covid-notice.njk' %}
+
+    <div class="container my-6">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/swim-school/">Swim School</a> /
+            {{ title }}
+        </p>
+
+       <div class="flex flex-wrap -mx-4">
+
+           {% for group in swim_school.groups %}
+           {% if group.south %}
+            <div class="w-full md:w-1/2 lg:w-1/3 p-4">
+                <a href="/swim-school/south/{{ group.url }}" class="card h-full overflow-hidden">
+                    {% if group.image %}
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/{{ group.image }}');"></div>
+                    {% endif %}
+                    <div class="text-gray-900 p-4">
+                        <h2>{{ group.name }}</h2>
+                        <p>{{ group.ages }}</p>
+                        <p>{{ group.description }}</p>
+                    </div>
+                </a>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
+</main>

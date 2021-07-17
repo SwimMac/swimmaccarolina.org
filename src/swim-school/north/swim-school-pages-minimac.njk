@@ -1,0 +1,57 @@
+---
+layout : base.njk
+pagination:
+    data: swim_school.groups[0].levels
+    size: 1
+    alias: swim
+permalink: "swim-school/north/minimac/{{ swim.name | slug }}/"
+---
+
+<main id="main" class="bg-gray-100  overflow-hidden">
+    {% banner swim.name, {image: swim.image} %}
+
+    {% include 'covid-notice.njk' %}
+
+    <div class="container my-6">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/swim-school/">Swim School</a> /
+            <a href="/swim-school/north/">Swim School North</a> /
+            {{ swim.name }}
+        </p>
+
+        <div class="card p-6 my-6">
+            <p class="lead">
+                {{ swim.description }}
+            </p>
+        </div>
+
+        <div class="card p-6 my-6">
+            <div class="text-right">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.north.orgId }}" class="button">Portal Login</a>
+                <a href="/swim-school/south/preschool/{{ swim.name | slug }}/" class="button hollow">
+                    Go To South Location Page
+                </a>
+            </div>
+
+            <div class="my-6">
+                <h2 class="separator-center">Huntersville Family Fitness & Aquatics (HFFA) Schedule</h2>
+
+                {% if jackrabbit.north.sessions.length > 0 %}
+                    {% for session in jackrabbit.north.sessions %}
+                    <h3 class="separator-left">{{ session }}</h3>
+                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&amp;Cat2=Mini-Mac&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                    {% endfor %}
+                {% else %}
+                    <div class="bg-red-100 border border-red-900 p-4 my-6">
+                        There are no scheduled {{ swim.name }} classes at this time
+                    </div>
+                {% endif %}
+            </div>
+
+            {% include 'location-details-north.njk' %}
+        </div>
+
+        {% include 'hffa-map.njk' %}
+    </div>
+</main>

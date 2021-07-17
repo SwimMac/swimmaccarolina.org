@@ -15,6 +15,38 @@ module.exports = function (eleventyConfig) {
         return now
     })
 
+    eleventyConfig.addShortcode('banner', function (title, options = {}) {
+        const {
+            image = 'pool-tiles-1440x400.jpg'
+        } = options;
+        return `<div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/${image}');">
+            <h1 class="text-6xl text-white font-bold text-shadow">${ title }</h1>
+        </div>`;
+    })
+
+    eleventyConfig.addShortcode('coachContact', function (coachName, coachEmail ) {
+        return `<div class="text-center">
+            <h2 class="separator-center">Questions?</h2>
+            <h4>${coachName}</h4>
+            <p><a href="mailto:${coachEmail}">${coachEmail}</a></p>
+        </div>`;
+    })
+
+    const { DateTime } = require("luxon");
+
+    // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+    eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+      return DateTime.fromJSDate(dateObj, {
+        zone: 'utc'
+      }).toFormat('yy-MM-dd');
+    });
+
+    eleventyConfig.addFilter("readableDate", dateObj => {
+      return DateTime.fromJSDate(dateObj, {
+        zone: 'utc'
+      }).toFormat("dd-MM-yy");
+    });
+
     // Filters
     Object.keys(filters).forEach((filterName) => {
         eleventyConfig.addFilter(filterName, filters[filterName])

@@ -1,0 +1,78 @@
+[
+  {
+    "coaches": [
+      {
+        "seniors": [
+          {
+            "north": {
+              "name": "Kathy McKee",
+              "email": "kmckee@swimmaccarolina.org",
+              "phone": "704-846-5335 ext. 7281"
+            }
+          },
+          {
+            "south": {
+              "name": "Sean Quinn",
+              "email": "squinn@swimmaccarolina.org",
+              "phone": ""
+            }
+          }
+        ]
+      },
+      {
+        "shark": [
+          {
+            "north": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          },
+          {
+            "south": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          }
+        ]
+      },
+      {
+        "dolphin": [
+          {
+            "north": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          },
+          {
+            "south": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          }
+        ]
+      },
+      {
+        "marlin": [
+          {
+            "north": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          },
+          {
+            "south": {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

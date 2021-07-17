@@ -1,0 +1,43 @@
+---
+layout : base.njk
+title : Private Lessons South
+---
+
+<div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/pool-tiles-1440x400.jpg');">
+    <h1 class="text-6xl text-white font-bold text-shadow">{{ title }}</h1>
+</div>
+
+<main id="main" class="bg-gray-100 py-6">
+    {% include 'covid-notice.njk' %}
+
+    <div class="container overflow-hidden">
+
+        <div class="card p-4">
+            <div class="w-full md:w-1/2 lg:w-2/3 mx-auto">
+                <p>Private Lessons with one-on-one instruction helps some swimmers feel a greater comfort level and learn more efficiently.</p>
+                <p>Focused attention from an instructor is an effective way to learn or improve a specific skill. SwimMAC Swim School instructors are available for private and semi-private lessons at all of our locations, for all levels of experience and ages.</p>
+                <p>To set up private lessons at our north locations please send a request to the contact below. Include as many specifics as possible, including:</p>
+
+                <ul>
+                    <li class="cell">Age of the swimmer</li>
+                    <li class="cell">Description of his/her experience and ability</li>
+                    <li class="cell">Any specific skills the swimmer would like to work on</li>
+                    <li class="cell">Contact phone number and email address</li>
+                </ul>
+            </div>
+
+           <div class="text-center mt-6">
+                <h2 class="separator-center">Location &amp; Contact Info</h2>
+                <h3>Charlotte Latin School (South Region)</h3>
+                <h4>Carol Ann Hoff</h4>
+                <p>
+                    <a href="mailto:choff@swimmaccarolina.org">choff@swimmaccarolina.org</a>
+                </p>
+           </div>
+
+        </div>
+
+        {% include 'latin-map.njk' %}
+
+    </div>
+</main>

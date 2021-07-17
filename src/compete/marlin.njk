@@ -1,0 +1,67 @@
+---
+layout : base.njk
+title : Marlin
+coaches :
+   north:
+      name: Sean Ford
+      email: sford@swimmaccarolina.org
+   south:
+      name: Sandy Bujalski
+      email: sbujalski@swimmaccarolina.org
+---
+
+<div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/marlin.jpg');">
+   <h1 class="text-6xl text-white font-bold text-shadow">{{ title }}</h1>
+</div>
+
+<main id="main" class="bg-gray-100 py-6">
+   <div class="container">
+
+      <p id="breadcrumbs">
+         <a href="/">Home</a> /
+         <a href="/compete/">Competitive Teams</a> /
+        {{ title }}
+      </p>
+
+      <p class="lead"><strong>Ages 13-14 years old</strong><br>
+         “Practice to Compete” – Athletes are taught progressive skills &amp; drills in a variety of ways to prepare them for the present and senior level. They will learn race strategies and build upon practice habits &amp; skill development.
+      </p>
+
+      <div class="card p-4">
+         <h2 class="separator-left">Lessons Approach</h2>
+         <div class="flex flex-wrap -mx-4">
+            <div class="w-full md:w-1/2 p-4">
+               <h3>Overview</h3>
+               <ul>
+                  <li>Swimmers will learn that outside-the-pool habits &amp; decision-making will have an effect on meets as much as the day-to-day work they put into practices</li>
+                  <li>Athletes will compete at the local, state, regional, and potentially national level</li>
+                  <li>Progression of racing skills &amp; strategy</li>
+                  <li>Character ownership &amp; strength</li>
+                  <li>Development/exposure to variety of camp &amp; championship experiences (team to national level)</li>
+                  <li>Performance prep (nutrition, rest, recovery, mental edge)</li>
+               </ul>
+            </div>
+
+            <div class="w-full md:w-1/2 p-4">
+               <h3>Structure</h3>
+               <ul>
+                  <li>Support</li>
+                  <li>Serve</li>
+                  <li>Layered Commitment</li>
+               </ul>
+            </div>
+
+         </div>
+
+         <div class="my-4 text-center">
+            <h2>Schedule a Tryout</h2>
+
+            <a href="https://www.teamunify.com/SwimLessons.jsp?_tabid_=28600&amp;team=ncmac" class="button secondary" target="_blank">
+               Schedule a Tryout on Team Unify
+            </a>
+         </div>
+
+        {% include "questions-coach-contact.njk" %}
+      </div>
+   </div>
+</main>

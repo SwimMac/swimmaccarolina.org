@@ -17,3 +17,7 @@
   width: auto;
   @apply bg-blue-500 p-3 text-white;
 }
+
+:focus, button:focus {
+  @apply focus:outline-none focus:ring-4 focus:ring-opacity-50;
+}

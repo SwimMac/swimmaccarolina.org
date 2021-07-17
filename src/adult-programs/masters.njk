@@ -1,0 +1,229 @@
+---
+layout : base.njk
+title : Masters
+---
+
+{% banner title, {image: 'jsl.jpg'} %}
+
+<main id="main" class="bg-gray-100 py-6">
+
+    <div class="container overflow-hidden" x-data="{ tab: 'overview', count: 0 }">
+
+        <p>
+            <a href="/">Home</a> /
+            <a href="/adult-programs/">Adult Programs</a> /
+            {{ title }}
+        </p>
+
+        <p class="lead">
+            The SwimMAC Masters & Adult Fitness program welcomes people of any ability level.
+            We have four basic categories of Masters swimmers: Adult-Learn-to Swim Program (ALTS) participants,
+            Competitive Swimmers (Open Water & Swim Meets), Triathlon Swimmers, and Fitness Swimmers.
+        </p>
+
+        <div class="flex justify-center space-x-6 my-6">
+            <button class="button" :class="{'ghost': tab !== 'overview'}" @click.prevent="tab = 'overview'">Overview</button>
+            <button class="button" :class="{'ghost': tab !== 'training'}" @click.prevent="tab = 'training'">Training Schedule</button>
+            <button class="button" :class="{'ghost': tab !== 'registration'}" @click.prevent="tab = 'registration'">Registration &amp; Dues</button>
+        </div>
+
+        <div class="card p-4" x-show="tab === 'overview'">
+            <div class="flex flex-wrap -mx-4">
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>Adult-Learn-to-Swim Program (ALTS)</h2>
+                    <p>SwimMAC offers an Adult-Learn-to-Swim program with US Masters Swimmer ALTS certified instructors. For adults beginning to swim or in need of small group instruction (2-4 swimmers) or one-on-one instruction, we offer Adult Swim Lessons. These lessons are available for beginners through advanced swimmers.</p>
+                    <p>Small group lessons are $160 for session of ten 30 minute classes. Private lessons are $150 for four 30 minute lessons. Discounted packages are available. Contact <a href="mailto:alts@swimmaccarolina.org">ALTS@SwimMACcarolina.org</a> to get started!</p>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>Competitive Swimming</h2>
+                    <p>
+                        The word “Masters” swimmer has nothing to do with your skill level or competency, just your age. Unfortunately,
+                        the name can be intimidating to some. Masters swimming is truly for everyone!
+                        <strong>You must be 18-years-old </strong> to be a Masters swimmer and register with US Masters Swimming
+                        <a href="http://www.usms.org/reg/" target="_blank" rel="noopener">USMS</a>.
+                    </p>
+                    <p>
+                        Nationally, there are over 65,000 registered US Masters swimmers! We encourage competition
+                        (both in a pool and/or open water) but it is not mandatory. We find that once an athlete gets to a
+                        comfortable competency, they enjoy the competitive and social aspects of swimming that go along with
+                        competition and practice. Masters are split into age groups of five-year blocks beginning with
+                        18–24, 25–29, 30–35, all the way up to 100+. We attend short course yards, short course meters, and
+                        long course meters meets throughout the year as a team. We also compete in various open water swims.
+                    </p>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>Triathlon Swimming</h2>
+                    <p>
+                        Many of our SwimMAC Masters compete at the national and world levels in sprint and distance triathlons.
+                        We have several IRONMAN competitors on our team and find that their dedication and effort brings great value to the entire Masters team.
+                        Our triathletes also train with triathlon groups and find that the practices and coaching received at SwimMAC Masters greatly benefit their overall results.
+                        Find out from Jarrod Shoemaker why swimming Masters is a “game-changer.”
+                    </p>
+
+                    <div class="responsive-embed widescreen margin-top-1">
+                        <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/en1cGWN0L3w?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true"></iframe>
+                    </div>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>Fitness Swimming</h2>
+                    <p>Breathing is normally the biggest obstacle for adults who want to learn and enjoy swimming as a form of fitness. Learning to breathe while swimming is about patience and the ability to do many repetitions. Most adults underestimate themselves and their ability. In our program, swimmers will get direction and encouragement from both the coaches and their pool pals. Every SwimMAC Masters practice has 4 ability levels offering different intervals (i.e., rest or distance times) for each set in the workout. We have a place for every swimmer!</p>
+                </div>
+
+            </div>
+
+            <div class="flex flex-wrap -mx-4">
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>Why Be Involved in Masters Swimming?</h2>
+                    <p>Everyone in the pool has a story. Everyone’s journey is unique. No matter what your skill level, there is a place for you in the pool. If you are concerned about your swimming abilities and that concern is keeping you from joining our amazing group of swimmers, please contact us for an individualized evaluation of your skill level and a warm welcome! See how it can change your life!</p>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>What do I need when I show up on the pool deck?</h2>
+                    <p>Swim suit, goggles, cap, fins, paddles, pull buoy, snorkel and kick board. You won’t need all of these aids at every practice. We do have some gear in the lost and found bins for you to try on your first visits. Not sure where to buy swim gear? Head over to the Carolina Swim Shop either online or at one of our two locations.</p>
+                </div>
+            </div>
+
+            <div class="w-full lg:w-2/3 mx-auto">
+                <div class="responsive-embed widescreen">
+                    <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/SbZJNvhjC-g?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true"></iframe>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="card p-4" x-show="tab === 'training'">
+            <h2 class="margin-top-2">Membership</h2>
+
+            <div class="callout warning">
+                <p>If you would like to join our program, please email for information and include the location you would like to swim at to&nbsp;<a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a></p>
+                <p><strong>We are participating in the USMS TRY MASTERS SWIMMING Initiative in July 2021. Please sign up at <a href="https://www.usms.org/try">https://www.usms.org/try</a> for a free week trial with SwimMAC Masters!</strong></p>
+            </div>
+
+            <p>All swimmers participating in workouts MUST be USMS members. LOCAL CLUB NAME: North Carolina Masters Swimming (NCMS) WORKOUT GROUP: SwimMAC</p>
+            <p>As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.</p>
+
+            <h2 class="separator-center">Training Schedule</h2>
+
+            <div class="flex flex-wrap -mx-4">
+                <div class="w-full md:w-1/2 p-4">
+                    <h3>North Region</h3>
+                    <p class="center">Huntersville Family Fitness &amp; Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
+
+                    <h4>Schedule</h4>
+                    <p>
+                    <span style="text-decoration: underline;"><strong>SUMMER (</strong></span><span style="text-decoration: underline;"><b>Monday, June 7th to Sunday, August 15th)<span class="Apple-converted-space">&nbsp;</span></b></span></p>
+                    <p>Monday – 5:15-6:30 AM LCM</p>
+                    <p>Tuesday – 5:15-6:30 AM SCY &amp; 12:00-1:00 PM SCY</p>
+                    <p>Thursday –5:15-6:30 AM SCY &amp; 12:00-1:00 PM SCY</p>
+                    <p>Friday – 5:15-6:30 AM LCM</p>
+                    <p>Sunday – 10:00-11:15 AM LCM</p>
+                    <p><span style="text-decoration: underline;"><strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong></span><strong>:</strong></p>
+                    <p><strong>Sunday, July 4th — NO PRACTICE</strong></p>
+                    <p><strong>Sunday, August 1st – NO PRACTICE Due to Triathlon</strong></p>
+                    <p><strong>Sunday, August 8th — NO PRACTICE</strong></p>
+                    <p><strong>August 16th – August 29th — NO PRACTICE – MASTERS BREAK (AUGUST 30th Fall Schedule Begins)</strong></p>
+                    <p>SCY – Short Course Yards; LCM – Long Course Meters</p>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h3>South Region</h3>
+                    <p>SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277</p>
+                    <h4>Schedule</h4>
+                    <p><strong>SUMMER (Monday, June 14th to Sunday, August 8th):</strong></p>
+                    <p>Monday – 1:00-2:15 PM SCY</p>
+                    <p>Tuesday – 5:15-6:30 AM LCM</p>
+                    <p>Wednesday – 5:45-7:00 AM LCM &amp; 12:30-1:45 PM LCM</p>
+                    <p>Thursday – 5:15-6:30 AM LCM</p>
+                    <p>Friday – ;12:30-1:45 PM LCM</p>
+                    <p>Saturday – Latin 5:30-6:45 AM SCY</p>
+                    <p>Sunday – Latin 7:15-8:30 AM LCM</p>
+                    <p><strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE:</strong></p>
+                    <p><strong>Sunday, July 4th — NO Practice</strong></p>
+                    <p><strong>Sunday, August 1st – NO Practice Due to Meet at Latin</strong></p>
+                    <p>
+                        <strong>August 9th – August 22nd — NO PRACTICE — MASTERS BREAK
+                        (August 23rd Fall Schedule Begins)</strong>
+                    </p>
+                    <p>
+                        <strong>Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.</strong>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="card p-4" x-show="tab === 'registration'">
+           <h2 class="margin-top-2">Registration &amp; Dues</h2>
+            <div class="callout warning">
+                <p>If you would like to join our program, please email for information and include the location you would like to swim at to&nbsp;<a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a></p>
+                <p><strong>We are participating in the USMS TRY MASTERS SWIMMING Initiative in July 2021. Please sign up at <a href="https://www.usms.org/try">https://www.usms.org/try</a> for a free week trial with SwimMAC Masters!</strong></p>
+            </div>
+
+            <h3 class="separator-center">Two-Step Process</h3>
+
+            <div class="flex flex-wrap -mx-4">
+                <div class="w-full md:w-1/2 p-4">
+                    <h4>ONE</h4>
+                    <p><img src="/static/USMS_Logo_Horz_tm.gif" alt="" width="500" height="94"></p>
+                    <p>Each member of SwimMAC Masters will need to be a register annually with USMS. <a href="https://www.usms.org/reg/register.php">Become a USMS member or to renew your membership here</a>.</p>
+                    <p>LOCAL CLUB NAME = North Carolina Masters Swimming (NCMS)<br>
+                    WORKOUT GROUP = SwimMAC</p>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h4>TWO</h4>
+                    <p><img src="/static/SwimMAC-Masters-Horizontal-Logo.png" alt="SwimMAC Masters Logo" width="300" height="118"></p>
+                    <p>You will also need to register and pay SwimMAC Masters dues via our registration website.</p>
+                    <p><a class="button" href="http://www.teamunify.com/MemRegStart.jsp?team=ncmac&amp;event_id=238502" target="_blank" rel="noopener">Register</a></p>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h3>SwimMAC Member Rate</h3>
+                    <p>Swimmers in the following billing groups qualify for the SwimMac Member rate:</p>
+                    <ul>
+                    <li>Parent of SwimMAC Competitive Team&nbsp;Swimmer (i.e., Marlin, Dolphin, Shark, Senior)</li>
+                    <li>Parent of Charlotte Latin School student</li>
+                    <li>SwimMAC Competitive Team Alumni</li>
+                    </ul>
+                    <p><strong>INDIVIDUAL</strong></p>
+                    <p>Registration fee: $30<br>
+                    Monthly dues: $50</p>
+                    <p><strong>INDIVIDUAL + SPOUSE</strong></p>
+                    <p>Registration fee: $60<br>
+                    Monthly dues: $75</p>
+                    <p>* Includes SwimMAC Masters team t-shirt &amp; team cap</p>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h3>General Public Rate</h3>
+                    <p>Swimmer not currently in any of the billing groups listed above qualifies for the General Public Rate.</p>
+                    <p><strong>INDIVIDUAL</strong></p>
+                    <p>Registration fee: $30<br>
+                    Monthly dues: $60</p>
+                    <p><strong>INDIVIDUAL + SPOUSE</strong></p>
+                    <p>Registration fee: $60<br>
+                    Monthly dues: $90</p>
+                    <p>* Includes SwimMAC Masters team t-shirt &amp; team cap</p>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h3>Masters Pass</h3>
+                    <p>SwimMAC also offers a Masters Pass for those who would like an option other than monthly billing. You may purchase a Masters Pass for $50 from a coach on deck, which entitles you to eight Masters Practice sessions. You will also need to be registered as a Master with usms.org. These sessions can be used at the SwimMAC Training Facility for public lap swim times. However, as a Masters Pass member, you may not swim for free during public lap swim. (That privilege is only for monthly billed Masters.)</p>
+                    <h3>Drop-In Swims</h3>
+                    <p>SwimMAC Masters is happy to welcome other Masters from around the world! Please bring cash or check made out to SwimMAC Carolina for a drop-in swim. The drop-in fee is $8. All swimmers must be USMS registered or sign a <a href="https://www.usms.org/admin/lmschb/gto_reg_30daytryout_regform.pdf" target="_blank" rel="noopener">USMS 30-day waiver</a> in order to swim with us.</p>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h3>Visiting Alumni/College Swimmers</h3>
+                    <p>If you are a college student interested in training with our Masters team, the drop-in fee is $5 per practice.</p>
+                    <p>If you would like to train with the Masters team for the summer, the SwimMAC Masters dues are $150. This includes the entire summer and access to all workout times at either location. In addition, you may swim at the Charlotte Latin SwimMAC Training Facility at all Public Lap Swim Times for free.</p>
+                    <p>Note: Even if you are registered with USA Swimming, you must register for Masters with USMS.org in order to participate in the workouts.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</main>

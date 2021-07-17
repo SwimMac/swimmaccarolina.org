@@ -1,0 +1,66 @@
+---
+layout : base.njk
+title : Seniors
+coaches :
+   north:
+      name: Kathy McKee
+      email: kmckee@swimmaccarolina.org
+   south:
+      name: Sean Quinn
+      email: squinn@swimmaccarolina.org
+---
+
+<div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/marlin.jpg');">
+   <h1 class="text-6xl text-white font-bold text-shadow">{{ title }}</h1>
+</div>
+
+<main id="main" class="bg-gray-100 py-6">
+   <div class="container">
+
+      <p id="breadcrumbs">
+         <a href="/">Home</a> /
+         <a href="/compete/">Competitive Teams</a> /
+        {{ title }}
+      </p>
+
+      <p class="lead">
+         <strong>Ages 15-18 years old</strong><br>
+         “Compete to Excel” – SwimMAC athletes continue to progress as well as take ownership to put it all together
+         for the purpose of excelling toward their career goals.
+      </p>
+
+      <div class="card p-4">
+         <h2 class="separator-left">Lessons Approach</h2>
+         <div class="flex flex-wrap -mx-4">
+            <div class="w-full md:w-1/2 p-4">
+               <h3>Overview</h3>
+               <ul>
+                  <li>Mastery of racing skills &amp; strategy</li>
+                  <li>Character ownership &amp; strength development</li>
+                  <li>Exposure to variety of camp &amp; championship experiences (team to national level)</li>
+                  <li>Performance prep (nutrition, rest, recovery, psychology)</li>
+               </ul>
+            </div>
+
+            <div class="w-full md:w-1/2 p-4">
+               <h3>Structure</h3>
+               <ul>
+                  <li>Partner</li>
+                  <li>Empower</li>
+                  <li>Celebrate</li>
+               </ul>
+            </div>
+         </div>
+
+         <div class="my-4 text-center">
+            <h2>Schedule a Tryout</h2>
+
+            <a href="https://www.teamunify.com/SwimLessons.jsp?_tabid_=28600&amp;team=ncmac" class="button secondary" target="_blank">
+               Schedule a Tryout on Team Unify
+            </a>
+         </div>
+
+        {% include "questions-coach-contact.njk" %}
+      </div>
+   </div>
+</main>

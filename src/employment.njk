@@ -1,0 +1,18 @@
+---
+layout: base.njk
+permalink: /employment/
+---
+
+{% set jobsList = collections.employment %}
+
+<div class="container">
+  <h2>SwimMAC Employment Opportunities</h2>
+  <p class="lead">Looking for a job where you have fun while you work? Explore our career options below!</p>
+
+  {% for jobs in jobsList %}
+  <a href="{{ jobs.url | url }}" class="card p-6 my-6">
+    <h3>{{ jobs.data.title }}</h3>
+  </a>
+  {% endfor%}
+
+</div>

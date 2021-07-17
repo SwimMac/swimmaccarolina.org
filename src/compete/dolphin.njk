@@ -1,0 +1,86 @@
+---
+layout : base.njk
+title : Dolphin
+coaches :
+   north:
+      name: Scott Stephens
+      email: sstephens@swimmaccarolina.org
+   south:
+      name: Frank Totten
+      email: ftotten@swimmaccarolina.org
+---
+
+<div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/dolphin.jpg');">
+   <h1 class="text-6xl text-white font-bold text-shadow">Dolphin</h1>
+</div>
+
+<main id="main" class="bg-gray-100 py-6">
+   <div class="container">
+
+      <p>
+         <a href="/">Home</a> /
+         <a href="/compete/">Competitive Teams</a> /
+         {{ title }}
+      </p>
+
+     <p class="lead"><strong>Ages 11-12 years old</strong><br>
+      “Learn to Practice” – SwimMAC athletes will progress from the fundamental skills &amp; technique taught in the
+       Marlin Division and continue to build toward an advanced level of learning.
+      </p>
+
+      <div class="card p-4">
+         <h2 class="separator-left">Lessons Approach</h2>
+         <div class="flex flex-wrap -mx-4">
+            <div class="w-full md:w-1/2 p-4">
+               <h3>Overview</h3>
+              <ul>
+                  <li>Swimmers will start understanding how to implement learned skills and technique into “practice sets.” This will be useful to increase their skill level at meets as well as for long-term development in the sport of swimming.</li>
+                  <li>Athletes will compete at local, state, and regional levels.</li>
+                  <li>Foundational skills &amp; technique</li>
+                  <li>Character development</li>
+                  <li>Kinesthetic awareness</li>
+                  <li>Exposure to camp &amp; championship format (team &amp; LSC/regional level); nutrition</li>
+               </ul>
+            </div>
+
+            <div class="w-full md:w-1/2 p-4">
+               <h3>Structure</h3>
+               <ul>
+                  <li>Support</li>
+                  <li>Serve</li>
+                  <li>Layered Commitment</li>
+               </ul>
+            </div>
+
+         </div>
+
+         <div class="my-4 text-center">
+            <h2>Schedule a Tryout</h2>
+
+            <a href="https://www.teamunify.com/SwimLessons.jsp?_tabid_=28600&amp;team=ncmac" class="button secondary" target="_blank">
+               Schedule a Tryout on Team Unify
+            </a>
+         </div>
+
+         <h2 class="separator-center">Questions?</h2>
+
+         <div class="flex flex-wrap -mx-4 justify-around">
+            <div class="w-full md:w-auto p-4 text-center">
+               <h3 class="separator-center">North Region</h3>
+               <h4>{{ coaches.north.name }}</h4>
+               <p>
+                  <a href="mailto:{{ coaches.north.email }}">{{ coaches.north.email }}</a>
+               </p>
+            </div>
+
+            <div class="w-full md:w-auto p-4 text-center">
+               <h3 class="separator-center">South Region</h3>
+               <h4>{{ coaches.south.name }}</h4>
+               <p>
+                  <a href="mailto:{{ coaches.south.email }}">{{ coaches.south.email }}</a>
+               </p>
+            </div>
+         </div>
+      </div>
+   </div>
+</main>

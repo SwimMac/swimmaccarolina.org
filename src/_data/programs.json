@@ -1,26 +1,26 @@
 [
   {
     "name": "Competitive Teams",
-    "url": "compete"
+    "url": "/compete"
   },
   {
     "name": "Swim School",
-    "url": "swim-school"
+    "url": "/swim-school"
   },
   {
-    "name": "Junior Swim Laeague (JSL)",
-    "url": "jsl"
+    "name": "Junior Swim League (JSL)",
+    "url": "/jsl"
   },
   {
     "name": "Homeschool Swimming",
-    "url": "homeschool"
+    "url": "/homeschool"
   },
   {
     "name": "Adult Programs",
-    "url": "adult-programs"
+    "url": "/adult-programs"
   },
   {
     "name": "Private Lessons",
-    "url": "private-lessons"
+    "url": "/private-lessons"
   }
 ]

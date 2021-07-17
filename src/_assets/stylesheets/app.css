@@ -1,33 +1,155 @@
-
 @import 'utils/_tailwind.css';
+@import 'utils/_typography.css';
 @import 'utils/_accessibility.css';
 
 /* purgecss start ignore */
 @layer base {
-	:focus, button:focus {
-			outline: solid  3px rgba(0,0,0,0.05);
-			outline-offset: 4px;
-	}
-
-	body {
-		@apply text-gray-900;
-	}
-
-	a {
-		@apply text-primary underline;
-	}
 
 	.button {
-		@apply inline-block no-underline bg-primary text-white hover:bg-blue-600 rounded shadow hover:shadow-lg py-3 px-6 text-lg;
+		@apply inline-block
+		no-underline
+		bg-primary
+		text-white
+		text-lg
+		rounded
+		py-3
+		px-6
+		hover:bg-primary-dark
+		hover:text-white
+		hover:shadow-lg
+		transition
+		duration-300;
+	}
+
+	.button.ghost {
+		@apply bg-transparent border-2 border-primary text-primary;
 	}
 
 	.button.secondary {
 		@apply bg-secondary text-gray-900;
 	}
 
-	.hero--home {
-		background: url('/static/hero.png') no-repeat center 150px #dfb;
-		min-height: 500px;
+	.button.secondary.ghost {
+		@apply bg-transparent border-2 border-secondary text-secondary;
 	}
+
+	.button.secondary.ghost:hover {
+		@apply bg-secondary text-white;
+	}
+
+	.dropdown-menu {
+		@apply absolute right-0 list-none bg-white border m-0 shadow overflow-hidden rounded;
+		z-index: 999;
+	}
+
+	.dropdown-menu__item {
+		@apply border-b border-gray-400 m-0;
+	}
+
+	.dropdown-menu__item:last-child {
+		@apply border-0;
+	}
+
+	.dropdown-menu__item-link {
+		@apply block px-4 py-2 whitespace-nowrap no-underline hover:bg-secondary hover:text-white;
+	}
+
+	.card {
+		@apply block bg-white rounded shadow-md;
+	}
+
+	a.card:hover {
+    box-shadow: 0 5px 14px 0 rgb(0 0 0 / 16%), 0 5px 12px 7px rgb(0 0 0 / 12%);
+    transform: translateY(-9px);
+    transition: all .3s;
+	}
+	a.card {
+		transition: all .3s;
+	}
+
+	.separator-left::before, .separator-left::after {
+		display: table;
+		content: ' ';
+		-ms-flex-preferred-size: 0;
+		flex-basis: 0;
+		-webkit-box-ordinal-group: 2;
+		-ms-flex-order: 1;
+		order: 1;
+	}
+
+	.separator-left::after {
+    position: relative !important;
+    width: 3rem;
+    border-bottom: 0.125rem solid #F97900;
+    margin: 1rem auto 0;
+    margin-left: 0 !important;
+		clear: both;
+	}
+
+	.separator-center {
+		text-align: center;
+	}
+
+	.separator-center::before, .separator-center::after {
+		display: table;
+		content: ' ';
+		-ms-flex-preferred-size: 0;
+		flex-basis: 0;
+		-webkit-box-ordinal-group: 2;
+		-ms-flex-order: 1;
+		order: 1;
+	}
+
+	.separator-center::after {
+    position: relative !important;
+    width: 3rem;
+    border-bottom: 0.125rem solid #F97900;
+    margin: 1rem auto 0;
+		clear: both;
+	}
+
+	.text-shadow {
+		text-shadow: 0 0 15px black;
+	}
+
+	table tr {
+		@apply border;
+	}
+
+	table td {
+		@apply p-2;
+	}
+
+	th, tbody tr:nth-child(even) {
+    @apply bg-gray-100;
+	}
+
+	.responsive-embed, .flex-video {
+    position: relative;
+    height: 0;
+    margin-bottom: 1rem;
+    padding-bottom: 75%;
+    overflow: hidden;
+	}
+
+	.responsive-embed iframe,
+	.responsive-embed object,
+	.responsive-embed embed,
+	.responsive-embed video,
+	.flex-video iframe,
+	.flex-video object,
+	.flex-video embed,
+	.flex-video video {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	.responsive-embed.widescreen, .flex-video.widescreen {
+		padding-bottom: 56.25%;
+	}
+
 }
 /* purgecss end ignore */

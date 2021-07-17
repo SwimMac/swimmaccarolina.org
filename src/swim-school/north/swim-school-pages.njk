@@ -1,0 +1,123 @@
+---
+layout : base.njk
+pagination:
+    data: swim_school.groups
+    size: 1
+    alias: swim
+permalink: "swim-school/north/{{ swim.name | slug }}/"
+---
+
+<main id="main" class="bg-gray-100 overflow-hidden">
+    {% banner swim.name %}
+
+    {% include 'covid-notice.njk' %}
+
+    <div class="container my-6">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/swim-school/">Swim School</a> /
+            <a href="/swim-school/north/">Swim School North</a> /
+            {{ swim.name }}
+        </p>
+
+        {% if swim.name !== 'Adult Lessons' or swim.name !== 'Teen Lessons' %}
+        <div class="flex flex-wrap -mx-4">
+
+           {% for level in swim.levels %}
+           {% if level.north %}
+            <div class="w-full md:w-1/2 lg:w-1/3 p-4">
+                <a href="{{ level.name | slug }}/" class="card h-full overflow-hidden">
+                    {% if level.image %}
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/{{ level.image }}');"></div>
+                    {% endif %}
+                    <div class="text-gray-900 p-4">
+                        <h2>{{ level.name }}</h2>
+                        <p>{{ level.description }}</p>
+                    </div>
+                </a>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+        </div>
+
+        {% endif %}
+
+        {% if swim.name === 'Adult Lessons' %}
+        <div class="card p-6 my-6">
+            <p class="lead">
+                {{ swim.description }}
+            </p>
+        </div>
+
+        <div class="card p-6 my-6">
+            <div class="text-right">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.north.orgId }}" class="button">Portal Login</a>
+                <a href="/swim-school/south/{{ swim.name | slug }}/" class="button hollow">
+                    Go To South Location Page
+                </a>
+            </div>
+
+            <h2>Location Info</h2>
+            <ul>
+                <li>New students are able to start at any time throughout the month</li>
+                <li>Registration is on-going</li>
+                <li>Payments are processed within the first 5 business days of each month</li>
+            </ul>
+
+            <div class="my-6">
+                <h2 class="separator-center">Huntersville Family Fitness & Aquatics (HFFA) Schedule</h2>
+
+                {% if jackrabbit.north.sessions.length > 0 %}
+                    {% for session in jackrabbit.north.sessions %}
+                    <h3 class="separator-left">{{ session }}</h3>
+                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&amp;Cat2=Adult&amp;Cat3={{ swim.color }}&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                    {% endfor %}
+                {% else %}
+                    <div class="bg-red-100 border border-red-900 p-4 my-6">
+                        There are no scheduled {{ swim.name }} classes at this time
+                    </div>
+                {% endif %}
+            </div>
+
+            {% include 'location-details-north.njk' %}
+        </div>
+
+        {% include 'hffa-map.njk' %}
+        {% endif %}
+
+        {% if swim.name === 'Teen Lessons' %}
+        <div class="card p-6 my-6">
+            <p class="lead">
+                <strong>Ages {{ swim.ages }}</strong><br>
+                {{ swim.description }}
+            </p>
+        </div>
+
+        <div class="card p-6 my-6">
+            <div class="text-right">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.north.orgId }}" class="button">Portal Login</a>
+            </div>
+
+            <div class="my-6">
+                <h2 class="separator-center">Huntersville Family Fitness & Aquatics (HFFA) Schedule</h2>
+
+                {% if jackrabbit.north.sessions.length > 0 %}
+                    {% for session in jackrabbit.north.sessions %}
+                    <h3 class="separator-left">{{ session }}</h3>
+                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&amp;Cat2=teen&amp;Cat3=teen&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                    {% endfor %}
+                {% else %}
+                    <div class="bg-red-100 border border-red-900 p-4 my-6">
+                        There are no scheduled {{ swim.name }} classes at this time
+                    </div>
+                {% endif %}
+            </div>
+
+            {% include 'location-details-north.njk' %}
+        </div>
+
+        {% include 'hffa-map.njk' %}
+        {% endif %}
+    </div>
+</main>

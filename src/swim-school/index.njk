@@ -1,0 +1,82 @@
+---
+layout : base.njk
+title : Swim School
+---
+<main id="main" class="bg-gray-100 overflow-hidden">
+
+    {% banner title, {image: 'swimschool.jpg'} %}
+
+    {% include 'covid-notice.njk' %}
+
+    <div class="container my-6">
+        <p class="lead">
+            SwimMAC Swim School offers a variety of programs for students of all ages and levels of experience.
+            Classes include MiniMAC, Preschool, Grade school, Adult and Private Lessons.
+            In a small group or individual setting, SwimMAC Swim School instructors focus on fun methods to teach safety and
+            proper technique. Our skill progression structure sets students up for success, and establishes a strong foundation while
+            instilling a love of swimming in a positive and supportive environment.
+        </p>
+
+       <div class="flex flex-wrap -mx-4">
+            <div class="w-full md:w-1/2 p-4">
+                <div class="cell medium-6">
+
+                    <h2 class="separator-left">Lessons Approach</h2>
+
+                    <h3>Overview</h3>
+
+                    <ul>
+                        <li>Proper technique for all four strokes (Free, Back, Breast and Fly)</li>
+                        <li>Incorporating water safety and technique in each lesson</li>
+                        <li>A low ratio group lesson structure allowing for improvement and more individual attention</li>
+                        <li>Private and Semi-private lessons options to allow for a more customized plan for skill development</li>
+                        <li>Exposure to SwimMAC’s competitive team and coaches in action</li>
+                    </ul>
+
+                    <h3>Additional Benefits</h3>
+
+                    <p>
+                        Swimmers will have access to the Endless Pool (SwimMAC Training Center in South Charlotte).
+                        The smaller pool is heated to warm temps for younger swimmers while providing a quiet setting in a private room.
+                        It features adjustable current with mirrors on the pool floor/ceiling to provide excellent visible feedback
+                        to improve technique and make adjustments. It’s a great learning environment for both new students and experienced
+                        swimmers. (Class sizes are limited to three swimmers.)
+                    </p>
+
+                    <p>
+                        We offer swim opportunities beyond lessons; Junior Swim League, Teen Fit, competitive team,
+                        and Masters/Adult Fitness programs. There’s a SwimMAC program for all swimmers!
+                    </p>
+
+                    <p class="text-center"><strong>Our curriculum is powered by</strong></p>
+
+                    <img class="mx-auto block" src="/static/swim-america-logo.png" alt="Swim America">
+
+                </div>
+            </div>
+
+            <div class="w-full md:w-1/2 p-4 space-y-6">
+                <a href="/swim-school/north/" class="card overflow-hidden">
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/hffa.png');"></div>
+                    <div class="text-gray-900 p-4">
+                        <h2>Swim School North</h2>
+                        <h3>Huntersville HFFA</h3>
+                        <p>11725 Verhoeff Dr.,<br>
+                        Huntersville, NC 28078</p>
+                    </div>
+                </a>
+
+                 <a href="/swim-school/south/" class="card overflow-hidden">
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/latin.jpg');"></div>
+                    <div class="text-gray-900 p-4">
+                        <h2>Swim School South</h2>
+                        <h3>Charlotte Latin</h3>
+                        <p>9850 Providence Rd.<br>
+                        Charlotte, NC 28277</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+    </div>
+</main>

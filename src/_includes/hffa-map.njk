@@ -1,0 +1,19 @@
+<div class="container card p-4 my-6">
+    <div id="map-north" style="height: 600px; width: 100%;"></div>
+</div>
+
+
+<script async='' defer='defer' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDRlGlxv8MwYW4cJ0_BvVvDDYpB0-XEhCQ&amp;callback=initMap'></script>
+<script>
+    function initMap() {
+        var hffa = {lat: 35.3921256, lng: -80.844115};
+        var map = new google.maps.Map(document.getElementById('map-north'), {
+            zoom: 9,
+            center: hffa
+        });
+        var north_clt = new google.maps.Marker({
+            position: hffa,
+            map: map
+        });
+    }
+</script>

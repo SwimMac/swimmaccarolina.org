@@ -1,0 +1,144 @@
+---
+layout : base.njk
+title : Contact Us
+name : Contact
+---
+
+<main id="main" class="bg-gray-100  overflow-hidden">
+    <div class="container mb-6">
+        <h2>Offices and Mailing Addresses</h2>
+
+        <div class="flex flex-wrap -mx-4">
+            <div class="w-full md:w-1/2 p-4">
+                <div class="bg-white rounded shadow-md p-4 h-full">
+                    <h3>South Location</h3>
+                    <h4>
+                        <div class="fa-layers fa-fw fa-lg">
+                            <i class="fas fa-map-marker" style="color:red"></i>
+                            <span class="fa-layers-text fa-inverse" data-fa-transform="shrink-8 up-1">S1</span>
+                        </div>
+                        South Region Pool &amp; Main Office <br> (Charlotte Latin)
+                    </h4>
+                    <p>
+                        9850 Providence Rd
+                        <br>
+                        Charlotte, NC 28277
+                        <br>
+                        (704) 846-5335
+                    </p>
+                    <p>
+                        <a href="https://goo.gl/maps/rbeRXFAcTMcNVAwx6" target="_blank">Get Directions</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="w-full md:w-1/2 p-4">
+                <div class="bg-white rounded shadow-md p-4 h-full">
+                    <h3>North Locations</h3>
+                    <h4>
+                        <div class="fa-layers fa-fw fa-lg">
+                            <i class="fas fa-map-marker" style="color:red"></i>
+                            <span class="fa-layers-text fa-inverse" data-fa-transform="shrink-8 up-1">N1</span>
+                        </div>
+                        North Region Office &#8211; Huntersville Family Fitness &amp; Aquatics Pool (HFFA)
+                    </h4>
+                    <p>
+                        11725 Verhoeff Drive
+                        <br>
+                        Huntersville, NC 28078
+                    </p>
+                    <p>
+                        <a href="https://goo.gl/maps/r2MffwYYZ5PHFLaC6" target="_blank">Get Directions</a>
+                    </p>
+                    <h4>
+                        <div class="fa-layers fa-fw fa-lg">
+                            <i class="fas fa-map-marker" style="color:red"></i>
+                            <span class="fa-layers-text fa-inverse" data-fa-transform="shrink-8 up-1">N2</span>
+                        </div>
+                        Davidson College Pool
+                    </h4>
+                    <p>
+                        Baker Sports Complex
+                        <br>
+                        Davidson, NC 28036
+                    </p>
+                    <p>
+                        <a href="https://goo.gl/maps/f2dBhMFcdP1AAufDA" target="_blank">Get Directions</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="card p-4 my-6">
+            <div id="map" style="height: 600px; width: 100%;"></div>
+        </div>
+    </div>
+</main>
+
+<script async='' defer='defer' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDRlGlxv8MwYW4cJ0_BvVvDDYpB0-XEhCQ&amp;callback=initMap'></script>
+
+<script>
+    function initMap() {
+        function addMapMarker(location, map) {
+            var icons = {
+                positive: {
+                    icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
+                }
+            };
+            var contentString = '<h3>' + location[0] + '</h3><p>' + location[1] + '</p>';
+            var infowindow = new google.maps.InfoWindow({content: contentString});
+            var marker = new google.maps.Marker({
+                position: new google.maps.LatLng(location[2], location[3]),
+                // icon: icons.positive.icon,
+                title: location[0],
+                map: map
+            });
+            // Each map marker click function
+            google
+                .maps
+                .event
+                .addListener(marker, 'click', (function (marker, location) {
+                    return function () {
+                        infowindow.open(map, marker);
+                    }
+                })(marker, location));
+        }
+        // -------------- Recommendations Map ----------------//
+        var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 10,
+            center: new google.maps.LatLng(35.2092443, -80.8604379),
+            mapTypeId: 'roadmap',
+            disableDefaultUI: true
+        });
+        var locations = [
+            [
+                'South Region Pool & Office (Charlotte Latin)',
+                '9850 Providence Rd, Charlotte, NC 28277 (704) 846-5335',
+                35.075575,
+                -80.773947,
+                5
+            ],
+            [
+                'Davidson College Pool',
+                'Baker Sports Complex, Davidson, NC 28036',
+                35.499182,
+                -80.840693,
+                3
+            ],
+            [
+                'North Region Office - Huntersville Family Fitness & Aquatics Pool (HFFA)',
+                '11725 Verhoeff Drive, Huntersville, NC 28078',
+                35.391931,
+                -80.845053,
+                2
+            ]
+        ];
+        // Create markers.
+        for (var index = 0; index < locations.length; index++) {
+            var element = locations[index];
+            addMapMarker(element, map);
+        }
+    }
+</script>
