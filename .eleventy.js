@@ -6,6 +6,7 @@ const now = String(Date.now())
 module.exports = function (eleventyConfig) {
     // Folders to copy to build dir (See. 1.1)
     eleventyConfig.addPassthroughCopy("src/static");
+    eleventyConfig.addPassthroughCopy("src/admin");
 
     eleventyConfig.addPassthroughCopy({
         './node_modules/alpinejs/dist/cdn.js': './js/alpine.js',
