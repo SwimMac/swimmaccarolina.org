@@ -3,7 +3,7 @@
 	"version": "1.6.1",
 	"description": "Minimal boilerplate for new projects built with Eleventy, Tailwind, PurgeCSS and PostCSS",
 	"scripts": {
-		"clean": "del _site",
+		"clean": "del dist",
 		"dev:postcss": "postcss src/_assets/stylesheets/*.css -o src/static/app.compiled.css --watch --verbose",
 		"dev:scripts": "webpack --watch --config webpack.config.js",
 		"dev:11ty": "eleventy --serve --watch",

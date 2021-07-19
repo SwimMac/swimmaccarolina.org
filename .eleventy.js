@@ -7,6 +7,7 @@ module.exports = function (eleventyConfig) {
     // Folders to copy to build dir (See. 1.1)
     eleventyConfig.addPassthroughCopy("src/static");
     eleventyConfig.addPassthroughCopy("src/admin");
+    eleventyConfig.addPassthroughCopy("email-templates");
 
     eleventyConfig.addPassthroughCopy({
         './node_modules/alpinejs/dist/cdn.min.js': './js/alpine.js',
@@ -69,7 +70,7 @@ module.exports = function (eleventyConfig) {
     return {
         dir: {
             input: "src/",
-            output: "_site",
+            output: "dist",
             includes: "_includes",
             layouts: "_layouts"
         },
