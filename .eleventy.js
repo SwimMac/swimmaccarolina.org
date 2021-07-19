@@ -9,7 +9,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/admin");
 
     eleventyConfig.addPassthroughCopy({
-        './node_modules/alpinejs/dist/cdn.js': './js/alpine.js',
+        './node_modules/alpinejs/dist/cdn.min.js': './js/alpine.js',
     })
 
     eleventyConfig.addShortcode('version', function () {
