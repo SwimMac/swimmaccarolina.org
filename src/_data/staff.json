@@ -1,77 +1,216 @@
 [
   {
-    "coaches": [
+    "section": "North Lead Coaches",
+    "members": [
       {
-        "seniors": [
-          {
-            "north": {
-              "name": "Kathy McKee",
-              "email": "kmckee@swimmaccarolina.org",
-              "phone": "704-846-5335 ext. 7281"
-            }
-          },
-          {
-            "south": {
-              "name": "Sean Quinn",
-              "email": "squinn@swimmaccarolina.org",
-              "phone": ""
-            }
-          }
-        ]
+        "name": "Kathy McKee",
+        "title": "Senior 1 Coach",
+        "email": "kmckee@swimmaccarolina.org",
+        "image": ""
       },
       {
-        "shark": [
-          {
-            "north": {
-              "name": "",
-              "email": "",
-              "phone": ""
-            }
-          },
-          {
-            "south": {
-              "name": "",
-              "email": "",
-              "phone": ""
-            }
-          }
-        ]
+        "name": "Sean Ford",
+        "title": "Senior 3, Marlin 1, & Masters Coach",
+        "email": "sford@swimmaccarolina.org",
+        "image": ""
       },
       {
-        "dolphin": [
-          {
-            "north": {
-              "name": "",
-              "email": "",
-              "phone": ""
-            }
-          },
-          {
-            "south": {
-              "name": "",
-              "email": "",
-              "phone": ""
-            }
-          }
-        ]
+        "name": "Roy Burch",
+        "title": "Shark 1 Coach",
+        "email": "rburch@swimmaccarolina.org",
+        "image": ""
       },
       {
-        "marlin": [
-          {
-            "north": {
-              "name": "",
-              "email": "",
-              "phone": ""
-            }
-          },
-          {
-            "south": {
-              "name": "",
-              "email": "",
-              "phone": ""
-            }
-          }
-        ]
+        "name": "Kim DeCann",
+        "title": "Shark 2 & Marlin 3 Coach",
+        "email": "kdecann@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "Ty Shackelford",
+        "title": "Shark 3 Coach",
+        "email": "tshackelford@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "Scott Stephens",
+        "title": "Dolphin 1 Coach",
+        "email": "sstephens@swimmaccarolina.org",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "section": "South Lead Coaches",
+    "members": [
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "section": "Masters Coaches",
+    "members": [
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "section": "Junior Swim League (JSL) & Teen-Fit",
+    "members": [
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "section": "Swim School",
+    "members": [
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "section": "Administration",
+    "members": [
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "section": "Board of Directors",
+    "members": [
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "",
+        "title": "",
+        "email": "@swimmaccarolina.org",
+        "image": ""
       }
     ]
   }

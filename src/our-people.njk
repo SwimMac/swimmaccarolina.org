@@ -1,0 +1,32 @@
+---
+layout: base.njk
+title: Our People
+---
+<main id="main" class="bg-gray-100">
+
+  {% banner title %}
+
+  <div class="container py-6">
+
+    {% for category in staff %}
+    <h2 class="separator-center">{{ category.section }}</h2>
+
+    <div class="flex flex-wrap justify-center -m-4 mb-8">
+      {% for person in category.members %}
+
+      <div class="w-full md:w-1/3 lg:w-1/6 p-4">
+        <div class="card text-center h-full">
+          <img src="{{ person.image }}" alt="{{ person.name }}">
+          <h3 class="text-xl text-secondary mb-2">{{ person.name }}</h3>
+          <p class="mb-2">{{ person.title }}</p>
+          <p><a href="mailto:{{ person.email }}">Email</a></p>
+        </div>
+      </div>
+      {% endfor%}
+
+    </div>
+    {% endfor%}
+
+  </div>
+
+</main>

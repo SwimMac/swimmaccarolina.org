@@ -1,0 +1,27 @@
+---
+layout: base.njk
+permalink: /news/
+---
+{% set news = collections.news %}
+
+<div class="container">
+  <h2>SwimMAC News</h2>
+
+  {% for newsItem in news %}
+  <a href="{{ newsItem.url | url }}" class="card p-6 my-6">
+
+    <div class="flex flex-wrap -mx-4 items-center">
+      <div class="w-full md:w-32 p-4">
+        <img src="/static/{{ newsItem.data.image }}" alt="">
+      </div>
+
+      <div class="p-4">
+        <h3>{{ newsItem.data.title }}</h3>
+        <p>{{ newsItem.data.date }}</p>
+      </div>
+    </div>
+
+  </a>
+  {% endfor%}
+
+</div>
