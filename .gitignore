@@ -63,8 +63,9 @@ typings/
 # Mac
 .DS_Store
 
-# Build 
+# Build
 dist
+_site
 
 # Don't commit temp build files
 src/static/app.bundled.js
