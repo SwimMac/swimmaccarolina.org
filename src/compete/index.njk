@@ -2,13 +2,11 @@
 layout : base.njk
 title : Competitive Teams
 ---
-<main id="main" class="bg-gray-100 py-6">
+<main id="main" class="bg-gray-100">
 
-    <div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/pool-tiles-1440x400.jpg');">
-        <h1 class="text-6xl text-white font-bold text-shadow">{{ title }}</h1>
-    </div>
+    {% banner title %}
 
-    <div class="container">
+    <div class="container py-6">
        <div class="flex flex-wrap -mx-4">
             <div class="w-full md:w-1/2 p-4">
                 <a href="/compete/seniors/" class="card h-full overflow-hidden">

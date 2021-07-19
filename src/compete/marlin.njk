@@ -10,12 +10,10 @@ coaches :
       email: sbujalski@swimmaccarolina.org
 ---
 
-<div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/marlin.jpg');">
-   <h1 class="text-6xl text-white font-bold text-shadow">{{ title }}</h1>
-</div>
+<main id="main" class="bg-gray-100">
+   {% banner title, {image: 'marlin.jpg'} %}
 
-<main id="main" class="bg-gray-100 py-6">
-   <div class="container">
+   <div class="container py-6">
 
       <p id="breadcrumbs">
          <a href="/">Home</a> /
@@ -56,7 +54,7 @@ coaches :
          <div class="my-4 text-center">
             <h2>Schedule a Tryout</h2>
 
-            <a href="https://www.teamunify.com/SwimLessons.jsp?_tabid_=28600&amp;team=ncmac" class="button secondary" target="_blank">
+            <a href="https://www.teamunify.com/SwimLessons.jsp?_tabid_=28600&amp;team=ncmac" class="button" target="_blank">
                Schedule a Tryout on Team Unify
             </a>
          </div>

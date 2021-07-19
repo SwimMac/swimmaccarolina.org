@@ -10,12 +10,10 @@ coaches :
       email: ftotten@swimmaccarolina.org
 ---
 
-<div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/dolphin.jpg');">
-   <h1 class="text-6xl text-white font-bold text-shadow">Dolphin</h1>
-</div>
+<main id="main" class="bg-gray-100">
+   {% banner title, {image: 'dolphin.jpg'} %}
 
-<main id="main" class="bg-gray-100 py-6">
-   <div class="container">
+   <div class="container py-6">
 
       <p>
          <a href="/">Home</a> /
@@ -57,30 +55,12 @@ coaches :
          <div class="my-4 text-center">
             <h2>Schedule a Tryout</h2>
 
-            <a href="https://www.teamunify.com/SwimLessons.jsp?_tabid_=28600&amp;team=ncmac" class="button secondary" target="_blank">
+            <a href="https://www.teamunify.com/SwimLessons.jsp?_tabid_=28600&amp;team=ncmac" class="button" target="_blank">
                Schedule a Tryout on Team Unify
             </a>
          </div>
 
-         <h2 class="separator-center">Questions?</h2>
-
-         <div class="flex flex-wrap -mx-4 justify-around">
-            <div class="w-full md:w-auto p-4 text-center">
-               <h3 class="separator-center">North Region</h3>
-               <h4>{{ coaches.north.name }}</h4>
-               <p>
-                  <a href="mailto:{{ coaches.north.email }}">{{ coaches.north.email }}</a>
-               </p>
-            </div>
-
-            <div class="w-full md:w-auto p-4 text-center">
-               <h3 class="separator-center">South Region</h3>
-               <h4>{{ coaches.south.name }}</h4>
-               <p>
-                  <a href="mailto:{{ coaches.south.email }}">{{ coaches.south.email }}</a>
-               </p>
-            </div>
-         </div>
+         {% include "questions-coach-contact.njk" %}
       </div>
    </div>
 </main>
