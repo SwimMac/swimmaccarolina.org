@@ -6,9 +6,9 @@
 
 <p align="center"><em>Eleventy · Tailwind CSS · HTML · CSS · Javascript</em></p>
 
-<p align="center"><a href="https://app.netlify.com/sites/webstarter/deploys"><img src="https://api.netlify.com/api/v1/badges/27819fce-1c2b-4f30-ab30-5c0769f9734e/deploy-status"></a></p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/072ca008-b51c-47eb-8989-d946931660c9/deploy-status)](https://app.netlify.com/sites/rickhocutt/deploys)
 
-## Contents 	
+## Contents
 
 - [Project overview](#project-overview)
 - [Getting started](#getting-started)
@@ -20,14 +20,14 @@
 
 ---
 
-## Project Overview 
+## Project Overview
 
 - The project uses [Eleventy](https://11ty.io) as a static site generator
 - Default templating is [Nunjucks](https://mozilla.github.io/nunjucks/) (can be changed if you want)
 - PostCSS set up to handle:
 	- TailwindCSS
 	- CSS Imports
-	- Autoprefixer 
+	- Autoprefixer
 - PurgeCSS to remove unused CSS (set up for TailwindCSS by default) in production
 - HTML minified in production
 - CSS inlined and minified in production
@@ -52,18 +52,18 @@ Starts watch tasks to compile when changes detected
 npm start
 ```
 
-### Creating a production build 
+### Creating a production build
 Minify HTML, compress JS, inline and minify CSS.
 
-``` 
+```
 npm run build
 ```
 
 ---
 
-## Deployment 
+## Deployment
 
-You can host the production output on any web server or service you like and upload it via any method, it'll work. 
+You can host the production output on any web server or service you like and upload it via any method, it'll work.
 
 If you don't have an existing place to host your site you should have a look at [Netlify](https://www.netlify.com), I can't recommend it enough. To get started you can hit the button below.
 
@@ -71,7 +71,7 @@ If you don't have an existing place to host your site you should have a look at 
 
 ---
 
-#### Credits 
+#### Credits
 
 - [Eleventy](https://11ty.io)
 - [TailwindCSS](https://tailwindcss.com/)
