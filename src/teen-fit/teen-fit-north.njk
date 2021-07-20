@@ -1,0 +1,107 @@
+---
+layout : base.njk
+title : Teen Fit - North
+coach:
+    name: Brittany Ward
+    email: bward@swimmaccarolina.org
+---
+
+{% banner title, {image: 'banners/teen-fit.jpg'} %}
+
+<main id="main" class="bg-gray-100 py-6">
+    {% include 'covid-notice.njk' %}
+
+    <div class="container overflow-hidden">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/teen-fit/">Teen Fit</a> /
+            {{ title }}
+        </p>
+
+        <p class="lead">
+            SwimMAC’s Middle School Teen Fit (MSTF) or High School Teen Fit (HSTF) offers a chance for your child to improve
+            technique in all 4 strokes with individual attention from highly qualified coaches, gain endurance & strength, and have
+            fun with swimming! Whether you are looking for a fitness activity, preparing for a school swim team, getting ready for
+            summer league, or cross training for other sports, swimming is a great way to stay active and get stronger.
+        </p>
+
+        <div class="card p-4">
+            <h2>Overview</h2>
+
+            <ul>
+                <li>Swim 100 yards of freestyle and 100 yards of backstroke
+                <li>Some knowledge of breaststroke and butterfly</li>
+            </ul>
+
+            <h2 class="mt-6">Middle School Teen Fit</h2>
+            <p><strong>Ages 11-14</strong></p>
+            <p>
+                Swimmers should be comfortable swimming 50 yards of Butterfly, Backstroke, Breaststroke, and Freestyle.
+                Practice is offered in the fall and in the spring 2 days per week. (45 minutes pool time and 30 minutes dryland)
+            </p>
+
+            <table class="w-full">
+                <tbody>
+                    <tr>
+                        <td>Locations </td>
+                        <td>Days/Time </td>
+                        <td>Cost </td>
+                    </tr>
+                    <tr>
+                        <td>HFFA<br>March 10th – May 14th</td>
+                        <td>Tuesday/Thursday <br>5:45-7:00 pm</td>
+                        <td>$252*<br><em>No Class 4/14 &amp; 4/16</em></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <ul>
+                <li>There is an additional annual registration fee of $30, which includes swim cap and t-shirt</li>
+            </ul>
+
+            <h2 class="mt-6">High School Teen Fit</h2>
+            <p><strong>Ages 13 &amp; up (Davidson College &amp; HFFA)</strong></p>
+            <p>
+                Swimmers should be comfortable swimming 100 yards Freestyle and Backstroke along with 50 yards Butterfly and
+                Breaststroke.&nbsp; Practice is offered in the fall and in the spring 2/4 days per week.
+                (1 hour pool time and 30 minutes dryland)
+            </p>
+
+            <table class="w-full">
+                <tbody>
+                    <tr>
+                        <td>Locations</td>
+                        <td>Days/Time</td>
+                        <td>Cost </td>
+                    </tr>
+                    <tr>
+                        <td>HFFA<br>March 9th – May 13th</td>
+                        <td>Monday/Wednesday<br>4:00-5:30 pm</td>
+                        <td>$261*<br><em>No Class 4/13 &amp; 4/15</em></td>
+                    </tr>
+                    <tr>
+                        <td>Davidson College<br>March 17th – May 14th</td>
+                        <td>Tuesday/Thursday <br>7:00-8:15 pm </td>
+                        <td>$232*<br><em>No Class 4/14 &amp; 4/16</em></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <ul>
+                <li>There is an additional annual registration fee of $30, which includes swim cap and t-shirt</li>
+            </ul>
+
+            <h4 class="mt-6 text-center">Ready to dive in?</h4>
+            <p class="text-center">
+                <a class="button large" href="https://www.teamunify.com/SwimLessons.jsp?frame=0&amp;prog=4883&amp;loc=-1&amp;time=-1&amp;days=-1&amp;team=ncmac&amp;_tabid_=28600" target="_blank" rel="external noopener noreferrer">
+                    Register
+                </a>
+            </p>
+
+            {% coachContact coach.name, coach.email %}
+        </div>
+
+        {% include 'hffa-map.njk' %}
+    </div>
+
+</main>

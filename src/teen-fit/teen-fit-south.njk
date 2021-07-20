@@ -1,0 +1,51 @@
+---
+layout : base.njk
+title : Teen Fit - South
+coach:
+    name: Carrie Andrews
+    email: candrews@swimmaccarolina.org
+---
+
+{% banner title, {image: 'banners/teen-fit.jpg'} %}
+
+<main id="main" class="bg-gray-100 py-6">
+    {% include 'covid-notice.njk' %}
+
+    <div class="container overflow-hidden">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/teen-fit/">Teen Fit</a> /
+            {{ title }}
+        </p>
+
+        <p class="lead">
+            SwimMAC’s Middle School Teen Fit (MSTF) or High School Teen Fit (HSTF) offers a chance for your child to improve
+            technique in all 4 strokes with individual attention from highly qualified coaches, gain endurance & strength, and have
+            fun with swimming! Whether you are looking for a fitness activity, preparing for a school swim team, getting ready for
+            summer league, or cross training for other sports, swimming is a great way to stay active and get stronger.
+        </p>
+
+        <div class="card p-4">
+            <h2>Overview</h2>
+
+            <ul>
+                <li>Swim 100 yards of freestyle and 100 yards of backstroke
+                <li>Some knowledge of breaststroke and butterfly</li>
+            </ul>
+
+            <h3 class="separator-center">South Region Class Registration</h3>
+
+            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=541681&amp;cat1=teen&amp;hidecols=description,Gender,Session&amp;style=font-size:16px&amp;sort=days" type="text/javascript"></script>
+
+            <ul>
+                <li>There is an additional annual registration fee of $30, which includes swim cap and t-shirt</li>
+                <li>Practices are subject to change based on contract pending with CMS</li>
+            </ul>
+
+            {% coachContact coach.name, coach.email %}
+        </div>
+
+        {% include 'latin-map.njk' %}
+    </div>
+
+</main>
