@@ -18,11 +18,17 @@ name: Home
         <div class="p-6 bg-red-200 text-center">
             <h3>Looking to Swim on a Competitive Team?</h3>
             <p>We are currently holding try-outs.</p>
-            <p><a class="button" href="https://www.teamunify.com/SwimLessons.jsp?_tabid_=28600&amp;team=ncmac" target="_blank" rel="noopener">Schedule a Tryout on Team Unify</a></p>
+            <p>
+                <a class="button" href="https://www.teamunify.com/SwimLessons.jsp?_tabid_=28600&amp;team=ncmac" target="_blank" rel="noopener">
+                    Schedule a Tryout on Team Unify
+                </a>
+            </p>
         </div>
     </div>
 
-    <div class="container overflow-hidden">
+    <div class="container overflow-hidden pt-8">
+        {% include 'get-started-wizard.njk' %}
+
         <div class="bg-white rounded-lg shadow-md mb-8 flex flex-wrap my-6">
             <div class="w-full mb-4 lg:w-1/3 lg:px-6">
                 <div class="">
@@ -64,7 +70,9 @@ name: Home
 
 
     <div class="container overflow-hidden">
-        <h2>Age Group Programs</h2>
+        <div class="separator-center">
+            <h2>Age Group Programs</h2>
+        </div>
 
         <div class="flex flex-wrap my-6 lg:-mx-6">
             <div class="w-full mb-4 lg:w-1/3 lg:px-6">
@@ -115,5 +123,86 @@ name: Home
             </div>
         </div>
    </div>
+
+    <div class="container overflow-hidden">
+        <div class="separator-center">
+            <h2>Adult Programs</h2>
+        </div>
+
+        <div class="flex flex-wrap my-6 lg:-mx-6">
+            <div class="w-full mb-4 lg:w-1/3 lg:px-6">
+                <div class="card h-full">
+                    <div class="w-full">
+                        <div class="h-80 lg:h-48 bg-cover bg-top text-center overflow-hidden" style="background-image:url(/static/help-you-cards/rental.jpg)"></div>
+                        <div class="p-4">
+                            <h2 class="text-xl text-center mb-2">Mac Fit</h2>
+                            <p>
+						        These classes are geared toward those looking for low impact or supplemental fitness classes.
+                                Programs are centered on low impact fitness activities.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="w-full mb-4 lg:w-1/3 lg:px-6">
+                <div class="card h-full">
+                    <div class="w-full">
+                        <div class="h-80 lg:h-48 bg-cover bg-top text-center overflow-hidden" style="background-image:url(/static/help-you-cards/purchase.jpg)"></div>
+                        <div class="p-4">
+                            <h2 class="text-xl text-center mb-2">Adult Group Lessons</h2>
+                            <p>
+						        This is a beginner group lesson for adults 18 and over. Lessons will range from learning the
+                                basics of blowing bubbles and ﬂoating, to recreational swimming for fitness.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="w-full mb-4 lg:w-1/3 lg:px-6">
+                <div class="card h-full">
+                    <div class="w-full">
+                        <div class="h-80 lg:h-48 bg-cover bg-top text-center overflow-hidden" style="background-image:url(/static/help-you-cards/service.jpg)"></div>
+                        <div class="p-4">
+                            <h2 class="text-xl text-center mb-2">Masters</h2>
+                            <p>
+						        The SwimMAC Masters & Adult Fitness program welcomes people of any ability level.
+                                We have four basic categories of Masters swimmers: Adult-Learn-to Swim Program (ALTS)
+                                participants, Competitive Swimmers (Open Water & Swim Meets), Triathlon Swimmers, and
+                                Fitness Swimmers.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container overflow-hidden">
+        <div class="separator-center">
+            <h2>Testimonials</h2>
+            <p>Hear What People Have to Say</p>
+        </div>
+
+        <div class="flex flex-wrap my-6 lg:-mx-6">
+            {% for testimonial in testimonials | limit(3) %}
+            <div class="w-full mb-4 lg:w-1/3 lg:px-6">
+                <div class="card h-full">
+                    <div class="p-4">
+                        <h2 class="text-xl separator-center">{{ testimonial.name }}</h2>
+                        <p>
+                            {{ testimonial.body }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="container">
+    <div class="embedsocial-hashtag" data-ref="3b23b8779dc22934ec5d160061084545af094c73" ><a class="feed-powered-by-es" href="https://embedsocial.com/social-media-aggregator/" target="_blank" title="Powered by EmbedSocial">Powered by EmbedSocial<span>→</span></a></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialHashtagScript"));</script>
+    </div>
 
 </main>

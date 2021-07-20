@@ -1,0 +1,106 @@
+<div x-data="{selectedId: 'intro'}" x-cloak>
+    <div class="text-center">
+        <div class="flex py-4 items-center justify-center">
+            <div class="w-full lg:w-4/5">
+                <div class="card pb-3">
+                    <div class="p-6">
+                        <h3 class="text-secondary">Let's select the right program for you</h3>
+                        <hr class="my-4">
+                        <p>Tell us about yourself in our How to Get Started Guide, and we'll suggest programs that could be a great fit.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="p-6 -mt-6 bg-secondary text-white">
+        <div class="flex flex-wrap items-center justify-center text-center">
+            <div class="mt-6">
+                <div x-show="selectedId === 'intro'">
+                    <button class="button" @click="selectedId = 'step-1'" type="button">Begin</button>
+                </div>
+
+                {% for step in get_started.wizardQuestions %}
+                {# for (var q = 0; q < wizardQuestions.length; q++) { #}
+                    {% if step.question %}
+                    {# if (wizardQuestions[q].question) { #}
+                    <div class="step" id="{{ step.id }}" x-show="selectedId === '{{ step.id }}'">
+                        <div class="flex flex-wrap items-center justify-center -mx-4">
+                            <div class="p-4">
+                                <p class="lead">{{ step.question }}</p>
+                            </div>
+                        </div>
+                        <br>
+
+                        {# for (var a = 0; a < wizardQuestions[q].answers.length; a++) { #}
+                        {% for answer in step.answers %}
+                        <button class="button" type="button" @click="selectedId = '{{ answer.id }}'">
+                            {{ answer.label }}
+                        </button>
+                        {# } #}
+                        {% endfor %}
+
+                        {# if (wizardQuestions[q].id !== 'step-1') { #}
+                        {% if step.id !== 'step-1' %}
+                        <div class="mt-4">
+                            <button class="button" type="button" @click="selectedId = '{{ step.prev }}'">
+                                Back
+                            </button>
+                        </div>
+                        {# } #}
+                        {% endif %}
+
+                    </div>
+                    {# } endif wizardQuestions[q].question #}
+                    {% endif %}
+
+                    {% if step.results %}
+                    {# if (wizardQuestions[q].results) { #}
+                    <div class="results" id="{{ step.id }}" x-show="selectedId === '{{ step.id }}'">
+                        <h3>Your Results</h3>
+                        <p>The programs below are recommendations based on the answers you provided in the questionnaire. Feel free to take it again
+                        or contact one of our coaches with more specific quesionts on guidance. Or you can view all of our programs.</p>
+
+                        <div class="flex flex-wrap -mx-4 justify-center">
+
+                            {% for result in step.results %}
+                            {# for (var r = 0; r < wizardQuestions[q].results.length; r++) { #}
+
+                            {% for answer in get_started.wizardAnswers %}
+                            {# for (var j = 0; j < wizardAnswers.length; j++) { #}
+                                {% if result.result === answer.label %}
+                                {# if (wizardQuestions[q].results[r].result == wizardAnswers[j].label){ #}
+                                    <div class="w-full md:w-1/2 lg:w-1/4 p-4">
+                                        <a class="card h-full" href="{{ answer.url }}">
+                                            <div style="background: url('{{ answer.img }}') no-repeat center/cover; height: 150px;"></div>
+                                            <div class="p-4">
+                                                <h3>{{ answer.label }}</h3>
+                                                <p>{{ answer.description }}</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                {# } #}
+                                {% endif %}
+                            {# } #}
+                            {% endfor %}
+                            {# } #}
+                            {% endfor %}
+                        </div>
+
+                        <div class="grid-x grid-padding-x grid-padding-y justify-content-center align-items-center align-content-center">
+                            <div class="cell">
+                                <button class="button" type="button" @click="selectedId = 'step-1'">
+                                    Start Over
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    {# } #}
+                    {% endif %}
+                {# } #}
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+</div>

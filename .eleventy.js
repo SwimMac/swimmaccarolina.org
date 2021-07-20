@@ -49,6 +49,31 @@ module.exports = function (eleventyConfig) {
       }).toFormat("dd-MM-yy");
     });
 
+    eleventyConfig.addFilter("randomItem", (arr) => {
+        arr.sort(() => {
+          return 0.5 - Math.random();
+        });
+        return arr.slice(0, 1);
+    });
+
+    eleventyConfig.addFilter("random", function(arr, n) {
+        var result = new Array(n),
+            len = arr.length,
+            taken = new Array(len);
+        if (n > len)
+            throw new RangeError("getRandom: more elements taken than available");
+        while (n--) {
+            var x = Math.floor(Math.random() * len);
+            result[n] = arr[x in taken ? taken[x] : x];
+            taken[x] = --len in taken ? taken[len] : len;
+        }
+        return result;
+    });
+
+    eleventyConfig.addFilter("limit", function (arr, limit) {
+        return arr.slice(0, limit);
+    });
+
     // Filters
     Object.keys(filters).forEach((filterName) => {
         eleventyConfig.addFilter(filterName, filters[filterName])

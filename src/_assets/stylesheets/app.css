@@ -5,6 +5,8 @@
 /* purgecss start ignore */
 @layer base {
 
+	[x-cloak] { display: none; }
+
 	.button {
 		@apply inline-block
 		no-underline

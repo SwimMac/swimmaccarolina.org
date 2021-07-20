@@ -29,7 +29,7 @@
               Swim School Login <i class="fas fa-caret-down"></i>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu">
+            <ul x-show="isOpen" class="dropdown-menu" x-cloak>
               <li class="dropdown-menu__item">
                 <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524744" target="_blank" class="dropdown-menu__item-link">
                   North Login
@@ -58,7 +58,7 @@
               Programs <i class="fas fa-caret-down"></i>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu">
+            <ul x-show="isOpen" class="dropdown-menu" x-cloak>
               {% for program in programs %}
               <li class="dropdown-menu__item">
                 <a href="{{ program.url }}" class="dropdown-menu__item-link">
@@ -74,7 +74,7 @@
               About Us <i class="fas fa-caret-down"></i>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu">
+            <ul x-show="isOpen" class="dropdown-menu" x-cloak>
               {% for item in about_us %}
               <li class="dropdown-menu__item">
                 <a href="/{{ item.url }}" class="dropdown-menu__item-link">
@@ -90,7 +90,7 @@
               Contact Us <i class="fas fa-caret-down"></i>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu">
+            <ul x-show="isOpen" class="dropdown-menu" x-cloak>
               <li class="dropdown-menu__item">
                 <a href="/locations" class="dropdown-menu__item-link">
                  Locations
@@ -104,7 +104,7 @@
             </ul>
           </li>
           <li class="ml-2">
-            <a href="#" class="button ghost">
+            <a href="/get-started" class="button ghost">
               Get Started
             </a>
           </li>
