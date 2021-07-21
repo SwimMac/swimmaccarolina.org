@@ -3,12 +3,12 @@ backend:
   branch: master
 
 media_folder: "dist/static/uploads"
-public_folder: "/static/uploads"
+public_folder: "src/static/uploads"
 
 collections:
   - name: "employment"
     label: "Employment Opportunities"
-    folder: "employment"
+    folder: "src/employment"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
