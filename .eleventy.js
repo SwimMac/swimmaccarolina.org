@@ -21,8 +21,8 @@ module.exports = function (eleventyConfig) {
         const {
             image = 'pool-tiles-1440x400.jpg'
         } = options;
-        return `<div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/${image}');">
-            <h1 class="text-6xl text-white font-bold text-shadow">${ title }</h1>
+        return `<div class="h-32 lg:h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/${image}');">
+            <h1 class="text-4xl md:text-5xl lg:text-6xl text-white font-bold text-center text-shadow">${ title }</h1>
         </div>`;
     })
 
