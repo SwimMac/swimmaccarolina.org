@@ -64,7 +64,6 @@ name: Home
         </div>
     </div>
 
-
     <div class="container">
         <div class="separator-center">
             <h2>Age Group Programs</h2>
@@ -198,75 +197,35 @@ name: Home
 		</div>
 
         <div class="flex flex-wrap -mx-4 mb-6">
+            {% for sponsor in sponsors %}
             <div class="w-1/2 lg:w-1/4 p-4">
-                <div class="card h-full">
-                    <div class="p-4">
-                      <img src="/static/sponsors/charlotte-latin.png" alt="Charlotte Latin" class="mx-auto">
+                <div class="card h-full flex justify-center items-center p-4">
+                    <div>
+                        <img src="/static/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}" class="">
                     </div>
                 </div>
             </div>
-
-             <div class="w-1/2 lg:w-1/4 p-4">
-                <div class="card h-full">
-                    <div class="p-4">
-                      <img src="/static/sponsors/crva.jpg" alt="Charlottes Got a Lot" class="mx-auto">
-                    </div>
-                </div>
-            </div>
-
-             <div class="w-1/2 lg:w-1/4 p-4">
-                <div class="card h-full">
-                    <div class="p-4">
-                      <img src="/static/sponsors/harris-teeter.jpg" alt="Harris Teeter" class="mx-auto">
-                    </div>
-                </div>
-            </div>
-
-             <div class="w-1/2 lg:w-1/4 p-4">
-                <div class="card h-full">
-                    <div class="p-4">
-                      <img src="/static/sponsors/nothing-but-noodles.png" alt="Nothing But Noodles" class="mx-auto">
-                    </div>
-                </div>
-            </div>
-
-             <div class="w-1/2 lg:w-1/4 p-4">
-                <div class="card h-full">
-                    <div class="p-4">
-                      <img src="/static/sponsors/novant-health.jpg" alt="Novant Health" class="mx-auto">
-                    </div>
-                </div>
-            </div>
-
-             <div class="w-1/2 lg:w-1/4 p-4">
-                <div class="card h-full">
-                    <div class="p-4">
-                      <img src="/static/sponsors/paddock.jpg" alt="Paddock" class="mx-auto">
-                    </div>
-                </div>
-            </div>
-
-             <div class="w-1/2 lg:w-1/4 p-4">
-                <div class="card h-full">
-                    <div class="p-4">
-                      <img src="/static/sponsors/shiel-sexton.jpg" alt="Shiel Sexton" class="mx-auto">
-                    </div>
-                </div>
-            </div>
-
-             <div class="w-1/2 lg:w-1/4 p-4">
-                <div class="card h-full">
-                    <div class="p-4">
-                      <img src="/static/sponsors/tyr-sports.png" alt="TYR Sports" class="mx-auto">
-                    </div>
-                </div>
-            </div>
+            {% endfor %}
         </div>
 
     </div>
 
     <div class="container">
-    <div class="embedsocial-hashtag" data-ref="3b23b8779dc22934ec5d160061084545af094c73" ><a class="feed-powered-by-es" href="https://embedsocial.com/social-media-aggregator/" target="_blank" title="Powered by EmbedSocial">Powered by EmbedSocial<span>→</span></a></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialHashtagScript"));</script>
+        <div class="embedsocial-hashtag" data-ref="3b23b8779dc22934ec5d160061084545af094c73" >
+            <a class="feed-powered-by-es" href="https://embedsocial.com/social-media-aggregator/" target="_blank" title="Powered by EmbedSocial">
+                Powered by EmbedSocial<span>→</span>
+            </a>
+        </div>
+        <script>
+        (function(d, s, id){
+            var js;
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "https://embedsocial.com/cdn/ht.js";
+            d.getElementsByTagName("head")[0].appendChild(js);
+        }(document, "script", "EmbedSocialHashtagScript"));
+        </script>
     </div>
 
 </main>
