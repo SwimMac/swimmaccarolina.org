@@ -34,7 +34,7 @@ name: Home
     <div class="container overflow-hidden pt-8">
         {% include 'get-started-wizard.njk' %}
 
-        <div class="flex flex-wrap bg-white rounded-lg shadow-md mb-8 -mx-4 my-6">
+        <div class="flex flex-wrap card mb-8 my-6">
             <div class="w-full mb-4 lg:w-1/3 p-4">
                 <img src="/static/lifelong-enrichment.png" style="height: 137px;" class="mx-auto">
 
@@ -207,15 +207,28 @@ name: Home
             </div>
             {% endfor %}
         </div>
-
     </div>
 
     <div class="container">
-        <div class="embedsocial-hashtag" data-ref="3b23b8779dc22934ec5d160061084545af094c73" >
+
+		<h3 class="separator-center">The Latest On Instagram</h3>
+
+        <div class="card p-4 text-center mb-4">
+            <p>
+                We like to keep the community updated with what's going on at SwimMac.
+                Check out our Instagram page for more great photos.
+            </p>
+            <a class="button ghost" href="https://www.instagram.com/swimmac_1977/?hl=en" target="_blank" rel="noopener">
+                SwimMAC on Instagram
+            </a>
+        </div>
+
+        <div class="embedsocial-hashtag" data-ref="3b23b8779dc22934ec5d160061084545af094c73">
             <a class="feed-powered-by-es" href="https://embedsocial.com/social-media-aggregator/" target="_blank" title="Powered by EmbedSocial">
                 Powered by EmbedSocial<span>→</span>
             </a>
         </div>
+
         <script>
         (function(d, s, id){
             var js;
