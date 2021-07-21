@@ -67,4 +67,44 @@
   .lead {
     @apply text-lg md:text-xl;
   }
+
+	.separator-left::before, .separator-left::after {
+		display: table;
+		content: ' ';
+		flex-basis: 0;
+		order: 1;
+	}
+
+	.separator-left::after {
+    position: relative !important;
+    width: 3rem;
+    border-bottom: 0.125rem solid #F97900;
+    margin: 1rem auto 0;
+    margin-left: 0 !important;
+		clear: both;
+	}
+
+	.separator-center {
+		text-align: center;
+	}
+
+	.separator-center::before, .separator-center::after {
+		display: table;
+		content: ' ';
+		flex-basis: 0;
+		order: 1;
+	}
+
+	.separator-center::after {
+    position: relative !important;
+    width: 3rem;
+    border-bottom: 0.125rem solid #F97900;
+    margin: 1rem auto 0;
+		clear: both;
+	}
+
+	.text-shadow {
+		text-shadow: 0 0 15px black;
+	}
+
 }

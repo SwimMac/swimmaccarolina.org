@@ -16,10 +16,10 @@
 
     <nav class="bg-secondary">
       <div class="container flex justify-end">
-        <ul class="flex list-none m-0">
+        <ul class="flex items-center list-none m-0">
           {% for item in aux_nav %}
           <li class="mb-0">
-            <a href="{{ item.url }}" {% if item.targetBlank %} target="_blank" {% endif %} class="inline-block no-underline text-white p-4 hover:bg-primary hover:text-white">
+            <a href="{{ item.url }}" {% if item.targetBlank %} target="_blank" {% endif %} class="block no-underline text-white p-2 lg:p-4 hover:bg-primary hover:text-white">
               {{ item.name }}
             </a>
           </li>
@@ -29,7 +29,7 @@
               Swim School Login <i class="fas fa-caret-down"></i>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu" x-cloak>
+            <ul x-show="isOpen" class="dropdown-menu right-0" x-cloak>
               <li class="dropdown-menu__item">
                 <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524744" target="_blank" class="dropdown-menu__item-link">
                   North Login
@@ -46,19 +46,19 @@
       </div>
     </nav>
 
-    <header class="container flex flex-wrap justify-center md:justify-between items-center py-4">
-      <a href="/" class="block">
+    <header class="container flex flex-wrap justify-center lg:justify-between items-center py-4">
+      <a href="/" class="block mb-4 lg:mb-0">
         <img src="/static/swimmac-logo.svg" alt="SwimMAC Carolina" class="w-48">
       </a>
 
-      <nav>
-        <ul class="flex items-center text-lg mr-4 list-none">
+      <nav class="flex flex-wrap justify-center lg:justify-between">
+        <ul class="flex items-center text-lg mr-4 mb-4 lg:mb-0 list-none">
           <li x-data="{ isOpen: false}" @mouseenter="isOpen = true" @mouseleave="isOpen = false" class="relative mb-0">
             <button class="px-4 py-2 hover:bg-primary hover:text-white">
               Programs <i class="fas fa-caret-down"></i>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu" x-cloak>
+            <ul x-show="isOpen" class="dropdown-menu left-0 lg:left-auto lg:right-0" x-cloak>
               {% for program in programs %}
               <li class="dropdown-menu__item">
                 <a href="{{ program.url }}" class="dropdown-menu__item-link">
@@ -74,7 +74,7 @@
               About Us <i class="fas fa-caret-down"></i>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu" x-cloak>
+            <ul x-show="isOpen" class="dropdown-menu right-0" x-cloak>
               {% for item in about_us %}
               <li class="dropdown-menu__item">
                 <a href="/{{ item.url }}" class="dropdown-menu__item-link">
@@ -90,7 +90,7 @@
               Contact Us <i class="fas fa-caret-down"></i>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu" x-cloak>
+            <ul x-show="isOpen" class="dropdown-menu right-0" x-cloak>
               <li class="dropdown-menu__item">
                 <a href="/locations" class="dropdown-menu__item-link">
                  Locations
@@ -103,12 +103,14 @@
               </li>
             </ul>
           </li>
-          <li class="ml-2">
-            <a href="/getting-started" class="button ghost">
-              Get Started
-            </a>
-          </li>
         </ul>
+
+        <div class="ml-2">
+          <a href="/getting-started" class="button ghost">
+            Get Started
+          </a>
+        </div>
+
        </nav>
     </header>
 
