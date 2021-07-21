@@ -1,7 +1,7 @@
 @layer base {
 
 	.card {
-		@apply block bg-white rounded shadow-md;
+		@apply block bg-white rounded shadow-md text-gray-900;
 	}
 
 	a.card:hover {
