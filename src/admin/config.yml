@@ -9,6 +9,7 @@ collections:
   - name: "employment"
     label: "Employment Opportunities"
     folder: "employment"
+    create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/job.njk" }
