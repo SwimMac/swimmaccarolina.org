@@ -37,8 +37,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode('employeeApplicationForm', function ( jobTitle ) {
         return `<h3>Think you'd be a great fit?</h3>
         <p>Send us your information and we'll have our hiring manager contact you.</p>
-        <form name="employment-application" method="POST" netlify>
-            <input type="hidden" value="${jobTitle}">
+        <form name="employment-application" class="employment-form" method="POST" netlify>
+            <input type="hidden" name="job-title" value="${jobTitle}">
 
             <p>(All fields are required to submit the form)</p>
 
@@ -68,8 +68,6 @@ module.exports = function (eleventyConfig) {
         </form>`;
     });
 
-
-
     const { DateTime } = require("luxon");
 
     // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
@@ -82,7 +80,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter("readableDate", dateObj => {
       return DateTime.fromJSDate(dateObj, {
         zone: 'utc'
-      }).toFormat("dd-MM-yy");
+      }).toFormat("LLL dd, yyyy");
     });
 
     eleventyConfig.addFilter("randomItem", (arr) => {

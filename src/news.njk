@@ -17,7 +17,7 @@ permalink: /news/
 
       <div class="p-4">
         <h3>{{ newsItem.data.title }}</h3>
-        <p>{{ newsItem.data.date }}</p>
+        <p>{{ newsItem.data.date | readableDate }}</p>
       </div>
     </div>
 
