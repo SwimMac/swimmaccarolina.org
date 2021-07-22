@@ -9,16 +9,14 @@ coach:
 {% banner title, {image: 'banners/mac-fit.jpg'} %}
 
 <main id="main" class="bg-gray-100 py-6">
-    {% include 'covid-notice.njk' %}
-
     <div class="container overflow-hidden">
-
         <p>
             <a href="/">Home</a> /
             <a href="/adult-programs/">Adult Programs</a> /
             {{ title }}
         </p>
 
+        {% include 'covid-notice.njk' %}
 
         <p class="lead">
             These classes are geared toward those looking for low impact or supplemental fitness classes.
