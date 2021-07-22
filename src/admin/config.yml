@@ -22,32 +22,10 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - label: "Layout"
-        name: "layout"
-        widget: "hidden"
-        default: "news.njk"
-
-      - label: "Posted Date"
-        name: "date"
-        widget: "datetime"
-        default: ""
-        date_format: "DD.MM.YYYY"
-        time_format: "HH:mm"
-        format: "LLL"
-        picker_utc: false
-
-      - label: "Title"
-        name: "title"
-        widget: "string"
-
-      - label: "Post Body"
-        name: "body"
-        widget: "markdown"
-
-      - label: "Image"
-        name: "image"
-        widget: "image"
-        choose_url: true
-        media_library:
+      - label: "Layout", name: "layout", widget: "hidden", default: "news.njk"
+      - label: "Posted Date", name: "date", widget: "datetime", default: "", date_format: "DD.MM.YYYY", time_format: "HH:mm", format: "LLL", picker_utc: false
+      - label: "Title", name: "title", widget: "string"
+      - label: "Post Body", name: "body", widget: "markdown"
+      - label: "Image", name: "image", widget: "image", choose_url: true, media_library:
           config:
             multiple: false
