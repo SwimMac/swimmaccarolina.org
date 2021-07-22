@@ -4,15 +4,19 @@ permalink: /employment/
 ---
 
 {% set jobsList = collections.employment %}
+<main id="main" class="bg-gray-100 overflow-hidden">
+  {% banner 'SwimMAC Employment Opportunities' %}
 
-<div class="container">
-  <h2>SwimMAC Employment Opportunities</h2>
-  <p class="lead">Looking for a job where you have fun while you work? Explore our career options below!</p>
+  <div class="container mt-6">
+    <h2>Looking for a job where you have fun while you work? Explore our career options below!</h2>
+    <p class="lead">A job at SwimMAC may be just what you’ve been looking for!</p>
 
-  {% for jobs in jobsList %}
-  <a href="{{ jobs.url | url }}" class="card p-6 my-6">
-    <h3>{{ jobs.data.title }}</h3>
-  </a>
-  {% endfor%}
+    {% for jobs in jobsList %}
+    <a href="{{ jobs.url | url }}" class="card p-6 my-6">
+      <h3>{{ jobs.data.title }}</h3>
+      <div>{{ jobs.templateContent | extractExcerpt | safe }}</div>
+    </a>
+    {% endfor%}
 
-</div>
+  </div>
+</main>

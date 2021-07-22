@@ -90,6 +90,29 @@ module.exports = function (eleventyConfig) {
         return arr.slice(0, 1);
     });
 
+    eleventyConfig.addFilter( "extractExcerpt", (article) => {
+        let excerpt = null;
+        const content = article;
+
+        // The start and end separators to try and match to extract the excerpt
+        const separatorsList = [
+          { start: '<!--StartFragment-->', end: '<!--EndFragment-->' },
+          { start: ' ', end: ' ' }
+        ];
+
+        separatorsList.some(separators => {
+          const startPosition = content.indexOf(separators.start);
+          const endPosition = content.indexOf(separators.end);
+
+          if (startPosition !== -1 && endPosition !== -1) {
+            excerpt = content.substring(startPosition + separators.start.length, endPosition).trim();
+            return true; // Exit out of array loop on first match
+          }
+        });
+
+        return excerpt;
+    });
+
     eleventyConfig.addFilter("random", function(arr, n) {
         var result = new Array(n),
             len = arr.length,
