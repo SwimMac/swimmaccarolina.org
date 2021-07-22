@@ -42,7 +42,31 @@ permalink: "swim-school/south/{{ swim.name | slug }}/"
 
         </div>
 
-         {% endif %}
+        {% endif %}
+
+        {% if swim.name === 'MiniMAC' %}
+        <div class="card p-6 my-6">
+            <p class="lead">{{ swim.ages }}</p>
+            <p class="lead">{{ swim.description }}</p>
+        </div>
+
+        <div class="card p-6 my-6">
+            <h2 class="separator-center">Charlotte Latin Schedule</h2>
+
+            {% if jackrabbit.south.sessions.length > 0 %}
+                {% for session in jackrabbit.south.sessions %}
+                <h3 class="separator-left">{{ session }}</h3>
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=minimac&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                {% endfor %}
+            {% else %}
+                <div class="bg-red-100 border border-red-900 p-4 my-6">
+                    There are no scheduled {{ swim.name }} classes at this time
+                </div>
+            {% endif %}
+
+            {% include 'location-details-south.njk' %}
+        </div>
+        {% endif %}
 
         {% if swim.name === 'Adult Lessons' %}
         <div class="card p-6 my-6">
@@ -54,9 +78,11 @@ permalink: "swim-school/south/{{ swim.name | slug }}/"
         <div class="card p-6 my-6">
             <div class="text-right">
                 <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.south.orgId }}" class="button">Portal Login</a>
+                {% if swim.north %}
                 <a href="/swim-school/north/{{ swim.name | slug }}/" class="button hollow">
                     Go To North Location Page
                 </a>
+                {% endif %}
             </div>
 
             <h2>Location Info</h2>
@@ -89,8 +115,8 @@ permalink: "swim-school/south/{{ swim.name | slug }}/"
 
             {% include 'location-details-south.njk' %}
         </div>
+        {% endif %}
 
         {% include 'latin-map.njk' %}
-        {% endif %}
     </div>
 </main>
