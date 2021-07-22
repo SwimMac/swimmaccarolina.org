@@ -8,7 +8,7 @@ permalink: "swim-school/south/preschool/{{ swim.name | slug }}/"
 ---
 
 <main id="main" class="bg-gray-100 overflow-hidden">
-    {% banner swim.name, {image: swim.image} %}
+    {% banner swim.name, {image: 'banners/' + swim.image} %}
 
     {% include 'covid-notice.njk' %}
 

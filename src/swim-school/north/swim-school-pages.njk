@@ -8,7 +8,7 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
 ---
 
 <main id="main" class="bg-gray-100 overflow-hidden">
-    {% banner swim.name %}
+    {% banner swim.name, {image: 'banners/' + swim.image} %}
 
     {% include 'covid-notice.njk' %}
 
@@ -21,14 +21,14 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
         </p>
 
         {% if swim.name !== 'Adult Lessons' or swim.name !== 'Teen Lessons' %}
-        <div class="flex flex-wrap -mx-4">
+        <div class="flex flex-wrap -mx-4 justify-center">
 
            {% for level in swim.levels %}
            {% if level.north %}
             <div class="w-full md:w-1/2 lg:w-1/3 p-4">
                 <a href="{{ level.name | slug }}/" class="card h-full overflow-hidden">
                     {% if level.image %}
-                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/{{ level.image }}');"></div>
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/cards/{{ level.image }}');"></div>
                     {% endif %}
                     <div class="text-gray-900 p-4">
                         <h2>{{ level.name }}</h2>

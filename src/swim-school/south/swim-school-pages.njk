@@ -7,24 +7,29 @@ pagination:
 permalink: "swim-school/south/{{ swim.name | slug }}/"
 ---
 
-<main id="main" class="bg-gray-100 py-6">
+<main id="main" class="bg-gray-100 overflow-hidden">
 
-    <div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/pool-tiles-1440x400.jpg');">
-        <h1 class="text-6xl text-white font-bold text-shadow">{{ swim.name }}</h1>
-    </div>
+    {% banner swim.name, {image: 'banners/' + swim.image} %}
 
     {% include 'covid-notice.njk' %}
 
-    <div class="container">
-{% if swim.name !== 'Adult Lessons' or swim.name !== 'Teen Lessons' %}
-       <div class="flex flex-wrap -mx-4">
+    <div class="container py-4">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/swim-school/">Swim School</a> /
+            <a href="/swim-school/south/">Swim School South</a> /
+            {{ swim.name }}
+        </p>
+
+        {% if swim.name !== 'Adult Lessons' or swim.name !== 'Teen Lessons' %}
+        <div class="flex flex-wrap -mx-4">
 
            {% for level in swim.levels %}
            {% if level.south %}
             <div class="w-full md:w-1/2 lg:w-1/3 p-4">
                 <a href="{{ level.name | slug }}/" class="card h-full overflow-hidden">
                     {% if level.image %}
-                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/{{ swim.name | slug }}');"></div>
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/cards/{{ level.image }}');"></div>
                     {% endif %}
                     <div class="text-gray-900 p-4">
                         <h2>{{ level.name }}</h2>
