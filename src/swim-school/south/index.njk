@@ -5,8 +5,6 @@ title : Swim School South
 <main id="main" class="bg-gray-100 overflow-hidden">
     {% banner title, {image: 'banners/latin.jpg'} %}
 
-    {% include 'covid-notice.njk' %}
-
     <div class="container my-6">
         <p>
             <a href="/">Home</a> /
@@ -14,7 +12,9 @@ title : Swim School South
             {{ title }}
         </p>
 
-       <div class="flex flex-wrap -mx-4">
+        {% include 'covid-notice.njk' %}
+
+        <div class="flex flex-wrap -mx-4">
 
            {% for group in swim_school.groups %}
            {% if group.south %}
@@ -23,7 +23,7 @@ title : Swim School South
                     {% if group.image %}
                     <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/cards/{{ group.image }}');"></div>
                     {% endif %}
-                    <div class="text-gray-900 p-4">
+                    <div class="p-4">
                         <h2>{{ group.name }}</h2>
                         <p>{{ group.ages }}</p>
                         <p>{{ group.description }}</p>

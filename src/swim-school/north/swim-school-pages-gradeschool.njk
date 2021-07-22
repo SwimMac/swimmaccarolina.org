@@ -11,8 +11,6 @@ permalink: "swim-school/north/grade-school/{{ swim.name | slug }}/"
 
     {% banner swim.name, {image: 'banners/' + swim.image} %}
 
-    {% include 'covid-notice.njk' %}
-
     <div class="container my-6">
         <p>
             <a href="/">Home</a> /
@@ -21,6 +19,8 @@ permalink: "swim-school/north/grade-school/{{ swim.name | slug }}/"
             <a href="/swim-school/north/grade-school">Grade School</a> /
             {{ swim.name }}
         </p>
+
+        {% include 'covid-notice.njk' %}
 
         <div class="card p-6 my-6">
             <p class="lead">

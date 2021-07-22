@@ -11,8 +11,6 @@ permalink: "swim-school/south/{{ swim.name | slug }}/"
 
     {% banner swim.name, {image: 'banners/' + swim.image} %}
 
-    {% include 'covid-notice.njk' %}
-
     <div class="container py-4">
         <p>
             <a href="/">Home</a> /
@@ -20,6 +18,8 @@ permalink: "swim-school/south/{{ swim.name | slug }}/"
             <a href="/swim-school/south/">Swim School South</a> /
             {{ swim.name }}
         </p>
+
+        {% include 'covid-notice.njk' %}
 
         {% if swim.name !== 'Adult Lessons' or swim.name !== 'Teen Lessons' %}
         <div class="flex flex-wrap -mx-4">

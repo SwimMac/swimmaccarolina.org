@@ -10,8 +10,6 @@ permalink: "swim-school/north/preschool/{{ swim.name | slug }}/"
 <main id="main" class="bg-gray-100  overflow-hidden">
     {% banner swim.name, {image: 'banners/' + swim.image} %}
 
-    {% include 'covid-notice.njk' %}
-
     <div class="container my-6">
         <p>
             <a href="/">Home</a> /
@@ -20,6 +18,8 @@ permalink: "swim-school/north/preschool/{{ swim.name | slug }}/"
             <a href="/swim-school/north/preschool">Preschool</a> /
             {{ swim.name }}
         </p>
+
+        {% include 'covid-notice.njk' %}
 
         <div class="card p-6 my-6">
             <p class="lead">
