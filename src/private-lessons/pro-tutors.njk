@@ -3,17 +3,17 @@ layout : base.njk
 title : Pro Tutors
 ---
 
-<div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/pool-tiles-1440x400.jpg');">
-    <h1 class="text-6xl text-white font-bold text-shadow">{{ title }}</h1>
-</div>
+<main id="main" class="bg-gray-100 overflow-hidden">
+    {% banner title, { image: 'banners/pro-tutors.jpg' } %}
 
-<main id="main" class="bg-gray-100 py-6">
-    <div class="container overflow-hidden">
+    <div class="container py-6">
         <p>
             <a href="/">Home</a> /
             <a href="/private-lessons/">Private Lessons</a> /
             {{ title }}
         </p>
+
+        {% include 'covid-notice.njk' %}
 
         <p class="lead">
             Private lessons with top performing coaches for any competitive swimmer that needs additional coaching attention.

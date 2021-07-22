@@ -11,11 +11,11 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy({
         './node_modules/alpinejs/dist/cdn.min.js': './js/alpine.js',
-    })
+    });
 
     eleventyConfig.addShortcode('version', function () {
         return now
-    })
+    });
 
     eleventyConfig.addShortcode('banner', function (title, options = {}) {
         const {
@@ -24,7 +24,7 @@ module.exports = function (eleventyConfig) {
         return `<div class="h-32 lg:h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/${image}');">
             <h1 class="text-4xl md:text-5xl lg:text-6xl text-white font-bold text-center text-shadow">${ title }</h1>
         </div>`;
-    })
+    });
 
     eleventyConfig.addShortcode('coachContact', function (coachName, coachEmail ) {
         return `<div class="text-center">
@@ -32,7 +32,43 @@ module.exports = function (eleventyConfig) {
             <h4>${coachName}</h4>
             <p><a href="mailto:${coachEmail}">${coachEmail}</a></p>
         </div>`;
-    })
+    });
+
+    eleventyConfig.addShortcode('employeeApplicationForm', function ( jobTitle ) {
+        return `<h3>Think you'd be a great fit?</h3>
+        <p>Send us your information and we'll have our hiring manager contact you.</p>
+        <form name="employment-application" method="POST" netlify>
+            <input type="hidden" value="${jobTitle}">
+
+            <p>(All fields are required to submit the form)</p>
+
+            <p>
+                <label class="block" for="first-name">First Name</label>
+                <input type="text" id="first-name" name="first-name" value="" class="w-full" required>
+            </p>
+
+            <p>
+                <label class="block" for="last-name">Last Name</label>
+                <input type="text" id="last-name" name="last-name" value="" class="w-full" required>
+            </p>
+
+            <p>
+                <label class="block" for="phone">Phone</label>
+                <input type="tel" id="phone" name="phone" value="" class="w-full" required>
+            </p>
+
+            <p>
+                <label class="block" for="email">Email Address</label>
+                <input type="email" id="email" name="email" value="" class="w-full" required>
+            </p>
+
+            <p>
+                <input type="submit" value="Send" class="button">
+            </p>
+        </form>`;
+    });
+
+
 
     const { DateTime } = require("luxon");
 
@@ -77,17 +113,17 @@ module.exports = function (eleventyConfig) {
     // Filters
     Object.keys(filters).forEach((filterName) => {
         eleventyConfig.addFilter(filterName, filters[filterName])
-    })
+    });
 
     // Transforms
     Object.keys(transforms).forEach((transformName) => {
         eleventyConfig.addTransform(transformName, transforms[transformName])
-    })
+    });
 
     // Collections
     Object.keys(collections).forEach((collectionName) => {
         eleventyConfig.addCollection(collectionName, collections[collectionName])
-    })
+    });
 
     // This allows Eleventy to watch for file changes during local development.
     eleventyConfig.setUseGitIgnore(false);

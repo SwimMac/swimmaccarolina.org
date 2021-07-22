@@ -4,115 +4,118 @@ title: Contact Us
 name: Contact
 ---
 
-<main id="main" class="bg-gray-100 py-6">
-    <div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/pool-tiles-1440x400.jpg');">
-        <h1 class="text-6xl text-white font-bold text-shadow">{{ title }}</h1>
-    </div>
+<main id="main" class="bg-gray-100">
+    {% banner title %}
 
-    <div class="container">
-       <div class="text-center my-6">
-            <h2>SwimMAC Carolina</h2>
-
-            <p class="text-2xl">
-                9850 Providence Rd. <br>
-                Charlotte, NC 28277 <br>
-                <i class="fas fa-phone-alt"></i> 704-846-5335
-            </p>
-
-            <h3>Got a Question?</h3>
-       </div>
+    <div class="container py-6">
 
         <div class="flex flex-wrap -mx-4">
-            <div class="p-4 w-1/2 md:w-1/4">
-                <div class="card h-full p-4 text-center">
-                    <h4>Board of Directors</h4>
-                    <p>General Board Questions<br>
-                        <a href="mailto:BOD@swimmaccarolina.org">BOD@swimmaccarolina.org</a></p>
+           <div class="w-full lg:w-1/2 px-4">
+               <div class="text-center">
+                    <h2>SwimMAC Carolina</h2>
+
+                    <p class="text-2xl">
+                        9850 Providence Rd. <br>
+                        Charlotte, NC 28277 <br>
+                        <i class="fas fa-phone-alt"></i> 704-846-5335
+                    </p>
+                </div>
+
+                <div class="flex flex-wrap -mx-4">
+                    <div class="p-4 w-full lg:w-1/2">
+                        <div class="card h-full p-4 text-center">
+                            <h4>Board of Directors</h4>
+                            <p>General Board Questions<br>
+                                <a href="mailto:BOD@swimmaccarolina.org">BOD@swimmaccarolina.org</a></p>
+                        </div>
+                    </div>
+
+                    <div class="p-4 w-full lg:w-1/2">
+                        <div class="card h-full p-4 text-center">
+                            <h4>For Registration</h4>
+                            <p>Eddie Carter<br>
+                                <a href="mailto:billing@swimmaccarolina.org">billing@swimmaccarolina.org</a></p>
+                        </div>
+                    </div>
+
+                    <div class="p-4 w-full lg:w-1/2">
+                        <div class="card h-full p-4 text-center">
+                            <h4>For Swim School Questions</h4>
+                            <p>Martha Hocutt – North <br>
+                                <a href="mailto:mhocutt@swimmaccarolina.org">mhocutt@swimmaccarolina.org</a></p>
+
+                            <p>Carol Ann Hoff  – South<br>
+                                <a href="mailto:choff@swimmaccarolina.org">choff@swimmaccarolina.org</a></p>
+                        </div>
+                    </div>
+
+                    <div class="p-4 w-full lg:w-1/2">
+                        <div class="card h-full p-4 text-center">
+                            <h4>Latin Facility</h4>
+                            <p>Brian Cattaneo<br>
+                                <a href="mailto:bcattaneo@swimmaccarolina.org">bcattaneo@swimmaccarolina.org</a></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex flex-wrap -mx-4">
+                    <div class="w-1/2 p-4">
+                        <div class="card h-full p-4 text-center">
+                            <h4>JSL/Teen Fit</h4>
+                            <p>Brittany Ward – North <br>
+                                <a href="mailto:bward@swimmaccarolina.org">bward@swimmaccarolina.org</a></p>
+
+                            <p>Carrie Andrews – South<br>
+                                <a href="mailto:candrews@swimmaccarolina.org">candrews@swimmaccarolina.org</a></p>
+                        </div>
+                    </div>
+
+                    <div class="w-1/2 p-4">
+                        <div class="card h-full p-4 text-center">
+                            <h4>Swim Shop</h4>
+                            <p><a href="mailto:teamsales@carolinaswimshop.com">teamsales@carolinaswimshop.com</a></p>
+                        </div>
+                    </div>
+                </div>
+           </div>
+
+            <div class="w-full lg:w-1/2 px-4">
+                <div class="card p-6">
+                    <h3>Don’t Know Who to Contact?</h3>
+                    <p class="mb-4">Our main priority is to provide the best service possible. When you submit the form below we'll have one of our team members contact you as soon as possible.</p>
+
+                    <form class="form contact" name="contact" method="POST" action="/thank-you/" netlify-honeypot="bot-field" data-netlify="true">
+                        <div class="mb-6">
+                            <label class="block" for="name">Name</label>
+                            <input class="w-full" id="name" type="text" name="name" autocomplete="name" required="required">
+                        </div>
+
+                        <div class="mb-6">
+                            <label class="block" for="email">Email</label>
+                            <input class="w-full" id="email" type="text" name="email" autocapitalize="off" autocomplete="email" required="required">
+                        </div>
+
+                        <div class="mb-6">
+                            <label class="block" for="phone">Phone</label>
+                            <input class="w-full" id="phone" type="tel" name="phone" autocapitalize="off" autocomplete="tel" required="required">
+                        </div>
+
+                        <div class="mb-6">
+                            <label class="block" for="message">Message</label>
+                            <textarea rows="8" class="w-full" id="message" name="message" required="required"></textarea>
+                        </div>
+
+                        <div class="hidden">
+                            <label>Don’t fill this out if you're human:
+                            <input name="bot-field"/></label>
+                        </div>
+
+                        <div class="mb-6">
+                            <button class="button" type="submit">Get In Touch</button>
+                        </div>
+                    </form>
                 </div>
             </div>
-
-            <div class="p-4 w-1/2 md:w-1/4">
-                <div class="card h-full p-4 text-center">
-                    <h4>For Registration</h4>
-                    <p>Eddie Carter<br>
-                        <a href="mailto:billing@swimmaccarolina.org">billing@swimmaccarolina.org</a></p>
-                </div>
-            </div>
-
-            <div class="p-4 w-1/2 md:w-1/4">
-                <div class="card h-full p-4 text-center">
-                    <h4>For Swim School Questions</h4>
-                    <p>Martha Hocutt – North <br>
-                        <a href="mailto:mhocutt@swimmaccarolina.org">mhocutt@swimmaccarolina.org</a></p>
-
-                    <p>Carol Ann Hoff  – South<br>
-                        <a href="mailto:choff@swimmaccarolina.org">choff@swimmaccarolina.org</a></p>
-                </div>
-            </div>
-
-            <div class="p-4 w-1/2 md:w-1/4">
-                <div class="card h-full p-4 text-center">
-                    <h4>Latin Facility</h4>
-                    <p>Brian Cattaneo<br>
-                        <a href="mailto:bcattaneo@swimmaccarolina.org">bcattaneo@swimmaccarolina.org</a></p>
-                </div>
-            </div>
-        </div>
-
-        <div class="flex flex-wrap -mx-4">
-            <div class="w-1/2 p-4">
-                <div class="card h-full p-4 text-center">
-                    <h4>JSL/Teen Fit</h4>
-                    <p>Brittany Ward – North <br>
-                        <a href="mailto:bward@swimmaccarolina.org">bward@swimmaccarolina.org</a></p>
-
-                    <p>Carrie Andrews – South<br>
-                        <a href="mailto:candrews@swimmaccarolina.org">candrews@swimmaccarolina.org</a></p>
-                </div>
-            </div>
-
-            <div class="w-1/2 p-4">
-                <div class="card h-full p-4 text-center">
-                    <h4>Swim Shop</h4>
-                    <p><a href="mailto:teamsales@carolinaswimshop.com">teamsales@carolinaswimshop.com</a></p>
-                </div>
-            </div>
-        </div>
-
-        <div class="card p-6 my-6">
-            <h3>Don’t Know Who to Contact?</h3>
-            <p class="mb-4">Our main priority is to provide the best service possible. When you submit the form below we'll have one of our team members contact you as soon as possible.</p>
-
-            <form class="form contact" name="contact" method="POST" action="/thank-you/" netlify-honeypot="bot-field" data-netlify="true">
-                <div class="mb-6">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="name">Name</label>
-                    <input class="shadow appearance-none border border-gray-300 rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" id="name" type="text" name="name" autocomplete="name" required="required">
-                </div>
-
-                <div class="mb-6">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="email">Email</label>
-                    <input class="shadow appearance-none border border-gray-300 rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" id="email" type="text" name="email" autocapitalize="off" autocomplete="email" required="required">
-                </div>
-
-                <div class="mb-6">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="phone">Phone</label>
-                    <input class="shadow appearance-none border border-gray-300 rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" id="phone" type="tel" name="phone" autocapitalize="off" autocomplete="tel" required="required">
-                </div>
-
-                <div class="mb-6">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="message">Message</label>
-                    <textarea rows=12 class="shadow appearance-none border border-gray-300 rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" id="message" name="message" required="required"></textarea>
-                </div>
-
-                <div class="hidden">
-                    <label>Don’t fill this out if you're human:
-                    <input name="bot-field"/></label>
-                </div>
-
-                <div class="mb-6">
-                    <button class="button" type="submit">Get In Touch</button>
-                </div>
-            </form>
         </div>
     </div>
 </main>

@@ -3,19 +3,17 @@ layout : base.njk
 title : Private Lessons South
 ---
 
-<div class="h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/pool-tiles-1440x400.jpg');">
-    <h1 class="text-6xl text-white font-bold text-shadow">{{ title }}</h1>
-</div>
+<main id="main" class="bg-gray-100 overflow-hidden">
+    {% banner title, { image: 'banners/private-lessons.jpg' } %}
 
-<main id="main" class="bg-gray-100 py-6">
-    {% include 'covid-notice.njk' %}
-
-    <div class="container overflow-hidden">
+    <div class="container py-6">
         <p>
             <a href="/">Home</a> /
             <a href="/private-lessons/">Private Lessons</a> /
             {{ title }}
         </p>
+
+        {% include 'covid-notice.njk' %}
 
         <div class="card p-4">
             <div class="w-full md:w-1/2 lg:w-2/3 mx-auto">

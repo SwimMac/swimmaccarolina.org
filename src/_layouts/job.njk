@@ -5,18 +5,26 @@ layout: base.njk
 <main id="main" class="bg-gray-100 py-6">
 
   <div class="container">
-
-      <p>
-         <a href="/">Home</a> /
-         <a href="/employment/">Employment</a> /
-         {{ title }}
-      </p>
-
+    <p>
+        <a href="/">Home</a> /
+        <a href="/employment/">Employment</a> /
+        {{ title }}
+    </p>
 
     <h2>{{ title }}</h2>
 
-    <div class="radius shadow card p-4">
-      {{ content | safe }}
+    <div class="flex flex-wrap -mx-4">
+      <div class="w-full lg:w-1/2 p-4">
+        <div class="card p-4">
+          {{ content | safe }}
+        </div>
+      </div>
+
+      <div class="w-full lg:w-1/2 p-4">
+        <div class="card p-4">
+          {% employeeApplicationForm title %}
+        </div>
+      </div>
     </div>
   </div>
 
