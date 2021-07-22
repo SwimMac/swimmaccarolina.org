@@ -6,19 +6,18 @@ coach:
     email: candrews@swimmaccarolina.org
 ---
 
-{% banner title, {image: 'jsl.jpg'} %}
+<main id="main" class="bg-gray-100  overflow-hidden">
 
-<main id="main" class="bg-gray-100 py-6">
-    {% include 'covid-notice.njk' %}
+    {% banner title, { image: 'banners/jsl.jpg' } %}
 
-    <div class="container overflow-hidden">
-
+    <div class="container py-6">
         <p>
             <a href="/">Home</a> /
             <a href="/jsl/">Junior Swim League</a> /
             {{ title }}
         </p>
 
+        {% include 'covid-notice.njk' %}
 
         <p class="lead">
             For swimmers ages 6-12 who can swim one length (25 yards) Freestyle and Backstroke and have some knowledge of Butterfly

@@ -3,17 +3,19 @@ layout : base.njk
 title : Adult Group Lessons
 ---
 
-{% banner title %}
 
-<main id="main" class="bg-gray-100 py-6">
-    {% include 'covid-notice.njk' %}
 
-    <div class="container overflow-hidden">
-         <p>
+<main id="main" class="bg-gray-100 overflow-hidden">
+    {% banner title %}
+
+    <div class="container py-6">
+        <p>
             <a href="/">Home</a> /
             <a href="/adult-programs/">Adult Programs</a> /
             {{ title }}
         </p>
+
+         {% include 'covid-notice.njk' %}
 
         <div class="flex flex-wrap -mx-4 justify-center">
             <div class="w-full md:w-1/2 lg:w-1/3 p-4">

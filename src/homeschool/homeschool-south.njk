@@ -6,18 +6,18 @@ coach:
     email: candrews@swimmaccarolina.org
 ---
 
-{% banner title, {image: 'banners/homeschool.jpg'} %}
+<main id="main" class="bg-gray-100 overflow-hidden">
 
-<main id="main" class="bg-gray-100 py-6">
-    {% include 'covid-notice.njk' %}
+    {% banner title, {image: 'banners/homeschool.jpg'} %}
 
-    <div class="container overflow-hidden">
-
+    <div class="container py-6">
         <p>
             <a href="/">Home</a> /
             <a href="/homeschool/">Homeschool</a> /
             {{ title }}
         </p>
+
+        {% include 'covid-notice.njk' %}
 
         <p class="lead">
            Structured with homeschool families in mind, we offer three different levels for ages 3–18 years taught simultaneously
