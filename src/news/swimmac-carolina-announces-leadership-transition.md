@@ -1,6 +1,6 @@
 ---
 layout: news.njk
-date: 2020-07-08T14:26:25.621Z
+date: 2020-07-09T14:26:00.000Z
 title: SwimMAC Carolina Announces Leadership Transition
 ---
 <!--StartFragment-->
