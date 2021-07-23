@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-date: date
+date: postDate
 ---
 
 <main id="main" class="bg-gray-100 py-6">
@@ -13,7 +13,7 @@ date: date
     </p>
 
     <h2>{{ title }}</h2>
-    <p>Posted {{ date | readableDate }}</p>
+    <p>Posted {{ postDate | readableDate }}</p>
 
     <div class="radius shadow card p-4">
       <div class="flex flex-wrap -mx-4">
