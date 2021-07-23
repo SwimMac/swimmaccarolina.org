@@ -68,69 +68,6 @@ module.exports = function (eleventyConfig) {
         </form>`;
     });
 
-    const { DateTime } = require("luxon");
-
-    // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-    eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-      return DateTime.fromJSDate(dateObj, {
-        zone: 'utc'
-      }).toFormat('yy-MM-dd');
-    });
-
-    eleventyConfig.addFilter("readableDate", dateObj => {
-      return DateTime.fromJSDate(dateObj, {
-        zone: 'utc'
-      }).toFormat("LLL dd, yyyy");
-    });
-
-    eleventyConfig.addFilter("randomItem", (arr) => {
-        arr.sort(() => {
-          return 0.5 - Math.random();
-        });
-        return arr.slice(0, 1);
-    });
-
-    eleventyConfig.addFilter( "extractExcerpt", (article) => {
-        let excerpt = null;
-        const content = article;
-
-        // The start and end separators to try and match to extract the excerpt
-        const separatorsList = [
-          { start: '<!--StartFragment-->', end: '<!--EndFragment-->' },
-          { start: ' ', end: ' ' }
-        ];
-
-        separatorsList.some(separators => {
-          const startPosition = content.indexOf(separators.start);
-          const endPosition = content.indexOf(separators.end);
-
-          if (startPosition !== -1 && endPosition !== -1) {
-            excerpt = content.substring(startPosition + separators.start.length, endPosition).trim();
-            return true; // Exit out of array loop on first match
-          }
-        });
-
-        return excerpt;
-    });
-
-    eleventyConfig.addFilter("random", function(arr, n) {
-        var result = new Array(n),
-            len = arr.length,
-            taken = new Array(len);
-        if (n > len)
-            throw new RangeError("getRandom: more elements taken than available");
-        while (n--) {
-            var x = Math.floor(Math.random() * len);
-            result[n] = arr[x in taken ? taken[x] : x];
-            taken[x] = --len in taken ? taken[len] : len;
-        }
-        return result;
-    });
-
-    eleventyConfig.addFilter("limit", function (arr, limit) {
-        return arr.slice(0, limit);
-    });
-
     // Filters
     Object.keys(filters).forEach((filterName) => {
         eleventyConfig.addFilter(filterName, filters[filterName])

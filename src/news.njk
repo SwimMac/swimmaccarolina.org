@@ -3,25 +3,33 @@ layout: base.njk
 permalink: /news/
 ---
 {% set news = collections.news %}
+<main id="main" class="bg-gray-100">
 
-<div class="container">
-  <h2>SwimMAC News</h2>
+  <div class="container py-6">
+    <h2>SwimMAC News</h2>
 
-  {% for newsItem in news %}
-  <a href="{{ newsItem.url | url }}" class="card p-6 my-6">
+    <div class="flex flex-wrap -mx-4 mb-6">
 
-    <div class="flex flex-wrap -mx-4 items-center">
-      <div class="w-full md:w-32 p-4">
-        <img src="/static/{{ newsItem.data.image }}" alt="">
+      {% for newsItem in news %}
+      <div class="w-full md:w-1/2 px-4">
+        <a href="{{ newsItem.url | url }}" class="card h-full">
+          <div class="flex flex-wrap justify-center">
+            {% if newsItem.data.image %}
+            <div class="w-52 p-4">
+              <img src="/static/{{ newsItem.data.image }}" alt="" class="rounded-full mx-auto">
+            </div>
+            {% endif %}
+
+            <div class="flex-1 p-4">
+              <h3>{{ newsItem.data.title }}</h3>
+              <p>{{ newsItem.data.date | readableDate }}</p>
+            </div>
+          </div>
+        </a>
       </div>
+      {% endfor%}
 
-      <div class="p-4">
-        <h3>{{ newsItem.data.title }}</h3>
-        <p>{{ newsItem.data.date | readableDate }}</p>
-      </div>
     </div>
 
-  </a>
-  {% endfor%}
-
-</div>
+  </div>
+</main>

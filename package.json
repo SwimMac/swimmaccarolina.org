@@ -33,6 +33,7 @@
 		"webpack-cli": "^3.3.12"
 	},
 	"dependencies": {
-		"@tailwindcss/forms": "^0.3.3"
+		"@tailwindcss/forms": "^0.3.3",
+		"moment": "^2.29.1"
 	}
 }
