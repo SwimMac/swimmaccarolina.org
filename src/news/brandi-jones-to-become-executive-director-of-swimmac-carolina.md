@@ -2,7 +2,7 @@
 layout: news.njk
 date: 2021-07-23T14:20:21.132Z
 title: Brandi Jones to Become Executive Director of SwimMAC Carolina
-image: src/static/uploads/2020-brandi-jones-640x640.jpg
+image: /src/static/uploads/news/2020-brandi-jones-640x640.jpg
 ---
 <!--StartFragment-->\
 
