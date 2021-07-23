@@ -36,13 +36,13 @@ collections:
         widget: "hidden"
         default: "news.njk"
 
-      - label: "Posted Date"
-        name: "postDate"
-        widget: "datetime"
-
       - label: "Title"
         name: "title"
         widget: "string"
+
+      - label: "Posted Date"
+        name: "postDate"
+        widget: "datetime"
 
       - label: "Post Body"
         name: "body"
