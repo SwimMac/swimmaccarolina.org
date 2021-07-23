@@ -11,7 +11,7 @@ permalink: /news/
     <div class="flex flex-wrap -mx-4 mb-6">
 
       {% for newsItem in news %}
-      <div class="w-full md:w-1/2 px-4">
+      <div class="w-full md:w-1/2 px-4 pb-4">
         <a href="{{ newsItem.url | url }}" class="card h-full">
           <div class="flex flex-wrap justify-center">
             {% if newsItem.data.image %}
