@@ -37,7 +37,7 @@ collections:
         default: "news.njk"
 
       - label: "Posted Date"
-        name: "date"
+        name: "postDate"
         widget: "datetime"
 
       - label: "Title"
