@@ -1,11 +1,11 @@
 ---
 layout: base.njk
+date: date
 ---
 
 <main id="main" class="bg-gray-100 py-6">
 
   <div class="container">
-
     <p>
         <a href="/">Home</a> /
         <a href="/news/">News</a> /
@@ -22,6 +22,14 @@ layout: base.njk
         </div>
         <div class="w-full md:w-2/3 p-4">
           {{ content | safe }}
+
+          <p>
+            <strong>About SwimMAC Carolina:</strong><br>
+            Established in 1977 as the Mecklenburg Aquatic Club, SwimMAC Carolina is a Nationally recognized,
+            USA Swimming Gold Medal Club offering swimming programs for people of all ages and experience levels.
+            SwimMAC Carolina provides aquatic instruction and competitive training for nearly 10,000 people in the
+            Charlotte region each year. Our mission is to empower young people to be champions in life through
+            excellence in swimming. The Club is organized as a 501(c)(3) nonprofit.
         </div>
        </div>
     </div>
