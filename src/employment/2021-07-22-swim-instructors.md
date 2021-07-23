@@ -11,5 +11,3 @@ We’re currently looking for fun energetic people to become Swim Instructors fo
 If you’re up for the challenge, fill out the form and we’ll contact you to setup an initial interview.
 
 ![Swim instructor teaching kids](static/uploads/swim-instructor.jpg)
-
-<!--EndFragment-->
