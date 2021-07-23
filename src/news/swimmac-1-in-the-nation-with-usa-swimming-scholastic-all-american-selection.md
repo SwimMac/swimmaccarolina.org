@@ -1,6 +1,6 @@
 ---
 layout: news.njk
-date: 2020-01-01T15:24:42.845Z
+date: 2020-01-02T15:24:00.000Z
 title: "SwimMAC #1 in the Nation with USA Swimming Scholastic All-American Selection"
 ---
 <!--StartFragment-->
