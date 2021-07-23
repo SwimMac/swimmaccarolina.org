@@ -4,7 +4,7 @@ date: 2021-07-23T14:20:21.132Z
 title: Brandi Jones to Become Executive Director of SwimMAC Carolina
 image: /static/uploads/news/2020-brandi-jones-640x640.jpg
 ---
-<!--StartFragment-->\
+<!--StartFragment-->
 
 Effective January 4, 2021, Brandi Jones will join SwimMAC Carolina as their new Executive Director leading overall program operations, facilities management, and driving proactive community engagement. A 15-year veteran of the nonprofit sector, with an MBA from Pfeiffer University, Brandi was the clear choice for this new role with SwimMAC. “Brandi has a track record of excellence throughout <!--EndFragment--> her career. She sets high standards and has demonstrated her ability to unite and lead an organization to ensure it is operationally and financially sound,” stated SwimMAC Executive Director Search Committee Chairman and Board Member Matt McFee. McFee led SwimMAC’s Search Committee through a six-month nationwide search.
 
