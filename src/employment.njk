@@ -14,7 +14,7 @@ permalink: /employment/
     {% for jobs in jobsList %}
     <a href="{{ jobs.url | url }}" class="card p-6 my-6">
       <h3>{{ jobs.data.title }}</h3>
-      <div>{{ jobs.templateContent | extractExcerpt | safe }}</div>
+      <div>{{ jobs.templateContent | extractExcerpt | safe }} <span class="text-primary">Read Full Job Posting</span></div>
     </a>
     {% endfor%}
 

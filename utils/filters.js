@@ -11,7 +11,7 @@ module.exports = {
   },
 
   readableDate: (dateObj) => {
-    return moment(dateObj).format("MMM Do YYYY");
+    return moment(dateObj).format("MMM Do, YYYY");
   },
 
   randomItem: (arr) => {

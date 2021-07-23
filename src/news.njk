@@ -8,28 +8,24 @@ permalink: /news/
   <div class="container py-6">
     <h2>SwimMAC News</h2>
 
-    <div class="flex flex-wrap -mx-4 mb-6">
-
-      {% for newsItem in news | reverse %}
-      <div class="w-full md:w-1/2 px-4 pb-4">
-        <a href="{{ newsItem.url | url }}" class="card h-full">
-          <div class="flex flex-wrap justify-center">
-            {% if newsItem.data.image %}
-            <div class="w-52 p-4">
-              <img src="{{ newsItem.data.image }}" alt="" class="rounded-full mx-auto">
-            </div>
-            {% endif %}
-
-            <div class="flex-1 p-4">
-              <h3>{{ newsItem.data.title }}</h3>
-              <p>{{ newsItem.data.postDate | readableDate }}</p>
-            </div>
+    {% for newsItem in news | reverse %}
+      <a href="{{ newsItem.url | url }}" class="card mb-4">
+        <div class="flex flex-wrap justify-center">
+          {% if newsItem.data.image %}
+          <div class="w-52 p-4">
+            <img src="{{ newsItem.data.image }}" alt="" class="rounded-full mx-auto">
           </div>
-        </a>
-      </div>
-      {% endfor%}
+          {% endif %}
 
-    </div>
+          <div class="flex-1 p-4">
+            <h3>{{ newsItem.data.title }}</h3>
+            <p>{{ newsItem.data.postDate | readableDate }}</p>
+            <div>{{ newsItem.templateContent | extractExcerpt | safe }}... <span class="text-primary">Read More</span></div>
+          </div>
+        </div>
+      </a>
+
+    {% endfor%}
 
   </div>
 </main>
