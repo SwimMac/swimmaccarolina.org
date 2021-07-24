@@ -202,7 +202,7 @@
             <h3 class="text-secondary text-xl">Programs</h3>
              <ul class="list-none">
               {% for program in programs %}
-              <li class="">
+              <li>
                 <a href="{{ program.url }}" class="text-gray-900">
                   {{ program.name }}
                 </a>
@@ -216,7 +216,7 @@
              <ul class="list-none">
               {% for item in about_us %}
               <li>
-                <a href="#" class="text-gray-900">
+                <a href="/{{ item.url }}" class="text-gray-900">
                   {{ item.name }}
                 </a>
               </li>
