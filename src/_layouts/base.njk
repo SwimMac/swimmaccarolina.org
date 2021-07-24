@@ -35,7 +35,7 @@
           {# Mobile Only #}
           {# Programs #}
           <div class="md:hidden relative" x-data="{isOpen: false}" @click.away="isOpen = false">
-            <button @click="isOpen = !isOpen" class="w-full flex flex-row items-center px-4 py-2 mt-2 text-sm font-semibold text-white md:mt-0 hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none">
+            <button @click="isOpen = !isOpen" class="dropdown-menu__toggler dropdown-menu__toggler--aux">
               <span>Programs</span>
               <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="inline w-4 h-4 ml-1 transition-transform duration-200 transform">
                 <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
@@ -45,7 +45,7 @@
             <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
               <div class="dropdown-menu__wrapper">
                 {% for program in programs %}
-                <a href="{{ program.url }}" class="dropdown-menu__item-link">
+                <a href="{{ program.url }}" class="dropdown-menu__link">
                   {{ program.name }}
                 </a>
                 {% endfor %}
@@ -55,7 +55,7 @@
 
           {# About Us #}
           <div class="md:hidden" x-data="{ isOpen: false}" @click.away="isOpen = false">
-            <button @click="isOpen = !isOpen" class="w-full flex flex-row items-center px-4 py-2 mt-2 text-sm font-semibold text-white md:mt-0 hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none">
+            <button @click="isOpen = !isOpen" class="dropdown-menu__toggler dropdown-menu__toggler--aux">
               <span>About Us</span>
               <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
                 <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
@@ -65,7 +65,7 @@
             <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
               <div class="dropdown-menu__wrapper">
                 {% for item in about_us %}
-                <a href="/{{ item.url }}" class="dropdown-menu__item-link">
+                <a href="/{{ item.url }}" class="dropdown-menu__link">
                   {{ item.name }}
                 </a>
                 {% endfor %}
@@ -75,7 +75,7 @@
 
           {# Contact Us #}
           <div class="md:hidden" x-data="{ isOpen: false}" @click.away="isOpen = false" class="relative">
-            <button @click="isOpen = !isOpen" class="w-full flex flex-row items-center px-4 py-2 mt-2 text-sm font-semibold text-white md:mt-0 hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none">
+            <button @click="isOpen = !isOpen" class="dropdown-menu__toggler dropdown-menu__toggler--aux">
               <span>Contact Us</span>
               <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
                 <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
@@ -84,10 +84,10 @@
 
             <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
               <div class="dropdown-menu__wrapper">
-                <a href="/locations" class="dropdown-menu__item-link">
+                <a href="/locations" class="dropdown-menu__link">
                  Locations
                 </a>
-                <a href="/contact-us" class="dropdown-menu__item-link">
+                <a href="/contact-us" class="dropdown-menu__link">
                  Contact Us
                 </a>
               </div>
@@ -96,7 +96,7 @@
           {# End Mobile Only #}
 
           <div @click.away="isOpen = false" class="relative" x-data="{ isOpen: false }">
-            <button @click="isOpen = !isOpen" class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-white md:mt-0 hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none">
+            <button @click="isOpen = !isOpen" class="dropdown-menu__toggler dropdown-menu__toggler--aux">
               <span>Swim School Login</span>
               <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="dropdown-menu__toggler-arrow">
                 <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
@@ -105,10 +105,10 @@
 
             <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
               <div class="dropdown-menu__wrapper">
-                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524744" class="dropdown-menu__item-link">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524744" class="dropdown-menu__link">
                   North Login
                 </a>
-                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524998" class="dropdown-menu__item-link">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524998" class="dropdown-menu__link">
                   South Login
                 </a>
               </div>
@@ -137,7 +137,7 @@
             <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
               <div class="dropdown-menu__wrapper">
                 {% for program in programs %}
-                <a href="{{ program.url }}" class="dropdown-menu__item-link">
+                <a href="{{ program.url }}" class="dropdown-menu__link">
                   {{ program.name }}
                 </a>
                 {% endfor %}
@@ -156,7 +156,7 @@
             <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
               <div class="dropdown-menu__wrapper">
                 {% for item in about_us %}
-                <a href="/{{ item.url }}" class="dropdown-menu__item-link">
+                <a href="/{{ item.url }}" class="dropdown-menu__link">
                   {{ item.name }}
                 </a>
                 {% endfor %}
@@ -174,10 +174,10 @@
 
             <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
               <div class="dropdown-menu__wrapper">
-                <a href="/locations" class="dropdown-menu__item-link">
+                <a href="/locations" class="dropdown-menu__link">
                  Locations
                 </a>
-                <a href="/contact-us" class="dropdown-menu__item-link">
+                <a href="/contact-us" class="dropdown-menu__link">
                  Contact Us
                 </a>
               </li>
