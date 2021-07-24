@@ -14,95 +14,176 @@
   <body>
     <a href="#main" class="skip-link">Skip to main content</a>
 
-    <nav class="bg-secondary">
-      <div class="container flex justify-end">
-        <ul class="flex items-center list-none m-0">
+    <div class="w-full text-white bg-secondary">
+      <div x-data="{ open: false }" class="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+
+        <div class="p-4 flex flex-row items-center justify-between">
+          <button class="flex md:hidden rounded-lg focus:outline-none" @click="open = !open">
+            <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
+              <path x-show="!open" fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z" clip-rule="evenodd"></path>
+              <path x-show="open" fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+            </svg>
+            Menu
+          </button>
+        </div>
+
+        <nav :class="{'flex': open, 'hidden': !open}" class="flex-col flex-grow pb-4 md:pb-0 hidden md:flex md:justify-end md:flex-row">
           {% for item in aux_nav %}
-          <li class="mb-0">
-            <a href="{{ item.url }}" {% if item.targetBlank %} target="_blank" {% endif %} class="block no-underline text-white p-2 lg:p-4 hover:bg-primary hover:text-white">
-              {{ item.name }}
-            </a>
-          </li>
+          <a class="px-4 py-2 mt-2 text-sm font-semibold text-white md:mt-0 hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none" href="{{ item.url }}" {% if item.targetBlank %} target="_blank" {% endif %}>{{ item.name }}</a>
           {% endfor %}
-          <li x-data="{ isOpen: false}" @mouseenter="isOpen = true" @mouseleave="isOpen = false" class="relative mb-0">
-            <button class="text-white p-4 hover:bg-secondary hover:text-white">
-              Swim School Login <i class="fas fa-caret-down"></i>
+
+          {# Mobile Only #}
+          {# Programs #}
+          <div class="md:hidden relative" x-data="{isOpen: false}" @click.away="isOpen = false">
+            <button @click="isOpen = !isOpen" class="w-full flex flex-row items-center px-4 py-2 mt-2 text-sm font-semibold text-white md:mt-0 hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none">
+              <span>Programs</span>
+              <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="inline w-4 h-4 ml-1 transition-transform duration-200 transform">
+                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+              </svg>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu right-0" x-cloak>
-              <li class="dropdown-menu__item">
-                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524744" target="_blank" class="dropdown-menu__item-link">
-                  North Login
-                </a>
-              </li>
-              <li class="dropdown-menu__item">
-                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524998" target="_blank" class="dropdown-menu__item-link">
-                  South Login
-                </a>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </div>
-    </nav>
-
-    <header class="container flex flex-wrap justify-center lg:justify-between items-center py-4">
-      <a href="/" class="block mb-4 lg:mb-0">
-        <img src="/static/swimmac-logo.svg" alt="SwimMAC Carolina" class="w-48">
-      </a>
-
-      <nav class="flex flex-wrap justify-center lg:justify-between">
-        <ul class="flex items-center text-lg mr-4 mb-4 lg:mb-0 list-none">
-          <li x-data="{ isOpen: false}" @mouseenter="isOpen = true" @mouseleave="isOpen = false" class="relative mb-0">
-            <button class="px-4 py-2 hover:bg-primary hover:text-white">
-              Programs <i class="fas fa-caret-down"></i>
-            </button>
-
-            <ul x-show="isOpen" class="dropdown-menu left-0 lg:left-auto lg:right-0" x-cloak>
-              {% for program in programs %}
-              <li class="dropdown-menu__item">
+            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+              <div class="dropdown-menu__wrapper">
+                {% for program in programs %}
                 <a href="{{ program.url }}" class="dropdown-menu__item-link">
                   {{ program.name }}
                 </a>
-              </li>
-              {% endfor %}
-            </ul>
-          </li>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
 
-          <li x-data="{ isOpen: false}" @mouseenter="isOpen = true" @mouseleave="isOpen = false" class="relative mb-0">
-            <button class="px-4 py-2 hover:bg-primary hover:text-white">
-              About Us <i class="fas fa-caret-down"></i>
+          {# About Us #}
+          <div class="md:hidden" x-data="{ isOpen: false}" @click.away="isOpen = false">
+            <button @click="isOpen = !isOpen" class="w-full flex flex-row items-center px-4 py-2 mt-2 text-sm font-semibold text-white md:mt-0 hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none">
+              <span>About Us</span>
+              <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
+                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+              </svg>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu right-0" x-cloak>
-              {% for item in about_us %}
-              <li class="dropdown-menu__item">
+            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+              <div class="dropdown-menu__wrapper">
+                {% for item in about_us %}
                 <a href="/{{ item.url }}" class="dropdown-menu__item-link">
                   {{ item.name }}
                 </a>
-              </li>
-              {% endfor %}
-            </ul>
-          </li>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
 
-          <li x-data="{ isOpen: false}" @mouseenter="isOpen = true" @mouseleave="isOpen = false" class="relative mb-0">
-            <button class="px-4 py-2 hover:bg-primary hover:text-white">
-              Contact Us <i class="fas fa-caret-down"></i>
+          {# Contact Us #}
+          <div class="md:hidden" x-data="{ isOpen: false}" @click.away="isOpen = false" class="relative">
+            <button @click="isOpen = !isOpen" class="w-full flex flex-row items-center px-4 py-2 mt-2 text-sm font-semibold text-white md:mt-0 hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none">
+              <span>Contact Us</span>
+              <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
+                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+              </svg>
             </button>
 
-            <ul x-show="isOpen" class="dropdown-menu right-0" x-cloak>
-              <li class="dropdown-menu__item">
+            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+              <div class="dropdown-menu__wrapper">
                 <a href="/locations" class="dropdown-menu__item-link">
                  Locations
                 </a>
-              </li>
-              <li class="dropdown-menu__item">
+                <a href="/contact-us" class="dropdown-menu__item-link">
+                 Contact Us
+                </a>
+              </div>
+            </div>
+          </div>
+
+          {# End Mobile Only #}
+
+          <div @click.away="isOpen = false" class="relative" x-data="{ isOpen: false }">
+            <button @click="isOpen = !isOpen" class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-white md:mt-0 hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none">
+              <span>Swim School Login</span>
+              <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="dropdown-menu__toggler-arrow">
+                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+              </svg>
+            </button>
+
+            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+              <div class="dropdown-menu__wrapper">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524744" class="dropdown-menu__item-link">
+                  North Login
+                </a>
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524998" class="dropdown-menu__item-link">
+                  South Login
+                </a>
+              </div>
+            </div>
+
+          </div>
+        </nav>
+      </div>
+    </div>
+
+    <header class="container flex flex-wrap justify-center lg:justify-between items-center py-4">
+      <a href="/" class="block w-full md:w-auto mb-4 lg:mb-0">
+        <img src="/static/swimmac-logo.svg" alt="SwimMAC Carolina" class="w-48 mx-auto">
+      </a>
+
+      <nav class="flex flex-wrap justify-center lg:justify-between">
+        <ul class="hidden md:flex items-center text-lg mr-4 mb-4 lg:mb-0 list-none">
+          <li x-data="{ isOpen: false}" @click.away="isOpen = false" class="relative mb-0">
+            <button @click="isOpen = !isOpen" class="dropdown-menu__toggler">
+              <span>Programs</span>
+              <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="dropdown-menu__toggler-arrow">
+                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+              </svg>
+            </button>
+
+            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+              <div class="dropdown-menu__wrapper">
+                {% for program in programs %}
+                <a href="{{ program.url }}" class="dropdown-menu__item-link">
+                  {{ program.name }}
+                </a>
+                {% endfor %}
+              </div>
+            </div>
+          </li>
+
+          <li x-data="{ isOpen: false}" @click.away="isOpen = false" class="relative mb-0">
+            <button @click="isOpen = !isOpen" class="dropdown-menu__toggler">
+              <span>About Us</span>
+              <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="dropdown-menu__toggler-arrow">
+                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+              </svg>
+            </button>
+
+            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+              <div class="dropdown-menu__wrapper">
+                {% for item in about_us %}
+                <a href="/{{ item.url }}" class="dropdown-menu__item-link">
+                  {{ item.name }}
+                </a>
+                {% endfor %}
+              </div>
+            </div>
+          </li>
+
+          <li x-data="{ isOpen: false}" @click.away="isOpen = false" class="relative mb-0">
+            <button @click="isOpen = !isOpen" class="dropdown-menu__toggler">
+              <span>Contact Us</span>
+              <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': isOpen, 'rotate-0': !isOpen}" class="dropdown-menu__toggler-arrow">
+                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+              </svg>
+            </button>
+
+            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+              <div class="dropdown-menu__wrapper">
+                <a href="/locations" class="dropdown-menu__item-link">
+                 Locations
+                </a>
                 <a href="/contact-us" class="dropdown-menu__item-link">
                  Contact Us
                 </a>
               </li>
-            </ul>
-          </li>
+            </div>
+          </div>
         </ul>
 
         <div class="ml-2">
@@ -110,8 +191,7 @@
             Get Started
           </a>
         </div>
-
-       </nav>
+      </nav>
     </header>
 
     {{ content | safe }}
