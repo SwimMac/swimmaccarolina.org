@@ -93,7 +93,6 @@
               </div>
             </div>
           </div>
-
           {# End Mobile Only #}
 
           <div @click.away="isOpen = false" class="relative" x-data="{ isOpen: false }">
@@ -122,11 +121,11 @@
 
     <header class="container flex flex-wrap justify-center lg:justify-between items-center py-4">
       <a href="/" class="block w-full md:w-auto mb-4 lg:mb-0">
-        <img src="/static/swimmac-logo.svg" alt="SwimMAC Carolina" class="w-48 mx-auto">
+        <img src="/static/swimmac-logo.svg" alt="SwimMAC Carolina" class="w-60 md:w-48 mx-auto">
       </a>
 
-      <nav class="flex flex-wrap justify-center lg:justify-between">
-        <ul class="hidden md:flex items-center text-lg mr-4 mb-4 lg:mb-0 list-none">
+      <nav class="hidden md:flex flex-wrap justify-center lg:justify-between">
+        <ul class="flex items-center text-lg mr-4 mb-4 lg:mb-0 list-none">
           <li x-data="{ isOpen: false}" @click.away="isOpen = false" class="relative mb-0">
             <button @click="isOpen = !isOpen" class="dropdown-menu__toggler">
               <span>Programs</span>
