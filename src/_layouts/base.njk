@@ -15,7 +15,9 @@
     <a href="#main" class="skip-link">Skip to main content</a>
 
     <div class="w-full text-white bg-secondary">
-      <div x-data="{ open: false }" class="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+      <div x-data="{ open: false }"
+        class="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8"
+        x-cloak>
 
         <div class="p-4 flex flex-row items-center justify-between">
           <button class="flex md:hidden rounded-lg focus:outline-none" @click="open = !open">
@@ -42,7 +44,15 @@
               </svg>
             </button>
 
-            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+            <div x-show="isOpen"
+            x-transition:enter="transition ease-out duration-100"
+            x-transition:enter-start="transform opacity-0 scale-95"
+            x-transition:enter-end="transform opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="transform opacity-100 scale-100"
+            x-transition:leave-end="transform opacity-0 scale-95"
+            class="dropdown-menu"
+            x-cloak>
               <div class="dropdown-menu__wrapper">
                 {% for program in programs %}
                 <a href="{{ program.url }}" class="dropdown-menu__link">
@@ -62,7 +72,15 @@
               </svg>
             </button>
 
-            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+            <div x-show="isOpen"
+            x-transition:enter="transition ease-out duration-100"
+            x-transition:enter-start="transform opacity-0 scale-95"
+            x-transition:enter-end="transform opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="transform opacity-100 scale-100"
+            x-transition:leave-end="transform opacity-0 scale-95"
+            class="dropdown-menu"
+            x-cloak>
               <div class="dropdown-menu__wrapper">
                 {% for item in about_us %}
                 <a href="/{{ item.url }}" class="dropdown-menu__link">
@@ -82,7 +100,15 @@
               </svg>
             </button>
 
-            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+            <div x-show="isOpen"
+            x-transition:enter="transition ease-out duration-100"
+            x-transition:enter-start="transform opacity-0 scale-95"
+            x-transition:enter-end="transform opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="transform opacity-100 scale-100"
+            x-transition:leave-end="transform opacity-0 scale-95"
+            class="dropdown-menu"
+            x-cloak>
               <div class="dropdown-menu__wrapper">
                 <a href="/locations" class="dropdown-menu__link">
                  Locations
@@ -103,7 +129,14 @@
               </svg>
             </button>
 
-            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+            <div x-show="isOpen"
+            x-transition:enter="transition ease-out duration-100"
+            x-transition:enter-start="transform opacity-0 scale-95"
+            x-transition:enter-end="transform opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="transform opacity-100 scale-100"
+            x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu"
+            x-cloak>
               <div class="dropdown-menu__wrapper">
                 <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=524744" class="dropdown-menu__link">
                   North Login
@@ -134,7 +167,15 @@
               </svg>
             </button>
 
-            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+            <div x-show="isOpen"
+            x-transition:enter="transition ease-out duration-100"
+            x-transition:enter-start="transform opacity-0 scale-95"
+            x-transition:enter-end="transform opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="transform opacity-100 scale-100"
+            x-transition:leave-end="transform opacity-0 scale-95"
+            class="dropdown-menu"
+            x-cloak>
               <div class="dropdown-menu__wrapper">
                 {% for program in programs %}
                 <a href="{{ program.url }}" class="dropdown-menu__link">
@@ -153,7 +194,15 @@
               </svg>
             </button>
 
-            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+            <div x-show="isOpen"
+            x-transition:enter="transition ease-out duration-100"
+            x-transition:enter-start="transform opacity-0 scale-95"
+            x-transition:enter-end="transform opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="transform opacity-100 scale-100"
+            x-transition:leave-end="transform opacity-0 scale-95"
+            class="dropdown-menu"
+            x-cloak>
               <div class="dropdown-menu__wrapper">
                 {% for item in about_us %}
                 <a href="/{{ item.url }}" class="dropdown-menu__link">
@@ -172,7 +221,15 @@
               </svg>
             </button>
 
-            <div x-show="isOpen" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="dropdown-menu">
+            <div x-show="isOpen"
+            x-transition:enter="transition ease-out duration-100"
+            x-transition:enter-start="transform opacity-0 scale-95"
+            x-transition:enter-end="transform opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="transform opacity-100 scale-100"
+            x-transition:leave-end="transform opacity-0 scale-95"
+            class="dropdown-menu"
+            x-cloak>
               <div class="dropdown-menu__wrapper">
                 <a href="/locations" class="dropdown-menu__link">
                  Locations
