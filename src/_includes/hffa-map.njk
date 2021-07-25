@@ -4,16 +4,10 @@
 <script>
      function initMap() {
         function addMapMarker(location, map) {
-            var icons = {
-                positive: {
-                    icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
-                }
-            };
             var contentString = '<h3>' + location[0] + '</h3><p>' + location[1] + '</p>';
             var infowindow = new google.maps.InfoWindow({content: contentString});
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(location[2], location[3]),
-                // icon: icons.positive.icon,
                 title: location[0],
                 map: map
             });
