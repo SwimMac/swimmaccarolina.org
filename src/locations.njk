@@ -96,14 +96,11 @@ name : Contact
                 map: map
             });
             // Each map marker click function
-            google
-                .maps
-                .event
-                .addListener(marker, 'click', (function (marker, location) {
-                    return function () {
-                        infowindow.open(map, marker);
-                    }
-                })(marker, location));
+            google.maps.event.addListener(marker, 'click', (function (marker, location) {
+                return function () {
+                    infowindow.open(map, marker);
+                }
+            })(marker, location));
         }
         // -------------- Recommendations Map ----------------//
         var map = new google.maps.Map(document.getElementById('map'), {

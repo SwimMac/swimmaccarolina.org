@@ -55,23 +55,7 @@ permalink: "swim-school/south/grade-school/{{ swim.name | slug }}/"
             {% include 'location-details-south.njk' %}
     </div>
 
-    <div class="container card p-4 my-6">
-        <div id="map2" style="height: 600px; width: 100%;"></div>
+     <div class="container card p-4 my-6">
+        {% include 'latin-map.njk' %}
     </div>
 </main>
-
-<script async='' defer='defer' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDRlGlxv8MwYW4cJ0_BvVvDDYpB0-XEhCQ&amp;callback=initMap'></script>
-<script>
-    function initMap() {
-    var charlotte = {
-        lat: 35.074969, lng: -80.774027};
-        var map = new google.maps.Map(document.getElementById('map2'), {
-            zoom: 9,
-            center: charlotte
-        });
-        var north_clt = new google.maps.Marker({
-            position: charlotte,
-            map: map
-        });
-    }
-</script>

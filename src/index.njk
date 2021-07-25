@@ -197,14 +197,14 @@ name: Home
 		</div>
 
         <div class="flex flex-wrap -mx-4 mb-6">
-            {% for sponsor in sponsors %}
-            <div class="w-1/2 lg:w-1/4 p-4">
+            {% for levels in sponsors %}
+            {% for sponsor in levels.sponsors %}
+            <div class="w-1/2 md:w-1/3 lg:w-1/4 p-4">
                 <div class="card h-full flex justify-center items-center p-4">
-                    <div>
-                        <img src="/static/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}" class="">
-                    </div>
+                    <img src="/static/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}" class="">
                 </div>
             </div>
+            {% endfor %}
             {% endfor %}
         </div>
     </div>

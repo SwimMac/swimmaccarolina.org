@@ -44,7 +44,7 @@ module.exports = {
       return excerpt;
   },
 
-  random: (arr, n)  => {
+  random: (arr, n) => {
       var result = new Array(n),
           len = arr.length,
           taken = new Array(len);
@@ -58,8 +58,17 @@ module.exports = {
       return result;
   },
 
-  limit: (arr, limit)  => {
+  limit: (arr, limit) => {
       return arr.slice(0, limit);
+  },
+
+  toTitleCase: (str) => {
+    return str.replace(
+      /\w\S*/g,
+      function(txt) {
+        return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+      }
+    );
   }
 
 }
