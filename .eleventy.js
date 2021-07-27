@@ -19,7 +19,7 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addShortcode('banner', function (title, options = {}) {
         const {
-            image = 'banners/pool-tiles.jpg'
+            image = 'pool-tiles.jpg'
         } = options;
         return `<div class="h-32 lg:h-64 bg-center bg-cover flex items-center justify-center" style="background-image: url('/static/banners/${image}');">
             <h1 class="text-4xl md:text-5xl lg:text-6xl text-white font-bold text-center text-shadow">${ title }</h1>
