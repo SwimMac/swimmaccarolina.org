@@ -72,7 +72,7 @@
                                 {# if (wizardQuestions[q].results[r].result == wizardAnswers[j].label){ #}
                                     <div class="w-full md:w-1/2 lg:w-1/4 p-4">
                                         <a class="card h-full overflow-hidden" href="{{ answer.url }}">
-                                            <img src="{{ answer.img }}" alt="Image showing {{ answer.label }}" class="w-full">
+                                            <img src="/static/cards/{{ answer.img }}" alt="Image showing {{ answer.label }}" class="w-full">
                                             <div class="p-4">
                                                 <h3>{{ answer.label }}</h3>
                                                 <p class="text-gray-900">{{ answer.description }}</p>
