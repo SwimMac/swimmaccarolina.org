@@ -24,12 +24,23 @@ title : Swim School North
                     {% endif %}
                     <div class="p-4">
                         <h2>{{ group.name }}</h2>
-                        <p>{{ group.ages }}</p>
+                        <p><strong>{{ group.ages }}</strong></p>
                         <p>{{ group.description }}</p>
                     </div>
                 </a>
             </div>
             {% endfor %}
+
+            <div class="w-full md:w-1/2 lg:w-1/3 p-4">
+                <a href="/private-lessons/private-lessons-north/" class="card h-full overflow-hidden">
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/cards/private-lessons.jpg');"></div>
+                    <div class="p-4">
+                        <h2>Private Lessons</h2>
+                        <p><strong>All Ages</strong></p>
+                        <p>Private lessons cater to a swimmer's specific objectives with a customized training plan created by one of our qualified private lesson instructors.</p>
+                    </div>
+                </a>
+            </div>
 
         </div>
 

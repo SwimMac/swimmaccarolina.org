@@ -1,6 +1,11 @@
 ---
 layout : base.njk
 title : Private Lessons North
+location: Huntersville Family Fitness and Aquatics (North Region)
+contact :
+    name: Chandra Barck
+    email: cbarck@swimmaccarolina.org
+    phone: 704-766-1520
 ---
 
 <main id="main" class="bg-gray-100 overflow-hidden">
@@ -15,33 +20,32 @@ title : Private Lessons North
 
         {% include 'covid-notice.njk' %}
 
-        <div class="card p-4">
-            <div class="w-full md:w-1/2 lg:w-2/3 mx-auto">
-                <p>Private Lessons with one-on-one instruction helps some swimmers feel a greater comfort level and learn more efficiently.</p>
-                <p>Focused attention from an instructor is an effective way to learn or improve a specific skill. SwimMAC Swim School instructors are available for private and semi-private lessons at all of our locations, for all levels of experience and ages.</p>
-                <p>To set up private lessons at our north locations please send a request to the contact below. Include as many specifics as possible, including:</p>
+        <p class="lead">
+            Private Lessons with one-on-one instruction helps some swimmers feel a greater comfort level and learn more efficiently.
+        </p>
+        <p class="lead">
+            Focused attention from an instructor is an effective way to learn or improve a specific skill.
+            SwimMAC Swim School instructors are available for private and semi-private lessons at all of our locations,
+            for all levels of experience and ages.
+        </p>
 
-                <ul>
-                    <li class="cell">Age of the swimmer</li>
-                    <li class="cell">Description of his/her experience and ability</li>
-                    <li class="cell">Any specific skills the swimmer would like to work on</li>
-                    <li class="cell">Contact phone number and email address</li>
-                </ul>
-            </div>
+        <div class="card p-4 my-6">
+            <h3 class="separator-center">Schedule and Registration</h3>
+            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&Cat2=Private&hidecols=Gender,Class,Age,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+        </div>
 
-           <div class="text-center mt-6">
+
+        <div class="card p-4 my-6">
+            <div class="text-center my-6">
                 <h2 class="separator-center">Location &amp; Contact Info</h2>
-                <h3>Huntersville Family Fitness and Aquatics <br>(North Region)</h3>
-                <h4>Chandra Barck</h4>
+                <h3>{{ location }}</h3>
+                <h4>{{ contact.name }}</h4>
                 <p>
-                    <a href="mailto:cbarck@swimmaccarolina.org">cbarck@swimmaccarolina.org</a><br>
-                    704-846-5335
+                    <a href="mailto:{{ contact.email }}">{{ contact.email }}</a><br>
+                    {{ contact.phone }}
                 </p>
            </div>
 
-        </div>
-
-        <div class="container card p-4 my-6">
             {% include 'hffa-map.njk' %}
         </div>
 
