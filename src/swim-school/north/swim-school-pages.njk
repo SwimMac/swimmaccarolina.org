@@ -8,7 +8,7 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
 ---
 
 <main id="main" class="bg-gray-100 overflow-hidden">
-    {% banner swim.name, {image: 'banners/' + swim.image} %}
+    {% banner swim.name, {image: swim.image} %}
 
     <div class="container my-6">
         <p>
@@ -98,7 +98,7 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
 
         <div class="card p-6 my-6">
             <div class="text-right">
-                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.north.orgId }}" class="button">Portal Login</a>
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.north.orgId }}" class="button button--small">Portal Login</a>
             </div>
 
             <div class="my-6">
