@@ -21,10 +21,10 @@ title : Masters
             Competitive Swimmers (Open Water & Swim Meets), Triathlon Swimmers, and Fitness Swimmers.
         </p>
 
-        <div class="flex justify-center space-x-6 my-6">
-            <button class="button" :class="{'ghost': tab !== 'overview'}" @click.prevent="tab = 'overview'">Overview</button>
-            <button class="button" :class="{'ghost': tab !== 'training'}" @click.prevent="tab = 'training'">Training Schedule</button>
-            <button class="button" :class="{'ghost': tab !== 'registration'}" @click.prevent="tab = 'registration'">Registration &amp; Dues</button>
+        <div class="flex flex-wrap justify-center md:space-x-4 mt-6">
+            <button class="button w-full md:w-auto mb-6" :class="{'ghost': tab !== 'overview'}" @click.prevent="tab = 'overview'">Overview</button>
+            <button class="button w-full md:w-auto mb-6" :class="{'ghost': tab !== 'training'}" @click.prevent="tab = 'training'">Training Schedule</button>
+            <button class="button w-full md:w-auto mb-6" :class="{'ghost': tab !== 'registration'}" @click.prevent="tab = 'registration'">Registration &amp; Dues</button>
         </div>
 
         <div class="card p-4" x-show="tab === 'overview'">
