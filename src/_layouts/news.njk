@@ -14,12 +14,15 @@ layout: base.njk
     <h2>{{ title }}</h2>
     <p>Posted {{ postDate | readableDate }}</p>
 
-    <div class="radius shadow card p-4">
-      <div class="flex flex-wrap -mx-4">
-       <div class="w-full md:w-1/3 p-4">
-          <img src="{{ image }}" alt="">
+    <div class="radius shadow card">
+      <div class="flex flex-wrap">
+        {% if image %}
+        <div class="w-full md:w-1/3 p-4">
+          <img src="{{ image }}" />
         </div>
-        <div class="w-full md:w-2/3 p-4">
+        {% endif %}
+
+        <div class="w-full {% if image %}md:w-2/3{% endif %} p-4">
           {{ content | safe }}
 
           <p>

@@ -4,6 +4,9 @@ backend:
 
 media_folder: "/src/static/uploads"
 public_folder: "/static/uploads"
+site_url: https://www.swimmaccarolina.org
+display_url: https://www.swimmaccarolina.org
+logo_url: https://www.swimmaccarolina.org/static/swimmac-logo.svg
 
 collections:
   - name: "employment"
