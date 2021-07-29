@@ -69,6 +69,11 @@ module.exports = {
         return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
       }
     );
+  },
+
+  w3cDate: (value)  => {
+    const dateObject = new Date(value);
+    return dateObject.toISOString();
   }
 
 }

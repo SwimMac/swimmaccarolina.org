@@ -1,7 +1,8 @@
-const filters = require('./utils/filters.js')
-const transforms = require('./utils/transforms.js')
-const collections = require('./utils/collections.js')
-const now = String(Date.now())
+const filters = require('./utils/filters.js');
+const transforms = require('./utils/transforms.js');
+const collections = require('./utils/collections.js');
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+const now = String(Date.now());
 
 module.exports = function (eleventyConfig) {
     // Folders to copy to build dir (See. 1.1)
@@ -67,6 +68,49 @@ module.exports = function (eleventyConfig) {
             </p>
         </form>`;
     });
+
+    module.exports = function (date, part) {
+        var d = new Date(date);
+        if (part == 'year') {
+          return d.getUTCFullYear();
+        }
+        var month = [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ];
+        var ordinal = {
+          1: "st",
+          2: "nd",
+          3: "rd",
+          21: "st",
+          22: "nd",
+          23: "rd",
+          31: "st"
+        };
+        return month[d.getMonth()] + " " + d.getDate() + (ordinal[d.getDate()] || "th") + ", " + d.getUTCFullYear();
+    };
+
+    // RSS Feed
+    eleventyConfig.addPlugin(pluginRss);
+
+    /*
+    A simple ISO timestamp for Nunjucks
+    */
+    module.exports = function (date) {
+        let timestamp = new Date();
+        const result = timestamp.toISOString();
+        return result;
+    };
 
     // Filters
     Object.keys(filters).forEach((filterName) => {
