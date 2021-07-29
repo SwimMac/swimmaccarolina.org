@@ -158,15 +158,6 @@
       ]
     },
     {
-      "name": "Adult Lessons",
-      "url": "adult-lessons",
-      "ages": "18 years and older",
-      "description": "This is a beginner group lesson for adults 18 and over. Lessons will range from learning the basics of blowing bubbles and ﬂoating, to recreational swimming for fitness. Classes are 30 minutes long, and have a maximum of 3 adults per instructor.",
-      "image": "pool-tiles.jpg",
-      "north": true,
-      "south": true
-    },
-    {
       "name": "Teen Lessons",
       "url": "teen-lessons",
       "ages": "12 to 17 years",
@@ -174,6 +165,15 @@
       "image": "pool-tiles.jpg",
       "north": true,
       "south": false
+    },
+    {
+      "name": "Adult Lessons",
+      "url": "adult-lessons",
+      "ages": "18 years and older",
+      "description": "This is a beginner group lesson for adults 18 and over. Lessons will range from learning the basics of blowing bubbles and ﬂoating, to recreational swimming for fitness. Classes are 30 minutes long, and have a maximum of 3 adults per instructor.",
+      "image": "pool-tiles.jpg",
+      "north": true,
+      "south": true
     }
   ]
 }
