@@ -1,9 +1,14 @@
 
 {
-  "north": [
-    {
-      "session": "2021 HFFA Summer 9"
-    }
-  ],
-  "south": []
+  "north": {
+    "sessions": [
+      "2021 HFFA Summer 9",
+      "21/22 School Year (SEPT-JUNE)"
+    ]
+  },
+  "south": {
+    "sessions": [
+
+    ]
+  }
 }

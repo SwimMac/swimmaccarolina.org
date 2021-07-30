@@ -29,16 +29,16 @@ contact :
             for all levels of experience and ages.
         </p>
 
-        {% if private_lessons.north.length > 0 %}
+        {% if private_lessons.north.sessions.length > 0 %}
         <div class="card p-4 my-6">
-            {% for session in private_lessons.north %}
-                <h3 class="separator-center">Schedule and Registration for {{ session.session }}</h3>
+            {% for session in private_lessons.north.sessions %}
+                <h3 class="separator-center">Schedule and Registration for {{ session }}</h3>
                 <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&Cat2=Private&Session={{ session.session }}&hidecols=Gender,Class,Age,Description,Session&style=font-size:16px&sort=days" type="text/javascript"></script>
             {% endfor %}
         </div>
         {% endif %}
 
-        {% if private_lessons.north.length === 0 %}
+        {% if private_lessons.north.sessions.length === 0 %}
         <div class="card p-4 my-6">
             <h3 class="separator-center">Schedule and Registration</h3>
             <div class="bg-red-100 border border-red-900 p-4 my-6">There are no open Private Lessons at this time.</div>
