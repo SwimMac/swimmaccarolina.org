@@ -4,7 +4,7 @@ module.exports = {
   "url": "https://www.swimmaccarolina.org",
   "author": "Rick Hocutt",
   "meta_data": {
-    "twitter": "@rickhocutt",
+    "twitter": "@swimmacc",
     "default_social_image": "/static/default_social_image.png"
   },
   "env": process.env.ELEVENTY_ENV === 'production'
