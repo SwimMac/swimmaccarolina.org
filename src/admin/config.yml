@@ -9,6 +9,25 @@ display_url: https://www.swimmaccarolina.org
 logo_url: https://www.swimmaccarolina.org/static/swimmac-logo.svg
 
 collections:
+  - name: "pages"
+    label: "Page Content"
+    folder: "src/pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "pages.njk"
+
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Post Body"
+        name: "body"
+        widget: "markdown"
+
   - name: "employment"
     label: "Employment Opportunities"
     folder: "src/employment"
