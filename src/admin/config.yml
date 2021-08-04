@@ -12,7 +12,6 @@ collections:
   - name: "pages"
     label: "Page Content"
     folder: "src/pages"
-    create: true
     slug: "{{slug}}"
     fields:
       - label: "Layout"
