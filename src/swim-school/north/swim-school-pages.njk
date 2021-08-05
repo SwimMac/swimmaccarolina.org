@@ -20,7 +20,8 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
 
         {% include 'covid-notice.njk' %}
 
-        {% if swim.name !== 'Adult Lessons' or swim.name !== 'Teen Lessons' %}
+        {% if swim.name !== 'Adult Lessons' %}
+        {% if swim.name !== 'Teen Lessons' %}
         <div class="flex flex-wrap -mx-4 justify-center">
 
            {% for level in swim.levels %}
@@ -40,7 +41,7 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
             {% endfor %}
 
         </div>
-
+        {% endif %}
         {% endif %}
 
         {% if swim.name === 'Adult Lessons' %}

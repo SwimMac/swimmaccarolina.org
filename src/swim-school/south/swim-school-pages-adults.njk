@@ -1,0 +1,60 @@
+---
+layout : base.njk
+pagination:
+    data: swim_school.groups[4].levels
+    size: 1
+    alias: swim
+permalink: "swim-school/south/adult-lessons/{{ swim.url | slug }}/"
+---
+
+<main id="main" class="bg-gray-100 overflow-hidden">
+
+    {% banner swim.name, {image: swim.image} %}
+
+    <div class="container my-6">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/swim-school/">Swim School</a> /
+            <a href="/swim-school/south/">Swim School South</a> /
+            <a href="/swim-school/south/adult-lessons">Adult Lessons</a> /
+            {{ swim.name }}
+        </p>
+
+        {% include 'covid-notice.njk' %}
+
+        <div class="card p-6 my-6">
+            <p class="lead">
+                {{ swim.description }}
+            </p>
+        </div>
+
+        <div class="card p-6 my-6">
+            <div class="text-right">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.south.orgId }}" class="button button--small mb-3">Portal Login</a>
+                <a href="/swim-school/north/adult-lessons/" class="button button--small ghost mb-3">
+                    Go To North Location Page
+                </a>
+            </div>
+
+            <div class="mb-6">
+                <h2 class="separator-center">Charlotte Latin Schedule</h2>
+
+                {% if jackrabbit.south.sessions.length > 0 %}
+                    {% for session in jackrabbit.south.sessions %}
+                    <h3 class="separator-left">{{ session }}</h3>
+                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat3={{ swim.level }}&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                    {% endfor %}
+                {% else %}
+                    <div class="bg-red-100 border border-red-900 p-4 my-6">
+                        There are no scheduled {{ swim.name }} classes at this time
+                    </div>
+                {% endif %}
+            </div>
+
+            {% include 'location-details-south.njk' %}
+    </div>
+
+    <div class="container card p-4 my-6">
+        {% include 'hffa-map.njk' %}
+    </div>
+</main>

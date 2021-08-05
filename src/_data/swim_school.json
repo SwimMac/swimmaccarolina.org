@@ -136,24 +136,6 @@
           "image": "white-g7.jpg",
           "north": true,
           "south": true
-        },
-        {
-          "name": "Silver-G8",
-          "url": "silver-g8",
-          "color":"Silver",
-          "description": "Swimmers should be proficient in freestyle and backstroke (or completed all prior G levels). Recommendation required.",
-          "image": "silver-g8.jpg",
-          "north": false,
-          "south": true
-        },
-        {
-          "name": "Gold-Olympic Strokes",
-          "url": "gold-olympic-strokes",
-          "color":"Gold",
-          "description": "Swimmers should be able to swim 25 yards of freestyle, backstroke, and breaststroke (or completed all prior G levels). Recommendation required.",
-          "image": "gold-olympic-strokes.jpg",
-          "north": false,
-          "south": true
         }
       ]
     },
@@ -164,16 +146,45 @@
       "description": "This is a beginner group lesson for teens. Lessons will range anywhere from learning the basics of blowing bubbles and ﬂoating, to mastering all 4 strokes. Classes are 45 minutes long, and have a maximum of 4 teens per instructor.",
       "image": "pool-tiles.jpg",
       "north": true,
-      "south": false
+      "south": true
     },
     {
       "name": "Adult Lessons",
       "url": "adult-lessons",
       "ages": "18 years and older",
-      "description": "This is a beginner group lesson for adults 18 and over. Lessons will range from learning the basics of blowing bubbles and ﬂoating, to recreational swimming for fitness. Classes are 30 minutes long, and have a maximum of 3 adults per instructor.",
+      "description": "Group lessons are for adults 18 and over. You will have the ability to select from Beginner, Intermediate, or Advanced classes. Classes are 30 minutes long, and have a maximum of 3 adults per instructor.",
       "image": "pool-tiles.jpg",
       "north": true,
-      "south": true
+      "south": true,
+      "levels": [
+        {
+          "name": "Beginner Adult Lessons",
+          "url": "adult-lessons-beginner",
+          "level": "Adult - Beginner",
+          "description": "Recommended for swimmers who are uncomfortable with the water (will not put face in, don't want to go in water over head, etc).",
+          "image": "pool-tiles.jpg",
+          "north": true,
+          "south": true
+        },
+        {
+          "name": "Intermediate Adult Lessons",
+          "url": "adult-lessons-intermediate",
+          "level": "Adult - Intermediate",
+          "description": "This group is for adult swimmers who are comfortable in the water but need to build up skills in order to perform all four strokes (Freestyle, Backstroke, Breastroke, and Butterfly).",
+          "image": "pool-tiles.jpg",
+          "north": true,
+          "south": true
+        },
+        {
+          "name": "Advanced Adult Lessons",
+          "url": "adult-lessons-advanced",
+          "level": "Adult - Advanced",
+          "description": "This group is for adults who are able to perform all four strokes but want to imrpove their technique and become more efficient swimmers.",
+          "image": "pool-tiles.jpg",
+          "north": true,
+          "south": true
+        }
+      ]
     }
   ]
 }
