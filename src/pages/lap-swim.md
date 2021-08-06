@@ -3,13 +3,16 @@ layout: pages.njk
 title: Lap Swim
 ---
 <div class="card p-6 my-4">
-<h3>Single Visit Pass $ 5.00 / person — 15 Visit Pool Pass $ 60.00 ($4.00 / visit)</h3>
+
+### Single Visit Pass $ 5.00 / person — 15 Visit Pool Pass $ 60.00 ($4.00 / visit)
+
 </div>
 
 <div class="card p-6 my-4">
-<h3>Important Information</h3>
 
-**No pets allowed in the facility unless service animals.**
+### Important Information
+
+No pets allowed in the facility unless service animals.
 
 When entering the facility, stop by the lifeguard in the pool area to pay for your pass, show your pass, or to have your pass initialed. We accept CASH or CHECKS only.
 
