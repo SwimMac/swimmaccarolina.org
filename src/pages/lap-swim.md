@@ -18,7 +18,7 @@ When entering the facility, stop by the lifeguard in the pool area to pay for yo
 
 You must sign in with the lifeguard and shower prior to entering the water. There are heated showers available on deck and in the locker rooms.
 
-No one older than 5 years of age is allowed in the opposite gender’s bathrooms.</p><p>Please ask the lifeguard for the other locations of bathrooms / changing rooms you may use.
+No one older than 5 years of age is allowed in the opposite gender’s bathrooms. Please ask the lifeguard for the other locations of bathrooms / changing rooms you may use.
 
 No children under 13 years of age may be left unsupervised anywhere in the facility unless participating in an organized SwimMAC program. Please read posted pool rules on site for your safety and the safety of others.
 
