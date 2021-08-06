@@ -152,7 +152,7 @@
       "name": "Adult Lessons",
       "url": "adult-lessons",
       "ages": "18 years and older",
-      "description": "Group lessons are for adults 18 and over. You will have the ability to select from Beginner, Intermediate, or Advanced classes. Classes are 30 minutes long, and have a maximum of 3 adults per instructor.",
+      "description": "Adult Lessons will include three separate levels of instruction: Beginner, Intermediate, and Advanced. Each class will run 30 minutes in length, and include a 4:1 instructor to student ratio. As well, all classes include water safety components. We’re committed to helping you both achieve your personal goals and a healthy lifestyle.",
       "image": "pool-tiles.jpg",
       "north": true,
       "south": true,
@@ -161,7 +161,7 @@
           "name": "Beginner Adult Lessons",
           "url": "adult-lessons-beginner",
           "level": "Adult - Beginner",
-          "description": "Recommended for swimmers who are uncomfortable with the water (will not put face in, don't want to go in water over head, etc).",
+          "description": "This level of instruction includes the very basics of swim stroke development and confidence in the water. More specifically, this involves front and back float, navigating under water, and gaining both the confidence and skill set - primarily for the freestyle stroke.",
           "image": "pool-tiles.jpg",
           "north": true,
           "south": true
@@ -170,7 +170,7 @@
           "name": "Intermediate Adult Lessons",
           "url": "adult-lessons-intermediate",
           "level": "Adult - Intermediate",
-          "description": "This group is for adult swimmers who are comfortable in the water but need to build up skills in order to perform all four strokes (Freestyle, Backstroke, Breastroke, and Butterfly).",
+          "description": "This level of instruction includes a continuation of stroke development, which includes an introduction to three competitive strokes. These strokes include freestyle, backstroke, and breaststroke. In addition, confidence will be gained through both specific stroke-related techniques and an ability to swim full lengths of the pool.",
           "image": "pool-tiles.jpg",
           "north": true,
           "south": true
@@ -179,7 +179,7 @@
           "name": "Advanced Adult Lessons",
           "url": "adult-lessons-advanced",
           "level": "Adult - Advanced",
-          "description": "This group is for adults who are able to perform all four strokes but want to imrpove their technique and become more efficient swimmers.",
+          "description": "This level of instruction includes further development of the skill set needed for freestyle, backstroke, and breaststroke. The student will also be introduced to the butterfly stroke, flip turns, and proficiency in swimming laps. This level is an excellent starting point for those interested in Master’s/competitive swimming, triathlons, lifeguarding, snorkeling, and scuba.",
           "image": "pool-tiles.jpg",
           "north": true,
           "south": true
