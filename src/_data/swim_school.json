@@ -43,7 +43,7 @@
           "description": "We recommend that all new swimmers to our program start here.",
           "image": "blue-p2.jpg",
           "north": true,
-          "south": false
+          "south": true
         },
         {
           "name": "Red-P3",

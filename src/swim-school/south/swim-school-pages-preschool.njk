@@ -31,7 +31,7 @@ permalink: "swim-school/south/preschool/{{ swim.name | slug }}/"
             <div class="text-right">
                 <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.south.orgId }}" class="button button--small mb-3">Portal Login</a>
                 {% if swim.north %}
-                <a href="/swim-school/north/preschool/{{ swim.name | slug }}/" class="button button--small ghost mb-3">
+                <a href="/swim-school/north/Pre-School/{{ swim.name | slug }}/" class="button button--small ghost mb-3">
                     Go To North Location Page
                 </a>
                 {% endif %}
@@ -43,7 +43,7 @@ permalink: "swim-school/south/preschool/{{ swim.name | slug }}/"
                 {% if jackrabbit.south.sessions.length > 0 %}
                     {% for session in jackrabbit.south.sessions %}
                     <h3 class="separator-left">{{ session }}</h3>
-                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=Pre School&amp;Cat3=Orange&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=Pre-School&amp;Cat3=Orange&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
                     {% endfor %}
                 {% else %}
                     <div class="bg-red-100 border border-red-900 p-4 my-6">
