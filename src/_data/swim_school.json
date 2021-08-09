@@ -71,6 +71,15 @@
           "image": "yellow-p5.jpg",
           "north": true,
           "south": true
+        },
+        {
+          "name": "Green-P6",
+          "url": "green-p6",
+          "color":"Green",
+          "description": "Swimmers must be able to swim 20 yards of freestyle with a side breath and be able to kick 10 yards on their back without assistance.",
+          "image": "green-g6.jpg",
+          "north": true,
+          "south": true
         }
       ]
     },
