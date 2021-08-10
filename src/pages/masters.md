@@ -2,20 +2,19 @@
 layout: pages.njk
 title: Masters Training Schedule
 ---
-
 ## Membership
 
-<div class="bg-yellow-100 p-6 my-6 text-center" markdown="1">
+<div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
-If you would like to join our program, please email for information and include the location you would like to swim at to&nbsp;<a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a>
+If you would like to join our program, please email for information and include the location you would like to swim at to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a>
 
-<strong>We are participating in the USMS TRY MASTERS SWIMMING Initiative in July 2021. Please sign up at <a href="https://www.usms.org/try">https://www.usms.org/try</a> for a free week trial with SwimMAC Masters!</strong>
+**We are participating in the USMS TRY MASTERS SWIMMING Initiative in July 2021. Please sign up at <a href="https://www.usms.org/try">https://www.usms.org/try</a> for a free week trial with SwimMAC Masters!**
 
 </div>
 
-All swimmers participating in workouts MUST be USMS members. LOCAL CLUB NAME: North Carolina Masters Swimming (NCMS) WORKOUT GROUP: SwimMAC
+**All swimmers participating in workouts MUST be USMS members. LOCAL CLUB NAME: North Carolina Masters Swimming (NCMS) WORKOUT GROUP: SwimMAC**
 
-As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.
+**As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.**
 
 <h2 class="separator-center">Training Schedule</h2>
 
@@ -90,11 +89,11 @@ Sunday – 7:15-8:30 AM SCY
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-<strong>August 9th – August 22nd — NO PRACTICE — MASTERS BREAK (August 23rd Fall Schedule Begins)</strong>
+**August 9th – August 22nd — NO PRACTICE — MASTERS BREAK (August 23rd Fall Schedule Begins)**
 
-<strong>Monday, September 6th - Labor Day NO PRACTICE</strong>
+**Monday, September 6th - Labor Day NO PRACTICE**
 
 </div>
 </div>
 
-<strong>Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.</strong>
+**Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
