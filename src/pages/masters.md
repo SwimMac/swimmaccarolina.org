@@ -2,7 +2,6 @@
 layout: pages.njk
 title: Masters Training Schedule
 ---
-
 ## Membership
 
 <div class="callout warning">
@@ -18,7 +17,8 @@ As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.
 
 <div class="flex flex-wrap -mx-4">
     <div class="w-full md:w-1/2 p-4">
-        <h3>North Region</h3>
+
+        ### North Region
 
         <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
@@ -43,9 +43,11 @@ As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.
         Friday – 5:30-6:45 AM LCM
         Sunday – 10:00-11:15 AM LCM
         SCY – Short Course Yards; LCM – Long Course Meters
+
     </div>
 
     <div class="w-full md:w-1/2 p-4">
+
         ### South Region
 
         SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
@@ -66,6 +68,7 @@ As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.
 
         <strong>August 9th – August 22nd — NO PRACTICE — MASTERS BREAK (August 23rd Fall Schedule Begins)</strong>
         <strong>Monday, September 6th - Labor Day NO PRACTICE</strong>
+
     </div>
 </div>
 
