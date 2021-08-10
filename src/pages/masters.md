@@ -5,8 +5,10 @@ title: Masters Training Schedule
 ## Membership
 
 <div class="callout warning">
+
     <p>If you would like to join our program, please email for information and include the location you would like to swim at to&nbsp;<a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a></p>
     <p><strong>We are participating in the USMS TRY MASTERS SWIMMING Initiative in July 2021. Please sign up at <a href="https://www.usms.org/try">https://www.usms.org/try</a> for a free week trial with SwimMAC Masters!</strong></p>
+
 </div>
 
 All swimmers participating in workouts MUST be USMS members. LOCAL CLUB NAME: North Carolina Masters Swimming (NCMS) WORKOUT GROUP: SwimMAC
@@ -16,6 +18,7 @@ As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.
 <h2 class="separator-center">Training Schedule</h2>
 
 <div class="flex flex-wrap -mx-4">
+
     <div class="w-full md:w-1/2 p-4">
 
         ### North Region
@@ -70,6 +73,7 @@ As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.
         <strong>Monday, September 6th - Labor Day NO PRACTICE</strong>
 
     </div>
+
 </div>
 
 <strong>Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.</strong>
