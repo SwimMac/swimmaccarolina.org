@@ -20,16 +20,16 @@ As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.
     <div class="w-full md:w-1/2 p-4">
         <h3>North Region</h3>
 
-        <p class="center">Huntersville Family Fitness &amp; Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
+        <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
         #### SUMMER SCHEDULE (Monday, June 7th to Sunday, August 15th)
 
         Monday – 5:15-6:30 AM LCM
         Tuesday – 5:15-6:30 AM SCY &amp; 12:00-1:00 PM SCY
         Thursday –5:15-6:30 AM SCY &amp; 12:00-1:00 PM SCY
-        <p>Friday – 5:15-6:30 AM LCM
-        <p>Sunday – 10:00-11:15 AM LCM
-        <span style="text-decoration: underline;"><strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong></span>
+        Friday – 5:15-6:30 AM LCM
+        Sunday – 10:00-11:15 AM LCM
+        <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
         <strong>Sunday, August 1st – NO PRACTICE Due to Triathlon</strong>
         <strong>Sunday, August 8th — NO PRACTICE</strong>
         <strong>August 16th – August 29th — NO PRACTICE – MASTERS BREAK (AUGUST 30th Fall Schedule Begins)</strong>
