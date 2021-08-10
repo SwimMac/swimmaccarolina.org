@@ -51,12 +51,6 @@
         "image": "kim-welliver.jpg"
       },
       {
-        "name": "Chandra Barck",
-        "title": "North Swim School Assistant / Marlin 2 Coach / Masters Coach",
-        "email": "cbarck@swimmaccarolina.org",
-        "image": "chandra-barck.jpg"
-      },
-      {
         "name": "Brittany Ward",
         "title": "Marlin 3, JSL, & Teen Fit Coach",
         "email": "bward@swimmaccarolina.org",
@@ -145,12 +139,6 @@
         "image": "jason-sturgis.jpg"
       },
       {
-        "name": "Chandra Barck",
-        "title": "North Swim School Assistant / Marlin 2 Coach / Masters Coach",
-        "email": "cbarck@swimmaccarolina.org",
-        "image": "chandra-barck.jpg"
-      },
-      {
         "name": "Eric Cornell",
         "title": "Master's Coach",
         "email": "ecornell@swimmaccarolina.org",
@@ -185,16 +173,16 @@
         "image": "martha-hocutt.jpg"
       },
       {
-        "name": "Carol Ann Hoff",
-        "title": "Swim School Director",
-        "email": "choff@swimmaccarolina.org",
-        "image": ""
-      },
-      {
         "name": "Chandra Barck",
-        "title": "North Swim School Assistant / Marlin 2 Coach / Masters Coach",
+        "title": "North Swim School Manager",
         "email": "cbarck@swimmaccarolina.org",
         "image": "chandra-barck.jpg"
+      },
+      {
+        "name": "Carol Ann Hoff",
+        "title": "South Swim School Manager",
+        "email": "choff@swimmaccarolina.org",
+        "image": ""
       }
     ]
   },
