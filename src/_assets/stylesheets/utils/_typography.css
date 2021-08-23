@@ -53,6 +53,10 @@
     @apply list-decimal;
   }
 
+  ul ul, ol ol {
+    @apply ml-4;
+  }
+
   li {
     @apply mb-1;
   }
