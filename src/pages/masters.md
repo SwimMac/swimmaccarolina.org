@@ -25,39 +25,31 @@ If you would like to join our program, please email for information and include 
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-#### SUMMER SCHEDULE (Monday, June 7th to Sunday, August 15th)
+#### FALL SCHEDULE (8/30/2021):
 
-Monday – 5:15-6:30 AM LCM
+Monday – 5:30-6:45 AM LCM
 
-Tuesday – 5:15-6:30 AM SCY &amp; 12:00-1:00 PM SCY
 
-Thursday –5:15-6:30 AM SCY &amp; 12:00-1:00 PM SCY
 
-Friday – 5:15-6:30 AM LCM
+Tuesday – 5:30-6:45 AM SCY & 12:00-1:00 PM SCY
+
+
+
+Thursday –5:30-6:45 AM SCY & 12:00-1:00 PM SCY
+
+
+
+Friday – 5:30-6:45 AM LCM
+
+
 
 Sunday – 10:00-11:15 AM LCM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
-<strong>Sunday, August 1st – NO PRACTICE Due to Triathlon</strong>
+**August 16th – August 29th — NO PRACTICE – MASTERS BREAK (AUGUST 30th Fall Schedule Begins)**
 
-<strong>Sunday, August 8th — NO PRACTICE</strong>
-
-<strong>August 16th – August 29th — NO PRACTICE – MASTERS BREAK (AUGUST 30th Fall Schedule Begins)</strong>
-
-<strong>Monday, September 6th - Labor Day NO PRACTICE</strong>
-
-#### FALL / WINTER SCHEDULE (begins 8/30/2021)
-
-Monday – 5:30-6:45 AM LCM
-
-Tuesday – 5:30-6:45 AM SCY & 12:00-1:00 PM SCY
-
-Thursday –5:30-6:45 AM SCY & 12:00-1:00 PM SCY
-
-Friday – 5:30-6:45 AM LCM
-
-Sunday – 10:00-11:15 AM LCM
+**Monday, September 6th - Labor Day NO PRACTICE**
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -75,11 +67,11 @@ Monday – 12:15-1:30 PM SCY
 
 Tuesday – 5:15-6:30 AM SCY & 8:30-9:45 AM SCY
 
-Wednesday – 12:30-1:45 PM SCY
+Wednesday – 12:15-1:30 PM SCY
 
 Thursday – 5:15-6:30 AM SCY & 8:30-9:45 AM SCY
 
-Friday – 8:30-9:45 AM SCY & 12:30-1:45 PM SCY
+Friday – 8:30-9:45 AM SCY & 12:15-1:30 PM SCY
 
 Saturday – 5:30-6:45 AM SCY
 
