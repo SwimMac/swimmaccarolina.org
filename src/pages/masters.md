@@ -8,7 +8,7 @@ title: Masters Training Schedule
 
 If you would like to join our program, please email for information and include the location you would like to swim at to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a>
 
-**We are participating in the USMS TRY MASTERS SWIMMING Initiative in July 2021. Please sign up at <a href="https://www.usms.org/try">https://www.usms.org/try</a> for a free week trial with SwimMAC Masters!**
+
 
 **All swimmers participating in workouts MUST be USMS members. LOCAL CLUB NAME: North Carolina Masters Swimming (NCMS) WORKOUT GROUP: SwimMAC**
 
@@ -25,31 +25,21 @@ If you would like to join our program, please email for information and include 
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-#### FALL SCHEDULE (8/30/2021):
+#### FALL / WINTER SCHEDULE:
 
 Monday – 5:30-6:45 AM LCM
 
-
-
 Tuesday – 5:30-6:45 AM SCY & 12:00-1:00 PM SCY
-
-
 
 Thursday –5:30-6:45 AM SCY & 12:00-1:00 PM SCY
 
-
-
 Friday – 5:30-6:45 AM LCM
-
-
 
 Sunday – 10:00-11:15 AM LCM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
-**August 16th – August 29th — NO PRACTICE – MASTERS BREAK (AUGUST 30th Fall Schedule Begins)**
-
-**Monday, September 6th - Labor Day NO PRACTICE**
+**N/A**
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -61,7 +51,7 @@ SCY – Short Course Yards; LCM – Long Course Meters
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
-#### FALL / WINTER SCHEDULE (begins 8/23/2021)
+#### FALL / WINTER SCHEDULE:
 
 Monday – 12:15-1:30 PM SCY
 
@@ -81,9 +71,9 @@ Sunday – 7:15-8:30 AM SCY
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-**August 9th – August 22nd — NO PRACTICE — MASTERS BREAK (August 23rd Fall Schedule Begins)**
 
-**Monday, September 6th - Labor Day NO PRACTICE**
+
+**Sunday, September 26th - Comp Team Meet @ Pool - NO PRACTICE**
 
 </div>
 </div>
