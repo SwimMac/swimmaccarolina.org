@@ -8,8 +8,6 @@ title: Masters Training Schedule
 
 If you would like to join our program, please email for information and include the location you would like to swim at to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a>
 
-
-
 **All swimmers participating in workouts MUST be USMS members. LOCAL CLUB NAME: North Carolina Masters Swimming (NCMS) WORKOUT GROUP: SwimMAC**
 
 **As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.**
@@ -39,7 +37,9 @@ Sunday – 10:00-11:15 AM LCM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
-**N/A**
+**Sunday, October 17th - NO PRACTICE DUE TO MEET**
+
+**Sunday, October 24th - NO PRACTICE DUE TO MEET**
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -70,8 +70,6 @@ Sunday – 7:15-8:30 AM SCY
 <span style="text-decoration: underline;">
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
-
-
 
 **Sunday, September 26th - Comp Team Meet @ Pool - NO PRACTICE**
 
