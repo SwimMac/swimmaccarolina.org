@@ -71,7 +71,7 @@ Sunday – 7:15-8:30 AM SCY
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-**Sunday, September 26th - Comp Team Meet @ Pool - NO PRACTICE**
+**N/A**
 
 </div>
 </div>
