@@ -32,7 +32,7 @@ contact :
         <div class="card p-4 my-6">
             {% for session in private_lessons.south.sessions %}
                 <h3 class="separator-center">Schedule and Registration for {{ session }}</h3>
-                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&Cat2=Private&Session={{ session.session }}&hidecols=Gender,Class,Age,Description,Session&style=font-size:16px&sort=days" type="text/javascript"></script>
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&Cat2=Private&Session={{ session }}&hidecols=Gender,Class,Age,Description,Session&style=font-size:16px&sort=days" type="text/javascript"></script>
             {% endfor %}
         </div>
         {% endif %}
