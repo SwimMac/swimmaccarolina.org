@@ -2,12 +2,14 @@
 {
   "north": {
     "sessions": [
-      "21/22 School Year (SEPT-JUNE)"
+      "21/22 School Year (SEPT-JUNE)",
+      "Thanksgiving Break Private Lessons"
     ]
   },
   "south": {
     "sessions": [
-      "2021 Fall Session"
+      "2021 Fall Session",
+      "Thanksgiving Break Private Lessons"
     ]
   }
 }
