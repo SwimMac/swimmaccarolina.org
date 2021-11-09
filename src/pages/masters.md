@@ -71,7 +71,7 @@ Sunday – 7:15-8:30 AM SCY
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-**Sunday, Nov. 7th - NO PRACTICE (due to meet)**
+**Saturday, Nov. 13th - 7:00-8:15 AM (later start!)**
 
 **Wednesday, Nov. 24th - 12:45-2:00 PM LCM**
 
