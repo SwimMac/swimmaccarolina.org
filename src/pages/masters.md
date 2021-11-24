@@ -37,9 +37,9 @@ Sunday – 10:00-11:15 AM LCM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
-**Sunday, October 17th - NO PRACTICE DUE TO MEET**
+**Thanksgiving Thursday (11/25) - 6:00-7:15 AM ONLY**
 
-**Sunday, October 24th - NO PRACTICE DUE TO MEET**
+**Friday (11/26) - NO PRACTICE** 
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -71,7 +71,13 @@ Sunday – 7:15-8:30 AM SCY
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-**N/A**
+
+
+**Wednesday, Nov. 24th - 12:45-2:00 PM LCM**
+
+**Thanksgiving Thursday, Nov. 25th - 7:00-8:30 AM LCM ONLY**
+
+**Friday, Nov. 26th - 1:15-2:30 PM LCM ONLY**
 
 </div>
 </div>
