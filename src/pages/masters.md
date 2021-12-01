@@ -61,8 +61,6 @@ Sunday – 10:00-11:15 AM LCM
 
 **Sunday, Jan. 2nd** - 10:00-11:15 AM
 
- 
-
 SCY – Short Course Yards; LCM – Long Course Meters
 
 </div>
@@ -93,7 +91,7 @@ Sunday – 7:15-8:30 AM SCY
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-**TBD**
+**SUNDAY, DECEMBER 5TH - NO PRACTICE**
 
 </div>
 </div>
