@@ -61,6 +61,8 @@ Sunday – 10:00-11:15 AM LCM
 
 **Sunday, Jan. 2nd** - 10:00-11:15 AM
 
+
+
 SCY – Short Course Yards; LCM – Long Course Meters
 
 </div>
