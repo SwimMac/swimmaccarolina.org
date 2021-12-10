@@ -37,9 +37,29 @@ Sunday – 10:00-11:15 AM LCM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
-**Thanksgiving Thursday (11/25) - 6:00-7:15 AM ONLY**
+**Monday, Dec. 20th** - 5:30-6:45 AM
 
-**Friday (11/26) - NO PRACTICE** 
+**Tuesday, Dec. 21st** - 5:30-6:45 AM **&** 12:00-1:00 PM
+
+**Thursday, Dec. 23rd** - 5:30-6:45 AM **&** 12:00-1:00 PM
+
+**Friday, Dec. 24th (CHRISTMAS EVE)** - 7:00-8:15 AM
+
+**Saturday, Dec. 25th (CHRISTMAS)** - NO PRACTICE
+
+**Sunday, Dec. 26th** - NO PRACTICE
+
+**Monday, Dec. 27th** - 5:30-6:45 AM
+
+**Tuesday, Dec. 28th** - 5:30-6:45 AM **&** 12:00-1:00 PM
+
+**Thursday, Dec. 30th** - 5:30-6:45 AM **&** 12:00-1:00 PM
+
+**Friday, Dec. 31st (NEW YEAR’S EVE)** - 5:30-6:45 AM
+
+**Sunday, Jan. 2nd** - 10:00-11:15 AM
+
+
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -71,13 +91,33 @@ Sunday – 7:15-8:30 AM SCY
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
+**Monday, Dec. 20th** - 12:45-2:00 PM (LCM)
 
+**Tuesday, Dec. 21st** - 5:15-6:30 AM (LCM)
 
-**Wednesday, Nov. 24th - 12:45-2:00 PM LCM**
+**Wednesday, Dec. 22nd** - 12:45-2:00 PM (LCM)
 
-**Thanksgiving Thursday, Nov. 25th - 7:00-8:30 AM LCM ONLY**
+**Thursday, Dec. 23rd -** 5:15-6:30 AM (SCY)
 
-**Friday, Nov. 26th - 1:15-2:30 PM LCM ONLY**
+**Friday, Dec. 24th (CHRISTMAS EVE) -** 7:00-8:30 AM (SCY)
+
+**Saturday, Dec. 25th (CHRISTMAS)** - NO PRACTICE
+
+**Sunday, Dec. 26th** - NO PRACTICE
+
+**Monday, Dec. 27th** - 12:45-2:00 PM (LCM)
+
+**Tuesday, Dec. 28th** - 5:15-6:30 AM (LCM)
+
+**Wednesday, Dec. 29th** - 12:45-2:00 PM (LCM)
+
+**Thursday, Dec. 30th** - 5:15-6:30 AM (LCM)
+
+**Friday, Dec. 31st** (**NEW YEAR’S EVE)** - 5:30-6:45 AM (SCY)
+
+**Saturday, Jan. 1st** (**NEW YEAR'S DAY)** - 8:00-10:30 AM (SCY)
+
+**Sunday, Jan. 2nd** - 6:00-7:15 AM (SCY)
 
 </div>
 </div>
