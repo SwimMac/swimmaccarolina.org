@@ -64,7 +64,7 @@ module.exports = function (eleventyConfig) {
             </p>
 
             <p>
-                <label class="block" for="resume">Resume (optional)</label>
+                <label class="block" for="resume">Upload Your Resume (optional)</label>
                 <input type="file" id="resume" name="resume" value="" class="w-full">
             </p>
 
