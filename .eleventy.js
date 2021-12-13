@@ -41,25 +41,25 @@ module.exports = function (eleventyConfig) {
         <form name="employment-application" class="employment-form" method="POST" netlify>
             <input type="hidden" name="job-title" value="${jobTitle}">
 
-            <p>(All fields are required to submit the form)</p>
+            <p>(<span class="text-red-500">*</span> Required to submit the form)</p>
 
             <p>
-                <label class="block" for="first-name">First Name</label>
+                <label class="block" for="first-name"><span class="text-red-500">*</span>First Name</label>
                 <input type="text" id="first-name" name="first-name" value="" class="w-full" required>
             </p>
 
             <p>
-                <label class="block" for="last-name">Last Name</label>
+                <label class="block" for="last-name"><span class="text-red-500">*</span>Last Name</label>
                 <input type="text" id="last-name" name="last-name" value="" class="w-full" required>
             </p>
 
             <p>
-                <label class="block" for="phone">Phone</label>
+                <label class="block" for="phone"><span class="text-red-500">*</span>Phone</label>
                 <input type="tel" id="phone" name="phone" value="" class="w-full" required>
             </p>
 
             <p>
-                <label class="block" for="email">Email Address</label>
+                <label class="block" for="email"><span class="text-red-500">*</span>Email Address</label>
                 <input type="email" id="email" name="email" value="" class="w-full" required>
             </p>
 
