@@ -64,6 +64,11 @@ module.exports = function (eleventyConfig) {
             </p>
 
             <p>
+                <label class="block" for="resume">Resume (optional)</label>
+                <input type="file" id="resume" name="resume" value="" class="w-full">
+            </p>
+
+            <p>
                 <input type="submit" value="Send" class="button">
             </p>
         </form>`;
