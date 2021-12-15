@@ -43,7 +43,7 @@ Sunday – 10:00-11:15 AM LCM
 
 **Thursday, Dec. 23rd** - 5:30-6:45 AM (SCY Lanes 11-16) **&** 12:00-1:00 PM (SCY Lanes 6-14)
 
-**Friday, Dec. 24th (CHRISTMAS EVE)** - 7:00-8:15 AM
+**Friday, Dec. 24th (CHRISTMAS EVE)** - 7:00-8:15 AM (LCM Lanes 1-3)
 
 **Saturday, Dec. 25th (CHRISTMAS)** - NO PRACTICE
 
