@@ -214,58 +214,5 @@
         "image": "kim-decann.jpg"
       }
     ]
-  },
-  {
-    "section": "Board of Directors",
-    "members": [
-      {
-        "name": "James Meacham",
-        "title": "President",
-        "email": "jmeacham@swimmaccarolina.org",
-        "image": "james-meacham.jpg"
-      },
-      {
-        "name": "Matt McFee",
-        "title": "Immediate Past President",
-        "email": "mcfee@swimmaccarolina.org",
-        "image": "matt-mcfee.jpg"
-      },
-      {
-        "name": "Dan Phelps",
-        "title": "Secretary",
-        "email": "dphelps@swimmaccarolina.org",
-        "image": "dan-phelps.jpg"
-      },
-      {
-        "name": "Martin Storie",
-        "title": "Treasurer",
-        "email": "mstorie@swimmaccarolina.org",
-        "image": "martin-storie.jpg"
-      },
-      {
-        "name": "Melissa Cooler",
-        "title": "Board Member",
-        "email": "mcooler@swimmaccarolina.org",
-        "image": ""
-      },
-      {
-        "name": "Jeff Rhodes",
-        "title": "Board Member",
-        "email": "jrhodes@swimmaccarolina.org",
-        "image": ""
-      },
-      {
-        "name": "Troy Keen",
-        "title": "Board Member",
-        "email": "tkeen@swimmaccarolina.org",
-        "image": ""
-      },
-      {
-        "name": "Karen Rogers",
-        "title": "Board Member",
-        "email": "krogers@swimmaccarolina.org",
-        "image": ""
-      }
-    ]
   }
 ]
