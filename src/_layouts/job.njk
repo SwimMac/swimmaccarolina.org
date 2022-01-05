@@ -31,22 +31,25 @@ layout: base.njk
   <script>
     window.addEventListener('load', function () {
 
-      document.querySelector(".employment-form").addEventListener("submit", event => {
-        event.preventDefault()
-        const result = document.querySelector(".application-form")
-        fetch("/", {
-          body: new FormData(event.target),
-          headers: { "Content-Type": "multipart/form-data" },
-          method: "POST",
-        }).then(() => {
-          result.innerHTML = `<div class="text-center">
+      function formstuff(myForm){
+        document.querySelector(".application-form").innerHTML = `<div class="text-center">
           <h3>Great!</h3>
           <p>Thanks for your interest in the {{title}} position. Someone will reach out to you soon.</p>
         </div>`;
-        }).catch(error => {
-          result.innerHTML = `Failed: ${error}`;
-        })
-      })
+      }
+
+      const handleSubmit = (e) => {
+        e.preventDefault()
+        let myForm = document.querySelector(".employment-form");
+        let formData = new FormData(myForm);
+        fetch('/', {
+            method: 'POST',
+            headers: { "Content-Type": "multipart/form-data" },
+            body: new URLSearchParams(formData).toString()
+        }).then(() => formstuff(myForm)).catch((error) => alert(error));
+      }
+
+      document.querySelector(".employment-form").addEventListener("submit", handleSubmit);
     })
   </script>
 </main>
