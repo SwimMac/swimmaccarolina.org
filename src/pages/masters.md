@@ -37,11 +37,9 @@ Sunday – 10:00-11:15 AM LCM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
+**N/A**
 
 
-**Friday, Dec. 31st (NEW YEAR’S EVE)** - 5:30-6:45 AM (LCM Lanes 4-8)
-
-**Sunday, Jan. 2nd** - 10:00-11:15 AM (LCM Lanes 1-3)
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -75,11 +73,9 @@ Sunday – 7:15-8:30 AM SCY
 
 
 
-**Friday, Dec. 31st** (**NEW YEAR’S EVE)** - 5:30-6:45 AM (SCY)
+**Sunday, Jan. 16th** - 6:00-7:15 AM (SCY)
 
-**Saturday, Jan. 1st** (**NEW YEAR'S DAY)** - 8:00-10:30 AM (SCY)
-
-**Sunday, Jan. 2nd** - 6:00-7:15 AM (SCY)
+**Monday, Jan. 17th (MLK,Jr. Day)** - NO PRACTICE
 
 </div>
 </div>
