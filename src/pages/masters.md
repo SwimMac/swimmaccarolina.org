@@ -25,21 +25,19 @@ If you would like to join our program, please email for information and include 
 
 #### FALL / WINTER SCHEDULE:
 
-Monday – 5:30-6:45 AM LCM
+Monday – 5:30-6:45 AM (LCM)
 
-Tuesday – 5:30-6:45 AM SCY & 12:00-1:00 PM SCY
+Tuesday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
-Thursday –5:30-6:45 AM SCY & 12:00-1:00 PM SCY
+Thursday –5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
-Friday – 5:30-6:45 AM LCM
+Friday – 5:30-6:45 AM (LCM)
 
-Sunday – 10:00-11:15 AM LCM
+Sunday – 10:00-11:15 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
 **N/A**
-
-
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -53,27 +51,25 @@ SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charl
 
 #### FALL / WINTER SCHEDULE:
 
-Monday – 12:15-1:30 PM SCY
+Monday – 12:15-1:30 PM (SCY)
 
-Tuesday – 5:15-6:30 AM SCY & 8:30-9:45 AM SCY
+Tuesday – 5:15-6:30 AM (SCY) & 8:30-9:45 AM (SCY)
 
-Wednesday – 12:15-1:30 PM SCY
+Wednesday – 12:15-1:30 PM (SCY)
 
-Thursday – 5:15-6:30 AM SCY & 8:30-9:45 AM SCY
+Thursday – 5:15-6:30 AM (SCY) & 8:30-9:45 AM (SCY)
 
-Friday – 8:30-9:45 AM SCY & 12:15-1:30 PM SCY
+Friday – 8:30-9:45 AM (SCY) & 12:15-1:30 PM (SCY)
 
-Saturday – 5:30-6:45 AM SCY
+Saturday – 5:30-6:45 AM (SCY)
 
-Sunday – 7:15-8:30 AM SCY
+Sunday – 7:15-8:30 AM (SCY)
 
 <span style="text-decoration: underline;">
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-
-
-**Sunday, Jan. 16th** - 6:00-7:15 AM (SCY)
+**Sunday, Jan. 16th** - 5:45-7:00 AM (LCM)
 
 **Monday, Jan. 17th (MLK,Jr. Day)** - NO PRACTICE
 
