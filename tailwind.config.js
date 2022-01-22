@@ -40,7 +40,8 @@ module.exports = {
         "flex-video object",
         "flex-video embed",
         "flex-video video",
-        "widescreen"
+        "widescreen",
+        "lg\:w-2\/3"
         ],
         greedy: [/widescreen$/]
       }
