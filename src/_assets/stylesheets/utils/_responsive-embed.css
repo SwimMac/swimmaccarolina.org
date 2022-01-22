@@ -1,4 +1,4 @@
-/* purgecss start ignore */
+/*! purgecss start ignore */
 @layer base {
 
 	.responsive-embed, .flex-video {
@@ -29,4 +29,4 @@
 	}
 
 }
-/* purgecss end ignore */
+/*! purgecss end ignore */
