@@ -37,7 +37,7 @@ Sunday – 10:00-11:15 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
-**N/A**
+**Tuesday, Jan. 18th**  - NO 5:30 AM PRACTICE due to weather; 12 PM is on.
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -69,9 +69,7 @@ Sunday – 7:15-8:30 AM (SCY)
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-**Sunday, Jan. 16th** - 5:45-7:00 AM (LCM)
-
-**Monday, Jan. 17th (MLK,Jr. Day)** - NO PRACTICE
+**Saturday, January 22nd NO PRACTICE due to Weather!**
 
 </div>
 </div>
