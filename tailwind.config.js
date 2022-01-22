@@ -27,5 +27,8 @@ module.exports = {
   purge: process.env.NODE_ENV === 'production' ? {
     enabled: true,
     content: ['src/**/*.njk', 'src/**/*.js', '.eleventy.js'],
+    options: {
+      safelist: ["responsive-embed"]
+    }
   } : {}
 }
