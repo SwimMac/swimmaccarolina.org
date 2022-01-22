@@ -30,7 +30,6 @@ module.exports = {
     options: {
       safelist: [
         "responsive-embed",
-        "responsive-embed",
         "flex-video",
         "responsive-embed iframe",
         "responsive-embed object",
@@ -40,8 +39,9 @@ module.exports = {
         "flex-video object",
         "flex-video embed",
         "flex-video video",
-        "responsive-embed.widescreen",
-        "flex-video.widescreen"
+        "responsive-embed widescreen",
+        "flex-video",
+        "widescreen"
       ]
     }
   } : {}
