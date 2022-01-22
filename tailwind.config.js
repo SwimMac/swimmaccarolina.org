@@ -28,7 +28,8 @@ module.exports = {
     enabled: true,
     content: ['src/**/*.njk', 'src/**/*.js', '.eleventy.js'],
     options: {
-      safelist: [
+      safelist: {
+        standard: [
         "responsive-embed",
         "flex-video",
         "responsive-embed iframe",
@@ -39,10 +40,10 @@ module.exports = {
         "flex-video object",
         "flex-video embed",
         "flex-video video",
-        "responsive-embed widescreen",
-        "flex-video",
         "widescreen"
-      ]
+        ],
+        greedy: [/widescreen$/]
+      }
     }
   } : {}
 }
