@@ -69,6 +69,8 @@ Sunday – 7:15-8:30 AM (SCY)
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
+**Saturday, Jan. 29th** - 2 HOUR DELAY due to weather - 7:30-8:45 AM
+
 **Saturday, Feb. 26th**  - NO PRACTICE due to Sunbelt Meet
 
 **Sunday, Feb. 27th**  - NO PRACTICE due to Sunbelt Meet
