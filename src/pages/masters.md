@@ -37,7 +37,9 @@ Sunday – 10:00-11:15 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
-**Tuesday, Jan. 18th**  - NO 5:30 AM PRACTICE due to weather; 12 PM is on.
+**Sunday, Feb. 27th**  - NO PRACTICE due to Sunbelt Meet
+
+**Sunday, March 6th -** NO PRACTICE due to Meet
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -69,7 +71,9 @@ Sunday – 7:15-8:30 AM (SCY)
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-**Saturday, January 22nd NO PRACTICE due to Weather!**
+**Saturday, Feb. 26th**  - NO PRACTICE due to Sunbelt Meet
+
+**Sunday, Feb. 27th**  - NO PRACTICE due to Sunbelt Meet
 
 </div>
 </div>
