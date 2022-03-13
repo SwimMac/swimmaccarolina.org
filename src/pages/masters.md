@@ -69,9 +69,17 @@ Sunday – 7:15-8:30 AM (SCY)
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
+**Friday, March 25th -** 8:30 AM & **11:15 AM Practice**
+
+**Sunday, March 27th - 5:30-6:45 AM Practice**
+
+**Tuesday, April 12th -** NO 8:30 AM Practice
+
+**Thursday, April 14th -** NO 8:30 AM Practice
+
+**Friday, April 15th -** NO 8:30 AM Practice
+
 **Sunday, April 17th**  - NO PRACTICE - EASTER
-
-
 
 </div>
 </div>
