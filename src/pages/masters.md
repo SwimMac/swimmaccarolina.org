@@ -33,13 +33,11 @@ Thursday –5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
 Friday – 5:30-6:45 AM (LCM)
 
-Sunday – 10:00-11:15 AM (LCM)
+Sunday – 10:15-11:30 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
-**Sunday, Feb. 27th**  - NO PRACTICE due to Sunbelt Meet
-
-**Sunday, March 6th -** NO PRACTICE due to Meet
+**Sunday, April 17th**  - NO PRACTICE - EASTER
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -71,9 +69,17 @@ Sunday – 7:15-8:30 AM (SCY)
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-**Saturday, Feb. 26th**  - NO PRACTICE due to Sunbelt Meet
+**Sunday, March 27th - 6:00-7:15 AM Practice**
 
-**Sunday, Feb. 27th**  - NO PRACTICE due to Sunbelt Meet
+**Sunday, April 3rd - 6:00-7:15 AM Practice**
+
+**Tuesday, April 12th -** NO 8:30 AM Practice
+
+**Thursday, April 14th -** NO 8:30 AM Practice
+
+**Friday, April 15th -** NO 8:30 AM Practice
+
+**Sunday, April 17th**  - NO PRACTICE - EASTER
 
 </div>
 </div>
