@@ -71,7 +71,7 @@ Sunday – 7:15-8:30 AM (SCY)
 
 **Sunday, March 27th - 6:00-7:15 AM Practice**
 
-**Sunday, April 3rd - 6:00-7:15 AM Practice**
+**Sunday, April 3rd - 6:15-7:30 AM Practice**
 
 **Tuesday, April 12th -** NO 8:30 AM Practice
 
