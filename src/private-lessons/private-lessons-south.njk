@@ -64,7 +64,7 @@ contact :
                     <tbody>
                         <template x-for="(item, index) in lessonrow" :key="index">
                         <tr>
-                            <td class="font-bold" x-text="macfunctions.prettyMeetingDays(item.meeting_days)"></td>
+                            <td class="text-center md:text-left font-bold" x-text="macfunctions.prettyMeetingDays(item.meeting_days)"></td>
                             <td class="text-right md:text-left" data-heading="Times" x-text="macfunctions.tConvert(item.start_time) + '-' + macfunctions.tConvert(item.end_time)"></td>
                             <td class="md:text-center" data-heading="Openings" x-text="Math.sign(item.openings.calculated_openings) === -1 ? '0' : item.openings.calculated_openings"></td>
                             <td class="text-right md:text-left" data-heading="Class Starts" x-text="macfunctions.dateConvert(item.start_date)"></td>
