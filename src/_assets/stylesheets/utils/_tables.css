@@ -1,0 +1,36 @@
+@layer base {
+
+	table td, table th {
+		@apply p-2;
+	}
+
+	table th {
+		@apply text-left py-3 bg-white font-semibold text-lg;
+	}
+
+	th, tbody tr:nth-child(even) {
+    @apply bg-gray-100;
+	}
+
+	.responsive-table {
+		@apply w-full;
+	}
+
+	.responsive-table thead {
+		@apply sr-only md:not-sr-only;
+	}
+
+	.responsive-table tr {
+		@apply block border-2 border-black md:border-0 md:table-row mb-2 hover:bg-yellow-100;
+	}
+
+	.responsive-table tr td {
+		@apply block md:table-cell align-middle;
+	}
+
+	.responsive-table tr td::before {
+		@apply block md:hidden font-semibold float-left pr-2;
+		content: attr(data-heading);
+	}
+
+}
