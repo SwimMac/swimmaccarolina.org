@@ -79,6 +79,8 @@ Sunday – 7:15-8:30 AM (SCY)
 
 **Friday, April 15th -** NO 8:30 AM Practice
 
+**Saturday, April 16th -** **7:00-8:15 AM Practice**
+
 **Sunday, April 17th**  - NO PRACTICE - EASTER
 
 </div>
