@@ -1,0 +1,22 @@
+---
+layout : base.njk
+title : Swim School Skybrook
+---
+<main id="main" class="bg-gray-100 overflow-hidden">
+    {% banner title %}
+
+    <div class="container my-6">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/swim-school/">Swim School</a> /
+            {{ title }}
+        </p>
+
+        {% include 'covid-notice.njk' %}
+
+        <div class="flex flex-wrap -mx-4">
+            <h2>Coming Soon!</h2>
+        </div>
+
+    </div>
+</main>
