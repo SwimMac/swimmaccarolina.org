@@ -8,7 +8,116 @@
   "south": {
     "orgId": "524998",
     "sessions": [
-      "2022 Spring (January - June)"
+      {
+        "session": "2022 Spring (January - June)",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": true,
+        "adultAdvanced": true
+      },
+      {
+        "session": "2022 South Summer Session 1",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      },
+      {
+        "session": "2022 South Summer Session 2",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      },
+      {
+        "session": "2022 South Summer Session 3",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      },
+      {
+        "session": "2022 South Summer Session 4",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      },
+      {
+        "session": "2022 South Summer Session 5",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      },
+      {
+        "session": "2022 South Summer Session 6",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      },
+      {
+        "session": "2022 South Summer Session 7",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      },
+      {
+        "session": "2022 South Summer Session 8",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      },
+      {
+        "session": "2022 South Summer Session 9",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      },
+      {
+        "session": "2022 Summer Saturday Only Session",
+        "minimac": true,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      }
     ]
   }
 }

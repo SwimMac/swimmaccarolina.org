@@ -57,8 +57,10 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
 
             {% if jackrabbit.south.sessions.length > 0 %}
                 {% for session in jackrabbit.south.sessions %}
-                <h3 class="separator-left">{{ session }}</h3>
-                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=minimac&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                    {% if session.minimac %}
+                    <h3 class="separator-left">{{ session.session }}</h3>
+                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=minimac&amp;Session={{ session.session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                    {% endif %}
                 {% endfor %}
             {% else %}
                 <div class="bg-red-100 border border-red-900 p-4 my-6">
@@ -94,8 +96,10 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
 
                 {% if jackrabbit.south.sessions.length > 0 %}
                     {% for session in jackrabbit.south.sessions %}
-                    <h3 class="separator-left">{{ session }}</h3>
-                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=teen&amp;Cat3=teen&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                        {% if session.teen %}
+                        <h3 class="separator-left">{{ session.session }}</h3>
+                        <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=teen&amp;Cat3=teen&amp;Session={{ session.session }}&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                        {% endif %}
                     {% endfor %}
                 {% else %}
                     <div class="bg-red-100 border border-red-900 p-4 my-6">

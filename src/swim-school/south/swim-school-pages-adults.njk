@@ -41,8 +41,30 @@ permalink: "swim-school/south/adult-lessons/{{ swim.url | slug }}/"
 
                 {% if jackrabbit.south.sessions.length > 0 %}
                     {% for session in jackrabbit.south.sessions %}
-                    <h3 class="separator-left">{{ session }}</h3>
-                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat3={{ swim.level }}&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                        {# If Adult Beginner Lessons #}
+                        {% if swim.name === 'Beginner Adult Lessons' %}
+                        {% if session.adultBeginner %}
+                            <h3 class="separator-left">{{ session.session }}</h3>
+                            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat3={{ swim.level }}&amp;Session={{ session.session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                        {% endif %}
+                        {% endif %}
+
+                        {# If Adult Intermediate Lessons #}
+                        {% if swim.name === 'Intermediate Adult Lessons' %}
+                        {% if session.adultIntermediate %}
+                            <h3 class="separator-left">{{ session.session }}</h3>
+                            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat3={{ swim.level }}&amp;Session={{ session.session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                        {% endif %}
+                        {% endif %}
+
+                        {# If Adult Advanced Lessons #}
+                        {% if swim.name === 'Advanced Adult Lessons' %}
+                        {% if session.adultAdvanced %}
+                            <h3 class="separator-left">{{ session.session }}</h3>
+                            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat3={{ swim.level }}&amp;Session={{ session.session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                        {% endif %}
+                        {% endif %}
+
                     {% endfor %}
                 {% else %}
                     <div class="bg-red-100 border border-red-900 p-4 my-6">
