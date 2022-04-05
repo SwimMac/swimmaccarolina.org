@@ -59,19 +59,15 @@ Wednesday – 12:15-1:30 PM (SCY)
 
 Thursday – 5:15-6:30 AM (SCY) & 8:30-9:45 AM (SCY)
 
-Friday – 8:30-9:45 AM (SCY) & 12:15-1:30 PM (SCY)
+Friday – 8:30-9:45 AM (LCM) & 12:15-1:30 PM (LCM)
 
-Saturday – 5:30-6:45 AM (SCY)
+Saturday – 5:30-6:45 AM (LCM)
 
-Sunday – 7:15-8:30 AM (SCY)
+Sunday – 7:15-8:30 AM (LCM)
 
 <span style="text-decoration: underline;">
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
-
-**Sunday, March 27th - 6:00-7:15 AM Practice**
-
-**Sunday, April 3rd - 6:15-7:30 AM Practice**
 
 **Tuesday, April 12th -** NO 8:30 AM Practice
 
@@ -82,6 +78,8 @@ Sunday – 7:15-8:30 AM (SCY)
 **Saturday, April 16th -** **7:00-8:15 AM Practice**
 
 **Sunday, April 17th**  - NO PRACTICE - EASTER
+
+**\*\*April 8-24th = LCM\*\***
 
 </div>
 </div>
