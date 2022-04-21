@@ -37,7 +37,7 @@ Sunday – 10:15-11:30 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
-**Sunday, April 17th**  - NO PRACTICE - EASTER
+
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -69,15 +69,7 @@ Sunday – 7:15-8:30 AM (LCM)
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
-**Tuesday, April 12th -** NO 8:30 AM Practice
 
-**Thursday, April 14th -** NO 8:30 AM Practice
-
-**Friday, April 15th -** NO 8:30 AM Practice
-
-**Saturday, April 16th -** **7:00-8:15 AM Practice**
-
-**Sunday, April 17th**  - NO PRACTICE - EASTER
 
 **\*\*April 8-24th = LCM\*\***
 
