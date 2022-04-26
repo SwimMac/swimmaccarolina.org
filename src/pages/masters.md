@@ -37,8 +37,6 @@ Sunday – 10:15-11:30 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
-
-
 SCY – Short Course Yards; LCM – Long Course Meters
 
 </div>
@@ -69,9 +67,9 @@ Sunday – 7:15-8:30 AM (LCM)
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
+**Sunday, May 8th (Mother's Day) - 6:15-7:30 AM**
 
-
-**\*\*April 8-24th = LCM\*\***
+**Fri/Sat/Sun = LCM**
 
 </div>
 </div>
