@@ -37,6 +37,8 @@ Sunday – 10:15-11:30 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
+**Monday, May 30th (Memorial Day) - NO PRACTICE**
+
 SCY – Short Course Yards; LCM – Long Course Meters
 
 </div>
@@ -68,6 +70,8 @@ Sunday – 7:15-8:30 AM (LCM)
 </span>
 
 **Sunday, May 8th (Mother's Day) - 6:15-7:30 AM**
+
+**Monday, May 30th (Memorial Day) - NO PRACTICE**
 
 **Fri/Sat/Sun = LCM**
 
