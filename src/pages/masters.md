@@ -69,6 +69,8 @@ Sunday – 7:15-8:30 AM (LCM)
     <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
 </span>
 
+**Saturday, May 7th - 5:15-6:30 AM**
+
 **Sunday, May 8th (Mother's Day) - 6:15-7:30 AM**
 
 **Monday, May 30th (Memorial Day) - NO PRACTICE**
