@@ -3,12 +3,6 @@
     "section": "Administration",
     "members": [
       {
-        "name": "Brandi Jones",
-        "title": "Executive Director",
-        "email": "bjones@swimmaccarolina.org",
-        "image": "brandi-jones.jpg"
-      },
-      {
         "name": "Maggie Keller",
         "title": "Billing Administrator",
         "email": "mkeller@swimmaccarolina.org",
@@ -156,10 +150,9 @@
         "image": "chandra-barck.jpg"
       },
       {
-        "name": "Carol Ann Hoff",
+        "name": "Nicolle Hollmon",
         "title": "South Swim School Manager",
-        "email": "choff@swimmaccarolina.org",
-        "image": "carol-ann-hoff.jpg"
+        "email": "nhollmon@swimmaccarolina.org"
       }
     ]
   },
