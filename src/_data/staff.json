@@ -3,16 +3,16 @@
     "section": "Administration",
     "members": [
       {
-        "name": "Maggie Keller",
-        "title": "Billing Administrator",
-        "email": "mkeller@swimmaccarolina.org",
-        "image": "maggie-keller.jpg"
-      },
-      {
         "name": "Karen Smith",
         "title": "Accounting/Finance Manager",
         "email": "ksmith@swimmaccarolina.org",
         "image": ""
+      },
+      {
+        "name": "Maggie Keller",
+        "title": "Billing Administrator",
+        "email": "mkeller@swimmaccarolina.org",
+        "image": "maggie-keller.jpg"
       }
     ]
   },
@@ -20,10 +20,22 @@
     "section": "Competitive Team Leadership",
     "members": [
       {
+        "name": "Ben Keast",
+        "title": "North Shark Division Lead, Shark 1 Lead, Senior 2 Lead",
+        "email": "bkeast@swimmaccarolina.org",
+        "image": ""
+      },
+      {
         "name": "Chuck Batchelor",
         "title": "Head Coach/Director of Competitive Swimming ",
         "email": "cbatchelor@swimmaccarolina.org",
         "image": "chuck-batchelor.jpg"
+      },
+      {
+        "name": "Kathy McKee",
+        "title": "Leadership Team",
+        "email": "kmckee@swimmaccarolina.org",
+        "image": "kathy-mckee.jpg"
       },
       {
         "name": "Randy Erlenbach",
@@ -33,15 +45,9 @@
       },
       {
         "name": "Russ Kasl",
-        "title": "South/Shark Division Lead, Shark 1 Lead, Senior 2 Lead",
+        "title": "South/Shark & Dolphin Division Lead, Shark 1 Lead, Dolphin 1 Lead",
         "email": "rkasl@swimmaccarolina.org",
         "image": "russ-kasl.jpg"
-      },
-      {
-        "name": "Kathy McKee",
-        "title": "North/Shark Division Lead, Shark 1 Lead",
-        "email": "kmckee@swimmaccarolina.org",
-        "image": "kathy-mckee.jpg"
       }
     ]
   },
@@ -55,6 +61,12 @@
         "image": "ariel-hopper.jpg"
       },
       {
+        "name": "Ben Keast",
+        "title": "North Shark 1 Lead",
+        "email": "bkeast@swimmaccarolina.org",
+        "image": ""
+      },
+      {
         "name": "Brittany Ward",
         "title": "Davidson Marlin 2 Lead",
         "email": "bward@swimmaccarolina.org",
@@ -65,12 +77,6 @@
         "title": "North Marlin 3 Lead",
         "email": "dmangaoang@swimmaccarolina.org",
         "image": "denise mangaoang-omar.jpg"
-      },
-      {
-        "name": "Ed VonIderstein",
-        "title": "South Senior 3 Lead",
-        "email": "evoniderstein@swimmaccarolina.org",
-        "image": "ed-vonIderstein.jpg"
       },
       {
         "name": "Frank Totten",
@@ -91,8 +97,14 @@
         "image": "kalyn-fetter.jpg"
       },
       {
+        "name": "Kevin Thornton",
+        "title": "South Senior 2 lead",
+        "email": "kthornton@swimmaccarolina.org",
+        "image": ""
+      },
+      {
         "name": "Kim DeCann",
-        "title": "North Shark 2 Lead, Meet Manager",
+        "title": "North Senior 3 and Shark 2 Lead, Meet Manager",
         "email": "kdecann@swimmaccarolina.org",
         "image": "kim-deCann.jpg"
       },
@@ -119,12 +131,6 @@
         "title": "North Marlin Division Lead, Marlin 1 and HFFA Marlin 2 Lead",
         "email": "sford@swimmaccarolina.org",
         "image": "sean-ford.jpg"
-      },
-      {
-        "name": "Sheryl Tucker",
-        "title": "North Senior 3 Lead",
-        "email": "stucker@swimmaccarolina.org",
-        "image": "sheryl-tucker.jpg"
       },
       {
         "name": "Steve Robling",
@@ -177,6 +183,36 @@
     "section": "Masters Coaches",
     "members": [
       {
+        "name": "Eddie Carter",
+        "title": "Master's Coach",
+        "email": "ecarter@swimmaccarolina.org",
+        "image": "eddie-carter.jpg"
+      },
+      {
+        "name": "Eric Cornell",
+        "title": "Master's Coach",
+        "email": "ecornell@swimmaccarolina.org",
+        "image": "eric-cornell.jpg"
+      },
+      {
+        "name": "Jason Sturgis",
+        "title": "Master's Coach",
+        "email": "jsturgis@swimmaccarolina.org",
+        "image": "jason-sturgis.jpg"
+      },
+      {
+        "name": "Jerrie Lynn Rhodes",
+        "title": "Master's Coach",
+        "email": "jrhodes@swimmaccarolina.org",
+        "image": "jerrie-lynn-rhodes.jpg"
+      },
+      {
+        "name": "John Ogden",
+        "title": "Lead North Masters Coach",
+        "email": "jogden@swimmaccarolina.org",
+        "image": ""
+      },
+      {
         "name": "Kerry Lindauer",
         "title": "Masters Director & South Lead Masters Coach",
         "email": "klindauer@swimmaccarolina.org",
@@ -187,30 +223,6 @@
         "title": "Master's Coach",
         "email": "srobling@swimmaccarolina.org",
         "image": "steve-robling.jpg"
-      },
-      {
-        "name": "Eddie Carter",
-        "title": "Master's Coach",
-        "email": "ecarter@swimmaccarolina.org",
-        "image": "eddie-carter.jpg"
-      },
-      {
-        "name": "Jerrie Lynn Rhodes",
-        "title": "Master's Coach",
-        "email": "jrhodes@swimmaccarolina.org",
-        "image": "jerrie-lynn-rhodes.jpg"
-      },
-      {
-        "name": "Jason Sturgis",
-        "title": "Master's Coach",
-        "email": "jsturgis@swimmaccarolina.org",
-        "image": "jason-sturgis.jpg"
-      },
-      {
-        "name": "Eric Cornell",
-        "title": "Master's Coach",
-        "email": "ecornell@swimmaccarolina.org",
-        "image": "eric-cornell.jpg"
       }
     ]
   },
