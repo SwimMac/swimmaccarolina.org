@@ -33,7 +33,7 @@ Thursday –5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
 Friday – 5:30-6:45 AM (LCM)
 
-Sunday – 10:15-11:30 AM (LCM)
+Sunday – 10:00-11:15 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
 
