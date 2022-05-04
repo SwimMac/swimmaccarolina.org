@@ -20,12 +20,6 @@
     "section": "Competitive Team Leadership",
     "members": [
       {
-        "name": "Ben Keast",
-        "title": "North Shark Division Lead, Shark 1 Lead, Senior 2 Lead",
-        "email": "bkeast@swimmaccarolina.org",
-        "image": ""
-      },
-      {
         "name": "Chuck Batchelor",
         "title": "Head Coach/Director of Competitive Swimming ",
         "email": "cbatchelor@swimmaccarolina.org",
@@ -62,7 +56,7 @@
       },
       {
         "name": "Ben Keast",
-        "title": "North Shark 1 Lead",
+        "title": "Shark North Division, North Shark 1 Lead, Senior 2 North Lead",
         "email": "bkeast@swimmaccarolina.org",
         "image": ""
       },
@@ -83,12 +77,6 @@
         "title": "South Dolphin 3 and Shark 3 Lead",
         "email": "ftotten@swimmaccarolina.org",
         "image": "frank-totten.jpg"
-      },
-      {
-        "name": "Greg Baskwell",
-        "title": "South Dolphin Division Lead, Dolphin 1 Lead",
-        "email": "gbaskwell@swimmaccarolina.org",
-        "image": "greg-baskwell.jpg"
       },
       {
         "name": "Kalyn Fetter",
@@ -242,20 +230,12 @@
         "email": "dphelps@swimmaccarolina.org"
       },
       {
-        "name": "Melissa Cooler",
-        "email": "mcooler@swimmaccarolina.org"
-      },
-      {
         "name": "Jeff Lyons",
         "email": "jlyons@swimmaccarolina.org"
       },
       {
         "name": "Lisa Davis",
         "email": "ldavis@swimmaccarolina.org"
-      },
-      {
-        "name": "David Rainey",
-        "email": "drainey@swimmaccarolina.org"
       },
       {
         "name": "Arthur Osman",
