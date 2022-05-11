@@ -35,11 +35,19 @@ Friday – 5:30-6:45 AM (LCM)
 
 Sunday – 10:00-11:15 AM (LCM)
 
-<span style="text-decoration: underline;"><strong>EXCEPTIONS & HOLIDAY SCHEDULE</strong></span>
+<span style="text-decoration: underline;"><strong>EXCEPTIONS:</strong></span>
 
 **Monday, May 30th (Memorial Day) - NO PRACTICE**
 
 SCY – Short Course Yards; LCM – Long Course Meters
+
+<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE</strong></span>
+
+Mondays & Fridays – 5:15-6:30 AM
+
+Tuesdays & Thursdays - 5:30-6:45 AM & 12:00-1:00 PM
+
+Sundays - 10:00-11:15 AM
 
 </div>
 
@@ -66,16 +74,14 @@ Saturday – 5:30-6:45 AM (LCM)
 Sunday – 7:15-8:30 AM (LCM)
 
 <span style="text-decoration: underline;">
-    <strong>EXCEPTIONS &amp; HOLIDAY SCHEDULE</strong>
+    <strong>EXCEPTIONS: </strong>
 </span>
-
-**Saturday, May 7th - 5:15-6:30 AM**
-
-**Sunday, May 8th (Mother's Day) - 6:15-7:30 AM**
 
 **Monday, May 30th (Memorial Day) - NO PRACTICE**
 
 **Fri/Sat/Sun = LCM**
+
+<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE: TBD</strong></span>
 
 </div>
 </div>
