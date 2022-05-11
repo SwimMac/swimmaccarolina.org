@@ -41,7 +41,7 @@ Sunday – 10:00-11:15 AM (LCM)
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
-<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE</strong></span>
+<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE (begins June 13th):</strong></span>
 
 Mondays & Fridays – 5:15-6:30 AM
 
