@@ -81,7 +81,17 @@ Sunday – 7:15-8:30 AM (LCM)
 
 **Fri/Sat/Sun = LCM**
 
-<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE: TBD</strong></span>
+<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE (begins June 13th):</strong></span>
+
+Mondays – 5:00-6:15 PM (LCM; 9 Lanes)
+
+Tuesdays & Thursdays – 5:15-6:30 AM (LCM; 10 Lanes)
+
+Wednesdays & Fridays – 12:30-1:45 PM (LCM; 5 and 6 lanes, respectively)
+
+Saturdays – 5:30-6:45 AM (LCM; 10 Lanes)
+
+Sunday – 7:15-8:30 AM (LCM; 10 Lanes)
 
 </div>
 </div>
