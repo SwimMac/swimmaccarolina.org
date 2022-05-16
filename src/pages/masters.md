@@ -63,7 +63,7 @@ Monday – 12:15-1:30 PM (SCY)
 
 Tuesday – 5:15-6:30 AM (SCY) & 8:30-9:45 AM (SCY)
 
-Wednesday – 12:15-1:30 PM (SCY)
+Wednesday – 12:15-1:30 PM (SCY) 
 
 Thursday – 5:15-6:30 AM (SCY) & 8:30-9:45 AM (SCY)
 
@@ -87,7 +87,9 @@ Mondays – 5:00-6:15 PM (LCM; 9 Lanes)
 
 Tuesdays & Thursdays – 5:15-6:30 AM (LCM; 10 Lanes)
 
-Wednesdays & Fridays – 12:30-1:45 PM (LCM; 5 and 6 lanes, respectively)
+Wednesdays  – 5:15-6:30 AM (LCM; 10 Lanes) AND 12:30-1:45 PM (LCM; 5 Lanes)
+
+Fridays – 12:30-1:45 PM (LCM; 6 lanes)
 
 Saturdays – 5:30-6:45 AM (LCM; 10 Lanes)
 
