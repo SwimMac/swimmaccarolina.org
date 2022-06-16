@@ -23,7 +23,23 @@ If you would like to join our program, please email for information and include 
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-#### FALL / WINTER SCHEDULE:
+
+
+<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE (begins June 13th):</strong></span>
+
+Mondays & Fridays – 5:15-6:30 AM
+
+Tuesdays & Thursdays - 5:30-6:45 AM & 12:00-1:00 PM
+
+Sundays - 10:00-11:15 AM
+
+<span style="text-decoration: underline;"><strong>EXCEPTIONS:</strong></span>
+
+**Monday, July 4th - NO PRACTICE**
+
+
+
+<span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE:</strong></span>
 
 Monday – 5:30-6:45 AM (LCM)
 
@@ -35,19 +51,7 @@ Friday – 5:30-6:45 AM (LCM)
 
 Sunday – 10:00-11:15 AM (LCM)
 
-<span style="text-decoration: underline;"><strong>EXCEPTIONS:</strong></span>
-
-**Monday, May 30th (Memorial Day) - NO PRACTICE**
-
 SCY – Short Course Yards; LCM – Long Course Meters
-
-<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE (begins June 13th):</strong></span>
-
-Mondays & Fridays – 5:15-6:30 AM
-
-Tuesdays & Thursdays - 5:30-6:45 AM & 12:00-1:00 PM
-
-Sundays - 10:00-11:15 AM
 
 </div>
 
@@ -56,30 +60,6 @@ Sundays - 10:00-11:15 AM
 ### South Region
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
-
-#### FALL / WINTER SCHEDULE:
-
-Monday – 12:15-1:30 PM (SCY)
-
-Tuesday – 5:15-6:30 AM (SCY) & 8:30-9:45 AM (SCY)
-
-Wednesday – 12:15-1:30 PM (SCY) 
-
-Thursday – 5:15-6:30 AM (SCY) & 8:30-9:45 AM (SCY)
-
-Friday – 8:30-9:45 AM (LCM) & 12:15-1:30 PM (LCM)
-
-Saturday – 5:30-6:45 AM (LCM)
-
-Sunday – 7:15-8:30 AM (LCM)
-
-<span style="text-decoration: underline;">
-    <strong>EXCEPTIONS: </strong>
-</span>
-
-**Monday, May 30th (Memorial Day) - NO PRACTICE**
-
-**Fri/Sat/Sun = LCM**
 
 <span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE (begins June 13th):</strong></span>
 
@@ -94,6 +74,30 @@ Fridays – 12:30-1:45 PM (LCM; 6 lanes)
 Saturdays – 5:30-6:45 AM (LCM; 10 Lanes)
 
 Sunday – 7:15-8:30 AM (LCM; 10 Lanes)
+
+<span style="text-decoration: underline;">
+    <strong>EXCEPTIONS: </strong>
+</span>
+
+**Monday, July 4th- NO PRACTICE**
+
+#### FALL / WINTER SCHEDULE:
+
+Monday / Wednesday / Friday – 12:15-1:30 PM
+
+Tuesday / Thursday – 5:15-6:30 AM 
+
+Tuesday / Thursday / Friday - 8:30-9:45 AM
+
+Saturday – 5:30-6:45 AM
+
+Sunday – 7:15-8:30 AM
+
+
+
+
+
+
 
 </div>
 </div>
