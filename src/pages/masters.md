@@ -23,8 +23,6 @@ If you would like to join our program, please email for information and include 
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-
-
 <span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE (begins June 13th):</strong></span>
 
 Mondays & Fridays – 5:15-6:30 AM
@@ -36,8 +34,6 @@ Sundays - 10:00-11:15 AM
 <span style="text-decoration: underline;"><strong>EXCEPTIONS:</strong></span>
 
 **Monday, July 4th - NO PRACTICE**
-
-
 
 <span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE:</strong></span>
 
@@ -79,6 +75,8 @@ Sunday – 7:15-8:30 AM (LCM; 10 Lanes)
     <strong>EXCEPTIONS: </strong>
 </span>
 
+**SATURDAY, JUNE 18TH - 7:00-8:15 AM**
+
 **Monday, July 4th- NO PRACTICE**
 
 #### FALL / WINTER SCHEDULE:
@@ -92,12 +90,6 @@ Tuesday / Thursday / Friday - 8:30-9:45 AM
 Saturday – 5:30-6:45 AM
 
 Sunday – 7:15-8:30 AM
-
-
-
-
-
-
 
 </div>
 </div>
