@@ -79,7 +79,7 @@ Sunday – 7:15-8:30 AM (LCM; 10 Lanes)
 
 **Monday, July 4th- NO PRACTICE**
 
-#### FALL / WINTER SCHEDULE:
+<span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE:</strong></span>
 
 Monday / Wednesday / Friday – 12:15-1:30 PM
 

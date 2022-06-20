@@ -6,8 +6,12 @@ title: Masters Overview
 <div class="flex flex-wrap -mx-4" markdown="1">
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h2>Adult-Learn-to-Swim Program (ALTS)</h2>
-<p>SwimMAC offers an Adult-Learn-to-Swim program with US Masters Swimmer ALTS certified instructors. For adults beginning to swim or in need of small group instruction (2-4 swimmers) or one-on-one instruction, we offer Adult Swim Lessons. These lessons are available for beginners through advanced swimmers.</p>
-<p>Small group lessons are $160 for session of ten 30 minute classes. Private lessons are $150 for four 30 minute lessons. Discounted packages are available. Contact <a href="mailto:alts@swimmaccarolina.org">ALTS@SwimMACcarolina.org</a> to get started!</p>
+<p>SwimMAC offers an Adult-Learn-to-Swim program through our Swim School program.</p>
+
+<p>For more information about Adult lessons please contact us: <br>
+<strong>North location:</strong> Chandra Barck 704-766-1520 or <a href="mailto:cbarck@swimmaccarolina.org" target="_blank">cbarck@swimmaccarolina.org</a><br>
+<strong>South location:</strong> Nicolle Hollmon 980- 339-8912 or <a href="mailto:nhollmon@swimmaccarolina.org" target="_blank">nhollmon@swimmaccarolina.org</a>
+</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
