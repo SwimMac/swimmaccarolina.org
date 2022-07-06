@@ -59,7 +59,7 @@ SCY – Short Course Yards; LCM – Long Course Meters
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
-<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE (begins June 13th):</strong></span>
+<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE (June 13th - August 7th):</strong></span>
 
 Mondays – 5:00-6:15 PM (LCM; 9 Lanes)
 
@@ -81,7 +81,7 @@ Sunday – 7:15-8:30 AM (LCM; 10 Lanes)
 
 **Monday, September 5th - NO PRACTICE LABOR DAY**
 
-<span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE:</strong></span>
+<span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE (begins August 22nd):</strong></span>
 
 Monday / Wednesday / Friday – 12:15-1:30 PM
 
