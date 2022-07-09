@@ -80,7 +80,7 @@ collections:
             multiple: false
 
   - name: "staff"
-    label: "EStaff Members"
+    label: "Staff Members"
     folder: "src/staff"
     create: true
     slug: "{{slug}}"
