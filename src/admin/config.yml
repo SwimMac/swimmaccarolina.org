@@ -80,29 +80,29 @@ collections:
             multiple: false
 
   - name: "staff"
-      label: "Employment Opportunities"
-      folder: "src/staff"
-      create: true
-      slug: "{{slug}}"
-      fields:
-        - label: "First Name"
-          name: "firstName"
-          widget: "string"
+    label: "Employment Opportunities"
+    folder: "src/staff"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "First Name"
+        name: "firstName"
+        widget: "string"
 
-        - label: "Last Name"
-          name: "lastName"
-          widget: "string"
+      - label: "Last Name"
+        name: "lastName"
+        widget: "string"
 
-        - label: "Image"
-          name: "image"
-          widget: "image"
-          media_folder: "/static/staff"
-          required: false
-          choose_url: true
-          media_library:
-          config:
-            multiple: false
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        media_folder: "/static/staff"
+        required: false
+        choose_url: true
+        media_library:
+        config:
+          multiple: false
 
-        - label: "Bio"
-          name: "bio"
-          widget: "markdown"
+      - label: "Bio"
+        name: "bio"
+        widget: "markdown"
