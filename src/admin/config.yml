@@ -93,6 +93,16 @@ collections:
         name: "lastName"
         widget: "string"
 
+      - label: "Email"
+        name: "email"
+        widget: "string"
+
+
+      - label: "Department"
+        name: "align"
+        widget: "select"
+        options: ["Administration", "Competitive Team Leadership", "Competitive Team Coaches", "Swim School", "Junior Swim League (JSL), Teen-Fit, & Homeschool", "Masters Coaches", "Board of Directors"]
+
       - label: "Image"
         name: "image"
         widget: "image"
@@ -102,6 +112,12 @@ collections:
         media_library:
         config:
           multiple: false
+
+      - label: "Order"
+        name: "order"
+        widget: "number"
+        default: 0
+        value_type: "int"
 
       - label: "Bio"
         name: "bio"
