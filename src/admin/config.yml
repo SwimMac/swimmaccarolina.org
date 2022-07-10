@@ -109,17 +109,7 @@ collections:
           - { label: "Junior Swim League (JSL)", value: "jsl" }
           - { label: "Teen-Fit & Homeschool", value: "teen-fit-homeschool" }
           - { label: "Masters Coaches", value: "masters-coaches" }
-          - { label: "Board of Directors", value: "board" }        
-
-      - label: "Image"
-        name: "image"
-        widget: "image"
-        media_folder: "/static/staff"
-        required: false
-        choose_url: true
-        media_library:
-        config:
-          multiple: false
+          - { label: "Board of Directors", value: "board" }
 
       - label: "Order"
         name: "order"
