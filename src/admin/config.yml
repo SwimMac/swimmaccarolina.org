@@ -97,7 +97,6 @@ collections:
         name: "email"
         widget: "string"
 
-
       - label: "Department"
         name: "align"
         widget: "select"
