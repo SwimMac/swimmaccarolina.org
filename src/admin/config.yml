@@ -134,3 +134,4 @@ collections:
       - label: "Bio"
         name: "bio"
         widget: "markdown"
+        required: false
