@@ -111,6 +111,16 @@ collections:
           - { label: "Masters Coaches", value: "masters-coaches" }
           - { label: "Board of Directors", value: "board" }
 
+      - label: "Image"
+        name: "staffImage"
+        widget: "image"
+        media_folder: "/static/staff"
+        required: false
+        choose_url: true
+        media_library:
+          config:
+            multiple: false
+
       - label: "Order"
         name: "order"
         widget: "number"
