@@ -84,6 +84,7 @@ collections:
     folder: "src/staff"
     create: true
     slug: "{{slug}}"
+    identifier_field: firstName
     fields:
       - label: "First Name"
         name: "firstName"
