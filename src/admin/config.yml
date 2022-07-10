@@ -100,7 +100,16 @@ collections:
       - label: "Department"
         name: "align"
         widget: "select"
-        options: ["Administration", "Competitive Team Leadership", "Competitive Team Coaches", "Swim School", "Junior Swim League (JSL), Teen-Fit, & Homeschool", "Masters Coaches", "Board of Directors"]
+        multiple: true
+        options:
+          - { label: "Administration", value: "Administration" }
+          - { label: "Competitive Team Leadership", value: "competitive-team-leadership" }
+          - { label: "Competitive Team Coaches", value: "competitive-team-coaches" }
+          - { label: "Swim School", value: "swim-school" }
+          - { label: "Junior Swim League (JSL)", value: "jsl" }
+          - { label: "Teen-Fit & Homeschool", value: "teen-fit-homeschool" }
+          - { label: "Masters Coaches", value: "masters-coaches" }
+          - { label: "Board of Directors", value: "board" }        
 
       - label: "Image"
         name: "image"
