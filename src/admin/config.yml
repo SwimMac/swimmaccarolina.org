@@ -93,6 +93,10 @@ collections:
         name: "lastName"
         widget: "string"
 
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
       - label: "Email"
         name: "email"
         widget: "string"
