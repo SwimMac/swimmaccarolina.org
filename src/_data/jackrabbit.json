@@ -2,7 +2,6 @@
   "north": {
     "orgId": "524744",
     "sessions": [
-      "2022 HFFA Summer 6",
       "2022 HFFA Summer 7",
       "2022 HFFA Summer 8",
       "2022 HFFA Summer 9",
@@ -12,16 +11,6 @@
   "south": {
     "orgId": "524998",
     "sessions": [
-      {
-        "session": "2022 South Summer Session 6",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adultBeginner": true,
-        "adultIntermediate": false,
-        "adultAdvanced": false
-      },
       {
         "session": "2022 South Summer Session 7",
         "minimac": false,
