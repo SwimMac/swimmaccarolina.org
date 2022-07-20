@@ -19,7 +19,7 @@ If you would like to join our program, please email for information and include 
 <div class="flex flex-wrap -mx-4" markdown="1">
 <div class="w-full md:w-1/2 p-4" markdown="1">
 
-### North Region
+### HFFA SITE
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
@@ -55,7 +55,7 @@ SCY – Short Course Yards; LCM – Long Course Meters
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 
-### South Region
+### LATIN SITE
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
