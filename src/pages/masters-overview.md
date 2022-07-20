@@ -2,15 +2,14 @@
 layout: pages.njk
 title: Masters Overview
 ---
-
 <div class="flex flex-wrap -mx-4" markdown="1">
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h2>Adult-Learn-to-Swim Program (ALTS)</h2>
 <p>SwimMAC offers an Adult-Learn-to-Swim program through our Swim School program.</p>
 
 <p>For more information about Adult lessons please contact us: <br>
-<strong>North location:</strong> Chandra Barck 704-766-1520 or <a href="mailto:cbarck@swimmaccarolina.org" target="_blank">cbarck@swimmaccarolina.org</a><br>
-<strong>South location:</strong> Nicolle Hollmon 980- 339-8912 or <a href="mailto:nhollmon@swimmaccarolina.org" target="_blank">nhollmon@swimmaccarolina.org</a>
+<strong>HFFA SITE:</strong> Chandra Barck 704-766-1520 or <a href="mailto:cbarck@swimmaccarolina.org" target="_blank">cbarck@swimmaccarolina.org</a><br>
+<strong>LATIN SITE:</strong> Nicolle Hollmon 980- 339-8912 or <a href="mailto:nhollmon@swimmaccarolina.org" target="_blank">nhollmon@swimmaccarolina.org</a>
 </p>
 </div>
 
