@@ -19,7 +19,7 @@ If you would like to join our program, please email for information and include 
 <div class="flex flex-wrap -mx-4" markdown="1">
 <div class="w-full md:w-1/2 p-4" markdown="1">
 
-### North Region
+### HFFA SITE
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
@@ -55,7 +55,7 @@ SCY – Short Course Yards; LCM – Long Course Meters
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 
-### South Region
+### LATIN SITE
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
@@ -76,6 +76,12 @@ Sunday – 7:15-8:30 AM (LCM; 10 Lanes)
 <span style="text-decoration: underline;">
     <strong>EXCEPTIONS: </strong>
 </span>
+
+**Friday, July 29th - NO PRACTICE Tar Heel Meet @ Latin**
+
+**Saturday, July 30th - Earlier Start @ Latin 5:15-6:30 AM**
+
+**Sunday, July 31st - NO PRACTICE Tar Heel Meet @ Latin** 
 
 **Summer Break - NO PRACTICE - Monday, August 8th through Sunday, August 21st**
 
