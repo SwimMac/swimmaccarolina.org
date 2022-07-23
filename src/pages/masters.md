@@ -33,6 +33,8 @@ Sundays - 10:00-11:15 AM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS:</strong></span>
 
+**Sunday, July 31st - NO PRACTICE Due to Event @ HFFA**  
+
 **Summer Break - NO PRACTICE - Monday, August 15th through Sunday, August 28th**
 
 **Monday, September 5th - NO PRACTICE LABOR DAY**
