@@ -81,7 +81,7 @@ Sunday – 7:15-8:30 AM (LCM; 10 Lanes)
 
 **Friday, July 29th - NO PRACTICE Tar Heel Meet @ Latin**
 
-**Saturday, July 30th - Earlier Start @ Latin 5:15-6:30 AM**
+**Saturday, July 30th - Regular  Start @ Latin 5:30-6:45 AM**
 
 **Sunday, July 31st - NO PRACTICE Tar Heel Meet @ Latin** 
 
