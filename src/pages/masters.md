@@ -33,6 +33,8 @@ Sundays - 10:00-11:15 AM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS:</strong></span>
 
+**Sunday, July 31st - NO PRACTICE Due to Event @ HFFA**  
+
 **Summer Break - NO PRACTICE - Monday, August 15th through Sunday, August 28th**
 
 **Monday, September 5th - NO PRACTICE LABOR DAY**
@@ -79,7 +81,7 @@ Sunday – 7:15-8:30 AM (LCM; 10 Lanes)
 
 **Friday, July 29th - NO PRACTICE Tar Heel Meet @ Latin**
 
-**Saturday, July 30th - Earlier Start @ Latin 5:15-6:30 AM**
+**Saturday, July 30th - Regular  Start @ Latin 5:30-6:45 AM**
 
 **Sunday, July 31st - NO PRACTICE Tar Heel Meet @ Latin** 
 
