@@ -2,6 +2,7 @@
   "north": {
     "orgId": "524744",
     "sessions": [
+      "22/23 School Year (Sept to June)",
       "2022 HFFA Summer 8",
       "2022 HFFA Summer 9"
     ]
@@ -9,6 +10,16 @@
   "south": {
     "orgId": "524998",
     "sessions": [
+      {
+        "session": "22/23 School Year (Sept to June)",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adultBeginner": true,
+        "adultIntermediate": false,
+        "adultAdvanced": false
+      },
       {
         "session": "2022 South Summer Session 8",
         "minimac": false,

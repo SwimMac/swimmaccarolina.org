@@ -7,12 +7,12 @@
       "description": "MiniMAC is a safe place for little swimmers to learn how to swim with the guidance of an adult* and instructors. Lessons will include water safety, along with songs, games and toys to build confidence and prepare for group lessons.",
       "image": "minimac.jpg",
       "north": true,
-      "south": true,
+      "south": false,
       "levels": [
         {
           "name": "MiniMAC Beginner",
           "url": "minimac-beginner",
-          "description": "Skills include blowing bubbles, kicking, scooping arms, floating, etc.",
+          "description": "Skills include blowing bubbles, kicking, scooping arms, floating, etc. An adult 18+ is required in the water with your swimmer at all times. Please come to class prepared to get in.",
           "image": "minimac-beginner.jpg",
           "north": true,
           "south": false
