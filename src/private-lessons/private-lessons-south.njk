@@ -71,9 +71,15 @@ contact :
                             <td class="text-right md:text-left" data-heading="Class Ends" x-text="macfunctions.dateConvert(item.end_date)"></td>
                             <td class="text-right md:text-left" data-heading="Tuition" x-text="'$' + item.tuition.fee"></td>
                             <td class="text-center md:text-left">
-                                <a x-bind:href="macfunctions.urlParamClean(item.online_reg_link)" class="button button--small w-full md:w-auto" target="_blank">
-                                    <span x-text="item.openings.calculated_openings < 1 ? 'Join Waitlist' : 'Register'"></span>
-                                </a>
+                               <template x-if="item.online_reg_link.length > 0">
+                                    <a x-bind:href="macfunctions.urlParamClean(item.online_reg_link)" class="button button--small w-full md:w-auto" target="_blank">
+                                        <span x-text="item.openings.calculated_openings < 1 ? 'Join Waitlist' : 'Register'"></span>
+                                    </a>
+                                </template>
+
+                                <template x-if="item.online_reg_link.length === 0">
+                                    <p>Check Back Soon!</p>
+                                </template>
                             </td>
                         </tr>
                         </template>
