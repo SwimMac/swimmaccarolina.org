@@ -442,9 +442,6 @@
           "result": "Adult Lessons"
         },
         {
-          "result": "MAC Fit"
-        },
-        {
           "result": "Private Lessons"
         }
       ]
@@ -558,12 +555,6 @@
       "url": "/adult-programs/adult-group-lessons/",
       "description": "This is a beginner group lesson for adults 18 and over. Lessons will range from learning the basics of blowing bubbles and ﬂoating, to recreational swimming for fitness.",
       "img": "pool-tiles.jpg"
-    },
-    {
-      "label": "MAC Fit",
-      "url": "/adult-programs/mac-fit/",
-      "description": "These classes are geared toward those looking for low impact or supplemental fitness classes. Programs are centered on low impact fitness activities.",
-      "img": "mac-fit.jpg"
     },
     {
       "label": "JSL",

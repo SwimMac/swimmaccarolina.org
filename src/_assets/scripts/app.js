@@ -29,31 +29,33 @@ macfunctions = {
   urlParamClean: function(url) {
     return url.replace(/&amp;/g, '&');
   },
-  prettyMeetingDays: function(days) {
-    let allDays = [];
-    if (days.mon){
-      allDays.push('Monday');
-    }
-    if (days.tue){
-      allDays.push('Tuesday');
-    }
-    if (days.wed){
-      allDays.push('Wednesday');
-    }
-    if (days.thu){
-      allDays.push('Thursday');
-    }
-    if (days.fri){
-      allDays.push('Friday');
-    }
-    if (days.sat){
-      allDays.push('Saturday');
-    }
-    if (days.sun){
-      allDays.push('Sunday');
-    }
-
-    return allDays.toString();
+  dayMap: {
+    mon: 'Monday',
+    tue: 'Tuesday',
+    wed: 'Wednesday',
+    thu: 'Thursday',
+    fri: 'Friday',
+    sat: 'Saturday',
+    sun: 'Sunday'
+  },
+  dayDictionary: {
+    monday: 1,
+    tuesday: 2,
+    wednesday: 3,
+    thursday: 4,
+    friday: 5,
+    saturday: 6,
+    sunday: 7
+  },
+  formatDays: (days) => {
+    return Object.keys(days).filter((k) => days[k]).map((k) => {
+        return macfunctions.dayMap[k];
+    });
+  },
+  sortDays: (a, b) => {
+    let day1 = a.toLowerCase();
+    let day2 = b.toLowerCase();
+    return macfunctions.dayDictionary[day1] - macfunctions.dayDictionary[day2];
   }
 
 }
