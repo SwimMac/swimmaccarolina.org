@@ -33,10 +33,6 @@ Sundays - 10:00-11:15 AM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS:</strong></span>
 
-**Sunday, July 31st - NO PRACTICE Due to Event @ HFFA**  
-
-**Summer Break - NO PRACTICE - Monday, August 15th through Sunday, August 28th**
-
 **Monday, September 5th - NO PRACTICE LABOR DAY**
 
 <span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE (begins August 29th):</strong></span>
@@ -61,34 +57,6 @@ SCY – Short Course Yards; LCM – Long Course Meters
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
-<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE (June 13th - August 7th):</strong></span>
-
-Mondays – 5:00-6:15 PM (LCM; 9 Lanes)
-
-Tuesdays & Thursdays – 5:15-6:30 AM (LCM; 10 Lanes)
-
-Wednesdays  – 5:15-6:30 AM (LCM; 10 Lanes) AND 12:30-1:45 PM (LCM; 5 Lanes)
-
-Fridays – 12:30-1:45 PM (LCM; 6 lanes)
-
-Saturdays – 5:30-6:45 AM (LCM; 10 Lanes)
-
-Sunday – 7:15-8:30 AM (LCM; 10 Lanes)
-
-<span style="text-decoration: underline;">
-    <strong>EXCEPTIONS: </strong>
-</span>
-
-**Friday, July 29th - NO PRACTICE Tar Heel Meet @ Latin**
-
-**Saturday, July 30th - Regular  Start @ Latin 5:30-6:45 AM**
-
-**Sunday, July 31st - NO PRACTICE Tar Heel Meet @ Latin** 
-
-**Summer Break - NO PRACTICE - Monday, August 8th through Sunday, August 21st**
-
-**Monday, September 5th - NO PRACTICE LABOR DAY**
-
 <span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE (begins August 22nd):</strong></span>
 
 Monday / Wednesday / Friday – 12:15-1:30 PM
@@ -99,9 +67,17 @@ Tuesday / Thursday / Friday - 8:30-9:45 AM
 
 Saturday – 5:30-6:45 AM
 
-Sunday – 7:15-8:30 AM
+Sunday – 7:15-8:30 AM (LCM)
 
 </div>
 </div>
+
+<span style="text-decoration: underline;">
+    <strong>EXCEPTIONS: </strong>
+</span>
+
+**Monday, September 5th - NO PRACTICE LABOR DAY**
+
+
 
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
