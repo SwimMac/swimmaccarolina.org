@@ -76,8 +76,8 @@ Sunday – 7:15-8:30 AM (LCM)
     <strong>EXCEPTIONS: </strong>
 </span>
 
+**Saturday, August 27th - START @ 6:30AM - 7:45 AM (after practice switch pool to SCY)**
+
 **Monday, September 5th - NO PRACTICE LABOR DAY**
-
-
 
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
