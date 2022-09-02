@@ -65,7 +65,7 @@ Sunday – 7:15-8:30 AM (LCM)
     <strong>EXCEPTIONS to Latin Schedule: </strong>
 </span>
 
-**Saturday, September 3rd - START @ 7:15 AM - 8:30 AM** 
+**Saturday, September 3rd - START @ 7:15 AM - 8:30 AM** - DISTANCE OPTION - Specific distance practice runs 6:30-8:30 AM.
 
 **Monday, September 5th - NO PRACTICE LABOR DAY**
 
