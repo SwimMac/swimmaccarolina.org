@@ -59,7 +59,7 @@ Tuesday / Thursday / Friday - 8:30-9:45 AM
 
 Saturday – 5:30-6:45 AM
 
-Sunday – 7:15-8:30 AM (LCM)
+Sunday – 7:15-8:30 AM
 
 <span style="text-decoration: underline;">
     <strong>EXCEPTIONS to Latin Schedule: </strong>
