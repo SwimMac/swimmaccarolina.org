@@ -76,7 +76,7 @@ Sunday – 7:15-8:30 AM (LCM)
     <strong>EXCEPTIONS: </strong>
 </span>
 
-**Saturday, August 27th - START @ 6:30AM - 7:45 AM (after practice switch pool to SCY)**
+**Saturday, September 3rd - START @ 7:15 AM - 8:30 AM** 
 
 **Monday, September 5th - NO PRACTICE LABOR DAY**
 
