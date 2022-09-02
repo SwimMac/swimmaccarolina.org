@@ -69,9 +69,6 @@ Saturday – 5:30-6:45 AM
 
 Sunday – 7:15-8:30 AM (LCM)
 
-</div>
-</div>
-
 <span style="text-decoration: underline;">
     <strong>EXCEPTIONS: </strong>
 </span>
