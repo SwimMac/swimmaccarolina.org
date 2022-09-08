@@ -37,7 +37,7 @@ Sunday – 10:00-11:15 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule:</strong></span>
 
-**Monday, September 5th - NO PRACTICE LABOR DAY**
+**Sunday, September 18th - NO PRACTICE** 
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -65,8 +65,8 @@ Sunday – 7:15-8:30 AM
     <strong>EXCEPTIONS to Latin Schedule: </strong>
 </span>
 
-**Saturday, September 3rd - START @ 7:15 AM - 8:30 AM** - DISTANCE OPTION - Specific distance practice runs 6:30-8:30 AM.
+**Saturday, September 10th - START @ 5:15 AM - 6:30 AM**
 
-**Monday, September 5th - NO PRACTICE LABOR DAY**
+
 
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
