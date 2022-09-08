@@ -39,6 +39,10 @@ Sunday – 10:00-11:15 AM (LCM)
 
 **Sunday, September 18th - NO PRACTICE** 
 
+**Sunday, October 23rd - NO PRACTICE**
+
+**Sunday, October 30th - NO PRACTICE**
+
 SCY – Short Course Yards; LCM – Long Course Meters
 
 </div>
