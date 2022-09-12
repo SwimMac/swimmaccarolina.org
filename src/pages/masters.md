@@ -25,13 +25,13 @@ If you would like to join our program, please email for information and include 
 
 <span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE:</strong></span>
 
-Monday – 5:30-6:45 AM (LCM)
+Monday – 5:15-6:30 AM (LCM)
 
 Tuesday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
 Thursday –5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
-Friday – 5:30-6:45 AM (LCM)
+Friday – 5:15-6:30 AM (LCM)
 
 Sunday – 10:00-11:15 AM (LCM)
 
@@ -70,7 +70,5 @@ Sunday – 7:15-8:30 AM
 </span>
 
 **Saturday, September 10th - START @ 5:15 AM - 6:30 AM**
-
-
 
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
