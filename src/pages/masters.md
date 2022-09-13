@@ -23,29 +23,25 @@ If you would like to join our program, please email for information and include 
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-<span style="text-decoration: underline;"><strong>SUMMER 2022 SCHEDULE (June 13 - August 14th):</strong></span>
+<span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE:</strong></span>
 
-Mondays & Fridays – 5:15-6:30 AM
-
-Tuesdays & Thursdays - 5:30-6:45 AM & 12:00-1:00 PM
-
-Sundays - 10:00-11:15 AM
-
-<span style="text-decoration: underline;"><strong>EXCEPTIONS:</strong></span>
-
-**Monday, September 5th - NO PRACTICE LABOR DAY**
-
-<span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE (begins August 29th):</strong></span>
-
-Monday – 5:30-6:45 AM (LCM)
+Monday – 5:15-6:30 AM (LCM)
 
 Tuesday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
 Thursday –5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
-Friday – 5:30-6:45 AM (LCM)
+Friday – 5:15-6:30 AM (LCM)
 
 Sunday – 10:00-11:15 AM (LCM)
+
+<span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule:</strong></span>
+
+**Sunday, September 18th - NO PRACTICE** 
+
+**Sunday, October 23rd - NO PRACTICE**
+
+**Sunday, October 30th - NO PRACTICE**
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -57,7 +53,7 @@ SCY – Short Course Yards; LCM – Long Course Meters
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
-<span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE (begins August 22nd):</strong></span>
+<span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE:</strong></span>
 
 Monday / Wednesday / Friday – 12:15-1:30 PM
 
@@ -67,17 +63,12 @@ Tuesday / Thursday / Friday - 8:30-9:45 AM
 
 Saturday – 5:30-6:45 AM
 
-Sunday – 7:15-8:30 AM (LCM)
-
-</div>
-</div>
+Sunday – 7:15-8:30 AM
 
 <span style="text-decoration: underline;">
-    <strong>EXCEPTIONS: </strong>
+    <strong>EXCEPTIONS to Latin Schedule: </strong>
 </span>
 
-**Saturday, August 27th - START @ 6:30AM - 7:45 AM (after practice switch pool to SCY)**
-
-**Monday, September 5th - NO PRACTICE LABOR DAY**
+**Saturday, September 10th - START @ 5:15 AM - 6:30 AM**
 
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
