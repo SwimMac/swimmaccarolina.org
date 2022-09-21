@@ -37,8 +37,6 @@ Sunday – 10:00-11:15 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule:</strong></span>
 
-**Sunday, September 18th - NO PRACTICE** 
-
 **Sunday, October 23rd - NO PRACTICE**
 
 **Sunday, October 30th - NO PRACTICE**
@@ -69,6 +67,10 @@ Sunday – 7:15-8:30 AM
     <strong>EXCEPTIONS to Latin Schedule: </strong>
 </span>
 
-**Saturday, September 10th - START @ 5:15 AM - 6:30 AM**
+**Thursday, September 22nd - NO PRACTICE due to Pool Issue**
+
+**Saturday, September 24th - 6:15-7:30 AM**
+
+**Sunday, September 25th - 6:15-7:30 AM**
 
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
