@@ -67,7 +67,7 @@ Sunday – 7:15-8:30 AM
     <strong>EXCEPTIONS to Latin Schedule: </strong>
 </span>
 
-**Thursday, September 22nd - NO PRACTICE due to Pool Issue**
+**Friday, September 23rd - NO 8:30 AM PRACTICE due to Pool Issue**
 
 **Saturday, September 24th - 6:15-7:30 AM**
 
