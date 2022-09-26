@@ -74,3 +74,6 @@ Sunday – 7:15-8:30 AM
 **Sunday, September 25th - 6:15-7:30 AM**
 
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
+
+</div>\
+</div>
