@@ -3,8 +3,7 @@ layout: pages.njk
 title: Masters Registration and Dues
 ---
 <div class="callout warning" markdown="1">
-    <p>If you would like to join our program, please email for information and include the location you would like to swim at to&nbsp;<a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a></p>
-    
+    <p>If you would like to join our program, please email for information and include the location you would like to swim at to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a></p>
 </div>
 
 <h3 class="separator-center">Two-Step Process</h3>
@@ -29,7 +28,7 @@ WORKOUT GROUP = SwimMAC</p>
 <h3>SwimMAC Discount Member Rate</h3>
 <p>Swimmers in the following billing groups qualify for the SwimMac Discount Member rate:</p>
 <ul>
-<li>Parent of SwimMAC Competitive Team&nbsp;Swimmer (i.e., Marlin, Dolphin, Shark, Senior)</li>
+<li>Parent of SwimMAC Competitive Team Swimmer (i.e., Marlin, Dolphin, Shark, Senior)</li>
 <li>Parent of Charlotte Latin School student</li>
 <li>SwimMAC Competitive Team Alumni</li>
 </ul>
