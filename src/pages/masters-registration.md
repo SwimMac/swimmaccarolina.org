@@ -21,7 +21,7 @@ WORKOUT GROUP = SwimMAC</p>
 <h4>TWO</h4>
 <p><img src="/static/SwimMAC-Masters-Horizontal-Logo.png" alt="SwimMAC Masters Logo" width="300" height="118"></p>
 <p>You will also need to register and pay SwimMAC Masters dues via our registration website.</p>
-<p><a class="button" href="http://www.teamunify.com/MemRegStart.jsp?team=ncmac&amp;event_id=238502" target="_blank" rel="noopener">Register</a></p>
+<p><a class="button" href="https://www.teamunify.com/team/ncmac/page/team-registration?reg_id=7352" target="_blank" rel="noopener">Register</a></p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
