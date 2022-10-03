@@ -85,6 +85,7 @@ collections:
     create: true
     slug: "{{slug}}"
     identifier_field: firstName
+    extension: "json"
     fields:
       - label: "First Name"
         name: "firstName"
