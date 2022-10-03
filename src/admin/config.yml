@@ -86,6 +86,7 @@ collections:
     slug: "{{slug}}"
     identifier_field: firstName
     extension: "json"
+    format: "json"
     fields:
       - label: "First Name"
         name: "firstName"
