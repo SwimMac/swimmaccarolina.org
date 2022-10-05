@@ -218,32 +218,40 @@
     "section": "Board of Directors",
     "members": [
       {
-        "name": "Matt Mcfee",
-        "email": "mmcfee@swimmaccarolina.org"
+      "name": "Bailey Bartee",
+      "email": "bbartee@swimmaccarolina.org"
       },
       {
-        "name": "Karen Rogers",
-        "email": "krogers@swimmaccarolina.org"
+        "name": "Chad Baucom",
+        "email": "cbaucom@swimmaccarolina.org"
       },
       {
-        "name": "Dan Phelps",
-        "email": "dphelps@swimmaccarolina.org"
+        "name": "Jason Cagle",
+        "email": "jcagle@swimmaccarolina.org"
+      },
+      {
+        "name": "Garret Cronin",
+        "email": "gcronin@swimmaccarolina.org"
+      },
+      {
+        "name": "Jaime Daniell",
+        "email": "jdaniell@swimmaccarolina.org"
       },
       {
         "name": "Jeff Lyons",
         "email": "jlyons@swimmaccarolina.org"
       },
       {
-        "name": "Lisa Davis",
-        "email": "ldavis@swimmaccarolina.org"
-      },
-      {
         "name": "Arthur Osman",
         "email": "aosman@swimmaccarolina.org"
       },
       {
-        "name": "Jason Cagle",
-        "email": "jcagle@swimmaccarolina.org"
+        "name": "Derek Polzien",
+        "email": "dpolzien@swimmaccarolina.org"
+      },
+      {
+        "name": "Ed Ritter",
+        "email": "eritter@swimmaccarolina.org"
       }
     ]
   }
