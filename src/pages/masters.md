@@ -67,7 +67,13 @@ Sunday – 7:15-8:30 AM
     <strong> </strong>
 </span>
 
+<div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
+
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
+
+</div>
+
+
 
 </div>
 </div>
