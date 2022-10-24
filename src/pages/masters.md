@@ -64,14 +64,8 @@ Saturday – 5:30-6:45 AM
 Sunday – 7:15-8:30 AM
 
 <span style="text-decoration: underline;">
-    <strong>EXCEPTIONS to Latin Schedule: </strong>
+    <strong> </strong>
 </span>
-
-**Friday, September 23rd - NO 8:30 AM PRACTICE due to Pool Issue**
-
-**Saturday, September 24th - 6:15-7:30 AM**
-
-**Sunday, September 25th - 6:15-7:30 AM**
 
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
 
