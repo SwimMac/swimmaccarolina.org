@@ -45,7 +45,7 @@ Sunday – 10:00-11:15 AM (LCM)
 
 **All other days - normal schedule**
 
-SCY – Short Course Yards; LCM – Long Course Meters
+*\*SCY – Short Course Yards; LCM – Long Course Meters*
 
 </div>
 
