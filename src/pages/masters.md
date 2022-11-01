@@ -37,9 +37,13 @@ Sunday – 10:00-11:15 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule:</strong></span>
 
-**Sunday, October 23rd - NO PRACTICE**
+**THANKSGIVING SCHEDULE**
 
-**Sunday, October 30th - NO PRACTICE**
+**Thanksgiving (11/24) - 6:00-7:15 AM**
+
+**Friday (11/25) - TBD**
+
+**All other days - normal schedule**
 
 SCY – Short Course Yards; LCM – Long Course Meters
 
@@ -63,17 +67,19 @@ Saturday – 5:30-6:45 AM
 
 Sunday – 7:15-8:30 AM
 
-<span style="text-decoration: underline;">
-    <strong> </strong>
-</span>
+<span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule:</strong></span>
+
+**THANKSGIVING SCHEDULE**
+
+**Thanksgiving (11/24) - 7:00-8:30 AM**
+
+**Friday (11/25) - 12:15-1:30 PM (NO 8:30 AM PRACTICE)**
 
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
 
 </div>
-
-
 
 </div>
 </div>
