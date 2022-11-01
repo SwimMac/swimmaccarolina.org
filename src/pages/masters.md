@@ -75,6 +75,8 @@ Sunday – 7:15-8:30 AM
 
 **Friday (11/25) - 12:15-1:30 PM (NO 8:30 AM PRACTICE)**
 
+**All other days - normal schedule**
+
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
 **Any questions, please contact <a href="mailto:masters@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
