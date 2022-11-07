@@ -19,5 +19,21 @@
         "adultAdvanced": false
       }
     ]
+  },
+  "teenFitNorth": {
+    "orgId": "541680",
+    "sessions": [
+      {
+        "session": "Winter 2022-23 Teen Fit Session 2"
+      }
+    ]
+  },
+  "jslNorth": {
+    "orgId": "541680",
+    "sessions": [
+      {
+        "session": "Winter 2022-23 JSL Session 2"
+      }
+    ]
   }
 }

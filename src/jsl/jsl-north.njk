@@ -63,8 +63,19 @@ coach:
 
             <h3 class="separator-center">North Region Class Registration</h3>
             <p class="text-center">All swimmers must have passed the G7 level of swim school or completed a successful evaluation.</p>
-            <h4 class="separator-left">Fall 2022 JSL Session 1</h4>
-            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=541680&amp;Session=Fall%202022%20JSL%20Session%201&amp;hidecols=Class,Gender,Session,ages&amp;showCols=location,Cat1&amp;style=font-size:16px&amp;sort=days" type="text/javascript"></script>
+
+            {% if jackrabbit.jslNorth.sessions.length > 0 %}
+                {% for session in jackrabbit.jslNorth.sessions %}
+                <h3 class="separator-left">{{ session.session }}</h3>
+
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.jslNorth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&showCols=location,Cat1&style=font-size:16px&sort=days&style=font-size:16px" type="text/javascript"></script>
+                {% endfor %}
+            {% else %}
+                <div class="bg-red-100 border border-red-900 p-4 my-6">
+                    There are no scheduled JSL classes at this time
+                </div>
+            {% endif %}
+
         </div>
 
         <div class="card p-4 mt-4">
