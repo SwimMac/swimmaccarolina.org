@@ -29,7 +29,7 @@ Monday – 5:15-6:30 AM (LCM)
 
 Tuesday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
-Thursday –5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
+Thursday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
 Friday – 5:15-6:30 AM (LCM)
 
