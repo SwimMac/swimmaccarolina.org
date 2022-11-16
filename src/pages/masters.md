@@ -41,7 +41,7 @@ Sunday – 10:00-11:15 AM (LCM)
 
 **Thanksgiving (11/24) - 6:00-7:15 AM**
 
-**Friday (11/25) - TBD**
+**Friday (11/25) - 5:00-6:00 AM**
 
 **All other days - normal schedule**
 
