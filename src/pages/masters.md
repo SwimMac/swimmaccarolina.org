@@ -69,11 +69,13 @@ Sunday – 7:15-8:30 AM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule:</strong></span>
 
+**Sunday, November 20 - 5:30-6:45 AM due to swim meet**
+
 **THANKSGIVING SCHEDULE**
 
 **Thanksgiving (11/24) - 7:00-8:30 AM**
 
-**Friday (11/25) - 12:15-1:30 PM (NO 8:30 AM PRACTICE)**
+**Friday (11/25) - 12:30-1:45 PM (NO 8:30 AM PRACTICE)**
 
 **All other days - normal schedule**
 
