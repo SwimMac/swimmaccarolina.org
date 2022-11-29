@@ -35,15 +35,7 @@ Friday – 5:15-6:30 AM (LCM)
 
 Sunday – 10:00-11:15 AM (LCM)
 
-<span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule:</strong></span>
-
-**THANKSGIVING SCHEDULE**
-
-**Thanksgiving (11/24) - 6:00-7:15 AM**
-
-**Friday (11/25) - 5:00-6:00 AM**
-
-**All other days - normal schedule**
+<span style="text-decoration: underline;"><strong></strong></span>
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
@@ -69,15 +61,7 @@ Sunday – 7:15-8:30 AM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule:</strong></span>
 
-**Sunday, November 20 - 5:30-6:45 AM due to swim meet**
-
-**THANKSGIVING SCHEDULE**
-
-**Thanksgiving (11/24) - 7:00-8:30 AM**
-
-**Friday (11/25) - 12:30-1:45 PM (NO 8:30 AM PRACTICE)**
-
-**All other days - normal schedule**
+**Sunday, December 4 - 6:15-7:30 AM due to swim meet**
 
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
