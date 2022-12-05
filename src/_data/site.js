@@ -5,7 +5,7 @@ module.exports = {
   "author": "Rick Hocutt",
   "meta_data": {
     "twitter": "@swimmacc",
-    "default_social_image": "/static/default_social_image.png"
+    "default_social_image": "/static/default_social_image.jpg"
   },
   "env": process.env.ELEVENTY_ENV === 'production'
 }
