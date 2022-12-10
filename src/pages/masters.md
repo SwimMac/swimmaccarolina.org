@@ -35,9 +35,7 @@ Friday – 5:15-6:30 AM (LCM)
 
 Sunday – 10:00-11:15 AM (LCM)
 
-<span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule:</strong></span>
-
-**2022 HOLIDAY TRAINING SCHEDULE**
+<span style="text-decoration: underline;"><strong>2022-23 HOLIDAY TRAINING SCHEDULE</strong></span>
 
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
@@ -737,9 +735,7 @@ Saturday – 5:30-6:45 AM
 
 Sunday – 7:15-8:30 AM
 
-<span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule:</strong></span>
-
-**2022 HOLIDAY TRAINING SCHEDULE**
+<span style="text-decoration: underline;"><strong>2022-23 HOLIDAY TRAINING SCHEDULE</strong></span>
 
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
