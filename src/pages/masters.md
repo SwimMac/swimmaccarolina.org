@@ -12,7 +12,11 @@ If you would like to join our program, please email for information and include 
 
 **LOCAL CLUB NAME: North Carolina Masters Swimming (NCMS)** 
 
+**<p style=" margin-bottom: -10px;">**
+
 **WORKOUT GROUP: SwimMAC**
+
+**</p>**
 
 **As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.**
 
