@@ -6,7 +6,7 @@ title: Masters Training Schedule
 
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
-If you would like to join our program, please email for information and include the location you would like to swim at to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a>
+If you would like to join our program, please email for information and include the primary location you would like to swim at to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a>
 
 **All swimmers participating in workouts MUST be USMS members.** 
 
