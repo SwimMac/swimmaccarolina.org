@@ -8,7 +8,11 @@ title: Masters Training Schedule
 
 If you would like to join our program, please email for information and include the location you would like to swim at to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a>
 
-**All swimmers participating in workouts MUST be USMS members. LOCAL CLUB NAME: North Carolina Masters Swimming (NCMS) WORKOUT GROUP: SwimMAC**
+**All swimmers participating in workouts MUST be USMS members.** 
+
+**LOCAL CLUB NAME: North Carolina Masters Swimming (NCMS)** 
+
+**WORKOUT GROUP: SwimMAC**
 
 **As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.**
 
