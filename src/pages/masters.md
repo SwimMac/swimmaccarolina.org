@@ -713,6 +713,8 @@ Sunday – 10:00-11:15 AM (LCM)
 
 <!--EndFragment-->
 
+<div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
+
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
 </div>
