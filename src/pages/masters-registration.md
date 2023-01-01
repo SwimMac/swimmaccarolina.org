@@ -57,7 +57,7 @@ Monthly dues: $90</p>
 <h3>Masters Pass</h3>
 <p>SwimMAC also offers a Masters Pass for those who would like an option other than monthly billing. You will still need to register online with SwimMAC Masters for $30 (admin costs, shirt & cap). You will be billed $50 for eight (8) practice sessions via online Team Unify system. You will receive a Masters Pass from a coach on deck, which you need to bring to the pool each time. You will also need to be registered annually as a Master with usms.org. </p>
 <h3>Drop-In Swims</h3>
-<p>SwimMAC Masters is happy to welcome other Masters from around the world! Please bring cash or check made out to SwimMAC Carolina for a drop-in swim OR VENMO Lead Coach Chandler Thomas (@chandler-thomas-11). The drop-in fee is $8. All swimmers must be USMS registered or sign a <a href="https://www.usms.org/admin/lmschb/gto_reg_30daytryout_regform.pdf" target="_blank" rel="noopener">USMS 30-day waiver</a> in order to swim with us.</p>
+<p>SwimMAC Masters is happy to welcome other Masters from around the world! Please bring cash or check made out to SwimMAC Carolina for a drop-in swim OR VENMO Lead Coach Chandler Thomas (@chandler-thomas-11). The drop-in fee is $10. All swimmers must be USMS registered or sign a <a href="https://www.usms.org/admin/lmschb/gto_reg_30daytryout_regform.pdf" target="_blank" rel="noopener">USMS 30-day waiver</a> in order to swim with us.</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
