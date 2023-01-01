@@ -45,13 +45,13 @@ Sunday – 10:00-11:15 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>2022-23 HOLIDAY TRAINING SCHEDULE</strong></span>
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -90,9 +90,9 @@ Sunday – 10:00-11:15 AM (LCM)
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -671,9 +671,9 @@ Sunday – 10:00-11:15 AM (LCM)
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -695,25 +695,9 @@ Sunday – 10:00-11:15 AM (LCM)
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
-
-**Tuesday, Dec 20th** - 5:30-6:45 AM & 12:00-1:00 PM
-
-**Thursday, Dec 22nd** - 5:30-6:45 AM & 12:00-1:00 PM
-
-**Friday, Dec 23rd** – 5:30-6:45 AM
-
-**Sunday, Dec 25th** **(CHRISTMAS DAY)** - NO PRACTICE
-
-**Monday, Dec 26th** - 5:30-6:45 AM
-
-**Tuesday, Dec 27th** - 5:30-6:45 AM & 12:00-1:00 PM
-
-**Thursday, Dec 29th** - 5:30-6:45 AM & 12:00-1:00 PM
-
-**Friday, Dec 30th** - 5:30-6:45 AM
 
 **Sunday, Jan 1st (NEW YEAR’S DAY)** – NO PRACTICE AT HFFA – *Full team* practice at Latin – 8:30-11:00 AM
 
@@ -745,13 +729,13 @@ Sunday – 7:15-8:30 AM
 
 <span style="text-decoration: underline;"><strong>2022-23 HOLIDAY TRAINING SCHEDULE</strong></span>
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -790,9 +774,9 @@ Sunday – 7:15-8:30 AM
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1371,9 +1355,9 @@ Sunday – 7:15-8:30 AM
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1395,33 +1379,9 @@ Sunday – 7:15-8:30 AM
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
-
-**Tuesday, Dec 20th** - 5:15-6:30 AM (LCM Lanes 1-10)
-
-**Wednesday, Dec 21st** - 12:30-1:45 PM (LCM Lanes 5-9)
-
-**Thursday, Dec 22nd -** 5:15-6:30 AM (LCM Lanes 1-10)
-
-**Friday, Dec 23rd -** 12:30-1:45 PM (SCY Lanes 7-20)
-
-**Saturday, Dec 24th (CHRISTMAS EVE)** – 7:00-8:30 AM (SCY Lanes 1-22)
-
-**Sunday, Dec 25th (CHRISTMAS DAY)** - NO PRACTICE
-
-**Monday, Dec 26th** - 12:30-1:45 PM (LCM Lanes 1-9)
-
-**Tuesday, Dec 27th** - 5:15-6:30 AM (LCM Lanes 1-10)
-
-**Wednesday, Dec 28th** - 12:30-1:45 PM (LCM Lanes 5-9)
-
-**Thursday, Dec 29th** - 5:15-6:30 AM (LCM Lanes 1-10)
-
-**Friday, Dec 30th** – 12:30-1:45 PM (LCM Lanes 5-9)
-
-**Saturday, Dec 31st** (**NEW YEAR'S EVE)** – 5:30-6:45 AM (SCY Lanes 1-22)
 
 **Sunday, Jan 1st (NEW YEAR’S DAY)** – 8:30-11:00 AM (SCY Lanes 1-22)
 
