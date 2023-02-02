@@ -3,7 +3,7 @@ layout: pages.njk
 title: Masters Registration and Dues
 ---
 <div class="callout warning" markdown="1">
-    <p>If you would like to join our program, please email for information and include the location you would like to swim at to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a></p>
+    <p>If you would like to join our program, please email for information and include the location where you would like to swim to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a></p>
 </div>
 
 <h3 class="separator-center">Two-Step Process</h3>
@@ -12,7 +12,7 @@ title: Masters Registration and Dues
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>ONE</h4>
 <p><img src="/static/USMS_Logo_Horz_tm.gif" alt="" width="500" height="94"></p>
-<p>Each member of SwimMAC Masters will need to be a register annually with USMS. <a href="https://www.usms.org/reg/register.php">Become a USMS member or to renew your membership here</a>.</p>
+<p>Each SwimMAC Masters member will need to register annually with USMS. <a href="https://www.usms.org/reg/register.php">Become a USMS member or to renew your membership here</a>.</p>
 <p>LOCAL CLUB NAME = North Carolina Masters Swimming (NCMS)<br>
 WORKOUT GROUP = SwimMAC</p>
 </div>
@@ -20,7 +20,7 @@ WORKOUT GROUP = SwimMAC</p>
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>TWO</h4>
 <p><img src="/static/SwimMAC-Masters-Horizontal-Logo.png" alt="SwimMAC Masters Logo" width="300" height="118"></p>
-<p>You will also need to register and pay SwimMAC Masters dues via our registration website.</p>
+<p>You will also need to register and pay SwimMAC Masters dues via our registration website. Registration includes a SwimMAC Masters team t-shirt and cap.</p>
 <p><a class="button" href="https://www.teamunify.com/team/ncmac/page/team-registration?reg_id=7352" target="_blank" rel="noopener">Register</a></p>
 </div>
 
@@ -32,15 +32,15 @@ Monthly dues: $60</p>
 <p><strong>INDIVIDUAL + SIGNIFICANT OTHER (50% Dues Discount)</strong></p>
 <p>Registration fee: $60<br>
 Monthly dues: $90</p>
-<p>* Includes SwimMAC Masters team t-shirt &amp; team cap</p>
+<br>
 
 <h3>Masters Pass</h3>
-<p>SwimMAC also offers a Masters Pass for those who would like an option other than monthly billing. You will still need to register online with SwimMAC Masters for $30 (admin costs, shirt & cap). You will be billed $50 for eight (8) practice sessions via online Team Unify system. You will receive a Masters Pass from a coach on deck, which you need to bring to the pool each time. You will also need to be registered annually as a Master with usms.org. </p>
+<p>SwimMAC also offers a Masters Pass for those who would like an option other than monthly billing. You will still need to register online with USMS and with SwimMAC Masters for $30 (admin costs, shirt & cap). You will be billed $50 for eight (8) practice sessions via online TeamUnify system. You will receive a Masters Pass from a coach on deck, which you need to bring to the pool each time.</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>SwimMAC Member Discount Rate</h3>
-<p>Swimmers in the following billing groups qualify for the SwimMac Discount Member rate:</p>
+<p>Swimmers in the following billing groups qualify for the SwimMac Member rate:</p>
 <ul>
 <li>Parent of SwimMAC Competitive Team Swimmer (i.e., Marlin, Dolphin, Shark, Senior)</li>
 <li>Parent of Charlotte Latin School student</li>
