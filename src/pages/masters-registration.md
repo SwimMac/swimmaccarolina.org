@@ -6,6 +6,8 @@ title: Masters Registration and Dues
     <p>If you would like to join our program, please email for information and include the location where you would like to swim to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a></p>
 </div>
 
+<br>
+
 <h3 class="separator-center">Two-Step Process</h3>
 
 <div class="flex flex-wrap -mx-4" markdown="1">
