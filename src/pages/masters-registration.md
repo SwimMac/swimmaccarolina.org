@@ -52,12 +52,11 @@ Monthly dues: $50</p>
 <p><strong>INDIVIDUAL + SIGNIFICANT OTHER (50% Dues Discount)</strong></p>
 <p>Registration fee: $60<br>
 Monthly dues: $75</p>
-<p>* Includes SwimMAC Masters team t-shirt &amp; team cap</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>Drop-In Swims</h3>
-<p>SwimMAC Masters is happy to welcome other Masters from around the world! Please bring cash or check made out to SwimMAC Carolina for a drop-in swim OR VENMO Lead Coach Chandler Thomas (@chandler-thomas-11). The drop-in fee is $10. All swimmers must be USMS registered or sign a <a href="https://www.usms.org/admin/lmschb/gto_reg_30daytryout_regform.pdf" target="_blank" rel="noopener">USMS 30-day waiver</a> in order to swim with us.</p>
+<p>SwimMAC Masters is happy to welcome other Masters from around the world! Please bring cash or check made out to SwimMAC Carolina for a drop-in swim OR Venmo Lead Coach Chandler Thomas (@chandler-thomas-11). The drop-in fee is $10. All swimmers must be USMS registered or sign a <a href="https://www.usms.org/admin/lmschb/gto_reg_30daytryout_regform.pdf" target="_blank" rel="noopener">USMS 30-day waiver</a> in order to swim with us.</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
