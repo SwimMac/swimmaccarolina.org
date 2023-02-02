@@ -3,7 +3,11 @@ layout: pages.njk
 title: Masters Registration and Dues
 ---
 <div class="callout warning" markdown="1">
-    <p>If you would like to join our program, please email for information and include the location where you would like to swim to <a href="mailto:masters@swimmaccarolina.org">masters@swimmaccarolina.org.</a></p>
+<div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
+
+If you would like to join our program, please email for information and include the primary location where you would like to swim to <a href="mailto:cthomas@swimmaccarolina.org">masters@swimmaccarolina.org.</a>
+</div>
+
 </div>
 
 <br>
@@ -66,6 +70,6 @@ Monthly dues: $75</p>
 <h3>Visiting Alumni/College Swimmers</h3>
 <p>If you are a college student interested in training with our Masters team, the drop-in fee is $5 per practice.</p>
 <p>If you would like to train with the Masters team for the summer, the SwimMAC Masters dues are $150. This includes the entire summer and access to all workout times at either location.</p>
-<p>*Note: You must be registered with USA Swimming or US Masters Swimming in order to participate in the workouts.*</p>
+<p>\*Note: You must be registered with USA Swimming or US Masters Swimming in order to participate in the workouts.\*</p>
 </div>
 </div>
