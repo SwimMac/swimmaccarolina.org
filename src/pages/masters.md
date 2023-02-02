@@ -31,7 +31,7 @@ If you would like to join our program, please email for information and include 
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-<span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE:</strong></span>
+<span style="text-decoration: underline;"><strong>WINTER / SPRING SCHEDULE:</strong></span>
 
 Monday – 5:15-6:30 AM (LCM)
 
@@ -43,11 +43,7 @@ Friday – 5:15-6:30 AM (LCM)
 
 Sunday – 10:00-11:15 AM (LCM)
 
-<span style="text-decoration: underline;"><strong>EXCEPTIONS TO HFFA SCHEDULE</strong></span>
-
-**Sunday, Jan 8th** – NO PRACTICE due to swim meet
-
-**Sunday, Jan 22nd** - NO PRACTICE due to Sunbelt Masters Championships
+<span style="text-decoration: underline;"><strong></strong></span>
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
@@ -59,7 +55,7 @@ Sunday – 10:00-11:15 AM (LCM)
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
-<span style="text-decoration: underline;"><strong>FALL / WINTER SCHEDULE:</strong></span>
+<span style="text-decoration: underline;"><strong>WINTER / SPRING SCHEDULE:</strong></span>
 
 Monday / Wednesday / Friday – 12:15-1:30 PM
 
@@ -71,13 +67,7 @@ Saturday – 5:30-6:45 AM
 
 Sunday – 7:15-8:30 AM
 
-<span style="text-decoration: underline;"><strong>EXCEPTIONS TO LATIN SCHEDULE</strong></span>
-
-**Sunday, Jan 15th -** 5:30-6:45 AM due to swim meet
-
-**Monday, Jan 16th** - NO PRACTICE due to swim meet
-
-**Saturday, Jan 21st - Sunday, Jan 22nd** – NO PRACTICE due to Sunbelt Masters Championships
+<span style="text-decoration: underline;"><strong></strong></span>
 
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
