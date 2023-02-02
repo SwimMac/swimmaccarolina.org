@@ -11,7 +11,7 @@ title: Masters Registration and Dues
 <div class="flex flex-wrap -mx-4" markdown="1">
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>ONE</h4>
-<p><img src="/static/USMS_Logo_Horz_tm.gif" alt="" width="500" height="94"></p>
+<p><img src="/static/USMS_Logo_Horz_tm.gif" alt="" width="532" height="100"></p>
 <p>Each SwimMAC Masters member will need to register annually with USMS. <a href="https://www.usms.org/reg/register.php">Become a USMS member or to renew your membership here</a>.</p>
 <p>LOCAL CLUB NAME = North Carolina Masters Swimming (NCMS)<br>
 WORKOUT GROUP = SwimMAC</p>
