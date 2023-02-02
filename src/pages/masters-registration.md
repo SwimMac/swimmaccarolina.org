@@ -12,7 +12,7 @@ title: Masters Registration and Dues
 
 <div class="flex flex-wrap -mx-4" markdown="1">
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h4>ONE</h4>
+<h4>STEP 1:</h4>
 <p><img src="/static/USMS_Logo_Horz_tm.gif" alt="" width="532" height="100"></p>
 <p>Each SwimMAC Masters member will need to register annually with USMS. <a href="https://www.usms.org/reg/register.php">Become a USMS member or to renew your membership here</a>.</p>
 <p>LOCAL CLUB NAME = North Carolina Masters Swimming (NCMS)<br>
@@ -20,7 +20,7 @@ WORKOUT GROUP = SwimMAC</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h4>TWO</h4>
+<h4>STEP 2:</h4>
 <p><img src="/static/SwimMAC-Masters-Horizontal-Logo.png" alt="SwimMAC Masters Logo" width="255" height="100"></p>
 <p>You will also need to register and pay SwimMAC Masters dues via our registration website. Registration includes a SwimMAC Masters team t-shirt and cap.</p>
 <p><a class="button" href="https://www.teamunify.com/team/ncmac/page/team-registration?reg_id=7352" target="_blank" rel="noopener">Register</a></p>
