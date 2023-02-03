@@ -7,7 +7,7 @@ title: Masters Overview
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h2>Competitive Swimming</h2>
 <p>
-    The word “Masters” swimmer has nothing to do with your skill level or competency, just your age. Unfortunately, the name can be intimidating to some. The only requirements to be a Masters swimmer are that you must be <strong>18-years-old </strong> and registered with <a href="http://www.usms.org/reg/" target="_blank rel="noopener">US Masters Swimming</a>.
+    The word “Masters” swimmer has nothing to do with your skill level or competency, just your age. Unfortunately, the name can be intimidating to some. The only requirements to be a Masters swimmer are that you must be <strong>18-years-old </strong> and registered with <a href="http://www.usms.org/reg/" target="_blank rel="noopener">US Masters Swimming</a>. 
 </p>
 <p>
     Nationally, there are over 65,000 registered US Masters swimmers! We encourage competition (both in a pool and/or open water) but it is not mandatory. We find that once an athlete gets to a comfortable competency, they enjoy the motivational and social aspects of swimming that go along with competition and practice. Masters are split into age groups of five-year blocks beginning with 18-24, 25-29, 30-35, all the way up to 100+. We attend short course yards, short course meters, and long course meters meets throughout the year as a team. We also compete in various open water swims.
