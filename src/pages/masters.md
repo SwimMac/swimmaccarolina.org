@@ -1,6 +1,6 @@
 ---
 layout: pages.njk
-title: Masters Training Schedule
+title: "Masters Training Schedule "
 ---
 ## Membership
 
