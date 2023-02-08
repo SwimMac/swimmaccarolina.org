@@ -1,6 +1,6 @@
 ---
 layout: pages.njk
-title: Masters Registration and Dues
+title: "Masters Registration and Dues "
 ---
 <div class="callout warning" markdown="1">
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
