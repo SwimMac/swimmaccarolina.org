@@ -1,6 +1,6 @@
 ---
 layout: pages.njk
-title: "Masters Overview "
+title: Masters Overview
 ---
 <div class="flex flex-wrap -mx-4" markdown="1">
 
@@ -39,7 +39,7 @@ title: "Masters Overview "
 
 <p>For more information about Adult lessons please contact us: <br>
 <strong>HFFA SITE:</strong> Chandra Barck 704-766-1520 or <a href="mailto:cbarck@swimmaccarolina.org" target="_blank">cbarck@swimmaccarolina.org</a><br>
-<strong>LATIN SITE:</strong> Nicolle Hollmon 980- 339-8912 or <a href="mailto:nhollmon@swimmaccarolina.org" target="_blank">nhollmon@swimmaccarolina.org</a>
+<strong>LATIN SITE:</strong> Nicolle Hollmon 980-339-8912 or <a href="mailto:nhollmon@swimmaccarolina.org" target="_blank">nhollmon@swimmaccarolina.org</a>
 </p>
 </div>
 
