@@ -43,7 +43,11 @@ Friday – 5:15-6:30 AM (LCM)
 
 Sunday – 10:00-11:15 AM (LCM)
 
-<span style="text-decoration: underline;"><strong></strong></span>
+<span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule</strong></span>
+
+<strong>Sunday, March 5 - NO PRACTICE due to swim meet
+
+NO PRACTICE Monday, April 10 - Friday, April 14 (Spring Break)</strong>
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
@@ -67,7 +71,11 @@ Saturday – 5:30-6:45 AM
 
 Sunday – 7:15-8:30 AM
 
-<span style="text-decoration: underline;"><strong></strong></span>
+<span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule</strong></span>
+
+<strong>Sunday, March 26 - 6:00-7:15 AM
+
+NO PRACTICE Sunday, April 2 - Saturday, April 8 (Spring Break)</strong>
 
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
