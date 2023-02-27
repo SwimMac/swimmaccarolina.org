@@ -47,7 +47,7 @@ Sunday – 10:00-11:15 AM (LCM)
 
 <strong>Sunday, March 5 - NO PRACTICE due to swim meet
 
-**NO PRACTICE Monday, April 10 - Friday, April 14 (Spring Break)**</strong>
+**NO PRACTICE Sunday, April 9 - Friday, April 14 (Spring Break)**</strong>
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
