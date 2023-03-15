@@ -3,9 +3,9 @@
     "section": "Administration",
     "members": [
       {
-        "name": "Emily Monnig",
-        "title": "Accounting/Finance Manager",
-        "email": "emonnig@swimmaccarolina.org",
+        "name": "Tom Avischious",
+        "title": "Head of Business Management/Chief of Staff",
+        "email": "tavischious@swimmaccarolina.org",
         "image": ""
       },
       {
@@ -21,7 +21,7 @@
     "members": [
       {
         "name": "Chuck Batchelor",
-        "title": "Head Coach/Director of Competitive Swimming ",
+        "title": "Head Coach/Director of Competitive Swimming",
         "email": "cbatchelor@swimmaccarolina.org",
         "image": "chuck-batchelor.jpg"
       },
@@ -49,8 +49,20 @@
     "section": "Competitive Team Coaches",
     "members": [
       {
+        "name": "Julio Zarate",
+        "title": "North Senior 1 Lead & Senior Division Lead",
+        "email": "jzarate@swimmaccarolina.org",
+        "image": ""
+      },
+      {
+        "name": "Kevin Thornton",
+        "title": "North Senior 2 & 3 Lead",
+        "email": "kthornton@swimmaccarolina.org",
+        "image": ""
+      },
+      {
         "name": "Ariel Hopper",
-        "title": "North Shark 3 Lead",
+        "title": "North Shark 3 Lead, Dolphin 3 Lead",
         "email": "ahopper@swimmaccarolina.org",
         "image": "ariel-hopper.jpg"
       },
@@ -59,12 +71,6 @@
         "title": "Shark North Division, North Shark 1 Lead, Senior 2 North Lead",
         "email": "bkeast@swimmaccarolina.org",
         "image": ""
-      },
-      {
-        "name": "Brittany Ward",
-        "title": "Davidson Marlin 2 Lead",
-        "email": "bward@swimmaccarolina.org",
-        "image": "brittany-ward.jpg"
       },
       {
         "name": "Denise Mangaoang-Omar",
@@ -110,7 +116,7 @@
       },
       {
         "name": "Scott Stephens",
-        "title": "North Dolphin Division Lead, Dolphin 1 and 3 Lead",
+        "title": "North Dolphin Division Lead, Dolphin 1 Lead",
         "email": "Scott Stephens@swimmaccarolina.org",
         "image": "scott-stephens.jpg"
       },
