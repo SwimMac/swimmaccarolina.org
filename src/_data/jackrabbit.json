@@ -24,6 +24,9 @@
     "orgId": "541680",
     "sessions": [
       {
+        "session": "Summer 2023 Teen Fit Session 4"
+      },
+      {
         "session": "Spring 2023 Teen Fit Session 3"
       }
     ]
@@ -31,6 +34,9 @@
   "jslNorth": {
     "orgId": "541680",
     "sessions": [
+      {
+        "session": "Summer 2023 JSL Session 4"
+      },
       {
         "session": "Spring 2023 JSL Session 3"
       }
