@@ -73,6 +73,8 @@ Sunday – 7:15-8:30 AM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule</strong></span>
 
+<strong>Friday, March 24 - 11:15 AM-12:30 PM
+
 <strong>Sunday, March 26 - 6:00-7:15 AM
 
 **NO PRACTICE Sunday, April 2 - Saturday, April 8 (Spring Break)**</strong>
