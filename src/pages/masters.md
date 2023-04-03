@@ -31,7 +31,7 @@ If you would like to join our program, please email for information and include 
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-<span style="text-decoration: underline;"><strong>WINTER / SPRING SCHEDULE:</strong></span>
+<span style="text-decoration: underline;"><strong>SPRING SCHEDULE:</strong></span>
 
 Monday – 5:15-6:30 AM (LCM)
 
@@ -45,7 +45,7 @@ Sunday – 10:00-11:15 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule</strong></span>
 
-<strong>Sunday, March 5 - NO PRACTICE due to swim meet
+<strong>
 
 **NO PRACTICE Sunday, April 9 - Friday, April 14 (Spring Break)**</strong>
 
@@ -59,7 +59,7 @@ Sunday – 10:00-11:15 AM (LCM)
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
-<span style="text-decoration: underline;"><strong>WINTER / SPRING SCHEDULE:</strong></span>
+<span style="text-decoration: underline;"><strong>SPRING SCHEDULE:</strong></span>
 
 Monday / Wednesday / Friday – 12:15-1:30 PM
 
@@ -67,15 +67,13 @@ Tuesday / Thursday – 5:15-6:30 AM
 
 Tuesday / Thursday / Friday - 8:30-9:45 AM
 
-Saturday – 5:30-6:45 AM
+Saturday – 5:30-6:45 AM (LCM)
 
-Sunday – 7:15-8:30 AM
+Sunday – 7:15-8:30 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule</strong></span>
 
-<strong>Friday, March 24 - 11:15 AM-12:30 PM
-
-<strong>Sunday, March 26 - 6:00-7:15 AM
+<strong>
 
 **NO PRACTICE Sunday, April 2 - Saturday, April 8 (Spring Break)**</strong>
 
