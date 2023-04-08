@@ -121,6 +121,7 @@ collections:
         media_folder: "/static/staff"
         required: false
         choose_url: true
+        default: "https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg"
         media_library:
           config:
             multiple: false

@@ -5,5 +5,6 @@ jobTitle: Head of Business Management/Chief of Staff
 email: tavischious@swimmaccarolina.org
 department:
   - administration
+staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
 order: 0
 ---
