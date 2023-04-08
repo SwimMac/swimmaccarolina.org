@@ -1,0 +1,13 @@
+{
+  "lastName": "Robling",
+  "bio": "T﻿est this with multiple lines.\n\nH﻿ello world.",
+  "layout": "staff.njk",
+  "order": 0,
+  "department": [
+    "masters-coaches"
+  ],
+  "title": "{{fields.firstName}} {{fields.lastName}}",
+  "jobTitle": "Master's Coach",
+  "firstName": "Steve",
+  "email": "srobling@swimmaccarolina.org"
+}
