@@ -5,7 +5,7 @@
     {% endif %}
 
     <div class="flex-1 p-4">
-      <h3>{{ staffMember.data.firstName }} {{ staffMember.data.lastName }}</h3>
+      <h3>{{ staffMember.data.title }}</h3>
       <h4>{{ staffMember.data.jobTitle }}</h4>
       <p><a href="mailto:{{ staffMember.data.email }}">Email</a></p>
       <p><a href="{{ staffMember.url | url }}" class="button ghost">Full Profile</a></p>

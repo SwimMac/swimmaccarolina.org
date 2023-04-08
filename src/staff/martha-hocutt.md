@@ -1,7 +1,5 @@
 ---
 layout: staff.njk
-firstName: Martha
-lastName: Hocutt
 title: Martha Hocutt
 jobTitle: Senior Swim School Director
 email: mhocutt@swimmaccarolina.org

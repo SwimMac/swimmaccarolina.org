@@ -90,22 +90,13 @@ collections:
         widget: "hidden"
         default: "staff.njk"
 
-      - label: "First Name"
-        name: "firstName"
-        widget: "string"
-
-      - label: "Last Name"
-        name: "lastName"
+      - label: "Name"
+        name: "title"
         widget: "string"
 
       - label: "Job Title"
         name: "jobTitle"
         widget: "string"
-
-      - label: "Title"
-        name: "title"
-        widget: "hidden"
-        default: "{{fields.firstName}} {{fields.lastName}}"
 
       - label: "Email"
         name: "email"

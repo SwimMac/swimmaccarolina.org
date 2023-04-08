@@ -1,9 +1,7 @@
 ---
 layout: staff.njk
-firstName: Tom
-lastName: Avischious
-jobTitle: Head of Business Management/Chief of Staff
 title: Tom Avischious
+jobTitle: Head of Business Management/Chief of Staff
 email: tavischious@swimmaccarolina.org
 department:
   - administration

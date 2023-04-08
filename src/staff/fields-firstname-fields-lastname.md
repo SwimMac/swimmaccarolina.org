@@ -1,9 +1,7 @@
 ---
 layout: staff.njk
-firstName: Chuck
-lastName: Batchelor
+title: Chuck Batchelor
 jobTitle: Head Coach/Director of Competitive Swimming
-title: "{{fields.firstName}} {{fields.lastName}}"
 email: cbatchelor
 department:
   - competitive-team-leadership
