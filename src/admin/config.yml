@@ -84,9 +84,6 @@ collections:
     folder: "src/staff"
     create: true
     slug: "{{slug}}"
-    identifier_field: firstName
-    extension: "json"
-    format: "json"
     fields:
       - label: "Layout"
         name: "layout"
