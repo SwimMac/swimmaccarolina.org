@@ -15,23 +15,7 @@ title: Our People
       {% for staffMember in staff | reverse %}
         {% if staffMember.data.department == 'Administration' %}
 
-          <a href="{{ staffMember.url | url }}" class="w-1/2 md:w-1/3 lg:w-1/5 p-4">
-          <div class="card text-center h-full">
-              {% if staffMember.data.staffImage %}
-              <div class="w-52 p-4">
-                <img src="{{ staffMember.data.staffImage }}" alt="" class="rounded-full mx-auto">
-              </div>
-              {% endif %}
-
-              <div class="flex-1 p-4">
-                <h2>{{ staffMember.data.firstName }} {{ staffMember.data.lastName }}</h2>
-                <h3>{{ staffMember.data.jobTitle }}</h3>
-
-                <div>{{ staffMember.data.bio }}</div>
-                <div>{{ staffMember.templateContent | extractExcerpt | safe }}... <span class="text-primary">Read More</span></div>
-              </div>
-            </div>
-          </a>
+          {% include 'staff-card.njk' %}
 
         {% endif %}
       {% endfor%}
@@ -45,23 +29,7 @@ title: Our People
       {% for staffMember in staff | reverse %}
         {% if staffMember.data.department == 'competitive-team-leadership' %}
 
-          <a href="{{ staffMember.url | url }}" class="w-1/2 md:w-1/3 lg:w-1/5 p-4">
-            <div class="card text-center h-full">
-              {% if staffMember.data.staffImage %}
-              <div class="w-52 p-4">
-                <img src="{{ staffMember.data.staffImage }}" alt="" class="rounded-full mx-auto">
-              </div>
-              {% endif %}
-
-              <div class="flex-1 p-4">
-                <h2>{{ staffMember.data.firstName }} {{ staffMember.data.lastName }}</h2>
-                <h3>{{ staffMember.data.jobTitle }}</h3>
-
-                <div>{{ staffMember.data.bio }}</div>
-                <div>{{ staffMember.templateContent | extractExcerpt | safe }}... <span class="text-primary">Read More</span></div>
-              </div>
-            </div>
-          </a>
+          {% include 'staff-card.njk' %}
 
         {% endif %}
       {% endfor%}
@@ -75,23 +43,7 @@ title: Our People
       {% for staffMember in staff | reverse %}
         {% if staffMember.data.department == 'competitive-team-coaches' %}
 
-          <a href="{{ staffMember.url | url }}" class="w-1/2 md:w-1/3 lg:w-1/5 p-4">
-            <div class="card text-center h-full">
-              {% if staffMember.data.staffImage %}
-              <div class="w-52 p-4">
-                <img src="{{ staffMember.data.staffImage }}" alt="" class="rounded-full mx-auto">
-              </div>
-              {% endif %}
-
-              <div class="flex-1 p-4">
-                <h2>{{ staffMember.data.firstName }} {{ staffMember.data.lastName }}</h2>
-                <h3>{{ staffMember.data.jobTitle }}</h3>
-
-                <div>{{ staffMember.data.bio }}</div>
-                <div>{{ staffMember.templateContent | extractExcerpt | safe }}... <span class="text-primary">Read More</span></div>
-              </div>
-            </div>
-          </a>
+          {% include 'staff-card.njk' %}
 
         {% endif %}
       {% endfor%}
@@ -105,23 +57,7 @@ title: Our People
       {% for staffMember in staff | reverse %}
         {% if staffMember.data.department == 'swim-school' %}
 
-          <a href="{{ staffMember.url | url }}" class="w-1/2 md:w-1/3 lg:w-1/5 p-4">
-            <div class="card text-center h-full">
-              {% if staffMember.data.staffImage %}
-              <div class="w-52 p-4">
-                <img src="{{ staffMember.data.staffImage }}" alt="" class="rounded-full mx-auto">
-              </div>
-              {% endif %}
-
-              <div class="flex-1 p-4">
-                <h2>{{ staffMember.data.firstName }} {{ staffMember.data.lastName }}</h2>
-                <h3>{{ staffMember.data.jobTitle }}</h3>
-
-                <div>{{ staffMember.data.bio }}</div>
-                <div>{{ staffMember.templateContent | extractExcerpt | safe }}... <span class="text-primary">Read More</span></div>
-              </div>
-            </div>
-          </a>
+        {% include 'staff-card.njk' %}
 
         {% endif %}
       {% endfor%}
@@ -135,23 +71,7 @@ title: Our People
         {% for staffMember in staff | reverse %}
           {% if staffMember.data.department == 'jsl-teen-fit-homeschool' %}
 
-            <a href="{{ staffMember.url | url }}" class="w-1/2 md:w-1/3 lg:w-1/5 p-4">
-              <div class="card text-center h-full">
-                {% if staffMember.data.staffImage %}
-                <div class="w-52 p-4">
-                  <img src="{{ staffMember.data.staffImage }}" alt="" class="rounded-full mx-auto">
-                </div>
-                {% endif %}
-
-                <div class="flex-1 p-4">
-                  <h2>{{ staffMember.data.firstName }} {{ staffMember.data.lastName }}</h2>
-                  <h3>{{ staffMember.data.jobTitle }}</h3>
-
-                  <div>{{ staffMember.data.bio }}</div>
-                  <div>{{ staffMember.templateContent | extractExcerpt | safe }}... <span class="text-primary">Read More</span></div>
-                </div>
-              </div>
-            </a>
+          {% include 'staff-card.njk' %}
 
           {% endif %}
         {% endfor%}
@@ -165,23 +85,7 @@ title: Our People
         {% for staffMember in staff | reverse %}
           {% if staffMember.data.department == 'masters-coaches' %}
 
-            <a href="{{ staffMember.url | url }}" class="w-1/2 md:w-1/3 lg:w-1/5 p-4">
-              <div class="card text-center h-full">
-                {% if staffMember.data.staffImage %}
-                <div class="w-52 p-4">
-                  <img src="{{ staffMember.data.staffImage }}" alt="" class="rounded-full mx-auto">
-                </div>
-                {% endif %}
-
-                <div class="flex-1 p-4">
-                  <h2>{{ staffMember.data.firstName }} {{ staffMember.data.lastName }}</h2>
-                  <h3>{{ staffMember.data.jobTitle }}</h3>
-
-                  <div>{{ staffMember.data.bio }}</div>
-                  <div>{{ staffMember.templateContent | extractExcerpt | safe }}... <span class="text-primary">Read More</span></div>
-                </div>
-              </div>
-            </a>
+            {% include 'staff-card.njk' %}
 
           {% endif %}
         {% endfor%}
