@@ -1,0 +1,32 @@
+---
+layout: base.njk
+---
+
+<main id="main" class="bg-gray-100 py-6">
+
+  <div class="container">
+    <p>
+        <a href="/">Home</a> /
+        <a href="/staff/">Staff</a> /
+        {{ firstName }} {{ lastName }}
+    </p>
+
+    <div class="radius shadow card">
+
+      <div class="flex flex-wrap">
+        {% if staffImage %}
+        <div class="w-full md:w-1/3 p-4">
+          <img src="{{ staffImage }}" />
+        </div>
+        {% endif %}
+
+        <div class="w-full {% if staffImage %}md:w-2/3{% endif %} p-4">
+          <h2>{{ firstName }} {{ lastName }}</h2>
+          <h3>{{ jobTitle }}</h3>
+          {{ bio | safe }}
+        </div>
+       </div>
+    </div>
+  </div>
+
+</main>

@@ -1,7 +1,9 @@
 ---
+layout: staff.njk
 firstName: Tom
 lastName: Avischious
-title: Head Coach/Director of Competitive Swimming
+title: Tom Avischious
+jobTitle: Head Coach/Director of Competitive Swimming
 email: tavischious@swimmaccarolina.org
 department:
   - competitive-team-leadership

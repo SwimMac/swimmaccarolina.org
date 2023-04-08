@@ -88,6 +88,11 @@ collections:
     extension: "json"
     format: "json"
     fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "staff.njk"
+
       - label: "First Name"
         name: "firstName"
         widget: "string"
@@ -96,9 +101,14 @@ collections:
         name: "lastName"
         widget: "string"
 
+      - label: "Job Title"
+        name: "jobTitle"
+        widget: "string"
+
       - label: "Title"
         name: "title"
-        widget: "string"
+        widget: "hidden"
+        default: "{{fields.firstName}} {{fields.lastName}}"
 
       - label: "Email"
         name: "email"
@@ -109,12 +119,11 @@ collections:
         widget: "select"
         multiple: true
         options:
-          - { label: "Administration", value: "Administration" }
+          - { label: "Administration", value: "administration" }
           - { label: "Competitive Team Leadership", value: "competitive-team-leadership" }
           - { label: "Competitive Team Coaches", value: "competitive-team-coaches" }
           - { label: "Swim School", value: "swim-school" }
-          - { label: "Junior Swim League (JSL)", value: "jsl" }
-          - { label: "Teen-Fit & Homeschool", value: "teen-fit-homeschool" }
+          - { label: "JSL Teen-Fit & Homeschool", value: "jsl-teen-fit-homeschool" }
           - { label: "Masters Coaches", value: "masters-coaches" }
           - { label: "Board of Directors", value: "board" }
 

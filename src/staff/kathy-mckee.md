@@ -1,7 +1,9 @@
 ---
+layout: staff.njk
 firstName: Kathy
 lastName: McKee
-title: Leadership Team
+title: Kathy McKee
+jobTitle: Leadership Team
 email: kmckee@swimmaccarolina.org
 department:
   - competitive-team-leadership

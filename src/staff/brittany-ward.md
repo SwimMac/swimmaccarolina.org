@@ -1,7 +1,9 @@
 ---
-firstName: "Brittany "
+layout: staff.njk
+firstName: Brittany
 lastName: Ward
-title: Davidson Marlin 2 Lead
+title: Brittany Ward
+jobTitle: Davidson Marlin 2 Lead
 email: bward@swimmaccarolina.org
 department:
   - competitive-team-coaches
