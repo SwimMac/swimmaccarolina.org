@@ -43,11 +43,7 @@ Friday – 5:15-6:30 AM (LCM)
 
 Sunday – 10:00-11:15 AM (LCM)
 
-<span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule</strong></span>
 
-<strong>
-
-**NO PRACTICE Sunday, April 9 - Friday, April 14 (Spring Break)**</strong>
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
@@ -75,7 +71,7 @@ Sunday – 7:15-8:30 AM (LCM)
 
 <strong>
 
-**NO PRACTICE Sunday, April 2 - Saturday, April 8 (Spring Break)**</strong>
+**Sunday, May 7 - 6:00-7:15 AM**</strong>
 
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
