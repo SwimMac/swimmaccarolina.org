@@ -41,9 +41,7 @@ Thursday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
 Friday – 5:15-6:30 AM (LCM)
 
-Sunday – 10:00-11:15 AM (LCM)
-
-
+Sunday – 10:15-11:30 AM (LCM)
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
@@ -70,6 +68,8 @@ Sunday – 7:15-8:30 AM (LCM)
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule</strong></span>
 
 <strong>
+
+**Saturday, May 6 - 5:00-6:00 AM**
 
 **Sunday, May 7 - 6:00-7:15 AM**</strong>
 
