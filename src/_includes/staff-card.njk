@@ -1,12 +1,12 @@
-<div class="w-1/2 md:w-1/3 lg:w-1/5 p-4">
+<div class="w-1/2 md:w-1/3 lg:w-1/6 p-4">
   <div class="card text-center h-full">
     {% if staffMember.data.staffImage %}
-      <a href="{{ staffMember.url | url }}"><img src="{{ staffMember.data.staffImage }}" alt="" class="rounded-b-full mx-auto"></a>
+      <a href="{{ staffMember.url | url }}"><img src="{{ staffMember.data.staffImage }}" alt="{{ staffMember.data.title }}" class="rounded-b-full w-full"></a>
     {% endif %}
 
     <div class="flex-1 p-4">
-      <h3>{{ staffMember.data.title }}</h3>
-      <h4>{{ staffMember.data.jobTitle }}</h4>
+      <h3 class="text-xl text-secondary mb-2">{{ staffMember.data.title }}</h3>
+      <p>{{ staffMember.data.jobTitle }}</p>
       <p><a href="mailto:{{ staffMember.data.email }}">Email</a></p>
       <p><a href="{{ staffMember.url | url }}" class="button ghost">Full Profile</a></p>
     </div>

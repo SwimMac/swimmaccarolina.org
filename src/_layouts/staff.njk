@@ -11,15 +11,12 @@ layout: base.njk
         {{ title }}
     </p>
 
-    <div class="radius shadow card">
-
-      <div class="flex flex-wrap">
+    <div class="flex flex-wrap">
         {% if staffImage %}
-        <div class="w-full md:w-1/3 p-4">
-          <img src="{{ staffImage }}" />
-        </div>
+          <img src="{{ staffImage }}" class="rounded filter shadow mr-4" />
         {% endif %}
 
+      <div class="radius drop-shadow-xl card flex-grow">
         <div class="w-full {% if staffImage %}md:w-2/3{% endif %} p-4">
           <h2>{{ title }}</h2>
           <h3>{{ jobTitle }}</h3>
