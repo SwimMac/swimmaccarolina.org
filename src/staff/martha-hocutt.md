@@ -6,5 +6,6 @@ email: mhocutt@swimmaccarolina.org
 department:
   - swim-school
 staffImage: https://www.swimmaccarolina.org/static/staff/martha-hocutt.jpg
-order: 0
+order: 1
+bio: M﻿artha began teaching swim lessons at 14 years old with the YMCA...
 ---
