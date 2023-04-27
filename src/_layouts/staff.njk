@@ -20,6 +20,7 @@ layout: base.njk
         <div class="w-full {% if staffImage %}md:w-2/3{% endif %} p-4">
           <h2>{{ title }}</h2>
           <h3>{{ jobTitle }}</h3>
+          <p>Email {{ title }} at <a href="mailto:{{ email }}">{{ email }}</a></p>
           {{ bio | safe }}
         </div>
        </div>
