@@ -31,7 +31,7 @@ If you would like to join our program, please email for information and include 
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-<span style="text-decoration: underline;"><strong>SPRING SCHEDULE:</strong></span>
+<span style="text-decoration: underline;"><strong>SPRING SCHEDULE (THROUGH 6/11):</strong></span>
 
 Monday – 5:15-6:30 AM (LCM)
 
@@ -43,6 +43,8 @@ Friday – 5:15-6:30 AM (LCM)
 
 Sunday – 10:15-11:30 AM (LCM)
 
+<span style="text-decoration: underline;"><strong></strong></span>
+
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
 </div>
@@ -53,7 +55,7 @@ Sunday – 10:15-11:30 AM (LCM)
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
-<span style="text-decoration: underline;"><strong>SPRING SCHEDULE:</strong></span>
+<span style="text-decoration: underline;"><strong>SPRING SCHEDULE (THROUGH 6/11):</strong></span>
 
 Monday / Wednesday / Friday – 12:15-1:30 PM
 
@@ -65,13 +67,7 @@ Saturday – 5:30-6:45 AM (LCM)
 
 Sunday – 7:15-8:30 AM (LCM)
 
-<span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule</strong></span>
-
-<strong>
-
-**Saturday, May 6 - 5:00-6:00 AM**
-
-**Sunday, May 7 - 6:00-7:15 AM**</strong>
+<span style="text-decoration: underline;"><strong></strong></span>
 
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
