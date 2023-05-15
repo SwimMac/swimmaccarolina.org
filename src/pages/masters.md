@@ -76,6 +76,4 @@ Sunday – 7:15-8:30 AM (LCM)
 **Any questions, please contact <a href="mailto:cthomas@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
 
 </div>
-
-</div>
 </div>
