@@ -7,12 +7,6 @@
         "title": "Head of Business Management/Chief of Staff",
         "email": "tavischious@swimmaccarolina.org",
         "image": ""
-      },
-      {
-        "name": "Maggie Keller",
-        "title": "Billing Administrator",
-        "email": "mkeller@swimmaccarolina.org",
-        "image": "maggie-keller.jpg"
       }
     ]
   },
@@ -98,7 +92,7 @@
       },
       {
         "name": "Kim DeCann",
-        "title": "North Senior 3 and Shark 2 Lead, Meet Manager",
+        "title": "North Senior 3 Lead, Meet Manager",
         "email": "kdecann@swimmaccarolina.org",
         "image": "kim-deCann.jpg"
       },
@@ -107,6 +101,11 @@
         "title": "South Dolphin 2 and Shark 2 Lead",
         "email": "lfrederick@swimmaccarolina.org",
         "image": "luke-frederick.jpg"
+      },
+      {
+       "name": "Rachael Zarate",
+       "title": "North Shark 2 Lead",
+       "email": "rzarate@swimmaccarolina.org"
       },
       {
         "name": "Sandy Bujalski",
@@ -160,22 +159,26 @@
     "section": "Junior Swim League (JSL), Teen-Fit, & Homeschool",
     "members": [
       {
-        "name": "Maggie Keller",
-        "title": "North JSL, Homeschool, & Teen Fit Director",
-        "email": "mkeller@swimmaccarolina.org",
-        "image": "maggie-keller.jpg"
-      },
-      {
         "name": "Carrie Andrews",
         "title": "South JSL, Homeschool & Teen Fit Director",
         "email": "candrews@swimmaccarolina.org",
         "image": "carrie-andrews.jpg"
+      },
+      {
+        "name": "Christie Close",
+        "title": "North JSL, Homeschool, & Teen Fit Director",
+        "email": "cclose@swimmaccarolina.org"
       }
     ]
   },
   {
     "section": "Masters Coaches",
     "members": [
+      {
+        "name": "Chandler Thomas",
+        "title": "Masters Director & South Lead Masters Coach",
+        "email": "cthomas@swimmaccarolina.org"
+      },
       {
         "name": "Eddie Carter",
         "title": "Master's Coach",
@@ -207,12 +210,6 @@
         "image": ""
       },
       {
-        "name": "Kerry Lindauer",
-        "title": "Masters Director & South Lead Masters Coach",
-        "email": "klindauer@swimmaccarolina.org",
-        "image": "kerry-lindauer.jpg"
-      },
-      {
         "name": "Steve Robling",
         "title": "Master's Coach",
         "email": "srobling@swimmaccarolina.org",
@@ -224,6 +221,10 @@
     "section": "Board of Directors",
     "members": [
       {
+        "name": "Arthur Osman",
+        "email": "aosman@swimmaccarolina.org"
+      },
+      {
       "name": "Bailey Bartee",
       "email": "bbartee@swimmaccarolina.org"
       },
@@ -232,32 +233,48 @@
         "email": "cbaucom@swimmaccarolina.org"
       },
       {
-        "name": "Jason Cagle",
-        "email": "jcagle@swimmaccarolina.org"
-      },
-      {
-        "name": "Garret Cronin",
-        "email": "gcronin@swimmaccarolina.org"
-      },
-      {
-        "name": "Jaime Daniell",
-        "email": "jdaniell@swimmaccarolina.org"
-      },
-      {
-        "name": "Jeff Lyons",
-        "email": "jlyons@swimmaccarolina.org"
-      },
-      {
-        "name": "Arthur Osman",
-        "email": "aosman@swimmaccarolina.org"
-      },
-      {
         "name": "Derek Polzien",
         "email": "dpolzien@swimmaccarolina.org"
       },
       {
         "name": "Ed Ritter",
         "email": "eritter@swimmaccarolina.org"
+      },
+      {
+        "name": "Farrell Hudzik",
+        "email": "fhudzik@swimmaccarolina.org"
+      },
+      {
+        "name": "Garret Cronin",
+        "email": "gcronin@swimmaccarolina.org"
+      },
+      {
+        "name": "Jackie Falconer",
+        "email": "jfalconer@swimmaccarolina.org"
+      },
+      {
+        "name": "Jaime Daniell",
+        "email": "jdaniell@swimmaccarolina.org"
+      },
+      {
+        "name": "Jason Cagle",
+        "email": "jcagle@swimmaccarolina.org"
+      },
+      {
+        "name": "Jeff Lyons",
+        "email": "jlyons@swimmaccarolina.org"
+      },
+      {
+        "name": "Mohan Pillai",
+        "email": "mpillai@swimmaccarolina.org"
+      },
+      {
+        "name": "Tracey Bernardo",
+        "email": "tbernarndo@swimmaccarolina.org"
+      },
+      {
+        "name": "Traci Thelen",
+        "email": "tthelen@swimmaccarolina.org"
       }
     ]
   }
