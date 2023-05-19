@@ -27,6 +27,16 @@ module.exports = function (eleventyConfig) {
         </div>`;
     });
 
+    eleventyConfig.addShortcode('compTryoutLink', function () {
+        return `<div class="my-16 text-center">
+        <h2>Schedule a Tryout</h2>
+
+        <a href="https://www.teamunify.com/team/ncmac/page/our-team/tryouts" class="button" target="_blank">
+           Schedule a Tryout on Team Unify
+        </a>
+     </div>`;
+    });
+
     eleventyConfig.addShortcode('coachContact', function (coachName, coachEmail ) {
         return `<div class="text-center">
             <h2 class="separator-center">Questions?</h2>
