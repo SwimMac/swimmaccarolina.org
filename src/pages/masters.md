@@ -67,7 +67,9 @@ Saturday – 5:30-6:45 AM (LCM)
 
 Sunday – 7:15-8:30 AM (LCM)
 
-<span style="text-decoration: underline;"><strong></strong></span>
+<span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule</strong></span>
+
+Monday, May 29 (Memorial Day) - 12:45-2:00 PM
 
 </div>
 
