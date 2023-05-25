@@ -97,26 +97,6 @@
         "adultBeginner": true,
         "adultIntermediate": false,
         "adultAdvanced": false
-      },
-      {
-        "session": "2023 South Summer Session 8",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adultBeginner": true,
-        "adultIntermediate": false,
-        "adultAdvanced": false
-      },
-      {
-        "session": "2023 South Summer Session 9",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adultBeginner": true,
-        "adultIntermediate": false,
-        "adultAdvanced": false
       }
     ]
   },
