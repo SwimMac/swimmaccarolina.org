@@ -43,7 +43,9 @@ Friday – 5:15-6:30 AM (LCM)
 
 Sunday – 10:15-11:30 AM (LCM)
 
-<span style="text-decoration: underline;"><strong></strong></span>
+<span style="text-decoration: underline;"><strong>Exceptions to HFFA Schedule</strong></span>
+
+Monday, May 29 (Memorial Day) - NO PRACTICE
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
