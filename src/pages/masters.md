@@ -31,7 +31,7 @@ If you would like to join our program, please email for information and include 
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-<span style="text-decoration: underline;"><strong>SPRING SCHEDULE (THROUGH 6/11):</strong></span>
+<span style="text-decoration: underline;"><strong>SUMMER SCHEDULE (THROUGH 7/30):</strong></span>
 
 Monday – 5:15-6:30 AM (LCM)
 
@@ -43,9 +43,9 @@ Friday – 5:15-6:30 AM (LCM)
 
 Sunday – 10:15-11:30 AM (LCM)
 
-<span style="text-decoration: underline;"><strong>Exceptions to HFFA Schedule</strong></span>
+<span style="text-decoration: underline;"><strong></strong></span>
 
-Monday, May 29 (Memorial Day) - NO PRACTICE
+
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
@@ -69,9 +69,23 @@ Saturday – 5:30-6:45 AM (LCM)
 
 Sunday – 7:15-8:30 AM (LCM)
 
-<span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule</strong></span>
+<span style="text-decoration: underline;"><strong>SUMMER SCHEDULE (6/12 - 7/30):</strong></span>
 
-Monday, May 29 (Memorial Day) - 12:45-2:00 PM
+Monday - 5:00-6:15 PM
+
+Tuesday - 5:15-6:30 AM
+
+Wednesday - 12:30-1:45 PM
+
+Thursday - 5:15-6:30 AM
+
+Friday - 5:15-6:30 AM & 12:30-1:45 PM
+
+Saturday - 5:30-6:45 AM
+
+Sunday - 7:15-8:30 AM
+
+<span style="text-decoration: underline;"><strong></strong></span>
 
 </div>
 
