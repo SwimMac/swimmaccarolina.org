@@ -38,7 +38,7 @@ name : kathy-mckee
                     </div>
 
                     <p>In addition to her accomplishments at Dynamo and SwimMAC, Coach McKee made an indelible mark during her tenure at the
-                        North Carolina Aquatic Club (NCAC) from 2013 to 2019. It was during this period that she was honored as the
+                        North Carolina Aquatic Club (NCAC) from 2012 to 2017. It was during this period that she was honored as the
                         North Carolina Swimming Age Group Coach of the Year in 2014. Coach McKee played a pivotal role in helping NCAC swimmers
                         achieve remarkable feats, including setting team and state records and producing a member of the National Junior Team.
                         On four different occasions Kathy was named the Georgia Age Group Coach of the Year.
@@ -63,8 +63,63 @@ name : kathy-mckee
                     <p class="lead">Kathy McKee, You will live on in our hearts forever.</p>
                 </div>
             </div>
+        </div>
 
 
+        <div class="card p-6 my-6">
+            <h2>Rememberance Board</h2>
+
+            <div class="flex flex-wrap -mx-4">
+                <div class="w-2/3 p-4"
+                    x-data="{ formRow: {} }"
+                    x-init="const formId = '6477fb486fff6b00089301b2';
+                    const accessToken = 'bMNpqL-moEylt2D5333Vf9nqVRePqAwyHSigN45_hHM';
+
+                    fetch(`https://api.netlify.com/api/v1/forms/${formId}/submissions/?access_token=${accessToken}`)
+                    .then(response => response.json())
+                    .then(submissions => {
+                        // Process the submissions
+                        console.log(submissions);
+                        return formRow = submissions
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                    });">
+
+                    <template x-for="(item, index) in formRow" :key="index">
+                        <div>
+                        <p class="text-xl text-gray-500" x-text="item.name"></p>
+                        <p x-text="item.body"></p>
+                        <hr class="my-4">
+                        </div>
+                    </template>
+                </div>
+
+                <div class="w-1/3 p-4">
+                    <h3>Share a Memory</h3>
+                    <p>Post a special memory, thought or message about Kathy.</p>
+                    <form class="form" name="kathy-message" method="POST" action="" netlify-honeypot="bot-field" data-netlify="true">
+                        <div class="mb-6">
+                            <label class="block" for="name">Your Name</label>
+                            <input class="w-full" id="name" type="text" name="name" autocomplete="name" required="required">
+                        </div>
+
+                        <div class="mb-6">
+                            <label class="block" for="message">Message</label>
+                            <textarea rows="8" class="w-full" id="message" name="message" required="required"></textarea>
+                        </div>
+
+                        <div class="hidden">
+                            <label>Don't fill this out if you're human:
+                            <input name="bot-field"/></label>
+                        </div>
+
+                        <div class="mb-6">
+                            <button class="button" type="submit">Submit</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
         </div>
     </div>
 </main>
