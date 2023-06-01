@@ -3,7 +3,6 @@ layout : base.njk
 title : A Tribute to Kathy McKee
 name : kathy-mckee
 ---
-
 <main id="main" class="bg-gray-100  overflow-hidden">
     <div class="bg-black">
         <img src="/static/banners/kathy-tribute-banner--mobile.jpg" class="md:hidden" alt="In Tribute to Coach Kathy McKee" />
@@ -77,8 +76,9 @@ name : kathy-mckee
             <div class="flex flex-wrap -mx-4">
                 <div class="md:w-2/3 p-4"
                     x-data="{ formRow: {} }"
-                    x-init="const formId = '6477fb486fff6b00089301b2';
-                    const accessToken = 'bMNpqL-moEylt2D5333Vf9nqVRePqAwyHSigN45_hHM';
+                    x-init="import 'dotenv/config';
+                    const formId = '6477fb486fff6b00089301b2';
+                    const accessToken = process.env.NETLIFY_API_KEY;
 
                     fetch(`https://api.netlify.com/api/v1/forms/${formId}/submissions/?access_token=${accessToken}`)
                     .then(response => response.json())
