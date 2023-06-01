@@ -1,4 +1,7 @@
 const isProduction = process.env.NODE_ENV === 'production';
+const crypto = require("crypto");
+const crypto_orig_createHash = crypto.createHash;
+crypto.createHash = algorithm => crypto_orig_createHash(algorithm == "md4" ? "sha256" : algorithm);
 
 module.exports = {
     mode: isProduction ? 'production' : 'development',
@@ -11,10 +14,10 @@ module.exports = {
     },
     module: {
         rules: [{
-                test: /\.js$/, // rule for .js files
-                exclude: /node_modules/,
-                loader: "babel-loader" // apply this loader for js files
-            }
+            test: /\.js$/, // rule for .js files
+            exclude: /node_modules/,
+            loader: "babel-loader" // apply this loader for js files
+        }
         ]
     }
 };
