@@ -75,3 +75,6 @@ src/static/app.bundled.js
 src/static/app.compiled.css
 src/_includes/app.compiled.css
 package-lock.json
+
+# Local Netlify folder
+.netlify

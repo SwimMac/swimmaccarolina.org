@@ -76,7 +76,7 @@ name : kathy-mckee
             <div class="flex flex-wrap -mx-4">
                 <div class="md:w-2/3 p-4"
                     x-data="{ formRow: {} }"
-                    x-init="fetch(`functionInvokationURL`)
+                    x-init="fetch(`/.netlify/functions/get-form-submissions`)
                     .then(response => response.json())
                     .then(submissions => {
                         // Process the submissions
