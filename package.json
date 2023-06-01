@@ -38,7 +38,6 @@
 		"@tailwindcss/forms": "^0.3.3",
 		"dotenv": "^16.1.3",
 		"moment": "^2.29.1",
-		"netlify-cli": "^15.2.0",
-		"node-fetch": "^3.3.1"
+		"netlify-cli": "^15.2.0"
 	}
 }

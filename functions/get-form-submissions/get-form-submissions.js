@@ -1,4 +1,3 @@
-import fetch from 'node-fetch';
 const formId = '6477fb486fff6b00089301b2';
 const accessToken = process.env.NETLIFY_API_KEY;
 
