@@ -5,8 +5,8 @@ name : kathy-mckee
 ---
 <main id="main" class="bg-gray-100  overflow-hidden">
     <div class="bg-black">
-        <img src="/static/banners/kathy-tribute-banner--mobile.jpg" class="md:hidden" alt="In Tribute to Coach Kathy McKee" />
-            <img src="/static/banners/kathy-tribute-banner--desktop.jpg" class="hidden md:block" alt="In Tribute to Coach Kathy McKee" />
+        <img src="/static/banners/kathy-tribute-banner--mobile.jpg" class="md:hidden" alt="In Tribute to Coach Kathy McKee"/>
+        <img src="/static/banners/kathy-tribute-banner--desktop.jpg" class="hidden md:block" alt="In Tribute to Coach Kathy McKee"/>
     </div>
 
     <div class="container mb-6">
@@ -17,7 +17,7 @@ name : kathy-mckee
 
                     <div class="md:float-right md:w-1/2 md:ml-4">
                         <div class="responsive-embed widescreen margin-top-1" markdown="1">
-                        <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/IQniGzseI5E?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true"></iframe>
+                            <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/IQniGzseI5E?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true"></iframe>
                         </div>
                     </div>
 
@@ -38,7 +38,7 @@ name : kathy-mckee
 
                     <div class="md:float-right md:w-1/2 md:ml-4">
                         <div class="responsive-embed widescreen margin-top-1" markdown="1">
-                        <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/ii-1P3nLqSI?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true"></iframe>
+                            <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/ii-1P3nLqSI?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true"></iframe>
                         </div>
                     </div>
 
@@ -76,11 +76,7 @@ name : kathy-mckee
             <div class="flex flex-wrap -mx-4">
                 <div class="md:w-2/3 p-4"
                     x-data="{ formRow: {} }"
-                    x-init="import 'dotenv/config';
-                    const formId = '6477fb486fff6b00089301b2';
-                    const accessToken = process.env.NETLIFY_API_KEY;
-
-                    fetch(`https://api.netlify.com/api/v1/forms/${formId}/submissions/?access_token=${accessToken}`)
+                    x-init="fetch(`functionInvokationURL`)
                     .then(response => response.json())
                     .then(submissions => {
                         // Process the submissions
@@ -92,9 +88,9 @@ name : kathy-mckee
 
                     <template x-for="(item, index) in formRow" :key="index">
                         <div>
-                        <p class="text-xl text-gray-500" x-text="item.name"></p>
-                        <p x-text="item.body"></p>
-                        <hr class="my-4">
+                            <p class="text-xl text-gray-500" x-text="item.name"></p>
+                            <p x-text="item.body"></p>
+                            <hr class="my-4">
                         </div>
                     </template>
                 </div>
