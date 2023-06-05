@@ -98,11 +98,11 @@ name : kathy-mckee
             <div class="bg-white absolute w-full top-0 right-0 bottom-0 left-0 p-4">
                 <h3>Share a Memory</h3>
                 <p>Post a special memory, thought or message about Kathy.</p>
-                <div x-data="memoryFormData()">
+                <div x-data="memoryFormData()" x-init="$refs.nameInput.focus()">
                     <form name="kathyTest" x-on:submit="submitKathyMemoryForm" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-                          <div class="mb-6">
+                        <div class="mb-6">
                             <label class="block" for="name">Your Name</label>
-                            <input class="w-full" id="name" type="text" name="name" autocomplete="name" required="required">
+                            <input class="w-full" id="name" type="text" name="name" autocomplete="name" required="required" x-ref="nameInput">
                         </div>
 
                         <div class="mb-6">
@@ -131,13 +131,11 @@ name : kathy-mckee
                     }
 
                     function memoryFormData() {
-                        document.querySelector('input').focus();
                         return {
                             submitKathyMemoryForm(event) {
                                 event.preventDefault();
                                 const myForm = event.target;
                                 const formData = new FormData(myForm);
-                                console.log(formData);
 
                                 fetch("/", {
                                     method: "POST",
