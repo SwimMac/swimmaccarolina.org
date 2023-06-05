@@ -70,31 +70,28 @@ name : kathy-mckee
             </div>
         </div>
 
-        <div class="card p-6 my-6 relative" x-data="{ openModal:false }">
-            <h2>Rememberance Board</h2>
-            <button class="button" x-on:click="openModal = true">Add a Memory</button>
+        <div class="relative" x-data="{ openModal:false }">
+            <h2 class="separator-left">Rememberance Board</h2>
+            <button class="button md:absolute top-0 right-0" x-on:click="openModal = true">Add a Memory</button>
 
-            <div class="flex flex-wrap -mx-4">
-                <div class="p-4"
-                    x-data="{ formRow: {} }"
-                    x-init="fetch(`/.netlify/functions/get-form-submissions`)
-                    .then(response => response.json())
-                    .then(submissions => {
-                        // Process the submissions
-                        return formRow = submissions
-                    })
-                    .catch(error => {
-                        console.error('Error:', error);
-                    });">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4"
+                x-data="{ formRow: {} }"
+                x-init="fetch(`/.netlify/functions/get-form-submissions`)
+                .then(response => response.json())
+                .then(submissions => {
+                    // Process the submissions
+                    return formRow = submissions
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });">
 
-                    <template x-for="(item, index) in formRow" :key="index">
-                        <div>
-                            <p class="text-xl text-gray-500" x-text="item.name"></p>
-                            <p x-text="item.body"></p>
-                            <hr class="my-4">
-                        </div>
-                    </template>
-                </div>
+                <template x-for="(item, index) in formRow" :key="index">
+                    <div class="card p-4">
+                        <p class="text-xl text-gray-500" x-text="item.name"></p>
+                        <p x-text="item.body"></p>
+                    </div>
+                </template>
             </div>
 
             <template x-if="openModal">
@@ -114,42 +111,43 @@ name : kathy-mckee
                         </div>
 
                         <div class="hidden">
-                            <label>Don't fill this out if you're human:
+                            <label>Not for humans:
                             <input name="bot-field"/></label>
                         </div>
 
                         <div class="mb-6">
-                            <button class="button" type="submit">Submit</button>
+                            <button class="button" type="submit">Submit</button>  <button class="button ghost ml-4" type="button" x-on:click="openModal = false">Cancel</button>
                         </div>
                     </form>
                 </div>
 
-            <script>
-                function memoryFormSubmission(myForm){
-                    myForm.innerHTML = `<div class="text-center">
-                    <h3>Thank You</h3>
-                    <p>Your memory has been added.</p>
-                    <div><button x-on:click="openModal = false" class="button">View the Memory Board</button></div>
-                    </div>`;
-                }
+                <script>
+                    function memoryFormSubmission(myForm){
+                        myForm.innerHTML = `<div class="text-center">
+                        <h3>Thank You</h3>
+                        <p>Your memory has been added.</p>
+                        <div><button x-on:click="openModal = false" class="button">View the Memory Board</button></div>
+                        </div>`;
+                    }
 
-                function memoryFormData() {
-                    return {
-                        submitKathyMemoryForm(event) {
-                            event.preventDefault();
-                            const myForm = event.target;
-                            const formData = new FormData(myForm);
-                            console.log(formData);
+                    function memoryFormData() {
+                        document.querySelector('input').focus();
+                        return {
+                            submitKathyMemoryForm(event) {
+                                event.preventDefault();
+                                const myForm = event.target;
+                                const formData = new FormData(myForm);
+                                console.log(formData);
 
-                            fetch("/", {
-                                method: "POST",
-                                headers: { "Content-Type": "application/x-www-form-urlencoded" },
-                                body: new URLSearchParams(formData).toString(),
-                            }).then(() => memoryFormSubmission(myForm)).catch((error) => alert(error));
+                                fetch("/", {
+                                    method: "POST",
+                                    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                                    body: new URLSearchParams(formData).toString(),
+                                }).then(() => memoryFormSubmission(myForm)).catch((error) => alert(error));
+                            }
                         }
                     }
-                }
-            </script>
+                </script>
             </div>
             </template>
         </div>
