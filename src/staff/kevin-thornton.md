@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Kevin Thornton
-jobTitle: North Senior 2 & 3 Lead
+jobTitle: South Senior 2 & 3 Lead
 email: kthornton
 department:
   - competitive-team-coaches
