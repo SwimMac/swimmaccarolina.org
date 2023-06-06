@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Sean Ford
-jobTitle: North Marlin Division Lead, Marlin 1 and HFFA Marlin 2 Lead
+jobTitle: North Marlin Division Lead, North Marlin 1 & Marlin 2 Lead
 email: sford
 department:
   - competitive-team-coaches
