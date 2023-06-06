@@ -5,6 +5,7 @@ jobTitle: South Marlin Division Lead, Marlin 1 and 2 Lead
 email: sbujalski
 department:
   - competitive-team-coaches
+  - competitive-team-leadership
 staffImage: https://www.swimmaccarolina.org/static/staff/sandy-Bujalski.jpg
 order: 100
 ---
