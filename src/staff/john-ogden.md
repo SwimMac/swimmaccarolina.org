@@ -5,5 +5,5 @@ jobTitle: Lead North Master's Coach
 email: jogden
 department:
   - masters-coaches
-order: 0
+order: 100
 ---

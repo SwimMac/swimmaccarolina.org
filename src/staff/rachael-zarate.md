@@ -5,5 +5,5 @@ jobTitle: North Shark 2 Lead
 email: rzarate
 department:
   - competitive-team-coaches
-order: 0
+order: 100
 ---

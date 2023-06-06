@@ -6,6 +6,6 @@ email: ahopper
 department:
   - competitive-team-coaches
 staffImage: /static/staff/ariel-hopper.jpg
-order: 0
+order: 3
 bio: ""
 ---

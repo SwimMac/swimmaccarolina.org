@@ -6,5 +6,5 @@ email: sford
 department:
   - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/sean-ford.jpg
-order: 0
+order: 100
 ---

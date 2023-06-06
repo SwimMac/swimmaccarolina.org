@@ -6,5 +6,5 @@ email: rkasl
 department:
   - competitive-team-leadership
 staffImage: https://www.swimmaccarolina.org/static/staff/russ-kasl.jpg
-order: 0
+order: 100
 ---

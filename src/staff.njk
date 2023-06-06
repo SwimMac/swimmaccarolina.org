@@ -12,7 +12,7 @@ title: Our People
     <h2 class="separator-center">Administration</h2>
 
     <div class="flex flex-wrap justify-center -m-4 mb-8">
-      {% for staffMember in staff | reverse %}
+      {% for staffMember in collections.staffOrder %}
         {% if staffMember.data.department == 'administration' %}
 
           {% include 'staff-card.njk' %}
@@ -26,7 +26,7 @@ title: Our People
     <h2 class="separator-center">Competitive Team Leadership</h2>
 
     <div class="flex flex-wrap justify-center -m-4 mb-8">
-      {% for staffMember in staff | reverse %}
+      {% for staffMember in collections.staffOrder %}
         {% if staffMember.data.department == 'competitive-team-leadership' %}
 
           {% include 'staff-card.njk' %}
@@ -40,7 +40,7 @@ title: Our People
     <h2 class="separator-center">Competitive Team Coaches</h2>
 
     <div class="flex flex-wrap justify-center -m-4 mb-8">
-      {% for staffMember in staff | reverse %}
+      {% for staffMember in collections.staffOrder %}
         {% if staffMember.data.department == 'competitive-team-coaches' %}
 
           {% include 'staff-card.njk' %}
@@ -54,7 +54,7 @@ title: Our People
     <h2 class="separator-center">Swim School</h2>
 
     <div class="flex flex-wrap justify-center -m-4 mb-8">
-      {% for staffMember in staff | reverse %}
+      {% for staffMember in collections.staffOrder %}
         {% if staffMember.data.department == 'swim-school' %}
 
         {% include 'staff-card.njk' %}
@@ -68,7 +68,7 @@ title: Our People
     <h2 class="separator-center">Junior Swim League (JSL), Teen-Fit, &amp; Homeschool</h2>
 
     <div class="flex flex-wrap justify-center -m-4 mb-8">
-        {% for staffMember in staff | reverse %}
+        {% for staffMember in collections.staffOrder %}
           {% if staffMember.data.department == 'jsl-teen-fit-homeschool' %}
 
           {% include 'staff-card.njk' %}
@@ -82,7 +82,7 @@ title: Our People
     <h2 class="separator-center">Masters Coaches</h2>
 
     <div class="flex flex-wrap justify-center -m-4 mb-8">
-        {% for staffMember in staff | reverse %}
+        {% for staffMember in collections.staffOrder %}
           {% if staffMember.data.department == 'masters-coaches' %}
 
             {% include 'staff-card.njk' %}
@@ -96,7 +96,7 @@ title: Our People
     <h2 class="separator-center">Board of Directors</h2>
 
     <div class="flex flex-wrap justify-center -m-4 mb-8">
-        {% for staffMember in staff | reverse %}
+        {% for staffMember in collections.staffAlphabetical %}
           {% if staffMember.data.department == 'board' %}
 
           <div class="w-1/2 md:w-1/3 lg:w-1/5 p-4">

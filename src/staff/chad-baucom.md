@@ -5,5 +5,5 @@ jobTitle: Board Member
 email: cbaucom
 department:
   - board
-order: 0
+order: 100
 ---

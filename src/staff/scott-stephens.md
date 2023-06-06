@@ -6,5 +6,5 @@ email: sstephens
 department:
   - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/scott-stephens.jpg
-order: 0
+order: 5
 ---

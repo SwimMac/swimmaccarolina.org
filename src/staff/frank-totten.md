@@ -6,5 +6,5 @@ email: ftotten
 department:
   - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/frank-totten.jpg
-order: 0
+order: 100
 ---

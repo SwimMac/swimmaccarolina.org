@@ -6,5 +6,5 @@ email: lfrederick
 department:
   - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/luke-frederick.jpg
-order: 0
+order: 100
 ---

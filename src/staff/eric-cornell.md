@@ -6,5 +6,5 @@ email: ecornell
 department:
   - masters-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/eric-cornell.jpg
-order: 0
+order: 100
 ---

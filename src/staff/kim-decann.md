@@ -6,5 +6,5 @@ email: kdecann
 department:
   - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/kim-decann.jpg
-order: 0
+order: 1
 ---

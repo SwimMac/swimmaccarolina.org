@@ -2,6 +2,8 @@
   <div class="card text-center h-full">
     {% if staffMember.data.staffImage %}
       <a href="{{ staffMember.url | url }}"><img src="{{ staffMember.data.staffImage }}" alt="{{ staffMember.data.title }}" class="rounded-b-full w-full"></a>
+   {% else %}
+      <a href="{{ staffMember.url | url }}"><img src="https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg" alt="{{ staffMember.data.title }}" class="rounded-b-full w-full"></a>
     {% endif %}
 
     <div class="flex-1 p-4">

@@ -6,6 +6,6 @@ email: bward
 department:
   - competitive-team-coaches
 staffImage: /static/staff/brittany-ward.jpg
-order: 0
+order: 5
 bio: temp
 ---

@@ -6,5 +6,5 @@ email: sbujalski
 department:
   - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/sandy-Bujalski.jpg
-order: 0
+order: 100
 ---

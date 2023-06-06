@@ -14,6 +14,26 @@ module.exports = function (eleventyConfig) {
         './node_modules/alpinejs/dist/cdn.min.js': './js/alpine.js',
     });
 
+    // Get only content that matches a tag
+    eleventyConfig.addCollection("staffOrder", function(collectionApi) {
+        return collectionApi.getFilteredByTag("staff").sort(function(a, b) {
+            //return a.date - b.date; // sort by date - ascending
+            return a.data.order - b.data.order; // sort by date - descending
+            //return a.inputPath.localeCompare(b.inputPath); // sort by path - ascending
+            //return b.inputPath.localeCompare(a.inputPath); // sort by path - descending
+        });
+    });
+
+    // Get only content that matches a tag
+    eleventyConfig.addCollection("staffAlphabetical", function(collectionApi) {
+        return collectionApi.getFilteredByTag("staff").sort(function(a, b) {
+            //return a.date - b.date; // sort by date - ascending
+            //return b.date - a.date; // sort by date - descending
+            return a.inputPath.localeCompare(b.inputPath); // sort by path - ascending
+            //return b.inputPath.localeCompare(a.inputPath); // sort by path - descending
+        });
+    });
+
     eleventyConfig.addShortcode('version', function () {
         return now
     });

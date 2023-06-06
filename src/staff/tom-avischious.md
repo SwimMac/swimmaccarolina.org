@@ -6,6 +6,6 @@ email: tavischious
 department:
   - administration
 staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
-order: 0
+order: 1
 bio: Tom's a super great guy whose leading the charge at SwimMAC!
 ---

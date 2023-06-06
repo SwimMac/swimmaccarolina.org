@@ -6,5 +6,5 @@ email: dmangaoang
 department:
   - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/denise%20mangaoang-omar.jpg
-order: 0
+order: 100
 ---

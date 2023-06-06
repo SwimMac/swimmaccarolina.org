@@ -6,5 +6,5 @@ email: kfetter
 department:
   - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/kalyn-fetter.jpg
-order: 0
+order: 100
 ---

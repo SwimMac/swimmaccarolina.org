@@ -6,5 +6,5 @@ email: rerlenbach
 department:
   - competitive-team-leadership
 staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
-order: 0
+order: 100
 ---
