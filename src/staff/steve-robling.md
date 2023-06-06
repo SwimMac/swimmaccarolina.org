@@ -6,5 +6,5 @@ email: srobling
 department:
   - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/steve-robling.jpg
-order: 2
+order: 100
 ---
