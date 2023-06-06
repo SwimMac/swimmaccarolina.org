@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Julio Zarate
-jobTitle: North Senior 1 Lead & Senior Division Lead
+jobTitle: North Senior Division Lead, North Senior 1 Lead
 email: jzarate
 department:
   - competitive-team-coaches
