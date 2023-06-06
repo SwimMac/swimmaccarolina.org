@@ -1,10 +1,10 @@
 ---
 layout: staff.njk
-title: Randy Erlenbach
-jobTitle: Head Coach Latin/South Senior 1 Lead
-email: rerlenbach
+title: Kevin Thornton
+jobTitle: North Senior 2 & 3 Lead
+email: kthornton
 department:
-  - competitive-team-leadership
+  - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
 order: 0
 ---

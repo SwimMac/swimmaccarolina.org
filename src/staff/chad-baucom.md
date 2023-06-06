@@ -1,8 +1,8 @@
 ---
 layout: staff.njk
-title: Bailey Bartee
+title: Chad Baucom
 jobTitle: Board Member
-email: bbartee
+email: cbaucom
 department:
   - board
 order: 0

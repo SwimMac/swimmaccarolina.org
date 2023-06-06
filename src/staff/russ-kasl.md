@@ -1,0 +1,10 @@
+---
+layout: staff.njk
+title: Russ Kasl
+jobTitle: South/Shark & Dolphin Division Lead, Shark 1 Lead, Dolphin 1 Lead
+email: rkasl
+department:
+  - competitive-team-leadership
+staffImage: https://www.swimmaccarolina.org/static/staff/russ-kasl.jpg
+order: 0
+---

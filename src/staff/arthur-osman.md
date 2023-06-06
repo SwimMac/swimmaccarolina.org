@@ -1,8 +1,8 @@
 ---
 layout: staff.njk
-title: Bailey Bartee
+title: Arthur Osman
 jobTitle: Board Member
-email: bbartee
+email: aosman
 department:
   - board
 order: 0

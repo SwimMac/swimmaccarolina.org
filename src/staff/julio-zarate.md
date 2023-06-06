@@ -1,10 +1,10 @@
 ---
 layout: staff.njk
-title: Randy Erlenbach
-jobTitle: Head Coach Latin/South Senior 1 Lead
-email: rerlenbach
+title: Julio Zarate
+jobTitle: North Senior 1 Lead & Senior Division Lead
+email: jzarate
 department:
-  - competitive-team-leadership
+  - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
 order: 0
 ---
