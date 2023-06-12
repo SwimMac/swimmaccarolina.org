@@ -9,14 +9,14 @@
         {% endif %}
       </a>
 
-      <div class="w-3/5 flex flex-col">
-        <div class="flex-1 p-4">
+      <div class="w-3/5 flex flex-col p-4 space-y-4">
+        <div class="flex-1">
           <h3 class="text-xl text-secondary mb-2">{{ staffMember.data.title }}</h3>
           <p>{{ staffMember.data.jobTitle }}</p>
-          <a href="mailto:{{ staffMember.data.email }}@swimmaccarolina.org">Email</a>
+          <a href="mailto:{{ staffMember.data.email }}@swimmaccarolina.org"><i class="fa-regular fa-envelope"></i> Email</a>
         </div>
 
-        <div class="flex justify-end content-center w-full p-4">
+        <div class="flex justify-end content-center w-full">
           <a href="{{ staffMember.url | url }}" class="button button--small ghost">Full Profile</a>
         </div>
       </div>
