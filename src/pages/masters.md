@@ -45,8 +45,6 @@ Sunday – 10:15-11:30 AM (LCM)
 
 <span style="text-decoration: underline;"><strong></strong></span>
 
-
-
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
 </div>
@@ -57,19 +55,7 @@ Sunday – 10:15-11:30 AM (LCM)
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
-<span style="text-decoration: underline;"><strong>SPRING SCHEDULE (THROUGH 6/11):</strong></span>
-
-Monday / Wednesday / Friday – 12:15-1:30 PM
-
-Tuesday / Thursday – 5:15-6:30 AM 
-
-Tuesday / Thursday / Friday - 8:30-9:45 AM
-
-Saturday – 5:30-6:45 AM (LCM)
-
-Sunday – 7:15-8:30 AM (LCM)
-
-<span style="text-decoration: underline;"><strong>SUMMER SCHEDULE (6/12 - 7/30):</strong></span>
+<span style="text-decoration: underline;"><strong>SUMMER SCHEDULE (THROUGH 7/30):</strong></span>
 
 Monday - 5:00-6:15 PM
 
