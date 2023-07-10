@@ -13,16 +13,6 @@
     "orgId": "524998",
     "sessions": [
       {
-        "session": "2023 South Summer Saturday Only Session",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adultBeginner": true,
-        "adultIntermediate": false,
-        "adultAdvanced": false
-      },
-      {
         "session": "2023 South Summer Session 6",
         "minimac": false,
         "preschool": true,
