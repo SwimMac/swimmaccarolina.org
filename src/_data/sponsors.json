@@ -4,19 +4,23 @@
     "sponsors": [
       {
         "name": "TYR Sports",
-        "image": "tyr-sports.png"
+        "image": "tyr-sports.png",
+        "url": "https://www.tyr.com"
       },
       {
         "name": "Novant Health",
-        "image": "novant-health.jpg"
+        "image": "novant-health.jpg",
+        "url": "https://www.novanthealth.org"
       },
       {
         "name": "Charlottes Got a Lot",
-        "image": "crva.jpg"
+        "image": "crva.jpg",
+        "url": "https://www.charlottesgotalot.com"
       },
       {
         "name": "Harris Teeter",
-        "image": "harris-teeter.jpg"
+        "image": "harris-teeter.jpg",
+        "url": "https://www.harristeeter.com"
       }
     ]
   },
@@ -25,15 +29,18 @@
     "sponsors": [
       {
         "name": "Charlotte Latin",
-        "image": "charlotte-latin.png"
+        "image": "charlotte-latin.png",
+        "url": "https://www.charlottelatin.org"
       },
       {
         "name": "Paddock Evacuator",
-        "image": "paddock.jpg"
+        "image": "paddock.jpg",
+        "url": "https://www.paddockindustries.com"
       },
       {
         "name": "Shiel Sexton",
-        "image": "shiel-sexton.jpg"
+        "image": "shiel-sexton.jpg",
+        "url": "https://www.shielsexton.com"
       }
     ]
   },
@@ -42,7 +49,8 @@
     "sponsors": [
       {
         "name": "Nothing But Noodles",
-        "image": "nothing-but-noodles.png"
+        "image": "nothing-but-noodles.png",
+        "url": "https://nothingbutnoodles.com"
       }
     ]
   }
