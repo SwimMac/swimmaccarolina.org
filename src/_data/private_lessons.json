@@ -2,17 +2,17 @@
 {
   "north": {
     "sessions": [
-      "2023 HFFA Summer 6",
       "2023 HFFA Summer 7",
       "2023 HFFA Summer 8",
-      "2023 HFFA Summer 9"
+      "2023 HFFA Summer 9",
+      "23/24 School Year (Sept-June)"
     ]
   },
   "south": {
     "sessions": [
       "2023 August at Providence Country Club",
-      "2023 South Summer Session 6",
-      "2023 South Summer Session 7 (3 Days Only)"
+      "2023 South Summer Session 7 (3 Days Only)",
+      "23/24 School Year (Sept-June)"
     ]
   }
 }
