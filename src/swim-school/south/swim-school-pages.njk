@@ -21,6 +21,8 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
 
         {% if swim.name !== 'MiniMAC' %}
         {% if swim.name !== 'Teen Lessons' %}
+        {% if swim.name !== 'Adult Lessons' %}
+        test
         <div class="flex flex-wrap -mx-4">
 
            {% for level in swim.levels %}
@@ -40,6 +42,7 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
             {% endfor %}
 
         </div>
+        {% endif %}
         {% endif %}
         {% endif %}
 
@@ -114,6 +117,55 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
         </div>
         {% endif %}
         {# End Teen Lessons Content #}
+
+        {# Begin Adult Lessons Content #}
+        {% if swim.name === 'Adult Lessons' %}
+        <div class="card p-6 my-6">
+            <p class="lead">
+                {{ swim.description }}
+            </p>
+        </div>
+
+        <div class="card p-6 my-6">
+            <div class="text-right">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.south.orgId }}" class="button button--small mb-3">Portal Login</a>
+                <a href="/swim-school/south/{{ swim.name | slug }}/" class="button button--small ghost mb-3">
+                    Go To North Location Page
+                </a>
+            </div>
+
+            <h2>Location Info</h2>
+            <ul>
+                <li>New students are able to start at any time throughout the month</li>
+                <li>Registration is on-going</li>
+                <li>Payments are processed within the first 5 business days of each month</li>
+            </ul>
+
+            <div class="my-6">
+                <h2 class="separator-center">Charlotte Latin Schedule</h2>
+
+                {% if jackrabbit.south.sessions.length > 0 %}
+                    {% for session in jackrabbit.south.sessions %}
+                        {% if session.adult %}
+                        <h3 class="separator-left">{{ session.session }}</h3>
+                        <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=adult&amp;Cat3=adult&amp;Session={{ session.session }}&hidecols=Gender,Class,Ages,Session&style=font-size:16px&sort=days" type="text/javascript"></script>
+                        {% endif %}
+                    {% endfor %}
+                {% else %}
+                    <div class="bg-red-100 border border-red-900 p-4 my-6">
+                        There are no scheduled {{ swim.name }} classes at this time
+                    </div>
+                {% endif %}
+            </div>
+
+            {% include 'location-details-north.njk' %}
+        </div>
+
+        <div class="container card p-4 my-6">
+            {% include 'hffa-map.njk' %}
+        </div>
+        {% endif %}
+        {# End Adult Lessons Content #}
 
     </div>
 </main>

@@ -3,7 +3,6 @@
     "orgId": "524744",
     "sessions": [
       "2023 HFFA Summer Saturday Only",
-      "2023 HFFA Summer 6",
       "2023 HFFA Summer 7",
       "2023 HFFA Summer 8",
       "2023 HFFA Summer 9"
@@ -13,24 +12,12 @@
     "orgId": "524998",
     "sessions": [
       {
-        "session": "2023 South Summer Session 6",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adultBeginner": true,
-        "adultIntermediate": false,
-        "adultAdvanced": false
-      },
-      {
         "session": "2023 South Summer Session 7 (3 Days Only)",
         "minimac": false,
         "preschool": true,
         "gradeschool": true,
         "teen": true,
-        "adultBeginner": true,
-        "adultIntermediate": false,
-        "adultAdvanced": false
+        "adult": true
       }
     ]
   },
