@@ -129,7 +129,7 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
         <div class="card p-6 my-6">
             <div class="text-right">
                 <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id={{ jackrabbit.south.orgId }}" class="button button--small mb-3">Portal Login</a>
-                <a href="/swim-school/south/{{ swim.name | slug }}/" class="button button--small ghost mb-3">
+                <a href="/swim-school/north/{{ swim.name | slug }}/" class="button button--small ghost mb-3">
                     Go To North Location Page
                 </a>
             </div>
@@ -158,11 +158,11 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
                 {% endif %}
             </div>
 
-            {% include 'location-details-north.njk' %}
+            {% include 'location-details-south.njk' %}
         </div>
 
         <div class="container card p-4 my-6">
-            {% include 'hffa-map.njk' %}
+            {% include 'latin-map.njk' %}
         </div>
         {% endif %}
         {# End Adult Lessons Content #}
