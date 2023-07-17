@@ -33,7 +33,7 @@ permalink: "swim-school/north/minimac/{{ swim.name | slug }}/"
             </div>
 
             <div class="my-6">
-                <h2 class="separator-center">Huntersville Family Fitness & Aquatics (HFFA) Schedule</h2>
+                <h2 class="separator-center">Huntersville Family Fitness &amp; Aquatics (HFFA) Schedule &amp; Registration</h2>
 
                 {% if jackrabbit.north.sessions.length > 0 %}
                     {% for session in jackrabbit.north.sessions %}
@@ -46,12 +46,15 @@ permalink: "swim-school/north/minimac/{{ swim.name | slug }}/"
                     </div>
                 {% endif %}
             </div>
+        </div>
 
+        <div class="card p-4 my-6">
             {% include 'location-details-north.njk' %}
         </div>
 
-        <div class="container card p-4 my-6">
+        <div class="card p-4 my-6">
             {% include 'hffa-map.njk' %}
         </div>
     </div>
+
 </main>

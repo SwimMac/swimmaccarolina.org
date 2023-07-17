@@ -57,7 +57,7 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
                 </a>
             </div>
 
-            <h2>Location Info</h2>
+            <h2>General Info</h2>
             <ul>
                 <li>New students are able to start at any time throughout the month</li>
                 <li>Registration is on-going</li>
@@ -65,7 +65,7 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
             </ul>
 
             <div class="my-6">
-                <h2 class="separator-center">Huntersville Family Fitness & Aquatics (HFFA) Schedule</h2>
+                <h2 class="separator-center">North Adult Class Schedule &amp; Registration</h2>
 
                 {% if jackrabbit.north.sessions.length > 0 %}
                     {% for session in jackrabbit.north.sessions %}
@@ -78,11 +78,13 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
                     </div>
                 {% endif %}
             </div>
+        </div>
 
+        <div class="card p-4 my-6">
             {% include 'location-details-north.njk' %}
         </div>
 
-        <div class="container card p-4 my-6">
+        <div class="card p-4 my-6">
             {% include 'hffa-map.njk' %}
         </div>
         {% endif %}
@@ -101,7 +103,7 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
             </div>
 
             <div class="my-6">
-                <h2 class="separator-center">Huntersville Family Fitness & Aquatics (HFFA) Schedule</h2>
+                <h2 class="separator-center">North Teen Class Schedule &amp; Registration</h2>
 
                 {% if jackrabbit.north.sessions.length > 0 %}
                     {% for session in jackrabbit.north.sessions %}
@@ -114,11 +116,13 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
                     </div>
                 {% endif %}
             </div>
+        </div>
 
+        <div class="card p-4 my-6">
             {% include 'location-details-north.njk' %}
         </div>
 
-        <div class="container card p-4 my-6">
+        <div class="card p-4 my-6">
             {% include 'hffa-map.njk' %}
         </div>
         {% endif %}

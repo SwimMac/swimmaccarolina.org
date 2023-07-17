@@ -19,7 +19,6 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
             {{ swim.name }}
         </p>
 
-        {% if swim.name !== 'MiniMAC' %}
         {% if swim.name !== 'Teen Lessons' %}
         {% if swim.name !== 'Adult Lessons' %}
 
@@ -44,39 +43,6 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
         </div>
         {% endif %}
         {% endif %}
-        {% endif %}
-
-        {# Begin MiniMAC Content #}
-        {% if swim.name === 'MiniMAC' %}
-        <div class="card p-6 my-6">
-            <p class="lead">{{ swim.ages }}</p>
-            <p class="lead">{{ swim.description }}</p>
-        </div>
-
-        <div class="card p-6 my-6">
-            <h2 class="separator-center">Charlotte Latin Schedule</h2>
-
-            {% if jackrabbit.south.sessions.length > 0 %}
-                {% for session in jackrabbit.south.sessions %}
-                    {% if session.minimac %}
-                    <h3 class="separator-left">{{ session.session }}</h3>
-                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=minimac&amp;Session={{ session.session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
-                    {% endif %}
-                {% endfor %}
-            {% else %}
-                <div class="bg-red-100 border border-red-900 p-4 my-6">
-                    There are no scheduled {{ swim.name }} classes at this time
-                </div>
-            {% endif %}
-
-            {% include 'location-details-south.njk' %}
-        </div>
-
-        <div class="container card p-4 my-6">
-            {% include 'latin-map.njk' %}
-        </div>
-        {% endif %}
-        {# End MiniMAC Content #}
 
         {# Begin Teen Lessons Content #}
         {% if swim.name === 'Teen Lessons' %}
@@ -93,7 +59,7 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
             </div>
 
             <div class="my-6">
-                <h2 class="separator-center">Charlotte Latin Schedule</h2>
+                <h2 class="separator-center">Charlotte Latin Teen Class Schedule &amp; Registration</h2>
 
                 {% if jackrabbit.south.sessions.length > 0 %}
                     {% for session in jackrabbit.south.sessions %}
@@ -108,11 +74,13 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
                     </div>
                 {% endif %}
             </div>
+        </div>
 
+        <div class="card p-6 my-6">
             {% include 'location-details-south.njk' %}
         </div>
 
-        <div class="container card p-4 my-6">
+        <div class="card p-4 my-6">
             {% include 'latin-map.njk' %}
         </div>
         {% endif %}
@@ -142,7 +110,7 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
             </ul>
 
             <div class="my-6">
-                <h2 class="separator-center">Charlotte Latin Schedule</h2>
+                <h2 class="separator-center">Charlotte Latin Adult Class Schedule &amp; Registration</h2>
 
                 {% if jackrabbit.south.sessions.length > 0 %}
                     {% for session in jackrabbit.south.sessions %}
@@ -157,11 +125,13 @@ permalink: "swim-school/south/{{ swim.url | slug }}/"
                     </div>
                 {% endif %}
             </div>
+        </div>
 
+        <div class="card p-6 my-6">
             {% include 'location-details-south.njk' %}
         </div>
 
-        <div class="container card p-4 my-6">
+        <div class="card p-4 my-6">
             {% include 'latin-map.njk' %}
         </div>
         {% endif %}
