@@ -75,7 +75,7 @@ Sunday - 7:15-8:30 AM
 
 <span style="text-decoration: underline;"><strong>AUGUST BREAK</strong></span>
 
-NO PRACTICE Sunday, August 6 - Sunday August 20
+NO PRACTICE Sunday, August 6 - Sunday, August 20
 
 </div>
 
