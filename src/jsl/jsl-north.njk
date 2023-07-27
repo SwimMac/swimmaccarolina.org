@@ -58,29 +58,30 @@ coach:
             <div class="my-8 mx-auto" style="max-width: 800px;">
                 <iframe src="https://app3.jackrabbitclass.com/eventcalendar.asp?orgid=541680" width="100%" height="650" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
             </div>
+        </div>
 
+         <div class="card p-4 mt-4">
             <h3 class="separator-center">North Region Class Registration</h3>
             <p class="text-center">All swimmers must have passed the G7 level of swim school or completed a successful evaluation.</p>
 
             {% if jackrabbit.jslNorth.sessions.length > 0 %}
-                {% for session in jackrabbit.jslNorth.sessions %}
-                <h3 class="separator-left">{{ session.session }}</h3>
+            {% for session in jackrabbit.jslNorth.sessions %}
+            <h3 class="separator-left">{{ session.session }}</h3>
 
-                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.jslNorth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&showCols=location,Cat1&style=font-size:16px&sort=days&style=font-size:16px" type="text/javascript"></script>
-                {% endfor %}
+            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.jslNorth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&showCols=location,Cat1&style=font-size:16px&sort=days" type="text/javascript"></script>
+            {% endfor %}
             {% else %}
                 <div class="bg-red-100 border border-red-900 p-4 my-6">
                     There are no scheduled JSL classes at this time
                 </div>
             {% endif %}
-
         </div>
 
         <div class="card p-4 mt-4">
             {% coachContact coach.name, coach.email %}
         </div>
 
-        <div class="container card p-4 my-6">
+        <div class="card p-4 my-6">
             {% include 'hffa-map.njk' %}
         </div>
     </div>

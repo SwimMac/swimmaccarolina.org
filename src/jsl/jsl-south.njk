@@ -31,14 +31,19 @@ coach:
                 <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=541681" class="button button--small mb-3" target="_blank">Portal Login</a>
             </div>
 
-            <h3 class="separator-center">Summer Program Clinic 2023</h3>
-            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=541681&session=Summer%20Aux%20Program%20Clinic%202023&hidecols=Gender,Ages,openings,session&style=font-size:16px&sort=days" type="text/javascript"></script>
+            <h3 class="separator-center">South Region Class Registration</h3>
 
-        </div>
+            {% if jackrabbit.jslSouth.sessions.length > 0 %}
+                {% for session in jackrabbit.jslSouth.sessions %}
+                <h3 class="separator-left">{{ session.session }}</h3>
 
-        <div class="card p-4 mt-4">
-            <h3 class="separator-center">JSL Spring 2023</h3>
-            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=541681&session=JSL%20Spring%202023&hidecols=Gender,Ages&style=font-size:16px&sort=days" type="text/javascript"></script>
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.jslSouth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&style=font-size:16px&sort=days" type="text/javascript"></script>
+                {% endfor %}
+            {% else %}
+                <div class="bg-red-100 border border-red-900 p-4 my-6">
+                    There are no scheduled JSL classes at this time
+                </div>
+            {% endif %}
         </div>
 
         <div class="card p-4 mt-4">

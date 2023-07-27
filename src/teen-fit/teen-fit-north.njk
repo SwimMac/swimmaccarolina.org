@@ -49,7 +49,9 @@ coach:
             <div class="my-8 mx-auto" style="max-width: 800px;">
                 <iframe src="https://app3.jackrabbitclass.com/eventcalendar.asp?orgid=541680" width="100%" height="650" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
             </div>
+        </div>
 
+        <div class="card p-4 my-6">
             <h3 class="separator-center">Schedule and Registration for Teen Fit North</h3>
 
             {% if jackrabbit.teenFitNorth.sessions.length > 0 %}
@@ -57,21 +59,20 @@ coach:
                 <h3 class="separator-left">{{ session.session }}</h3>
                 <p>There is an additional annual registration fee of $30, which includes swim cap and t-shirt.</p>
 
-                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.teenFitNorth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&showCols=location,Cat1&style=font-size:16px&sort=days&style=font-size:16px" type="text/javascript"></script>
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.teenFitNorth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&style=font-size:16px&sort=days&style=font-size:16px" type="text/javascript"></script>
                 {% endfor %}
             {% else %}
                 <div class="bg-red-100 border border-red-900 p-4 my-6">
                     There are no scheduled Teen Fit classes at this time
                 </div>
             {% endif %}
-
         </div>
 
-        <div class="container card p-4 my-6">
+        <div class="card p-4 my-6">
             {% coachContact coach.name, coach.email %}
         </div>
 
-        <div class="container card p-4 my-6">
+        <div class="card p-4 my-6">
             {% include 'hffa-map.njk' %}
         </div>
     </div>
