@@ -34,10 +34,10 @@ WORKOUT GROUP = SwimMAC</p>
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>General Public Rate</h3>
 <p><strong>INDIVIDUAL</strong></p>
-<p>Registration fee: $30<br>
+<p>Annual registration fee: $30<br>
 Monthly dues: $60</p>
 <p><strong>INDIVIDUAL + SIGNIFICANT OTHER (50% Dues Discount)</strong></p>
-<p>Registration fee: $60<br>
+<p>Annual registration fee: $60<br>
 Monthly dues: $90</p>
 <br>
 
@@ -49,15 +49,15 @@ Monthly dues: $90</p>
 <h3>SwimMAC Member Discount Rate</h3>
 <p>Swimmers in the following billing groups qualify for the SwimMac Member rate:</p>
 <ul>
-<li>Parent of SwimMAC Competitive Team Swimmer (Marlin, Dolphin, Shark, Senior)</li>
-<li>Parent of Charlotte Latin School student</li>
+<li>Parent of current SwimMAC Competitive Team Swimmer (Marlin, Dolphin, Shark, Senior)</li>
+<li>Parent of current Charlotte Latin School student</li>
 <li>SwimMAC Competitive Team Alumni</li>
 </ul>
 <p><strong>INDIVIDUAL</strong></p>
-<p>Registration fee: $30<br>
+<p>Annual registration fee: $30<br>
 Monthly dues: $50</p>
 <p><strong>INDIVIDUAL + SIGNIFICANT OTHER (50% Dues Discount)</strong></p>
-<p>Registration fee: $60<br>
+<p>Annual registration fee: $60<br>
 Monthly dues: $75</p>
 </div>
 
