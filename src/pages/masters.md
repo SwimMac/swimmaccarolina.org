@@ -57,7 +57,7 @@ NO PRACTICE Saturday, August 19 - Saturday, September 2
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
-<span style="text-decoration: underline;"><strong>SUMMER SCHEDULE (THROUGH 7/30)</strong></span>
+<span style="text-decoration: underline;"><strong>SUMMER SCHEDULE</strong></span>
 
 Monday - 5:00-6:15 PM
 
