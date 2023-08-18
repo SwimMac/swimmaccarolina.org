@@ -34,15 +34,15 @@ WORKOUT GROUP = SwimMAC</p>
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>General Public Rate</h3>
 <p><strong>INDIVIDUAL</strong></p>
-<p>Annual registration fee: $30<br>
-Monthly dues: $60</p>
+<p>Annual registration fee: $40<br>
+Monthly dues: $70</p>
 <p><strong>INDIVIDUAL + SIGNIFICANT OTHER (50% Dues Discount)</strong></p>
-<p>Annual registration fee: $60<br>
-Monthly dues: $90</p>
+<p>Annual registration fee: $80<br>
+Monthly dues: $105</p>
 <br>
 
 <h3>Masters Pass</h3>
-<p>SwimMAC also offers a Masters Pass for those who would like an option other than monthly billing. You will still need to register online with USMS and with SwimMAC Masters for $30 (admin costs, shirt & cap). You will be billed $50 for eight (8) practice sessions via our online TeamUnify system. You will receive a Masters Pass from a coach on deck, which you need to bring to the pool each time.</p>
+<p>SwimMAC also offers a Masters Pass for those who would like an option other than monthly billing. You will still need to register online with USMS and with SwimMAC Masters for $40 (admin costs, shirt & cap). You will be billed $50 for eight (8) practice sessions via our online TeamUnify system. You will receive a Masters Pass from a coach on deck, which you need to bring to the pool each time.</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
@@ -54,11 +54,11 @@ Monthly dues: $90</p>
 <li>SwimMAC Competitive Team Alumni</li>
 </ul>
 <p><strong>INDIVIDUAL</strong></p>
-<p>Annual registration fee: $30<br>
-Monthly dues: $50</p>
+<p>Annual registration fee: $40<br>
+Monthly dues: $60</p>
 <p><strong>INDIVIDUAL + SIGNIFICANT OTHER (50% Dues Discount)</strong></p>
-<p>Annual registration fee: $60<br>
-Monthly dues: $75</p>
+<p>Annual registration fee: $80<br>
+Monthly dues: $90</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
