@@ -42,7 +42,7 @@ Monthly dues: $105</p>
 <br>
 
 <h3>Masters Pass</h3>
-<p>SwimMAC also offers a Masters Pass for those who would like an option other than monthly billing. You will still need to register online with USMS and with SwimMAC Masters for $40 (admin costs, shirt & cap). You will be billed $50 for eight (8) practice sessions via our online TeamUnify system. You will receive a Masters Pass from a coach on deck, which you need to bring to the pool each time.</p>
+<p>SwimMAC also offers a Masters Pass for those who would like an option other than monthly billing. You will still need to register online with USMS and with SwimMAC Masters for $40 (admin costs, shirt & cap). You will be billed $60 for eight (8) practice sessions via our online TeamUnify system. You will receive a Masters Pass from a coach on deck, which you need to bring to the pool each time.</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
