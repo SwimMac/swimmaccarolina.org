@@ -57,7 +57,7 @@ Sunday – 10:15-11:30 AM (LCM)
 
 SwimMAC Training Facility at Charlotte Latin School, 9850 Providence Road, Charlotte, NC 28277
 
-<span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE (BEGINS 8/23)</strong></span>
+<span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE</strong></span>
 
 Monday - 12:15-1:30 PM
 
@@ -72,6 +72,10 @@ Friday - 8:30-9:45 AM & 12:15-1:30 PM
 Saturday - 5:30-6:45 AM
 
 Sunday - 7:15-8:30 AM
+
+<span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule:</strong></span>
+
+Sunday, September 24 - 6:15-7:30 AM due to swim meet
 
 </div>
 
