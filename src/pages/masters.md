@@ -55,8 +55,6 @@ Sunday, September 17 - NO PRACTICE due to triathlon
 
 </div>
 
-</div>
-
 <div class="w-full md:w-1/2 p-4" markdown="1">
 
 ### LATIN SITE
