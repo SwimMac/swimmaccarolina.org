@@ -51,7 +51,7 @@ module.exports = function (eleventyConfig) {
         return `<div class="my-16 text-center">
         <h2>Schedule a Tryout</h2>
 
-        <a href="https://www.teamunify.com/team/ncmac/page/our-team/tryouts" class="button" target="_blank">
+        <a href="https://www.gomotionapp.com/team/ncmac/page/our-team/tryouts" class="button" target="_blank">
            Schedule a Tryout on Team Unify
         </a>
      </div>`;

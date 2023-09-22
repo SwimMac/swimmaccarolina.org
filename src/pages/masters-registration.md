@@ -7,7 +7,7 @@ title: Masters Registration and Dues
 
 If you would like to join our program, please email for information and include the primary location where you would like to swim to <a href="mailto:cthomas@swimmaccarolina.org">masters@swimmaccarolina.org.</a>
 
-</div> 
+</div>
 
 </div>
 
@@ -28,7 +28,7 @@ WORKOUT GROUP = SwimMAC</p>
 <h4>STEP 2:</h4>
 <p><img src="/static/SwimMAC-Masters-Horizontal-Logo.png" alt="SwimMAC Masters Logo" width="255" height="100"></p>
 <p>You will also need to register and pay SwimMAC Masters dues via our registration website. Registration includes a SwimMAC Masters team t-shirt and cap.</p>
-<p><a class="button" href="https://www.teamunify.com/team/ncmac/page/team-registration?reg_id=7352" target="_blank" rel="noopener">Register</a></p>
+<p><a class="button" href="https://www.gomotionapp.com/team/ncmac/page/team-registration?reg_id=81600" target="_blank" rel="noopener">Register</a></p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
