@@ -51,7 +51,9 @@ Sunday – 10:15-11:30 AM (LCM)
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule:</strong></span>
 
-Sunday, September 17 - NO PRACTICE due to triathlon
+Sunday, October 15 - NO PRACTICE due to swim meet
+
+Sunday, October 22 - NO PRACTICE due to swim meet
 
 </div>
 
@@ -79,7 +81,7 @@ Sunday - 7:15-8:30 AM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule:</strong></span>
 
-Sunday, September 24 - 6:15-7:30 AM due to swim meet
+Saturday, September 30  - 5:15-6:30 AM (LCM)
 
 </div>
 
