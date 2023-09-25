@@ -31,10 +31,6 @@ If you would like to join our program, please email for information and include 
 
 <p class="center">Huntersville Family Fitness & Aquatics (HFFA), 11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-<span style="text-decoration: underline;"><strong>AUGUST BREAK</strong></span>
-
-NO PRACTICE Sunday, August 20 - Monday, September 4
-
 <span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE</strong></span>
 
 Monday – 5:15-6:30 AM (LCM)
