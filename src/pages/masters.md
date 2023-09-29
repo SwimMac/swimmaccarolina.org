@@ -79,6 +79,8 @@ Sunday - 7:15-8:30 AM
 
 Saturday, September 30  - 5:15-6:30 AM (LCM)
 
+Sunday, October 29 - 6:15-7:30 AM
+
 </div>
 
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
