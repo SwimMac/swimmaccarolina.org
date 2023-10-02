@@ -3,6 +3,8 @@ const transforms = require('./utils/transforms.js');
 const collections = require('./utils/collections.js');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const now = String(Date.now());
+const markdownFilter = require('markdown-it')(); // You need to install the 'markdown-it' package
+
 
 module.exports = function (eleventyConfig) {
     // Folders to copy to build dir (See. 1.1)
@@ -102,6 +104,11 @@ module.exports = function (eleventyConfig) {
                 <input type="submit" value="Send" class="button">
             </p>
         </form>`;
+    });
+
+     // Add the Markdown filter
+    eleventyConfig.addFilter('markdown', (content) => {
+        return markdownFilter.render(content);
     });
 
     module.exports = function (date, part) {

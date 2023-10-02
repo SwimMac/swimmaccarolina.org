@@ -12,17 +12,15 @@ layout: base.njk
     </p>
 
     <div class="flex flex-wrap">
-        {% if staffImage %}
-          <img src="{{ staffImage }}" class="rounded filter shadow mr-4" />
-        {% endif %}
+      {% if staffImage %}
+        <img src="{{ staffImage }}" class="rounded filter shadow mr-4" />
+      {% endif %}
 
-      <div class="radius drop-shadow-xl card flex-grow">
-        <div class="w-full {% if staffImage %}md:w-2/3{% endif %} p-4">
+      <div class="radius drop-shadow-xl card flex-grow w-full {% if staffImage %}md:w-2/3{% endif %} p-4">
           <h2>{{ title }}</h2>
           <h3>{{ jobTitle }}</h3>
           <p><a href="mailto:{{ email }}@swimmaccarolina.org">Email {{ title }}</a></p>
-          {{ bio | safe }}
-        </div>
+          {{ bio | markdown | safe }} foo
        </div>
     </div>
   </div>
