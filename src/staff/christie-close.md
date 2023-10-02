@@ -7,5 +7,5 @@ email: cclose
 department:
   - jsl-teen-fit-homeschool
   - competitive-team-leadership
-order: 1
+order: 2
 ---
