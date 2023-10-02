@@ -8,9 +8,9 @@ name : kathy-mckee
 
         <div class="bg-black">
             <div class="md:w-2/3 mx-auto">
-            <div class="responsive-embed widescreen margin-top-1" markdown="1">
-                <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/8LvIFgakWqE?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true"></iframe>
-            </div>
+                <div class="responsive-embed widescreen margin-top-1" markdown="1">
+                    <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/8LvIFgakWqE?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true"></iframe>
+                </div>
             </div>
         </div>
 
@@ -81,86 +81,101 @@ name : kathy-mckee
             <p class="lead">Kathy McKee, You will live on in our hearts forever.</p>
         </div>
 
-        <div class="relative" x-data="{ openModal:false, formRow: {} }"
-            x-init="loadMessages = function(){
-                fetch(`/.netlify/functions/get-form-submissions`)
-                .then(response => response.json())
-                .then(submissions => {
-                    // Process the submissions
-                    return formRow = submissions
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                });
-        }">
+        <div class="relative">
             <h2 class="separator-left">Rememberance Board</h2>
 
-            <div x-show="!openModal" x-transition.opacity>
-                <button class="button md:absolute top-0 right-0" x-on:click="openModal = true">Add a Memory</button>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Amy Cavanagh (Dynamo Swim Club, 1979-1990)</p>
+                    <p x-text="item.body">I was asked the other day if I ever had a teacher that was a positive influence on my life. I immediately told him Kathy McKee. That evening, I saw a facebook post from our Dynamo coach Alex of her passing.
 
-                    <template x-for="(item, index) in formRow" :key="index">
-                        <div class="card p-4">
-                            <p class="text-xl text-gray-500" x-text="item.name"></p>
-                            <p x-text="item.body"></p>
-                        </div>
-                    </template>
+I was thrilled to reconnect with her a few years back. We texted and talked on the phone, holiday cards went to her, she was always so complimentary of me and my son.  And while I am the mom, she was still giving me advice in my old age. She didn’t have children of her own, but she was absolutely a mother and a teacher. I would take advice from her any day of the week about child development - no questions asked. She was just that good about development of kids and had such a great disposition. I talked to her just this past January about swimming, congratulated her on her incredibly well-deserved semi-retirement from MAC. She deserved that hall of fame award like no other. She deserved rest and travel and to live life outside those pool decks (like Alex). Like many swim coaches, she dedicated her life with hours, days, months, and years on the deck in the morning and evening. Dealing with crazy age group kids and parent neurosis. She believed in me. She developed me. She stayed on me teaching me inside the pool and out. Because that is who she was. She cared so much about each of us. They don’t make them like this always. Like many others that I was fortunate to swim beside in 1979 when I joined Dynamo, she made sure we were ready to be handed up to David and then to Alex. She wasn't my coach, but came and drove me to the ’88 Olympic Trial finals trying to talk my little 15 year old self off a ledge. She was there to talk to me when I missed the Olympic team that night. She was always there for each of us - good and hard – and she will ALWAYS be top of mind for me as the TEACHER and North Star in my life.  I’m so thankful that I got to see her in GA when she received the Hall of Fame.
+
+I wish she could see the outpouring of THANK YOUs from around the world with the valuable mentoring and her hugely impactful handprints she left on our lives.  She was so humble, barely ever taking the credit rather putting the credit back into the kids for the work they did and providing constructive criticism on how they could and would be better. She deserved to travel the world and reconnect and have the rest and time she never got - just to simply be.
+
+Rest easy Kathy, your legend will live on. The universe just got one hell of a teacher.
+</p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Susan Wheeler Slaughter</p>
+                    <p x-text="item.body">Kathy was one of my dearest friends.  We grew up together in Chapel Hill, NC and continued our friendship for many years after.  We shared a love of gardening and antiques but most of all dogs.  She loved her cocker spaniels.  There have been many wonderful, heartfelt comments about her career as a swim coach but she was an even better friend.  I will miss her dearly.  </p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Todd Rhen</p>
+                    <p x-text="item.body">I first met Kathy the summer of 1981 on a Zone Meet trip. I was swimming for a smaller club in Atlanta at the time and she as was one of the Zone coaches. The minute I got back from the trip, I told my parents I wanted to join Dynamo and swim for Kathy. That changed everything for me. A few years after college, I found my way back into swimming and started coaching in Atlanta. This was at the same time Pat and Kathy had moved to NC and started coaching at MAC. I joined the MAC staff in the fall of 95 and had the incredible fortune of working with Kathy and the Davidson program of MAC. Loved every moment in the Lake Normal area. I have always thought that swimmers have life stories different that other athletes, and part of that is because of the impact our coaches had on us, and Kathy is a Mt Rushmore kind of coach. Thanks for life path Kathy and the memories I have had since meeting you all those years ago!</p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Kenny Colbert</p>
+                    <p x-text="item.body">Kathy taught my kids to be better swimmers.  In many small ways, she taught me to be a better parent.  She was a model of consistency--she treated the kid who was struggling in the pool the same as she treated the kid who was knocking out quad A's.  She was quick to give feedback--criticism as well as praise.  She never let a swimmer get too low, or too high.  She knew how and when to push a kid's buttons--and how hard to push.  She was a role model for the swimmers, and the same for her fellow coaches.  Kathy never had kids of her own, but in retrospect, she actually had several thousand kids as she treated each one as if they were hers.  I will miss our numerous conversations over the past 27 years about kids, swimming, MAC, crazy parents, and spaniels.  And I will always remember that booming voice and her shouting this greeting to me after a big victory----"how about those Heels!"   </p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Duane Davis</p>
+                    <p x-text="item.body">I was fortunate to work directly with Kathy on the deck from 1998 - 2006.      She had a huge impact on me as a mentor and a friend.  Watching her lead the development and growth of the northern end of the program I learned a tremendous amount from her.  She took interest in every swimmer at every level of the program to help them be the best that they could be.
+
+I was so sad to hear this news. I will miss you Kathy </p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Meredith Rhyne Graham</p>
+                    <p x-text="item.body">Kathy was my coach for several years at Mecklenburg Aquatic Club.  When I joined her senior team, I was intimidated but also very excited to train with a phenomenal coach who was admired throughout the swimming community.  During the time I spent swimming for MAC, Coach Kathy truly got to know me both in and out of the pool.  Even though I may not have been one of her fastest and most experienced swimmers, she nurtured and encouraged my dedication and passion for the sport.  I feel incredibly blessed to have had the honor of training under one of the greatest coaches of our generation.  Kathy, you will be dearly missed, and I know in my heart you will always be with every swimmer whose life you touched.   </p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Hiro Iwamoto</p>
+                    <p x-text="item.body">Dear Kathy -
+You were my coach when I was 12 in 1984. I never amounted to any kind of swimmer but I went on to coach summer league for several years and I hope I made some of those kids love swimming like you did for thousands of kids. My own kids are now at Dynamo and are the same age I was when you coached me. They have a fantastic coach, Martha, and the circle remains unbroken. You don’t remember me but I will never forget you. Thank you. </p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Julia Czentye and family </p>
+                    <p x-text="item.body">Kathy,
+I’m so sad the time we worked together was so short, but thankful for that time and getting to share it with such a great coach and mentor.  You’ve left a legacy in this country with your hard work ethics and tough love as a coach- your love in this sport made a difference in so many others lives. You’ll be greatly missed! </p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">The Gaskey family</p>
+                    <p x-text="item.body">We are forever grateful for the time we had with you. It has been a honor knowing you. Thank you for all your work, dedication, encouragement and support you have shown our daughter along her time in your swimming group. You always believed in her and her potential. Thank you for everything, coach Kathy! </p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">The Meacham Family</p>
+                    <p x-text="item.body">Heaven gained a strong and spirited soul while the world lost a dedicated coach, teacher and mentor, but most of all a friend.
+
+Thank you for your strength, your conviction and for keeping resolute for so many years.
+
+May you go now to your final rest in peace, knowing that you have done right with your time on this earth...you fought the good fight...you finished the race...
+
+May God, keep you close and wrapped in His grace and love on your next journey.</p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Brandi Jones</p>
+                    <p x-text="item.body">Coach Kathy, my friend Kathy! You’re truly missed but what an amazing legacy you left behind. One of true dedication, commitment and passion. There are no words that do justice to your value and impact on those who knew you and the world of swimming.
+
+Thanks for always being real, and for always being fair. I’m so blessed our paths crossed and even more humbled our professional relationship turned into a true, one of kind, friendship. I have so many great memories I’ll always hold dear to my heart. Your passing hurts deep but I will forever cherish the hug we shared last week.
+
+Rest well my dear friend! You’ve earned it! Hugs &amp; love! </p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">The Hocutt Family</p>
+                    <p x-text="item.body">Words cannot express the loss we feel in the passing of Coach Kathy. Unprecedented coach, friend, mentor and roll model.
+All 3 of us have learned so much from you.
+We will miss you forever.
+#GDTBATH</p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Shaylyn (Blake) Ruthven </p>
+                    <p x-text="item.body">Kathy was tough, man was she tough, but she always led with compassion for her swimmers. From a timid 6 and under to a temperamental teen questioning my next step, she always supported me. Although I may not have had the maturity to see it then, looking back I am so grateful for her guidance. She poured her heart into swimming and it showed. I regret not staying in touch since age group swimming, but I draw from her impact on my life regularly. She helped shape not only my swimming career,  but my life outside the water. Rest easy, Kathy. You are missed. </p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Lee Manchester</p>
+                    <p x-text="item.body">Kathy McKee is a person you would be lucky to meet and fortunate to work at her side. She impacted people by believing in the best of them. Your life would be changed through seeing things through her eyes, her approach, her efforts and her character.  Her passion in the sport of swimming made our family and many others better because of our life path crossing with hers.  Tears in my eyes - Kathy McKee - you will be missed! </p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">The Kroll Family</p>
+                    <p x-text="item.body">Coach Kathy, You will be missed.
+You were an incredible coach who pushed the kids to successes that they did not know they could achieve, and supported them when the road got tough.  You were a pillar of support, knowledge, encouragement and just a good friend to our family for years.  You will be missed.</p>
+                </div>
+                <div class="card p-4">
+                    <p class="text-xl text-gray-500" x-text="item.name">Patty Waldron</p>
+                    <p x-text="item.body">The sudden loss of Kathy McKee has rippled across many lanes of life. Her impact on swimmers, families and colleagues is something that will have a life of it's own. To know Kathy is to have loved Kathy. As a coaching colleague/teammate,  she was the very best at mentoring coaches and athletes, and creating blueprints for success, both in the water with athletes and on the admin side for clubs. She worked tirelessly and selflessly for others at the highest levels of our sport. She was a great friend, a cocker spaniel loving Mom, and a TarHeel through and through! Each of us will hold her memory dear. She will be missed beyond measure.</p>
                 </div>
             </div>
 
-            <div class="bg-white w-full p-4" x-show="openModal" x-transition.opacity>
-                <h3>Share a Memory</h3>
-                <p>Post a special memory, thought or message about Kathy.</p>
-                <div x-data="memoryFormData()" x-init="$refs.nameInput.focus()">
-                    <form name="kathy-message" x-on:submit="submitKathyMemoryForm" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-                        <div class="mb-6">
-                            <label class="block" for="name">Your Name</label>
-                            <input class="w-full" id="name" type="text" name="name" autocomplete="name" required="required" x-ref="nameInput">
-                        </div>
-
-                        <div class="mb-6">
-                            <label class="block" for="message">Message</label>
-                            <textarea rows="8" class="w-full" id="message" name="message" required="required"></textarea>
-                        </div>
-
-                        <div class="hidden">
-                            <label>Not for humans:
-                            <input name="bot-field"/></label>
-                        </div>
-
-                        <div class="mb-6">
-                            <button class="button" type="submit">Submit</button>  <button class="button ghost ml-4" type="button" x-on:click="openModal = false">Cancel</button>
-                        </div>
-                    </form>
-                </div>
-
-                <script>
-                    function memoryFormSubmission(myForm){
-                        myForm.innerHTML = `<div class="text-center">
-                        <h3>Thank You</h3>
-                        <p>Your memory has been added.</p>
-                        <div><button x-on:click="openModal = false; setTimeout(() => loadMessages(), 3000)" class="button">View the Memory Board</button></div>
-                        </div>`;
-                    }
-
-                    function memoryFormData() {
-                        return {
-                            submitKathyMemoryForm(event) {
-                                event.preventDefault();
-                                const myForm = event.target;
-                                const formData = new FormData(myForm);
-
-                                fetch("/", {
-                                    method: "POST",
-                                    headers: { "Content-Type": "application/x-www-form-urlencoded" },
-                                    body: new URLSearchParams(formData).toString(),
-                                }).then(() => memoryFormSubmission(myForm)).catch((error) => alert(error));
-                            }
-                        }
-                    }
-                </script>
-            </div>
         </div>
     </div>
 </main>
-
