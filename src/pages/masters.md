@@ -77,7 +77,7 @@ Sunday - 7:15-8:30 AM
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to Latin Schedule:</strong></span>
 
-Saturday, September 30  - 5:15-6:30 AM (LCM)
+Sunday, October 15 - 5:45-7:00 AM
 
 Sunday, October 29 - 6:15-7:30 AM
 
