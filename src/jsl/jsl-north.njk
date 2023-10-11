@@ -66,7 +66,7 @@ coach:
 
             {% if jackrabbit.jslNorth.sessions.length > 0 %}
             {% for session in jackrabbit.jslNorth.sessions %}
-            <h3 class="separator-left">{{ session.session }}</h3>
+            <h3 class="separator-left mt-12">{{ session.session }}</h3>
 
             <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.jslNorth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&showCols=location,Cat1&style=font-size:16px&sort=days" type="text/javascript"></script>
             {% endfor %}
