@@ -40,10 +40,6 @@
       {
         "name": "TeenFit Fall 2 Session (2023)",
         "session": "TeenFit Fall 2 Session (2023)"
-      },
-      {
-        "name": "Teen Fit Fall 2023",
-        "session": "TeenFit Fall 2023"
       }
     ]
   },
@@ -52,9 +48,6 @@
     "sessions": [
       {
         "session": "JSL Fall 2 Session (2023)"
-      },
-      {
-        "session": "JSL Fall 2023"
       }
     ]
   }
