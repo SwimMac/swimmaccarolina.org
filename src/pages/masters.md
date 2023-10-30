@@ -77,9 +77,11 @@ Sunday - 7:15-8:30 AM
 
 Sunday, November 12 - 5:45-7:00 AM
 
+Wednesday, November 22 - 12:45-2:00 PM
+
 Thursday, November 23 (Thanksgiving) - 7:00-8:30 AM
 
-Friday, November 24 - NO 8:30 PRACTICE
+Friday, November 24 - NO 8:30 AM PRACTICE, 12:15-1:30 PM ONLY
 
 </div>
 
