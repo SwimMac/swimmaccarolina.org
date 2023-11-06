@@ -1,0 +1,16 @@
+---
+layout : base.njk
+title : Public Lap Swim
+---
+
+<main id="main" class="bg-gray-100">
+  {% banner title %}
+
+  <div class="container py-6">
+    {% for content in pages %}
+      {% if content.data.title === "Lap Swim" %}
+        {{ content.templateContent | safe }}
+      {% endif %}
+    {% endfor %}
+  </div>
+</main>
