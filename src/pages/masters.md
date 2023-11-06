@@ -41,7 +41,7 @@ Thursday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
 Friday – 5:15-6:30 AM (LCM)
 
-Sunday – 10:15-11:30 AM (LCM)
+Sunday – 10:00-11:15 AM (LCM)
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
