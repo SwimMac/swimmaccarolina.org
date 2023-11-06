@@ -2,7 +2,6 @@
 layout: pages.njk
 title: Lap Swim
 ---
-
 <div class="card p-6 my-4" markdown="1">
     <h3>Single Visit Pass $ 5.00 / person — 15 Visit Pool Pass $ 60.00 ($4.00 / visit)</h3>
 </div>
@@ -20,5 +19,5 @@ title: Lap Swim
     <p>Swimmers may ONLY use the designated lanes due to safety and other programs.</p>
     <p>Come to the pool expecting to circle swim. Circle Swimming means staying to the right of the black line and switching sides when you make your turn to keep the lane line on your right side. If there are fewer than three people in your lane, you may split a lane and take either the left or right side, while your lane-mate takes the other.</p>
     <p>Remember the pool is not a treadmill, we can accommodate A LOT of swimmers!</p>
-    <p>Enjoy!</p>
+    <p>Enjoy!</p> 
 </div>
