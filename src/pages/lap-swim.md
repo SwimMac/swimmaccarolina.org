@@ -3,7 +3,16 @@ layout: pages.njk
 title: Lap Swim
 ---
 <div class="card p-6 my-4" markdown="1">
-    <h3>Single Visit Pass $ 5.00 / person — 15 Visit Pool Pass $ 60.00 ($4.00 / visit)</h3>
+SwimMAC Carolina offers public lap swim hours at our Charlotte Latin facility during the school year (Labor Day through Memorial Day).
+
+Open swim hours are available Monday-Friday, from 7:00am until 12:00pm. ALL swimmers are required to see the lifeguard on duty and sign in prior to swimming.
+
+</div>
+
+<div class="card p-6 my-4" markdown="1">    <h3>Pricing and Membership Options</h3>
+
+
+
 </div>
 
 <div class="card p-6 my-4" markdown="1">
