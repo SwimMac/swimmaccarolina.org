@@ -19,7 +19,7 @@ title: Lap Swim
 
 <p>The cost for a single session of swimming is <b>$10 per swim</b>. Payment must be made with a credit card; no cash or checks will be accepted. The lifeguard on duty will collect payment prior to your swim.</p>
 
-<h5>SwimMAC Masters Members</5>
+<h5>SwimMAC Masters Members</h5>
 
 <p>Masters members that pay monthly dues are able to swim during any open swim hours, but will still need to check in with the lifeguard and sign in. Masters Pass members also need to sign in and will be required to have their pass card marked off by the lifeguard.</p>
 
