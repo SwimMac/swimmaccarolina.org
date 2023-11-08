@@ -15,7 +15,17 @@ title: Lap Swim
 
 <div class="card p-6 my-4" markdown="1">    <h3>Pricing and Membership Options</h3>
 
+<h5>General Public Drop-In Swimmer</h5>
 
+<p>The cost for a single session of swimming is **$10 per swim**. Payment must be made with a credit card; no cash or checks will be accepted. The lifeguard on duty will collect payment prior to your swim.</p>
+
+<h5>SwimMAC Masters Members</5>
+
+<p>Masters members that pay monthly dues are able to swim during any open swim hours, but will still need to check in with the lifeguard and sign in. Masters Pass members also need to sign in and will be required to have their pass card marked off by the lifeguard.</p>
+
+<h5>Charlotte Latin School Employees</h5>
+
+<p>Employees of Charlotte Latin School may swim during open swim hours at no cost. Employee ID must be presented to the lifeguard before swimming.</p>
 
 </div>
 
