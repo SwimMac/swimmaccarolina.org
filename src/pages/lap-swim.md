@@ -23,6 +23,8 @@ title: Lap Swim
 
 <p>SwimMAC now offers a monthly lap swim membership option for <b>$60/month</b>. You will need to register through our Team Unify registration website and put a card on file to pay for monthly dues, which will process on the 1st of every month. Membership allows for unlimited swims during open swim hours.</p>
 
+<p><a class="button" href="https://www.gomotionapp.com/team/ncmac/page/team-registration?reg_id=85221" target="_blank" rel="noopener">Register</a></p>
+
 <h5>SwimMAC Masters Members</h5>
 
 <p>Masters members that pay monthly dues are able to swim during any open swim hours, but will still need to check in with the lifeguard and sign in. Masters Pass members also need to sign in and will be required to have their pass card marked off by the lifeguard.</p>
