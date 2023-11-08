@@ -3,9 +3,9 @@ layout: pages.njk
 title: Lap Swim
 ---
 <div class="card p-6 my-4" markdown="1">
-SwimMAC Carolina offers public lap swim hours at our Charlotte Latin facility during the school year (Labor Day through Memorial Day).
+<p>SwimMAC Carolina offers public lap swim hours at our Charlotte Latin facility during the school year (Labor Day through Memorial Day).</p>
 
-Open swim hours are available Monday-Friday, from 7:00am until 12:00pm. ALL swimmers are required to see the lifeguard on duty and sign in prior to swimming.
+<p>Open swim hours are available Monday-Friday, from 7:00am until 12:00pm. ALL swimmers are required to see the lifeguard on duty and sign in prior to swimming.</p>
 
 </div>
 
@@ -16,7 +16,7 @@ Open swim hours are available Monday-Friday, from 7:00am until 12:00pm. ALL swim
 </div>
 
 <div class="card p-6 my-4" markdown="1">
-    <h3>Important Information</h3>
+    <h3>Facility Rules</h3>
     <p>No pets allowed in the facility unless service animals.</p>
     <p>When entering the facility, stop by the lifeguard in the pool area to pay for your pass, show your pass, or to have your pass initialed. We accept CASH or CHECKS only.</p>
     <p>You must sign in with the lifeguard and shower prior to entering the water. There are heated showers available on deck and in the locker rooms.</p>
