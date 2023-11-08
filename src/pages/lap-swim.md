@@ -17,7 +17,7 @@ title: Lap Swim
 
 <h5>General Public Drop-In Swimmer</h5>
 
-<p>The cost for a single session of swimming is **$10 per swim**. Payment must be made with a credit card; no cash or checks will be accepted. The lifeguard on duty will collect payment prior to your swim.</p>
+<p>The cost for a single session of swimming is <b>$10 per swim</b>. Payment must be made with a credit card; no cash or checks will be accepted. The lifeguard on duty will collect payment prior to your swim.</p>
 
 <h5>SwimMAC Masters Members</5>
 
