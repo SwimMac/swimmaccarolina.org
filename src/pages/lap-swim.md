@@ -29,6 +29,8 @@ title: Lap Swim
 
 <p>Masters members that pay monthly dues are able to swim during any open swim hours, but will still need to check in with the lifeguard and sign in. Masters Pass members also need to sign in and will be required to have their pass card marked off by the lifeguard.</p>
 
+<p>For more information about the SwimMAC Masters program, see the Masters page.</p>
+
 <h5>Charlotte Latin School Employees</h5>
 
 <p>Employees of Charlotte Latin School may swim during open swim hours at no cost. Employee ID must be presented to the lifeguard before swimming.</p>
