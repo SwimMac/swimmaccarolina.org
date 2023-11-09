@@ -24,11 +24,15 @@ title: Lap Swim
 
 </div>
 
-<div class="card p-6 my-4" markdown="1">    <h3>Pricing and Membership Options</h3>
+<div class="card p-6 my-4" markdown="1">    
+
+<h3>Pricing and Membership Options</h3>
 
 <h5>General Public Drop-In Swimmer</h5>
 
 <p>The cost for a single session of swimming is <b>$10 per swim</b>. Payment must be made with a credit card; no cash or checks will be accepted. The lifeguard on duty will collect payment prior to your swim.</p>
+
+<p></p>
 
 <h5>General Public Monthly Membership</h5>
 
