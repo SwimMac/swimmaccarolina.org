@@ -16,7 +16,7 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-Wednesday, November 22 - Friday, November 24 - NO LAP SWIM
+<b>Wednesday, November 22 - Friday, November 24 - NO LAP SWIM</b>
 
 </div>
 
