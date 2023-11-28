@@ -83,13 +83,13 @@ Sunday, December 3 - 5:45-7:00 AM
 
 <span style="text-decoration: underline;"><strong>2023 Latin Holiday Schedule:</strong></span>
 
-Wednesday, Dec 20 - 12:15-1:30 PM
+Wednesday, Dec 20 - 12:15-1:30 PM (SCY)
 
-Thursday, Dec 21 - 5:15-6:30 AM (NO 8:30 PRACTICE)
+Thursday, Dec 21 - 5:15-6:30 AM (SCY) (NO 8:30 PRACTICE)
 
-Friday, Dec 22 - 12:15-1:30 PM
+Friday, Dec 22 - 12:15-1:30 PM (SCY)
 
-Saturday, Dec 23 - 5:30-6:45 AM
+Saturday, Dec 23 - 5:30-6:45 AM (SCY)
 
 Sunday, Dec 24 (Christmas Eve) - NO PRACTICE
 
@@ -105,7 +105,7 @@ Friday, Dec 29 - 12:45-2:00 PM (LCM)
 
 Saturday, Dec 30 - 5:30-6:45 AM (LCM)
 
-Sunday, Dec 31 (New Year's Eve) - 5:30-6:45 AM
+Sunday, Dec 31 (New Year's Eve) - 5:30-6:45 AM (SCY)
 
 Monday, Jan 1 (New Year's Day) - 10:00-12:30 PM (LCM)
 
