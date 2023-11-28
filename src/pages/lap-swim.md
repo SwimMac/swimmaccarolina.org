@@ -18,6 +18,8 @@ title: Lap Swim
 
 <b>Wednesday, December 20 - Tuesday, January 2 - NO LAP SWIM</b>
 
+<b>Monday, January 15 - NO LAP SWIM</b>
+
 </div>
 
 </div>
