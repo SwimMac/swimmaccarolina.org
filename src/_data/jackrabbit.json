@@ -38,8 +38,8 @@
     "orgId": "541681",
     "sessions": [
       {
-        "name": "TeenFit Fall 2 Session (2023)",
-        "session": "TeenFit Fall 2 Session (2023)"
+        "name": "TeenFit Winter Session (2024)",
+        "session": "TeenFit Winter Session (2024)"
       }
     ]
   },
@@ -47,7 +47,8 @@
     "orgId": "541681",
     "sessions": [
       {
-        "session": "JSL Fall 2 Session (2023)"
+        "name": "JSL Winter Session (2024)",
+        "session": "JSL Winter Session (2024)"
       }
     ]
   }
