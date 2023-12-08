@@ -43,6 +43,8 @@ title: Masters Training Schedule
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
+<div class="bg-gray-100 p-6 my-6 text-left" markdown="1">
+
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule:</strong></span>
 
 Sunday, December 24 (Christmas Eve) - NO PRACTICE
@@ -50,6 +52,8 @@ Sunday, December 24 (Christmas Eve) - NO PRACTICE
 Monday, December 25 (Christmas Day) - NO PRACTICE
 
 Monday, January 1 (New Year's Day) - TBD
+
+</div>
 
 </div>
 
@@ -83,33 +87,37 @@ SwimMAC Training Facility at Charlotte Latin School
 
 <span style="text-decoration: underline;"><strong>2023 Latin Holiday Schedule:</strong></span>
 
-Wednesday, Dec 20 - 12:15-1:30 PM (SCY)
+<ul>
 
-Thursday, Dec 21 - 5:15-6:30 AM (SCY) (NO 8:30 PRACTICE)
+<li>Wednesday, Dec 20 - 12:15-1:30 PM (SCY)
 
-Friday, Dec 22 - 12:15-1:30 PM (SCY)
+<li>Thursday, Dec 21 - 5:15-6:30 AM (SCY) (NO 8:30 PRACTICE)
 
-Saturday, Dec 23 - 5:30-6:45 AM (SCY)
+<li>Friday, Dec 22 - 12:15-1:30 PM (SCY)
 
-Sunday, Dec 24 (Christmas Eve) - NO PRACTICE
+<li>Saturday, Dec 23 - 5:30-6:45 AM (SCY)
 
-Monday, Dec 25 (Christmas Day) - NO PRACTICE
+<li>Sunday, Dec 24 (Christmas Eve) - NO PRACTICE
 
-Tuesday, Dec 26 - 5:15-6:30 AM (SCY) & 12:15-1:30 PM (LCM)
+<li>Monday, Dec 25 (Christmas Day) - NO PRACTICE
 
-Wednesday, Dec 27 - 12:45-2:00 PM (LCM)
+<li>Tuesday, Dec 26 - 5:15-6:30 AM (SCY) & 12:15-1:30 PM (LCM)
 
-Thursday, Dec 28 - 5:15-6:30 AM (LCM)
+<li>Wednesday, Dec 27 - 12:45-2:00 PM (LCM)
 
-Friday, Dec 29 - 12:45-2:00 PM (LCM)
+<li>Thursday, Dec 28 - 5:15-6:30 AM (LCM)
 
-Saturday, Dec 30 - 5:30-6:45 AM (LCM)
+<li>Friday, Dec 29 - 12:45-2:00 PM (LCM)
 
-Sunday, Dec 31 (New Year's Eve) - 5:30-6:45 AM (SCY)
+<li>Saturday, Dec 30 - 5:30-6:45 AM (LCM)
 
-Monday, Jan 1 (New Year's Day) - 10:00-12:30 PM (LCM)
+<li>Sunday, Dec 31 (New Year's Eve) - 5:30-6:45 AM (SCY)
 
-Tuesday, Jan 2 - 5:15-6:30 AM (LCM)
+<li>Monday, Jan 1 (New Year's Day) - 10:00-12:30 PM (LCM)
+
+<li>Tuesday, Jan 2 - 5:15-6:30 AM (LCM)
+
+</ul>
 
 </div>
 
