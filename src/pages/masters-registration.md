@@ -11,8 +11,6 @@ If you would like to join our program, please email for information and include 
 
 </div>
 
-<br>
-
 <h2 class="separator-center">Registration Process</h2>
 
 <div class="flex flex-wrap -mx-4" markdown="1">
