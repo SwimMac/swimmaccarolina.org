@@ -28,7 +28,7 @@ title: Lap Swim
 
 <div class="card p-6 my-4" markdown="1">    
 
-<h3>Pricing and Membership Options</h3>
+<h2 class="separator-center">Pricing & Membership Options</h2>
 
 <h5>General Public Drop-In Swimmer</h5>
 
