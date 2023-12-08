@@ -13,7 +13,7 @@ If you would like to join our program, please email for information and include 
 
 <br>
 
-<h3 class="separator-center">Registration Process</h3>
+<h2 class="separator-center">Registration Process</h2>
 
 <div class="flex flex-wrap -mx-4" markdown="1">
 <div class="w-full md:w-1/2 p-4" markdown="1">
