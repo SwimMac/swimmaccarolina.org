@@ -45,7 +45,7 @@ title: Masters Training Schedule
 
 <div class="bg-gray-100 p-6 my-6 text-left" markdown="1">
 
-<span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule:</strong></span>
+<span style="text-decoration: underline;"><strong>Exceptions to HFFA Schedule:</strong></span>
 
 Sunday, December 24 (Christmas Eve) - NO PRACTICE
 
