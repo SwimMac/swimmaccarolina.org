@@ -72,6 +72,8 @@ title: Lap Swim
 
 </ul>
 
+<br>
+
 <p>Please adhere to these rules and additional pool rules posted on-site for your safety and the safety of others.</p>
     <p>Enjoy!</p> 
 </div>
