@@ -39,6 +39,8 @@ title: Masters Training Schedule
 
 </ul>
 
+<br>
+
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
 <span style="text-decoration: underline;"><strong>EXCEPTIONS to HFFA Schedule:</strong></span>
