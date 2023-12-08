@@ -38,7 +38,7 @@ title: Lap Swim
 
 <h4>General Public Monthly Membership</h4>
 
-<p>SwimMAC now offers a monthly lap swim membership option for <b>$60/month</b>. You will need to register through our Team Unify registration website and put a card on file to pay for monthly dues, which will process on the 1st of every month. Membership allows for unlimited swims during open swim hours and may be canceled at any time.</p>
+<p>SwimMAC now offers a monthly lap swim membership option for <b>$60/month</b>. You will need to register through our TeamUnify registration website and put a card on file to pay for monthly dues, which will process on the 1st of every month. Membership allows for unlimited swims during open swim hours and may be canceled at any time.</p>
 
 <p><a class="button" href="https://www.gomotionapp.com/team/ncmac/page/team-registration?reg_id=85221" target="_blank" rel="noopener">Register</a></p>
 
