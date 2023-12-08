@@ -62,7 +62,7 @@ title: Lap Swim
 <h2 class="separator-center">Facility Rules</h2>
 
 <ul>
-    <p><li>No pets allowed in the facility unless service animals.</p>
+    <li>No pets allowed in the facility unless service animals.</p>
     <p><li>You must sign in with the lifeguard and shower prior to entering the water. There are heated showers available on deck and in the locker rooms.</p>
     <p><li>No one older than 5 years of age is allowed in the opposite gender’s bathrooms.</p>
     <p><li>No children under 13 years of age may be left unsupervised anywhere in the facility unless participating in an organized SwimMAC program.</p>
