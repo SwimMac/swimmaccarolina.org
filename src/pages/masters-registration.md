@@ -2,10 +2,10 @@
 layout: pages.njk
 title: Masters Registration and Dues
 ---
-
+<div class="callout warning" markdown="1">
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
-If you would like to join our program, please email for information and include the primary location where you would like to swim to <a href="mailto:cthomas@swimmaccarolina.org">masters@swimmaccarolina.org.</a>
+If you would like to join our program, please email for information and include the primary location where you would like to swim to <a href="mailto:cthomas@swimmaccarolina.org">masters@swimmaccarolina.org. </a>
 
 </div>
 
