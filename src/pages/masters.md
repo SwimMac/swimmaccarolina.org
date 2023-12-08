@@ -2,23 +2,15 @@
 layout: pages.njk
 title: Masters Training Schedule
 ---
-## Membership
-
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
 If you would like to join our program, please email for information and include the primary location where you would like to swim to <a href="mailto:cthomas@swimmaccarolina.org">masters@swimmaccarolina.org.</a> 
 
 **All swimmers participating in workouts MUST be USMS members.** 
 
-**LOCAL CLUB NAME: North Carolina Masters Swimming (NCMS)** 
-
-**<p style=" margin-bottom: -10px;">**
-
-**WORKOUT GROUP: SwimMAC**
-
-**</p>**
-
 **As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.**
+
+**Any questions, please contact <a href="mailto:cthomas@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
 
 </div>
 
@@ -113,9 +105,4 @@ Tuesday, Jan 2 - 5:15-6:30 AM (LCM)
 
 </div>
 
-<div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
-
-**Any questions, please contact <a href="mailto:cthomas@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
-
-</div>
 </div>
