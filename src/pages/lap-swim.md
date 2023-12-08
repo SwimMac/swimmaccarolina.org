@@ -59,7 +59,7 @@ title: Lap Swim
 </div>
 
 <div class="card p-6 my-4" markdown="1">
-    <h3>Facility Rules</h3>
+<h2 class="separator-center">Facility Rules</h2>
 
 <ul>
     <p><li>No pets allowed in the facility unless service animals.</p>
