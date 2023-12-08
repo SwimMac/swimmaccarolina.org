@@ -19,9 +19,9 @@ title: Masters Training Schedule
 
 ### NORTH/HFFA SITE
 
-<p style="margin-bottom:-10px;"><p class="center">Huntersville Family Fitness & Aquatics (HFFA)
+<p style="margin-bottom:-10px;"><p class="center">Huntersville Family Fitness & Aquatics (HFFA)</p>
 
-11725 Verhoeff Drive, Huntersville, NC 28078</p></p>
+<p class="center">11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
 <span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE</strong></span>
 
