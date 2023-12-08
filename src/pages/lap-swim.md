@@ -63,7 +63,7 @@ title: Lap Swim
 
 <ul>
     <li>No pets allowed in the facility unless service animals.</p>
-    <p><li>You must sign in with the lifeguard and shower prior to entering the water. There are heated showers available on deck and in the locker rooms.</p>
+    <li>You must sign in with the lifeguard and shower prior to entering the water. There are heated showers available on deck and in the locker rooms.</p>
     <p><li>No one older than 5 years of age is allowed in the opposite gender’s bathrooms.</p>
     <p><li>No children under 13 years of age may be left unsupervised anywhere in the facility unless participating in an organized SwimMAC program.</p>
     <p><li>Only approved SwimMAC coaches and Swim School instructors are permitted to give lessons during lap swimming hours. Private instruction or group lessons by those not employed by SwimMAC is prohibited.</p>
