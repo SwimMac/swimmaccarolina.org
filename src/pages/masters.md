@@ -85,6 +85,8 @@ SwimMAC Training Facility at Charlotte Latin School
 
 </ul>
 
+<div class="bg-gray-100 p-6 my-6 text-left" markdown="1">
+
 <span style="text-decoration: underline;"><strong>2023 Latin Holiday Schedule:</strong></span>
 
 <ul>
@@ -118,6 +120,8 @@ SwimMAC Training Facility at Charlotte Latin School
 <li>Tuesday, Jan 2 - 5:15-6:30 AM (LCM)
 
 </ul>
+
+</div>
 
 </div>
 
