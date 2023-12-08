@@ -42,9 +42,13 @@ title: Lap Swim
 
 <p><a class="button" href="https://www.gomotionapp.com/team/ncmac/page/team-registration?reg_id=85221" target="_blank" rel="noopener">Register</a></p>
 
+<br>
+
 <h5>SwimMAC Masters Members</h5>
 
 <p>Masters members that pay monthly dues are able to swim during open swim hours, but will still need to check in with the lifeguard and sign in. Masters Pass members also need to sign in and will be required to have their pass card marked off by the lifeguard.</p>
+
+<br>
 
 <p>For more information about the SwimMAC Masters program, check out the <a href="https://www.swimmaccarolina.org/adult-programs/masters/">Masters page</a>.</p>
 
