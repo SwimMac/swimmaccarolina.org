@@ -25,15 +25,19 @@ title: Masters Training Schedule
 
 <span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE</strong></span>
 
-Monday – 5:15-6:30 AM (LCM)
+<ul>
 
-Tuesday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
+<li>Monday – 5:15-6:30 AM (LCM)
 
-Thursday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
+<li>Tuesday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
-Friday – 5:15-6:30 AM (LCM)
+<li>Thursday – 5:30-6:45 AM (SCY) & 12:00-1:00 PM (SCY)
 
-Sunday – 10:00-11:15 AM (LCM)
+<li>Friday – 5:15-6:30 AM (LCM)
+
+<li>Sunday – 10:00-11:15 AM (LCM)
+
+</ul>
 
 *\*SCY – Short Course Yards; LCM – Long Course Meters*
 
@@ -57,19 +61,23 @@ SwimMAC Training Facility at Charlotte Latin School
 
 <span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE</strong></span>
 
-Monday - 12:15-1:30 PM
+<ul>
 
-Tuesday - 5:15-6:30 AM & 8:30-9:45 AM
+<li>Monday - 12:15-1:30 PM</p>
 
-Wednesday - 12:15-1:30 PM
+<li>Tuesday - 5:15-6:30 AM & 8:30-9:45 AM
 
-Thursday - 5:15-6:30 AM & 8:30-9:45 AM
+<li>Wednesday - 12:15-1:30 PM
 
-Friday - 8:30-9:45 AM & 12:15-1:30 PM
+<li>Thursday - 5:15-6:30 AM & 8:30-9:45 AM
 
-Saturday - 5:30-6:45 AM
+<li>Friday - 8:30-9:45 AM & 12:15-1:30 PM
 
-Sunday - 7:15-8:30 AM
+<li>Saturday - 5:30-6:45 AM
+
+<li>Sunday - 7:15-8:30 AM
+
+</ul>
 
 <span style="text-decoration: underline;"><strong>2023 Latin Holiday Schedule:</strong></span>
 
