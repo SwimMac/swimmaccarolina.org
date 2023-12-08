@@ -65,7 +65,7 @@ SwimMAC Training Facility at Charlotte Latin School
 
 <ul>
 
-<li>Monday - 12:15-1:30 PM</p>
+<li>Monday - 12:15-1:30 PM
 
 <li>Tuesday - 5:15-6:30 AM & 8:30-9:45 AM
 
