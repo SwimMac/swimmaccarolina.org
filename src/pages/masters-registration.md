@@ -19,7 +19,7 @@ If you would like to join our program, please email for information and include 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>STEP 1:</h4>
 <p><img src="/static/USMS_Logo_Horz_tm.gif" alt="" width="532" height="100"></p>
-<p>Each SwimMAC Masters member will need to register annually with US Masters Swimming. The annual USMS registration fee is $70. <a href="https://www.usms.org/reg/register.php">Become a USMS member or renew your membership here</a>.</p>
+<p>Each SwimMAC Masters member will need to register annually with US Masters Swimming. The annual USMS registration fee is <b>$70</b>. <a href="https://www.usms.org/reg/register.php">Become a USMS member or renew your membership here</a>.</p>
 <p><b>LOCAL CLUB NAME = North Carolina Masters Swimming (NCMS)<br>
 WORKOUT GROUP = SwimMAC</b></p>
 </div>
@@ -27,7 +27,7 @@ WORKOUT GROUP = SwimMAC</b></p>
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>STEP 2:</h4>
 <p><img src="/static/SwimMAC-Masters-Horizontal-Logo.png" alt="SwimMAC Masters Logo" width="255" height="100"></p>
-<p>You will also need to register and pay SwimMAC Masters dues via our registration website. Registration includes a SwimMAC Masters team t-shirt and cap.</p>
+<p>You will also need to register through our Team Unify registration website. The annual SwimMAC Masters registration fee is <b>$40</b>, which includes access to all coached practices at either location, lap swim access at our Charlotte Latin facility, and a SwimMAC Masters team t-shirt and cap.</p>
 <p><a class="button" href="https://www.gomotionapp.com/team/ncmac/page/team-registration?reg_id=81600" target="_blank" rel="noopener">Register</a></p>
 </div>
 
