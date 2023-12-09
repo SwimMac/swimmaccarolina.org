@@ -25,7 +25,7 @@ WORKOUT GROUP = SwimMAC</b></p>
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>STEP 2:</h4>
 <p><img src="/static/SwimMAC-Masters-Horizontal-Logo.png" alt="SwimMAC Masters Logo" width="255" height="100"></p>
-<p>You will also need to register through our TeamUnify registration website. The annual SwimMAC Masters registration fee is <b>$40</b>, which includes access to all coached practices at either location, lap swim access at our Charlotte Latin facility, and a team t-shirt and cap.</p>
+<p>You will also need to register through our TeamUnify registration website. The annual SwimMAC Masters registration fee is <b>$40</b>, which covers administrative costs and a team t-shirt and cap.</p>
 <p><a class="button" href="https://www.gomotionapp.com/team/ncmac/page/team-registration?reg_id=81600" target="_blank" rel="noopener">Register</a></p>
 </div>
 
