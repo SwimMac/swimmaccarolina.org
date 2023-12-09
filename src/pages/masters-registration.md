@@ -57,11 +57,12 @@ Monthly dues: $105</p>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>SwimMAC Member Discount Rate</h4>
-<p>Swimmers in the following billing groups qualify for the SwimMac Member rate:</p>
+<p>The following swimmers qualify for the SwimMac Member rate:</p>
 <ul>
-<li>Parent of current SwimMAC Competitive Team Swimmer (Marlin, Dolphin, Shark, Senior)</li>
+
+<li>SwimMAC competitive team alumni
+<li>Parent of current SwimMAC competitive team swimmer (Marlin, Dolphin, Shark, Senior)</li>
 <li>Parent of current Charlotte Latin School student</li>
-<li>SwimMAC Competitive Team Alumni</li>
 </ul>
 <p><strong>INDIVIDUAL</strong></p>
 <p>Annual registration fee: $40<br>
