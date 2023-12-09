@@ -31,7 +31,7 @@ WORKOUT GROUP = SwimMAC</b></p>
 
 </div>
 
-<br>
+<div class="card p-6 my-4" markdown="1">
 
 <h2 class="separator-center">Membership Options</h2>
 
@@ -79,4 +79,6 @@ Monthly dues: $90</p>
 <p>If you are a current college swimmer who would like to train with the Masters team for the summer, the SwimMAC Masters dues are $150. This includes the entire summer and access to all workout times at either location. You <strong>must</strong> be registered with either USA Swimming or US Masters Swimming in order to participate in the workouts.</p>
 
 </div>
+</div>
+
 </div>
