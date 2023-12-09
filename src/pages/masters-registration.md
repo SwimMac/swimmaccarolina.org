@@ -38,7 +38,7 @@ WORKOUT GROUP = SwimMAC</b></p>
 <div class="flex flex-wrap -mx-4" markdown="1">
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h3>General Public Rate</h3>
+<h4>General Public Rate</h4>
 <p><strong>INDIVIDUAL</strong></p>
 <p>Annual registration fee: $40<br>
 Monthly dues: $70</p>
@@ -47,12 +47,12 @@ Monthly dues: $70</p>
 Monthly dues: $105</p>
 <br>
 
-<h3>Masters Pass</h3>
+<h4>Masters Pass</h4>
 <p>SwimMAC also offers a Masters Pass for those who would like an option other than monthly billing. You will still need to register online with USMS and with SwimMAC Masters for $40 (admin costs, shirt & cap). You will be billed $60 for eight (8) practice sessions via our online TeamUnify system. You will receive a Masters Pass from a coach on deck, which you need to bring to the pool each time.</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h3>SwimMAC Member Discount Rate</h3>
+<h4>SwimMAC Member Discount Rate</h4>
 <p>Swimmers in the following billing groups qualify for the SwimMac Member rate:</p>
 <ul>
 <li>Parent of current SwimMAC Competitive Team Swimmer (Marlin, Dolphin, Shark, Senior)</li>
@@ -68,13 +68,13 @@ Monthly dues: $90</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h3>Drop-In Swims</h3>
+<h4>Drop-In Swims</h4>
 <p>SwimMAC Masters is happy to welcome other Masters from around the world! The drop-in fee is $10 per practice. Please bring cash to your drop-in swim OR Venmo Lead Coach Chandler Thomas (@chandler-thomas-11). All swimmers <strong>must</strong> be USMS registered or sign a <a href="https://www.usms.org/admin/lmschb/gto_reg_30daytryout_regform.pdf" target="_blank" rel="noopener">USMS 30-day waiver</a> in order to swim with us.</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 
-<h3>Visiting Alumni/College Swimmers</h3>
+<h4>Visiting Alumni/College Swimmers</h4>
 
 <p>If you are a current college swimmer who would like to train with the Masters team for the summer, the SwimMAC Masters dues are $150. This includes the entire summer and access to all workout times at either location. You <strong>must</strong> be registered with either USA Swimming or US Masters Swimming in order to participate in the workouts.</p>
 
