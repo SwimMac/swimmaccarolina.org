@@ -29,6 +29,10 @@ WORKOUT GROUP = SwimMAC</b></p>
 <p><a class="button" href="https://www.gomotionapp.com/team/ncmac/page/team-registration?reg_id=81600" target="_blank" rel="noopener">Register</a></p>
 </div>
 
+</div>
+
+<h2 class="separator-center">Membership Options</h2>
+
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>General Public Rate</h3>
 <p><strong>INDIVIDUAL</strong></p>
