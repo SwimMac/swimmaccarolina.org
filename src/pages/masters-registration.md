@@ -31,7 +31,11 @@ WORKOUT GROUP = SwimMAC</b></p>
 
 </div>
 
+<br>
+
 <h2 class="separator-center">Membership Options</h2>
+
+<div class="flex flex-wrap -mx-4" markdown="1">
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>General Public Rate</h3>
