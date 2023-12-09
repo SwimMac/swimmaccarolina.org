@@ -2,6 +2,8 @@
 layout: pages.njk
 title: Masters Registration and Dues
 ---
+<div class="card p-6 my-4" markdown="1">
+
 <div class="callout warning" markdown="1">
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
@@ -27,6 +29,8 @@ WORKOUT GROUP = SwimMAC</b></p>
 <p><img src="/static/SwimMAC-Masters-Horizontal-Logo.png" alt="SwimMAC Masters Logo" width="255" height="100"></p>
 <p>You will also need to register through our TeamUnify registration website. The annual SwimMAC Masters registration fee is <b>$40</b>, which covers administrative costs and a team t-shirt and cap.</p>
 <p><a class="button" href="https://www.gomotionapp.com/team/ncmac/page/team-registration?reg_id=81600" target="_blank" rel="noopener">Register</a></p>
+</div>
+
 </div>
 
 </div>
