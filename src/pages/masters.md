@@ -49,7 +49,7 @@ Sunday, December 24 (Christmas Eve) - NO PRACTICE
 
 Monday, December 25 (Christmas Day) - NO PRACTICE
 
-Monday, January 1 (New Year's Day) - TBD
+Monday, January 1 (New Year's Day) - 9:00-10:15 AM
 
 </div>
 
