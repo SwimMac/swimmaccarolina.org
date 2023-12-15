@@ -61,7 +61,7 @@ Monthly dues: $105 (50% discount for 2nd member of household)</p>
 <ul>
 
 <li>SwimMAC competitive team alumni
-<li>Parent of current SwimMAC competitive team swimmer (Marlin, Dolphin, Shark, Senior)</li>
+<li>Parent of current SwimMAC competitive team swimmer</li>
 <li>Parent of current Charlotte Latin School student</li>
 </ul>
 <p><strong>INDIVIDUAL</strong></p>
