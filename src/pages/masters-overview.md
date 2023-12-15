@@ -2,15 +2,22 @@
 layout: pages.njk
 title: Masters Overview
 ---
+<h2 class="separator-center">What is Masters swimming?</h2>
+
+<p>The word "Masters" swimmer has nothing to do with your skill level or competency, just your age. Unfortunately, the name can be intimidating to some. The only requirements to be a Masters swimmer are that you must be <b>18-years-old</b> and registered with <a href="http://www.usms.org/reg/" target="_blank" rel="noopener">US Masters Swimming</a>. Nationally, there are over 65,000 registered US Masters swimmers!</p>
+
+<h2 class="separator-center">Why join?</h2>
+
+<p>Everyone in the pool has a story. Everyone's journey is unique. Becoming a Masters swimmers provides a lifelong opportunity to exercise, train, compete, learn, grow, and socialize with others who love the water. No matter what your skill level, there is a place for you in the SwimMAC program. If you're concerned about your swimming abilities and that concern is keeping you from joining our amazing community of swimmers, please contact us for an individualized evaluation of your skill level and a warm welcome. See how it can change your life!</p>
+
+<h2 class="separator-center">A place for everyone</h2>
+
 <div class="flex flex-wrap -mx-4" markdown="1">
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h2>Competitive Swimming</h2>
 <p>
-    The word “Masters” swimmer has nothing to do with your skill level or competency, just your age. Unfortunately, the name can be intimidating to some. The only requirements to be a Masters swimmer are that you must be <strong>18-years-old </strong> and registered with <a href="http://www.usms.org/reg/" target="_blank" rel="noopener">US Masters Swimming</a>. 
-</p>
-<p>
-    Nationally, there are over 65,000 registered US Masters swimmers! We encourage competition (both in a pool and/or open water) but it is not mandatory. We find that once an athlete gets to a comfortable competency, they enjoy the motivational and social aspects of swimming that go along with competition and practice. Masters are split into age groups of five-year blocks beginning with 18-24, 25-29, 30-35, all the way up to 100+. We attend short course yards, short course meters, and long course meters meets throughout the year as a team. We also compete in various open water swims.
+We encourage competition (both in a pool and/or open water) but it is not mandatory. We find that once an athlete gets to a comfortable competency, they enjoy the motivational and social aspects of swimming that go along with competition and practice. Masters are split into age groups of five-year blocks beginning with 18-24, 25-29, 30-35, all the way up to 100+. We attend short course yards, short course meters, and long course meters meets throughout the year as a team. We also compete in various open water swims.
 </p>
 </div>
 
