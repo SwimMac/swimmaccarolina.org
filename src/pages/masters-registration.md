@@ -85,13 +85,14 @@ Monthly dues: $90 (50% discount for 2nd member of household)</p>
 
 </div>
 
+</div>
+
 <div class="card p-6 my-4" markdown="1">
 
 <h2 class="separator-center">Equipment</h2>
 
 <p>Besides a swim suit, goggles, and a swim cap, there are several pieces of training equipment that we may use during practices. You won't need all of this equipment at every workout, but it is a good idea to have on hand a kickboard, pull buoy, paddles, fins, and a snorkel. We do have some gear available in the lost and found bins for you to use during your first visits. If you need to purchase any equipment, check out the Kiefer Aquatics Store at either of our two locations or <a href="https://www.usms.org/admin/lmschb/gto_reg_30daytryout_regform.pdf" target="_blank" rel="noopener"><a href="https://www.kiefer.com/" target="_blank" rel="noopener">online</a>.</p>
 
-</div>
 </div>
 
 </div>
