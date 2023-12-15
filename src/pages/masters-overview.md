@@ -37,14 +37,14 @@ We encourage competition (both in a pool and/or open water) but it is not mandat
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>Fitness</h3>
-<p>Breathing is normally the biggest obstacle for adults who want to learn and enjoy swimming as a form of fitness. Learning to breathe while swimming is about patience and the ability to do many repetitions. Most adults underestimate themselves and their ability. In our program, swimmers will get direction and encouragement from both the coaches and their pool pals. Every SwimMAC Masters practice has 4 ability levels offering different intervals (i.e., rest or distance times) for each set in the workout. We have a place for every swimmer!</p>
+<p>Breathing is normally the biggest obstacle for adults who want to learn and enjoy swimming as a form of fitness. Learning to breathe while swimming is about patience and the ability to do many repetitions. Most adults underestimate themselves and their ability. In our program, swimmers will get direction and encouragement from both the coaches and their pool pals. Every SwimMAC Masters practice offers different rest interval options for each set in the workout. Practices can be modified to fit each swimmer regardless of speed and fitness level.</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>Beginners</h3>
-<p>SwimMAC offers an Adult-Learn-to-Swim (ALTS) program through our Swim School program.</p>
+<p>In order to participate in our Masters program we recommend that swimmers are able to swim at least 2 lengths (50 yards) of freestyle without stopping and preferably 1 length (25 yards) of another stroke (backstroke, breaststroke, or butterfly). For those who need to improve their basic skills as a swimmer or become more comfortable in the water, the SwimMAC Swim School offers an Adult-Learn-to-Swim (ALTS) program.</p>
 
-<p>For more information about Adult lessons please contact us: <br>
+<p>For more information about adult lessons, please contact us: <br>
 <strong>HFFA SITE:</strong> Chandra Barck 704-766-1520 or <a href="mailto:cbarck@swimmaccarolina.org" target="_blank">cbarck@swimmaccarolina.org</a><br>
 <strong>LATIN SITE:</strong> Nicolle Hollmon 980-339-8912 or <a href="mailto:nhollmon@swimmaccarolina.org" target="_blank">nhollmon@swimmaccarolina.org</a>
 </p>
