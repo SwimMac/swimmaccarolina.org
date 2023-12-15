@@ -35,7 +35,7 @@ We encourage competition (both in a pool and/or open water) but it is not mandat
 <h3>Triathlon</h3>
 <p>
     Many of our SwimMAC Masters compete at the national and world levels in sprint and distance triathlons.
-    We have several IRONMAN competitors on our team and find that their dedication and effort brings great value to the entire Masters team.
+    We have several Ironman competitors on our team and find that their dedication and effort brings great value to the entire Masters team.
     Our triathletes also train with triathlon groups and find that the practices and coaching received at SwimMAC Masters greatly benefit their overall results.
     Find out from Jarrod Shoemaker why swimming Masters is a “game-changer.”
 </p>
