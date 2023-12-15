@@ -53,6 +53,8 @@ Monthly dues: $70</p>
 Monthly dues: $105 (50% discount for 2nd member of household)</p>
 <br>
 
+</div>
+
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>SwimMAC/Charlotte Latin Member</h4>
 <p>Same benefits as a general public membership, but at a discounted rate for the following members:</p>
