@@ -42,24 +42,20 @@ WORKOUT GROUP = SwimMAC</b></p>
 <div class="flex flex-wrap -mx-4" markdown="1">
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h4>General Public Rate</h4>
+<h4>General Public</h4>
 
-<p>Membership includes access to all coached practices at either location and unlimited lap swim access at our Charlotte Latin facility.</p>
+<p>Membership includes access to all coached practices at either location and unlimited lap swim access at our Charlotte Latin facility.<br>Dues will automatically process on the 1st of every month and membership can be canceled at any time.</p>
 <p><strong>INDIVIDUAL</strong></p>
-<p>Annual registration fee: $40<br>
+<p>Annual SwimMAC registration fee: $40<br>
 Monthly dues: $70</p>
-<p><strong>INDIVIDUAL + SIGNIFICANT OTHER (50% Dues Discount)</strong></p>
-<p>Annual registration fee: $80<br>
-Monthly dues: $105</p>
+<p><strong>INDIVIDUAL + SIGNIFICANT OTHER</strong></p>
+<p>Annual SwimMAC registration fee: $80<br>
+Monthly dues: $105 (50% discount for 2nd member of household)</p>
 <br>
 
-<h4>Masters Pass</h4>
-<p>SwimMAC also offers a Masters Pass for those who would like an option other than monthly billing. You will still need to register online with USMS and with SwimMAC Masters for $40 (admin costs, shirt & cap). You will be billed $60 for eight (8) practice sessions via our online TeamUnify system. You will receive a Masters Pass from a coach on deck, which you need to bring to the pool each time.</p>
-</div>
-
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h4>SwimMAC Member Discount Rate</h4>
-<p>The following swimmers qualify for the SwimMac Member rate:</p>
+<h4>SwimMAC/Charlotte Latin Member</h4>
+<p>Same benefits as a general public membership, but at a discounted rate for the following members:</p>
 <ul>
 
 <li>SwimMAC competitive team alumni
@@ -67,23 +63,23 @@ Monthly dues: $105</p>
 <li>Parent of current Charlotte Latin School student</li>
 </ul>
 <p><strong>INDIVIDUAL</strong></p>
-<p>Annual registration fee: $40<br>
+<p>Annual SwimMAC registration fee: $40<br>
 Monthly dues: $60</p>
-<p><strong>INDIVIDUAL + SIGNIFICANT OTHER (50% Dues Discount)</strong></p>
-<p>Annual registration fee: $80<br>
-Monthly dues: $90</p>
+<p><strong>INDIVIDUAL + SIGNIFICANT OTHER</strong></p>
+<p>Annual SwimMAC registration fee: $80<br>
+Monthly dues: $90 (50% discount for 2nd member of household)</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>Drop-In Swims</h4>
-<p>SwimMAC Masters is happy to welcome other Masters from around the world! The drop-in fee is $10 per practice. Please bring cash to your drop-in swim OR Venmo Lead Coach Chandler Thomas (@chandler-thomas-11). All swimmers <strong>must</strong> be USMS registered or sign a <a href="https://www.usms.org/admin/lmschb/gto_reg_30daytryout_regform.pdf" target="_blank" rel="noopener">USMS 30-day waiver</a> in order to swim with us.</p>
+<p>SwimMAC Masters is happy to welcome other Masters swimmers from around the world! The drop-in fee is <b>$10 per practice</b>. Please bring cash to your drop-in swim OR Venmo Lead Coach Chandler Thomas (@chandler-thomas-11). All swimmers <b>must</b> be USMS registered or sign a <a href="https://www.usms.org/admin/lmschb/gto_reg_30daytryout_regform.pdf" target="_blank" rel="noopener">USMS 30-day waiver</a> in order to swim with us.</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 
 <h4>Visiting Alumni/College Swimmers</h4>
 
-<p>If you are a current college swimmer who would like to train with the Masters team for the summer, the SwimMAC Masters dues are $150. This includes the entire summer and access to all workout times at either location. You <strong>must</strong> be registered with either USA Swimming or US Masters Swimming in order to participate in the workouts.</p>
+<p>Recent SwimMAC alumni/current college swimmers and their teammates are welcome to attend practices at no cost during fall, winter, and spring breaks. If you would like to train with the SwimMAC Masters team for the entire summer, dues are <b>$150</b> and you will need to register with the team using the button above. You <b>must</b> be registered with either USA Swimming or US Masters Swimming in order to participate in the workouts.</p>
 
 </div>
 </div>
