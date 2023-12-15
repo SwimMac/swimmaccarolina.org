@@ -84,6 +84,14 @@ Monthly dues: $90 (50% discount for 2nd member of household)</p>
 <p>Recent SwimMAC alumni/current college swimmers and their teammates are welcome to attend practices at no cost during fall, winter, and spring breaks. If you would like to train with the SwimMAC Masters team for the entire summer, dues are <b>$150</b> and you will need to register with the team using the button above. You <b>must</b> be registered with either USA Swimming or US Masters Swimming in order to participate in the workouts.</p>
 
 </div>
+
+<div class="card p-6 my-4" markdown="1">
+
+<h2 class="separator-center">Equipment</h2>
+
+<p>Besides a swim suit, goggles, and a swim cap, there are several pieces of training equipment that we may use during practices. You won't need all of this equipment at every workout, but it is a good idea to have on hand a kickboard, pull buoy, paddles, fins, and a snorkel. We do have some gear available in the lost and found bins for you to use during your first visits. If you need to purchase any equipment, check out the Kiefer Aquatics Store at either of our two locations or <a href="https://www.usms.org/admin/lmschb/gto_reg_30daytryout_regform.pdf" target="_blank" rel="noopener"><a href="https://www.kiefer.com/" target="_blank" rel="noopener">online</a>.</p>
+
+</div>
 </div>
 
 </div>
