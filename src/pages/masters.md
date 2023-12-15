@@ -4,11 +4,9 @@ title: Masters Training Schedule
 ---
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
-**All swimmers participating in workouts MUST be USMS members.** 
+**All swimmers participating in workouts MUST be registered USMS members.** 
 
-**As a SwimMAC Master, you have access to ALL workouts at ANY of our locations.**
-
-**Any questions, please contact <a href="mailto:cthomas@swimmaccarolina.org" target="_blank" rel="noopener">masters@swimmaccarolina.org</a>.**
+**As a SwimMAC Master you have access to ALL workouts at ANY of our locations.**
 
 </div>
 
