@@ -26,19 +26,12 @@ title: Masters Overview
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>Competition</h3>
-<p>
-Masters swimming provides many local, national, and international racing opportunities for those who are interested. While competition is not mandatory, we find that our swimmers enjoy the additional motivational and social aspects of competing and training to race. The SwimMAC Masters team includes former collegiate, high school, and club swimmers of all ages that still participate in pool and open water races throughout the year. We even have competitive swimmers who never raced before joining Masters! At swim meets athletes are divided into roughly five-year age groups, ranging from 18-24 all the way up to 100+. We attend short course yards, short course meters, and long course meters meets throughout the year as a team. 
-</p>
+<p>Masters swimming provides many local, national, and international racing opportunities for those who are interested. While competition is not mandatory, we find that our swimmers enjoy the additional motivational and social aspects of competing and training to race. The SwimMAC Masters team includes former collegiate, high school, and club swimmers of all ages that still participate in pool and open water races throughout the year. We even have competitive swimmers who never raced before joining Masters! At swim meets athletes are divided into roughly five-year age groups, ranging from 18-24 all the way up to 100+. We attend short course yards, short course meters, and long course meters meets throughout the year as a team. </p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>Triathlon</h3>
-<p>
-    Many of our SwimMAC Masters compete at the national and world levels in sprint and distance triathlons.
-    We have several Ironman competitors on our team and find that their dedication and effort brings great value to the entire Masters team.
-    Our triathletes also train with triathlon groups and find that the practices and coaching received at SwimMAC Masters greatly benefit their overall results.
-    Find out from Jarrod Shoemaker why swimming Masters is a “game-changer.”
-</p>
+<p>Many of our SwimMAC Masters compete at the national and world levels in sprint and distance triathlons. We have several Ironman competitors on our team and find that their dedication and effort brings great value to the entire Masters team. Our triathletes also train with triathlon groups and find that the practices and coaching received at SwimMAC Masters greatly benefit their overall results. Find out from Jarrod Shoemaker why swimming Masters is a “game-changer.”</p>
 
 <div class="responsive-embed widescreen margin-top-1" markdown="1">
 <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/en1cGWN0L3w?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true"></iframe>
