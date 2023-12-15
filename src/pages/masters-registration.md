@@ -87,6 +87,8 @@ Monthly dues: $90 (50% discount for 2nd member of household)</p>
 
 </div>
 
+</div>
+
 <div class="card p-6 my-4" markdown="1">
 
 <h2 class="separator-center">Equipment</h2>
