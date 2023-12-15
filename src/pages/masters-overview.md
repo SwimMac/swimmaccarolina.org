@@ -10,9 +10,15 @@ title: Masters Overview
 
 </div>
 
+<div class="card p-6 my-4" markdown="1">
+
 <h2 class="separator-center">Why join?</h2>
 
 <p>Everyone in the pool has a story. Everyone's journey is unique. Becoming a Masters swimmer provides a lifelong opportunity to exercise, train, compete, learn, grow, and socialize with others who love the water. No matter what your skill level, there is a place for you in the SwimMAC program. If you're concerned about your swimming abilities and that concern is keeping you from joining our amazing community of swimmers, please contact us for an individualized evaluation of your skill level and a warm welcome. See how it can change your life!</p>
+
+</div>
+
+<div class="card p-6 my-4" markdown="1">
 
 <h2 class="separator-center">A place for everyone</h2>
 
@@ -52,6 +58,8 @@ We encourage competition (both in a pool and/or open water) but it is not mandat
 <strong>HFFA SITE:</strong> Chandra Barck 704-766-1520 or <a href="mailto:cbarck@swimmaccarolina.org" target="_blank">cbarck@swimmaccarolina.org</a><br>
 <strong>LATIN SITE:</strong> Nicolle Hollmon 980-339-8912 or <a href="mailto:nhollmon@swimmaccarolina.org" target="_blank">nhollmon@swimmaccarolina.org</a>
 </p>
+</div>
+
 </div>
 
 </div>
