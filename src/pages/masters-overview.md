@@ -57,11 +57,6 @@ We encourage competition (both in a pool and/or open water) but it is not mandat
 <h2>Why Be Involved in Masters Swimming?</h2>
 <p>Everyone in the pool has a story. Everyone's journey is unique. No matter what your skill level, there is a place for you in the pool. If you are concerned about your swimming abilities and that concern is keeping you from joining our amazing group of swimmers, please contact us for an individualized evaluation of your skill level and a warm welcome! See how it can change your life!</p>
 </div>
-
-<div class="w-full md:w-1/2 p-4" markdown="1">
-<h2>What do I need when I show up on the pool deck?</h2>
-<p>Swim suit, goggles, cap, fins, paddles, pull buoy, snorkel and kickboard. You won't need all of this equipment at every practice. We do have some gear in the lost and found bins for you to try on your first visits. Not sure where to buy swim gear? Head over to the Carolina Swim Shop either online or at one of our two locations.</p>
-</div>
 </div>
 
 <div class="w-full lg:w-2/3 mx-auto" markdown="1">
