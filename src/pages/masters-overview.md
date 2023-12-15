@@ -8,7 +8,7 @@ title: Masters Overview
 
 <h2 class="separator-center">Why join?</h2>
 
-<p>Everyone in the pool has a story. Everyone's journey is unique. Becoming a Masters swimmers provides a lifelong opportunity to exercise, train, compete, learn, grow, and socialize with others who love the water. No matter what your skill level, there is a place for you in the SwimMAC program. If you're concerned about your swimming abilities and that concern is keeping you from joining our amazing community of swimmers, please contact us for an individualized evaluation of your skill level and a warm welcome. See how it can change your life!</p>
+<p>Everyone in the pool has a story. Everyone's journey is unique. Becoming a Masters swimmer provides a lifelong opportunity to exercise, train, compete, learn, grow, and socialize with others who love the water. No matter what your skill level, there is a place for you in the SwimMAC program. If you're concerned about your swimming abilities and that concern is keeping you from joining our amazing community of swimmers, please contact us for an individualized evaluation of your skill level and a warm welcome. See how it can change your life!</p>
 
 <h2 class="separator-center">A place for everyone</h2>
 
