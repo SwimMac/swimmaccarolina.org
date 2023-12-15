@@ -15,14 +15,14 @@ title: Masters Overview
 <div class="flex flex-wrap -mx-4" markdown="1">
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h2>Competitive Swimming</h2>
+<h4>Competition</h4>
 <p>
 We encourage competition (both in a pool and/or open water) but it is not mandatory. We find that once an athlete gets to a comfortable competency, they enjoy the motivational and social aspects of swimming that go along with competition and practice. Masters are split into age groups of five-year blocks beginning with 18-24, 25-29, 30-35, all the way up to 100+. We attend short course yards, short course meters, and long course meters meets throughout the year as a team. We also compete in various open water swims.
 </p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h2>Triathlon Swimming</h2>
+<h4>Triathlon</h4>
 <p>
     Many of our SwimMAC Masters compete at the national and world levels in sprint and distance triathlons.
     We have several IRONMAN competitors on our team and find that their dedication and effort brings great value to the entire Masters team.
@@ -36,13 +36,13 @@ We encourage competition (both in a pool and/or open water) but it is not mandat
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h2>Fitness Swimming</h2>
+<h4>Fitness</h4>
 <p>Breathing is normally the biggest obstacle for adults who want to learn and enjoy swimming as a form of fitness. Learning to breathe while swimming is about patience and the ability to do many repetitions. Most adults underestimate themselves and their ability. In our program, swimmers will get direction and encouragement from both the coaches and their pool pals. Every SwimMAC Masters practice has 4 ability levels offering different intervals (i.e., rest or distance times) for each set in the workout. We have a place for every swimmer!</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
-<h2>Adult-Learn-to-Swim Program (ALTS)</h2>
-<p>SwimMAC offers an Adult-Learn-to-Swim program through our Swim School program.</p>
+<h4>Beginners</h4>
+<p>SwimMAC offers an Adult-Learn-to-Swim (ALTS) program through our Swim School program.</p>
 
 <p>For more information about Adult lessons please contact us: <br>
 <strong>HFFA SITE:</strong> Chandra Barck 704-766-1520 or <a href="mailto:cbarck@swimmaccarolina.org" target="_blank">cbarck@swimmaccarolina.org</a><br>
