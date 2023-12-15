@@ -52,13 +52,6 @@ We encourage competition (both in a pool and/or open water) but it is not mandat
 
 </div>
 
-<div class="flex flex-wrap -mx-4" markdown="1">
-<div class="w-full md:w-1/2 p-4" markdown="1">
-<h2>Why Be Involved in Masters Swimming?</h2>
-<p>Everyone in the pool has a story. Everyone's journey is unique. No matter what your skill level, there is a place for you in the pool. If you are concerned about your swimming abilities and that concern is keeping you from joining our amazing group of swimmers, please contact us for an individualized evaluation of your skill level and a warm welcome! See how it can change your life!</p>
-</div>
-</div>
-
 <div class="w-full lg:w-2/3 mx-auto" markdown="1">
 <div class="responsive-embed widescreen" markdown="1">
 <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/SbZJNvhjC-g?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true"></iframe>
