@@ -37,7 +37,7 @@ We encourage competition (both in a pool and/or open water) but it is not mandat
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>Fitness</h3>
-<p>Breathing is normally the biggest obstacle for adults who want to learn and enjoy swimming as a form of fitness. Learning to breathe while swimming is about patience and the ability to do many repetitions. Most adults underestimate themselves and their ability. In our program, swimmers will get direction and encouragement from both the coaches and their pool pals. Every SwimMAC Masters practice offers different rest interval options for each set in the workout. Practices can be modified to fit each swimmer regardless of speed and fitness level.</p>
+<p>Breathing is normally the biggest obstacle for adults who want to learn and enjoy swimming as a form of fitness. Learning to breathe while swimming is about patience and repetition. Most adults underestimate themselves and their ability. In our program, swimmers will get direction and encouragement from both the coaches and their pool pals. Every SwimMAC Masters practice offers different rest interval options for each set in the workout. Practices can be modified to fit each swimmer regardless of speed and fitness level.</p>
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
