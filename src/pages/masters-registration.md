@@ -44,7 +44,9 @@ WORKOUT GROUP = SwimMAC</b></p>
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>General Public</h4>
 
-<p>Membership includes access to all coached practices at either location and unlimited lap swim access at our Charlotte Latin facility.<br>Dues will automatically process on the 1st of every month and membership can be paused or canceled at any time.</p>
+<p>Membership includes access to all coached practices at either location and unlimited lap swim access at our Charlotte Latin facility.</p>
+
+<p>Dues will automatically process on the 1st of every month and membership can be paused or canceled at any time.</p>
 <p><strong>INDIVIDUAL</strong></p>
 <p>Annual SwimMAC registration fee: $40<br>
 Monthly dues: $70</p>
