@@ -2,9 +2,13 @@
 layout: pages.njk
 title: Masters Overview
 ---
+<div class="card p-6 my-4" markdown="1">
+
 <h2 class="separator-center">What is Masters swimming?</h2>
 
 <p>The word "Masters" has nothing to do with your skill level or competency, just your age. Unfortunately, the name can be intimidating to some. The only requirements to be a Masters swimmer are that you must be <b>18-years-old</b> and registered with <a href="http://www.usms.org/reg/" target="_blank" rel="noopener">US Masters Swimming</a>. Nationally, there are over 65,000 registered US Masters swimmers!</p>
+
+</div>
 
 <h2 class="separator-center">Why join?</h2>
 
