@@ -27,7 +27,7 @@ title: Masters Overview
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>Competition</h3>
 <p>
-We encourage competition (both in a pool and/or open water) but it is not mandatory. We find that once an athlete gets to a comfortable competency, they enjoy the motivational and social aspects of swimming that go along with competition and practice. Masters are split into age groups of five-year blocks beginning with 18-24, 25-29, 30-35, all the way up to 100+. We attend short course yards, short course meters, and long course meters meets throughout the year as a team. We also compete in various open water swims.
+Masters swimming provides many local, national, and international racing opportunities for those who are interested. While competition is not mandatory, we find that our swimmers enjoy the additional motivational and social aspects of competing and training to race. The SwimMAC Masters team includes former collegiate, high school, and club swimmers of all ages that still participate in pool and open water races throughout the year. We even have competitive swimmers who never raced before joining Masters! At swim meets athletes are divided into roughly five-year age groups, ranging from 18-24 all the way up to 100+. We attend short course yards, short course meters, and long course meters meets throughout the year as a team. 
 </p>
 </div>
 
