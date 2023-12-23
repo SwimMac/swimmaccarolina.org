@@ -16,12 +16,6 @@ title : Masters
             {{ title }}
         </p>
 
-        <p class="lead">
-            The SwimMAC Masters & Adult Fitness program welcomes people of any ability level.
-            We have four basic categories of Masters swimmers: Adult-Learn-to Swim Program (ALTS) participants,
-            Competitive Swimmers (Open Water & Swim Meets), Triathlon Swimmers, and Fitness Swimmers.
-        </p>
-
         <div class="flex flex-wrap justify-center md:space-x-4 mt-6">
             <button class="button w-full md:w-auto mb-6" :class="{'ghost': tab !== 'overview'}" @click.prevent="tab = 'overview'">Overview</button>
             <button class="button w-full md:w-auto mb-6" :class="{'ghost': tab !== 'training'}" @click.prevent="tab = 'training'">Training Schedule</button>
@@ -51,7 +45,6 @@ title : Masters
         </div>
 
         <div class="card p-4" x-show="tab === 'registration'">
-            <h2 class="margin-top-2">Registration &amp; Dues</h2>
 
             {% for content in pages %}
             {% if content.data.title === "Masters Registration and Dues" %}
