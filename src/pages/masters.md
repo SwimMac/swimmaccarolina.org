@@ -83,14 +83,6 @@ Monday, January 1 (New Year's Day) - 9:00-10:15 AM
 
 <ul>
 
-<li>Wednesday, Dec 20 - 12:15-1:30 PM (SCY)
-
-<li>Thursday, Dec 21 - 5:15-6:30 AM (SCY) (NO 8:30 PRACTICE)
-
-<li>Friday, Dec 22 - 12:15-1:30 PM (SCY)
-
-<li>Saturday, Dec 23 - 5:30-6:45 AM (SCY)
-
 <li>Sunday, Dec 24 (Christmas Eve) - NO PRACTICE
 
 <li>Monday, Dec 25 (Christmas Day) - NO PRACTICE
