@@ -83,29 +83,29 @@ title: Masters Training Schedule
 
 <div class="bg-gray-100 p-6 my-6 text-left" markdown="1">
 
-<span style="text-decoration: underline;"><strong>2023 Latin Holiday Schedule:</strong></span>
+<span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
 <ul>
 
-<li>Sunday, Dec 24 (Christmas Eve) - NO PRACTICE
+<li>Friday, December 29 - 12:45-2:00 PM (LCM)
 
-<li>Monday, Dec 25 (Christmas Day) - NO PRACTICE
+<li>Sunday, December 31 (New Year's Eve) - 5:30-6:45 AM (SCY)
 
-<li>Tuesday, Dec 26 - 5:15-6:30 AM (SCY) & 12:15-1:30 PM (LCM)
+<li>Monday, January 1 (New Year's Day) - 10:00-12:30 PM (LCM)
 
-<li>Wednesday, Dec 27 - 12:45-2:00 PM (LCM)
+<li>Tuesday, January 2 - 5:15-6:30 AM (LCM); NO 8:30 PRACTICE
 
-<li>Thursday, Dec 28 - 5:15-6:30 AM (LCM)
+<li>Sunday, January 14 - 5:30-6:45 AM
 
-<li>Friday, Dec 29 - 12:45-2:00 PM (LCM)
+<li>Monday, January 15 - NO PRACTICE
 
-<li>Saturday, Dec 30 - 5:30-6:45 AM (LCM)
+<li>Wednesday, January 17 - 8:30-9:45 AM & 12:15-1:30 PM
 
-<li>Sunday, Dec 31 (New Year's Eve) - 5:30-6:45 AM (SCY)
+<li>Thursday, January 18 - NO 8:30 PRACTICE (Moved to Wednesday)
 
-<li>Monday, Jan 1 (New Year's Day) - 10:00-12:30 PM (LCM)
+<li>Saturday, January 20 - NO PRACTICE (Sunbelt Meet)
 
-<li>Tuesday, Jan 2 - 5:15-6:30 AM (LCM)
+<li>Sunday, January 21 - NO PRACTICE (Sunbelt Meet)
 
 </ul>
 
