@@ -41,11 +41,15 @@ title: Masters Training Schedule
 
 <span style="text-decoration: underline;"><strong>Exceptions to HFFA Schedule:</strong></span>
 
-Sunday, December 24 (Christmas Eve) - NO PRACTICE
+<ul>
 
-Monday, December 25 (Christmas Day) - NO PRACTICE
+<li>Monday, January 1 (New Year's Day) - 9:00-10:15 AM
 
-Monday, January 1 (New Year's Day) - 9:00-10:15 AM
+<li>Sunday, January 7 - NO PRACTICE
+
+<li>Sunday, January 21 - NO PRACTICE (Sunbelt Meet)
+
+</ul>
 
 </div>
 
