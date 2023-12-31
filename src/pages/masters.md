@@ -43,7 +43,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Monday, January 1 (New Year's Day) - 9:00-10:15 AM
+<li>Monday, January 1 (New Year's Day) - 9:00-10:15 AM (SCY)
 
 <li>Sunday, January 7 - NO PRACTICE
 
@@ -86,10 +86,6 @@ title: Masters Training Schedule
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
 <ul>
-
-<li>Friday, December 29 - 12:45-2:00 PM (LCM)
-
-<li>Sunday, December 31 (New Year's Eve) - 5:30-6:45 AM (SCY)
 
 <li>Monday, January 1 (New Year's Day) - 10:00-12:30 PM (LCM)
 
