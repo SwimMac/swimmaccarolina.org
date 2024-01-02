@@ -43,11 +43,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Monday, January 1 (New Year's Day) - 9:00-10:15 AM (SCY)
-
 <li>Sunday, January 7 - NO PRACTICE
-
-<li>Sunday, January 21 - NO PRACTICE (Sunbelt Meet)
 
 </ul>
 
@@ -86,10 +82,6 @@ title: Masters Training Schedule
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
 <ul>
-
-<li>Monday, January 1 (New Year's Day) - 10:00-12:30 PM (LCM)
-
-<li>Tuesday, January 2 - 5:15-6:30 AM (LCM); NO 8:30 PRACTICE
 
 <li>Sunday, January 14 - 5:30-6:45 AM
 
