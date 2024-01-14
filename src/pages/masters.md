@@ -81,8 +81,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Tuesday, January 9 - NO 8:30 PRACTICE (Moved to Wednesday 1/10)
-
 <li>Sunday, January 14 - 5:30-6:45 AM
 
 <li>Monday, January 15 - NO PRACTICE
