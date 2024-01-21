@@ -81,18 +81,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, January 14 - 5:30-6:45 AM
-
-<li>Monday, January 15 - NO PRACTICE
-
-<li>Wednesday, January 17 - 8:30-9:45 AM & 12:15-1:30 PM
-
-<li>Thursday, January 18 - NO 8:30 PRACTICE (Moved to Wednesday 1/17)
-
-<li>Saturday, January 20 - NO PRACTICE (Sunbelt Meet)
-
-<li>Sunday, January 21 - NO PRACTICE (Sunbelt Meet)
-
 </ul>
 
 </div>
