@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Kim DeCann
-jobTitle: North Senior 3 Lead, Meet Manager
+jobTitle: Competitive Team Manager, North Senior 3 Lead
 email: kdecann
 department:
   - competitive-team-coaches
