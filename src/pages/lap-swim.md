@@ -16,7 +16,7 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-<b></b>
+<b>Monday, Feb 19 - 9:00am-12:00pm</b>
 
 </div>
 
