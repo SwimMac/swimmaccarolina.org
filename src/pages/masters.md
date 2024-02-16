@@ -43,6 +43,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Sunday, March 3 - NO PRACTICE
+
 </ul>
 
 </div>
