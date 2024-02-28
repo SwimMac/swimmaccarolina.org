@@ -83,6 +83,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Sunday, March 24 - 6:00-7:15 AM
+
 </ul>
 
 </div>
