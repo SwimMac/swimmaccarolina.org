@@ -45,6 +45,8 @@ title: Masters Training Schedule
 
 <li>Sunday, March 3 - NO PRACTICE
 
+<li>Sunday, March 31 (Easter) - NO PRACTICE
+
 </ul>
 
 </div>
@@ -84,6 +86,8 @@ title: Masters Training Schedule
 <ul>
 
 <li>Sunday, March 24 - 6:00-7:15 AM
+
+<li>Sunday, March 31 (Easter) - NO PRACTICE
 
 </ul>
 
