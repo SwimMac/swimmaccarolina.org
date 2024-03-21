@@ -16,7 +16,13 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-<b>Friday, March 29 - Friday, April 5 - 9:00am - 12:00pm (Pool will be set up for long course during this week)</b>
+<b>Friday, March 29 - NO LAP SWIM
+
+Monday, April 1 - 7:00-9:00am
+
+Tuesday, April 2 - Friday, April 5 - 9:00am - 12:00pm 
+
+(Pool will be set up for long course during this week)</b>
 
 </div>
 
