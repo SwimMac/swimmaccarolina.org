@@ -18,11 +18,11 @@ title: Lap Swim
 
 <b>Friday, March 29 - NO LAP SWIM
 
-Monday, April 1 - 7:00-9:00am
+<b>Monday, April 1 - 7:00-9:00am
 
-Tuesday, April 2 - Friday, April 5 - 9:00am - 12:00pm 
+<b>Tuesday, April 2 - Friday, April 5 - 9:00am - 12:00pm 
 
-(Pool will be set up for long course during this week)</b>
+<b>(Pool will be set up for long course during this week)</b>
 
 </div>
 
