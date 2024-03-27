@@ -17,7 +17,7 @@ title: Masters Training Schedule
 
 <p>Huntersville Family Fitness & Aquatics (HFFA)<br>11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-<span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE</strong></span>
+<span style="text-decoration: underline;"><strong>SPRING SCHEDULE</strong></span>
 
 <ul>
 
@@ -57,7 +57,7 @@ title: Masters Training Schedule
 
 <p>SwimMAC Training Facility at Charlotte Latin School<br>9850 Providence Road, Charlotte, NC 28277</p>
 
-<span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE</strong></span>
+<span style="text-decoration: underline;"><strong>SPRING SCHEDULE</strong></span>
 
 <ul>
 
@@ -83,8 +83,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, March 24 - 6:00-7:15 AM
-
 <li>Friday, March 29 - 9:00-10:15 AM (Normal 12:15)
 
 <li>Sunday, March 31 (Easter) - NO PRACTICE
@@ -94,6 +92,8 @@ title: Masters Training Schedule
 <li>Thursday, April 4 - 9:00-10:15 AM (Normal 5:15)
 
 <li>Friday, April 5 - 9:00-10:15 AM (Normal 12:15)
+
+<li>Sunday, April 14 - 6:00-7:15 AM
 
 </ul>
 
