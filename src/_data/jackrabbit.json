@@ -59,14 +59,6 @@
         "adult": true
       },
       {
-        "session": "2024 South Summer Session 4",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adult": true
-      },
-      {
         "session": "2024 South Summer Session 4 - 3 Day Session",
         "minimac": false,
         "preschool": true,
@@ -84,14 +76,6 @@
       },
       {
         "session": "2024 South Summer Session 6",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adult": true
-      },
-      {
-        "session": "2024 South Summer Session 7",
         "minimac": false,
         "preschool": true,
         "gradeschool": true,
