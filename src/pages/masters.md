@@ -55,7 +55,7 @@ title: Masters Training Schedule
 
 <p>SwimMAC Training Facility at Charlotte Latin School<br>9850 Providence Road, Charlotte, NC 28277</p>
 
-<span style="text-decoration: underline;"><strong>SPRING SCHEDULE</strong></span>
+<span style="text-decoration: underline;"><strong>SPRING SCHEDULE (THROUGH 6/9)</strong></span>
 
 <ul>
 
@@ -67,11 +67,11 @@ title: Masters Training Schedule
 
 <li>Thursday - 5:15-6:30 AM & 8:30-9:45 AM
 
-<li>Friday - 8:30-9:45 AM & 12:15-1:30 PM
+<li>Friday - 8:30-9:45 AM (LCM) & 12:15-1:30 PM (LCM)
 
-<li>Saturday - 5:30-6:45 AM
+<li>Saturday - 5:30-6:45 AM (LCM)
 
-<li>Sunday - 7:15-8:30 AM
+<li>Sunday - 7:15-8:30 AM (LCM)
 
 </ul>
 
@@ -80,6 +80,8 @@ title: Masters Training Schedule
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
 <ul>
+
+<li>Saturday, May 4 - 5:00-6:15 AM (10 lanes until 5:30, then 6 lanes)
 
 <li>Sunday, May 5 - 6:15-7:30 AM
 
