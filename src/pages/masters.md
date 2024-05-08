@@ -81,11 +81,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Tuesday, April 30 - ALL PRACTICES CANCELED (Maintenance)
-
-<li>Saturday, May 4 - 5:00-6:15 AM (10 lanes until 5:30, then 6 lanes)
-
-<li>Sunday, May 5 - 6:15-7:30 AM
+<li>Monday, May 27 (Memorial Day) - 1:00-2:15 PM
 
 </ul>
 
