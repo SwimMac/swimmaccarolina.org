@@ -113,12 +113,18 @@
     "sessions": [
       {
         "session": "Spring 2024 Teen Fit Session 4"
+      },
+      {
+        "session": "Summer 2024 Teen Fit Session 5"
       }
     ]
   },
   "jslNorth": {
     "orgId": "541680",
     "sessions": [
+      {
+        "session": "Summer 2024 JSL Session 5"
+      },
       {
         "session": "Spring 2024 JSL Session 4"
       }
