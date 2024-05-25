@@ -2,7 +2,6 @@
   "north": {
     "orgId": "524744",
     "sessions": [
-      "23/24 School Year (Sept-June)",
       "2024 HFFA Summer Saturday Only",
       "2024 HFFA Summer 1",
       "2024 HFFA Summer 2",
@@ -18,14 +17,6 @@
   "south": {
     "orgId": "524998",
     "sessions": [
-      {
-        "session": "23/24 School Year (Sept-June)",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adult": true
-      },
       {
         "session": "2024 South Summer Saturday Only Session",
         "minimac": false,
