@@ -5,7 +5,7 @@ title: Lap Swim
 <div class="card p-6 my-4" markdown="1">
 
 <h5>
-<p>SwimMAC Carolina offers public lap swim hours at our Charlotte Latin facility during the school year (Labor Day through Memorial Day).</p>
+<p>SwimMAC Carolina offers public lap swim hours at our Charlotte Latin facility during the school year (September through May).</p>
 
 <p>Open swim hours are available Monday-Friday, from 7:00am until 12:00pm*. ALL swimmers are required to see the lifeguard on duty and sign in prior to swimming.</p>
 
@@ -15,8 +15,6 @@ title: Lap Swim
 <div class="bg-gray-100 p-6 my-6 text-center" markdown="1">
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
-
-<b>Monday, May 27 (Memorial Day) - NO LAP SWIM</b>
 
 <b>Friday, May 31 will be the last day of lap swim until September</b>
 
