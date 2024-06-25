@@ -43,6 +43,10 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Sunday, June 30 - NO PRACTICE
+
+<li>Thursday, July 4 - NO PRACTICE
+
 </ul>
 
 </div>
@@ -54,8 +58,6 @@ title: Masters Training Schedule
 ### SOUTH/LATIN SITE
 
 <p>SwimMAC Training Facility at Charlotte Latin School<br>9850 Providence Road, Charlotte, NC 28277</p>
-
-
 
 <span style="text-decoration: underline;"><strong>SUMMER SCHEDULE</strong></span>
 
