@@ -87,6 +87,10 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Sunday, July 14 - 6:00-7:15 AM
+
+<li>Sunday, July 28 - 5:30-6:45 AM
+
 </ul>
 
 </div>
