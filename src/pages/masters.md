@@ -43,11 +43,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, June 30 - NO PRACTICE
-
-<li>Thursday, July 4 - NO PRACTICE
-
-</ul>
+<li>Sunday, July 21 - NO PRACTICE</ul>
 
 </div>
 
