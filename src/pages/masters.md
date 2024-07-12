@@ -87,6 +87,8 @@ title: Masters Training Schedule
 
 <li>Sunday, July 28 - 5:30-6:45 AM
 
+<li>Sunday, August 11 - Saturday, August 17 - NO PRACTICE
+
 </ul>
 
 </div>
