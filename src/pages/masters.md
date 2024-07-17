@@ -43,7 +43,11 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, July 21 - NO PRACTICE</ul>
+<li>Sunday, July 21 - NO PRACTICE
+
+<li>Sunday, July 28 - Sunday, August 25 (Tentative) - NO PRACTICE (Pool Maintenance)
+
+</ul>
 
 </div>
 
