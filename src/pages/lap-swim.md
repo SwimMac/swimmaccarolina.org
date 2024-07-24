@@ -16,7 +16,7 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-<b>Friday, May 31 will be the last day of lap swim until September</b>
+<b>Lap swim will resume on Tuesday, September 3</b>
 
 </div>
 
