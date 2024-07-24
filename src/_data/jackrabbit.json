@@ -11,14 +11,6 @@
     "orgId": "524998",
     "sessions": [
       {
-        "session": "24/25 School Year (Sept-June)",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adult": true
-      },
-      {
         "session": "2024 South Summer Session 8",
         "minimac": false,
         "preschool": true,
@@ -28,6 +20,14 @@
       },
       {
         "session": "2024 South Summer Session 9",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
+      },
+      {
+        "session": "24/25 School Year (Sept-June)",
         "minimac": false,
         "preschool": true,
         "gradeschool": true,
