@@ -6,8 +6,17 @@ name: Home
 
 <main id="main" class="bg-gray-100">
 
-    <div class="bg-black">
-        <img src="/static/banners/olympic-trials.jpg" alt="Good Luck to Our Olympic Trials Qualifiers!" />
+    <div class="hero hero--home">
+        <div class="container p-6 z-10 text-center text-white text-shadow">
+            <h1 class="font-bold text-white">Build Lifelong Experiences</h1>
+            <p class="my-4 text-xl">
+                Create friendships and develop skills guided by mentors and coaches you trust.
+            </p>
+        </div>
+
+        <video autoplay id="bgvid" loop muted playsinline poster="/static/video/home-page-poster.jpg">
+            <source src="/static/video/home-page-video.mp4" type="video/mp4">
+        </video>
     </div>
 
     <div class="container py-6 text-center">
@@ -129,22 +138,7 @@ name: Home
         </div>
 
         <div class="flex flex-wrap my-6 lg:-mx-6">
-            <div class="w-full mb-4 lg:w-1/3 lg:px-6">
-                <a href="/adult-programs/mac-fit/" class="card h-full overflow-hidden">
-                    <div class="w-full">
-                        <img src="/static/cards/mac-fit.jpg" alt="Mac-Fit swimmer" class="w-full">
-                        <div class="p-4">
-                            <h2 class="text-xl text-center mb-2">Mac Fit</h2>
-                            <p>
-						        These classes are geared toward those looking for low impact or supplemental fitness classes.
-                                Programs are centered on low impact fitness activities.
-                            </p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-
-            <div class="w-full mb-4 lg:w-1/3 lg:px-6">
+            <div class="w-full mb-4 lg:w-1/2 lg:px-6">
                 <a href="/adult-programs/adult-group-lessons/" class="card h-full overflow-hidden">
                     <div class="w-full">
                         <img src="/static/cards/pool-tiles.jpg" alt="Swimming Pool" class="w-full">
@@ -159,7 +153,7 @@ name: Home
                 </a>
             </div>
 
-            <div class="w-full mb-4 lg:w-1/3 lg:px-6">
+            <div class="w-full mb-4 lg:w-1/2 lg:px-6">
                 <a href="/adult-programs/masters/" class="card h-full overflow-hidden">
                     <div class="w-full">
                         <img src="/static/cards/masters.jpg" alt="Masters swimmer" class="w-full">
