@@ -87,6 +87,8 @@ title: Masters Training Schedule
 
 <li>Sunday, August 11 - Saturday, August 17 - NO PRACTICE
 
+<li>Sunday, August 18 - PRACTICE CANCELED
+
 </ul>
 
 </div>
