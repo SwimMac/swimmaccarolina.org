@@ -4,6 +4,7 @@ title : Homeschool - North
 coach:
     name: Ali Sensintaffar
     email: asensintaffar@swimmaccarolina.org
+    phone: (980) 850-9391
 ---
 
 <main id="main" class="bg-gray-100 overflow-hidden">
@@ -23,8 +24,7 @@ coach:
            Convenient for families of multiple swimmers! Fulfills PE requirements.
         </p>
 
-        <div class="card p-4">
-
+        <div class="card p-4 mb-4">
             <h2>Excellent Program for swimmers who want to:</h2>
 
             <ul>
@@ -34,7 +34,43 @@ coach:
                 <li>Improve Strength/Agility in a non-impact/aerobic conditioning program</li>
                 <li>Learn fundamental racing technique for competitive swimming or triathlons</li>
             </ul>
+        </div>
 
+        <div class="card p-4 mb-4">
+            <div class="flex flex-wrap -mx-4">
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>Structure</h2>
+
+                    <ul>
+                        <li>Classes are 30 minutes-1 hour long depending on the level</li>
+                        <li>Classes are offered twice a week during the school year</li>
+                        <li>Classes are charged on a monthly basis and automatically charged to your card on file the first of the month.</li>
+                    </ul>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>Pricing</h2>
+                    <ul>
+                        <li>Annual (September-August) Registration Fees (includes swim cap and t-shirt)
+                            <ul class="list-none">
+                                <li>$32 for first swimmer</li>
+                                <li>$26 for second swimmer</li>
+                                <li>$22 for third swimmer</li>
+                                <li>Free for fourth+ swimmer</li>
+                            </ul>
+                        </li>
+                        <li>Base Tuition Price
+                            <ul class="list-none">
+                                <li>$72.50 per month (for a normal four-week month)</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="card p-4 mb-4">
             <div class="flex flex-wrap -mx-4">
                 <div class="w-full md:w-1/3 p-4">
                     <h2 class="separator-left">Beginner 1/2/3</h2>
@@ -56,7 +92,7 @@ coach:
                         <li>Swim 25 yards freestyle with bilateral breathing and body rotation</li>
                         <li>Swim 25 yards backstroke with body rotation</li>
                         <li>Swim 25 yards breaststroke with legal kick</li>
-                        <li>Complete 25 yards of dolphin roll (butterfly kick, body motion)</li>
+                        <li>Complete 25 yards of butterfly</li>
                     </ul>
                </div>
 
@@ -75,9 +111,11 @@ coach:
             </div>
         </div>
 
-         <div class="card p-4 mt-4">
+         <div class="card p-4">
             <div class="text-right">
-                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=541680" class="button button--small mb-3" target="_blank">Portal Login</a>
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=541680" class="button button--small mb-3" target="_blank">
+                Portal Login
+                </a>
             </div>
 
             <h3 class="separator-center">Bridge Program Clinics Calendar</h3>
@@ -91,7 +129,7 @@ coach:
         </div>
 
         <div class="card p-4 mt-4">
-          {% coachContact coach.name, coach.email %}
+          {% coachContact coach.name, coach.email, coach.phone %}
         </div>
 
         <div class="container card p-4 my-6">

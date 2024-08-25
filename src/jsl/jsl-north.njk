@@ -4,6 +4,7 @@ title : Junior Swim League (JSL) - North
 coach:
     name: Ali Sensintaffar
     email: asensintaffar@swimmaccarolina.org
+    phone: (980) 850-9391
 ---
 
 <main id="main" class="bg-gray-100  overflow-hidden">
@@ -18,9 +19,12 @@ coach:
         </p>
 
         <p class="lead">
-            For swimmers ages 6-12 who can swim one length (25 yards) Freestyle and Backstroke and have some knowledge of Butterfly
-            and Breaststroke. Advanced JSL is by coach recommendation only. This group is for swimmers who are looking for a more
-            challenging program and can complete one length of all four strokes.
+            Junior Swim League (JSL) is for swimmers ages 6-12 who are looking to improve their technique and take their swimming
+            to the next level before joining competitive swimming. Swimmers must be able to complete 25 yards (one length) of
+            freestyle with proper head and body position and side breathing, 25 yards backstroke with proper head and body position,
+            and have knowledge of breaststroke (with legal breaststroke kick) and knowledge of butterfly in order to be considered for JSL.
+            All new participants must complete an evaluation prior to joining.
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSckvg72MxxeObKc-SnV0juRTyleWVAFFz41lcHZOCVy-e31mg/viewform" target="_blank">Please fill out this form to sign up for an evaluation</a>.
         </p>
 
         <div class="card p-4">
@@ -29,20 +33,47 @@ coach:
                    <h2>Overview</h2>
 
                     <ul>
-                        <li>For ages 6–12</li>
+                        <li>For ages 6-12</li>
                         <li>Taught by trained SwimMAC coaches</li>
                         <li>Fosters teamwork and sportsmanship</li>
-                        <li>For swimmers who can Swim one pool length (25 yards) of Free and Back and swim Breast or Fly with some proficiency</li>
+
+                        <li>Minimum skill requirements
+                            <ul>
+                                <li>25 freestyle with proper head and body position and side breathing</li>
+                                <li>25 backstroke with proper head and body position</li>
+                                <li>Knowledge of breaststroke with legal breaststroke kick</li>
+                                <li>Knowledge of butterfly</li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
 
                 <div class="w-full md:w-1/2 p-4">
                     <h2>Structure</h2>
                     <ul>
-                        <li>Evaluations are held the months of June, July, and August and throughout the year by appointment</li>
-                        <li>Classes held twice per week for 30–45 minutes</li>
-                        <li>Length of session varies per location</li>
-                        <li>Choose from early afternoons, evenings, weekdays, and weekends</li>
+                        <li>Evaluations are held intermittently throughout the year.
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSckvg72MxxeObKc-SnV0juRTyleWVAFFz41lcHZOCVy-e31mg/viewform?usp=sf_link" class="button" target="_blank">Sign up for an evaluation</a>
+                        </li>
+                        <li>Classes are 45 minutes long and 1-2 times a week depending on the level</li>
+                    </ul>
+               </div>
+
+               <div class="w-full p-4">
+                    <h2>Pricing</h2>
+                    <ul>
+                        <li>Annual (September-August) Registration Fees (includes swim cap and t-shirt)
+                            <ul class="list-none">
+                                <li>$32 for first swimmer</li>
+                                <li>$26 for second swimmer</li>
+                                <li>$22 for third swimmer</li>
+                                <li>Free for fourth+ swimmer</li>
+                            </ul>
+                        </li>
+                        <li>Base Tuition Price
+                            <ul class="list-none">
+                                <li>$23 per class</li>
+                            </ul>
+                        </li>
                     </ul>
                </div>
             </div>
@@ -75,7 +106,7 @@ coach:
         </div>
 
         <div class="card p-4 mt-4">
-            {% coachContact coach.name, coach.email %}
+            {% coachContact coach.name, coach.email, coach.phone %}
         </div>
 
         <div class="card p-4 my-6">

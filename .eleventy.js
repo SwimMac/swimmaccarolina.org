@@ -59,11 +59,12 @@ module.exports = function (eleventyConfig) {
      </div>`;
     });
 
-    eleventyConfig.addShortcode('coachContact', function (coachName, coachEmail ) {
+    eleventyConfig.addShortcode('coachContact', function (coachName, coachEmail, coachPhone) {
         return `<div class="text-center">
             <h2 class="separator-center">Questions?</h2>
             <h4>${coachName}</h4>
-            <p><a href="mailto:${coachEmail}">${coachEmail}</a></p>
+            <p class="mb-1"><a href="mailto:${coachEmail}">${coachEmail}</a></p>
+            ${coachPhone ? `<p class="mb-1">${coachPhone}</p>` : ''}
         </div>`;
     });
 
