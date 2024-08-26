@@ -17,7 +17,7 @@ title: Masters Training Schedule
 
 <p>Huntersville Family Fitness & Aquatics (HFFA)<br>11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-<span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE</strong></span>
+<span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE (Resumes 10/1)</strong></span>
 
 <ul>
 
@@ -43,7 +43,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, July 28 - Sunday, August 25 (Tentative) - NO PRACTICE (Pool Maintenance)
+<li>NOTE: HFFA pool is currently closed for renovations and scheduled to reopen on Monday, October 1
 
 </ul>
 
@@ -84,10 +84,6 @@ title: Masters Training Schedule
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
 <ul>
-
-<li>Sunday, August 11 - Saturday, August 17 - NO PRACTICE
-
-<li>Sunday, August 18 - PRACTICE CANCELED
 
 </ul>
 
