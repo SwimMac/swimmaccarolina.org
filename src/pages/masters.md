@@ -43,7 +43,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>NOTE: HFFA pool is currently closed for renovations and scheduled to reopen on Monday, October 1
+<li>NOTE: HFFA pool is currently closed for renovations and scheduled to reopen on October 1
 
 </ul>
 
