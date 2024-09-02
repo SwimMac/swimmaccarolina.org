@@ -63,13 +63,13 @@ title: Masters Training Schedule
 
 <li>Monday - 12:15-1:30 PM
 
-<li>Tuesday - 5:15-6:30 AM & 8:30-9:45 AM*
+<li>Tuesday - 5:15-6:30 AM & 8:30-9:45 AM
 
 <li>Wednesday - 12:15-1:30 PM
 
-<li>Thursday - 5:15-6:30 AM & 8:30-9:45 AM*
+<li>Thursday - 5:15-6:30 AM & 8:30-9:45 AM
 
-<li>Friday - 8:30-9:45 AM* & 12:15-1:30 PM
+<li>Friday - 8:30-9:45 AM & 12:15-1:30 PM
 
 <li>Saturday - 5:30-6:45 AM
 
@@ -77,13 +77,13 @@ title: Masters Training Schedule
 
 </ul>
 
-*\*8:30 practices resume on 9/3*
-
 <div class="bg-gray-100 p-6 my-6 text-left" markdown="1">
 
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
 <ul>
+
+<li>Sunday, September 29 - 6:00-7:15am (Swim Meet)
 
 </ul>
 
