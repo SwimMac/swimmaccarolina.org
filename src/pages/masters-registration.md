@@ -53,8 +53,6 @@ Monthly dues: $70</p>
 <p><strong>INDIVIDUAL + SIGNIFICANT OTHER</strong></p>
 <p>Annual SwimMAC registration fee: $80<br>
 Monthly dues: $105 (50% discount for 2nd member of household)</p>
-<br>
-
 </div>
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
