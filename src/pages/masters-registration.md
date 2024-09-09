@@ -13,7 +13,7 @@ If you would like to join or still have questions, please email Chandler and inc
 
 </div>
 
-<h2 class="separator-center">Registration Process</h2>
+<h2 class="separator-center">Annual Registration</h2>
 
 <div class="flex flex-wrap -mx-4" markdown="1">
 <div class="w-full md:w-1/2 p-4" markdown="1">
@@ -37,7 +37,7 @@ WORKOUT GROUP = SwimMAC</b></p>
 
 <div class="card p-6 my-4" markdown="1">
 
-<h2 class="separator-center">Membership Options</h2>
+<h2 class="separator-center">Monthly Membership Options</h2>
 
 <div class="flex flex-wrap -mx-4" markdown="1">
 
@@ -73,6 +73,16 @@ Monthly dues: $60</p>
 <p>Annual SwimMAC registration fee: $80<br>
 Monthly dues: $90 (50% discount for 2nd member of household)</p>
 </div>
+
+</div>
+
+</div>
+
+<div class="card p-6 my-4" markdown="1">
+
+<h2 class="separator-center">Visitors</h2>
+
+<div class="flex flex-wrap -mx-4" markdown="1">
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>Drop-In Swims</h4>
