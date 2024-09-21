@@ -16,7 +16,7 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-<b>Lap swim will resume on Tuesday, September 3</b>
+<b></b>
 
 </div>
 
