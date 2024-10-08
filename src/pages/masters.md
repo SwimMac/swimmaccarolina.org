@@ -43,9 +43,9 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>NOTE: Practice schedule will resume on Monday, September 30
-
 <li>Sunday, October 20 - NO PRACTICE
+
+<li>Sunday, October 27 - NO PRACTICE
 
 </ul>
 
@@ -84,8 +84,6 @@ title: Masters Training Schedule
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
 <ul>
-
-<li>Sunday, September 29 - 6:00-7:15am (Swim Meet)
 
 </ul>
 
