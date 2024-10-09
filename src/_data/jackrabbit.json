@@ -26,9 +26,6 @@
       },
       {
         "session": "Fall 2024 Teen Fit Session 2"
-      },
-      {
-        "session": "Fall 2024 Teen Fit Session 1"
       }
     ]
   },
@@ -40,9 +37,6 @@
       },
       {
         "session": "Fall 2024 JSL Session 2"
-      },
-      {
-        "session": "Fall 2024 JSL Session 1"
       }
     ]
   },
@@ -52,10 +46,6 @@
       {
         "name": "TeenFit Fall 2 Session (2024)",
         "session": "TeenFit Fall 2 Session (2024)"
-      },
-      {
-        "name": "TeenFit Fall 2024",
-        "session": "TeenFit Fall 2024"
       }
     ]
   },
@@ -65,10 +55,6 @@
       {
         "name": "JSL Fall 2 Session (2024)",
         "session": "JSL Fall 2 Session (2024)"
-      },
-      {
-        "name": "JSL Fall 2024",
-        "session": "JSL Fall 2024"
       }
     ]
   }
