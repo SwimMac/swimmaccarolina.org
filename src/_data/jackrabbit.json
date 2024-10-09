@@ -22,6 +22,9 @@
     "orgId": "541680",
     "sessions": [
       {
+        "session": "Winter 2024 Teen Fit Session 3"
+      },
+      {
         "session": "Fall 2024 Teen Fit Session 2"
       },
       {
@@ -32,6 +35,9 @@
   "jslNorth": {
     "orgId": "541680",
     "sessions": [
+      {
+        "session": "Winter 2024 JSL Session 3"
+      },
       {
         "session": "Fall 2024 JSL Session 2"
       },
@@ -44,6 +50,10 @@
     "orgId": "541681",
     "sessions": [
       {
+        "name": "TeenFit Fall 2 Session (2024)",
+        "session": "TeenFit Fall 2 Session (2024)"
+      },
+      {
         "name": "TeenFit Fall 2024",
         "session": "TeenFit Fall 2024"
       }
@@ -52,6 +62,10 @@
   "jslSouth": {
     "orgId": "541681",
     "sessions": [
+      {
+        "name": "JSL Fall 2 Session (2024)",
+        "session": "JSL Fall 2 Session (2024)"
+      },
       {
         "name": "JSL Fall 2024",
         "session": "JSL Fall 2024"
