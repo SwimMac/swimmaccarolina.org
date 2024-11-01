@@ -16,7 +16,7 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-<b>NOTE: Lap swim hours for the week of October 14-18 will be 10:30am-1:30pm</b>
+<b>Wednesday, November 27 - Friday, November 29 - NO LAP SWIM</b>
 
 </div>
 
