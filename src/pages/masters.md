@@ -83,7 +83,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, November 17 - 6:00-7:15am (Swim Meet)
+<li>Friday, November 22 - BOTH PRACTICES CANCELED
 
 <li>Wednesday, November 27 - 12:45-2:00pm
 
