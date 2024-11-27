@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Joseph (Kit) Raulerson
-jobTitle: Senior 2 North Lead Coach
+jobTitle: North Senior 2 Lead
 email: jraulerson@swimmaccarolina.org
 department:
   - competitive-team-coaches
