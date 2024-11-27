@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Emily Laurent
-jobTitle: Lead Dolphin 2, Shark 2 Assistant Coach
+jobTitle: South Dolphin 2 Lead, South Shark 2 Assistant
 email: elaurent@swimmaccarolina.org
 department:
   - competitive-team-coaches
