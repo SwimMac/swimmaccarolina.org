@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Ariel Hopper
-jobTitle: North Shark 3 Lead, North Dolphin 2 Lead
+jobTitle: North Shark 2 Lead, North Dolphin 2 Lead
 email: Ahopper@swimmaccarolina.org
 department:
   - competitive-team-coaches
