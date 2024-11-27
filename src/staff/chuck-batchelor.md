@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Chuck Batchelor
-jobTitle: Head Coach/Director of Competitive Swimming
+jobTitle: Director of Competitive Swimming, Head Coach
 email: cbatchelor@swimmaccarolina.org
 department:
   - competitive-team-leadership
