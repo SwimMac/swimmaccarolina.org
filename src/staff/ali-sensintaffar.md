@@ -8,7 +8,7 @@ department:
   - jsl-teen-fit-homeschool
   - competitive-team-coaches
 staffImage: ""
-order: 1
+order: 6
 bio: >-
   ﻿Ali Sensintaffar joined SwimMAC in January 2024, bringing a diverse
   background in coaching, education, and program development to her role as
