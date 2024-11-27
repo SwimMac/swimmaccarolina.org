@@ -6,7 +6,7 @@ jobTitle: North Dolphin 1 Lead Coach, North Dolphin Division Lead, North
 email: asensintaffar@swimmaccarolina.org
 department:
   - jsl-teen-fit-homeschool
-staffImage: /static/staff/ali_s.jpg
+staffImage: ""
 order: 1
 bio: >-
   ﻿Ali Sensintaffar joined SwimMAC in January 2024, bringing a diverse
