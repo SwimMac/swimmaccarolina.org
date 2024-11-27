@@ -31,4 +31,7 @@ bio: >-
 
 
   Julio finds inspiration in his family and mentors, including coaches Rachael Zarate, Kerry Elliott, Chuck Batchelor, David Marsh, and Jack Roach. He believes in living in the present and overcoming fear through focus and mindfulness, likening it to the discipline of a ninja. With gratitude and strong values, Julio Zarate continues to leave a meaningful impact on his athletes, his team, and the SwimMAC community
+
+
+  ![](/static/uploads/julio-zarate-2.jpg)
 ---
