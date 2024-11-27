@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Savannah Damon
-jobTitle: Marlin 2 Davidson Lead
+jobTitle: North Marlin 2 Lead
 email: Sdamon@swimmaccarolina.org
 department:
   - competitive-team-coaches
