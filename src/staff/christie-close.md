@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Christie Close
-jobTitle: South Marlin Division Lead, Marlin 1 and Marlin 2 Lead Coach
+jobTitle: South Marlin Division, Marlin 1 & Marlin 2 Lead
 email: Cclose@swimmaccarolina.org
 department:
   - competitive-team-leadership
