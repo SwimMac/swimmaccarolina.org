@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Julio Zarate
-jobTitle: "Senior 1 Lead, Senior Division Lead, North Site Lead "
+jobTitle: North Site Lead, North Senior Division & Senior 1 Lead
 email: jzarate@swimmaccarolina.org
 department:
   - competitive-team-coaches
