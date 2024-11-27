@@ -1,11 +1,12 @@
 ---
 layout: staff.njk
 title: Ali Sensintaffar
-jobTitle: North JSL, Homeschool, & Teen Fit Director
+jobTitle: North Dolphin 1 Lead Coach, North Dolphin Division Lead, North
+  Auxiliary Program Director, and North Senior 1 Assistant Coach
 email: asensintaffar@swimmaccarolina.org
 department:
   - jsl-teen-fit-homeschool
-staffImage: /static/staff/_mc39416_radiant.png
+staffImage: /static/staff/ali_s.jpg
 order: 1
 bio: >-
   ﻿Ali Sensintaffar joined SwimMAC in January 2024, bringing a diverse
