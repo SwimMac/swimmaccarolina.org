@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Sean Ford
-jobTitle: Marlin North Division Lead, Marlin 1 & Marlin 2 North Lead Coach
+jobTitle: North Marlin Division, Marlin 1 & Marlin 2 Lead
 email: sford@swimmaccarolina.org
 department:
   - competitive-team-coaches
