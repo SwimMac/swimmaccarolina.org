@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Rachael Zarate
-jobTitle: Shark 1 North Lead, Shark North Division Lead
+jobTitle: North Shark Division Lead, Shark 1 North Lead
 email: rzarate@swimmaccarolina.org
 department:
   - competitive-team-leadership
