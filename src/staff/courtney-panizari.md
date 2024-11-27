@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Courtney Panizari
-jobTitle: Assistant Swim School Manager
+jobTitle: South Swim School Assistant Manager
 email: cpanizari@swimmaccarolina.org
 department:
   - swim-school
