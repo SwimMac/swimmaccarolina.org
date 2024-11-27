@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Kyle Bubolz
-jobTitle: North Senior 2 Lead
+jobTitle: South Senior 2 Lead
 email: kbubolz@swimmaccarolina.org
 department:
   - competitive-team-coaches
