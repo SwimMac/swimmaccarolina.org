@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Frank Totten
-jobTitle: Shark 3 South Lead Coach, Dolphin 3 South Lead Coach
+jobTitle: South Shark 3 Lead, South Dolphin 3 Lead
 email: ftotten@swimmaccarolina.org
 department:
   - competitive-team-coaches
