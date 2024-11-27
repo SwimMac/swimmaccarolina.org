@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: John Ogden
-jobTitle: Lead North Master's Coach
+jobTitle: North Master's Lead
 email: jogden
 department:
   - masters-coaches
