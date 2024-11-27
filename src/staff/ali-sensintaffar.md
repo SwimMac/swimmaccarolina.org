@@ -5,7 +5,7 @@ jobTitle: North JSL, Homeschool, & Teen Fit Director
 email: asensintaffar@swimmaccarolina.org
 department:
   - jsl-teen-fit-homeschool
-staffImage: /static/staff/ali_s.jpg
+staffImage: /static/staff/_mc39416_radiant.png
 order: 1
 bio: >-
   ﻿Ali Sensintaffar joined SwimMAC in January 2024, bringing a diverse
