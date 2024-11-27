@@ -2,7 +2,7 @@
 layout: staff.njk
 title: Chandler Thomas
 jobTitle: Masters Program Director, Masters South Lead Coach
-email: cthomas
+email: Cthomas@swimmaccarolina.org
 department:
   - masters-coaches
 order: 100
