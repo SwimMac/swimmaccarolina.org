@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Steve Robling
-jobTitle: Lead Coach Marlin 3, Senior 3, and Masters Coach
+jobTitle: Lead Coach Marlin 3, Senior 3, and Master's Coach
 email: srobling@swimmaccarolina.org
 department:
   - competitive-team-coaches
