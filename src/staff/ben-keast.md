@@ -1,8 +1,8 @@
 ---
 layout: staff.njk
 title: Ben Keast
-jobTitle: North Senior 2 Lead, North Shark 1 Lead
-email: bkeast
+jobTitle: High Performance Training Group
+email: Bkeast@swimmaccarolina.org
 department:
   - competitive-team-coaches
 order: 3
