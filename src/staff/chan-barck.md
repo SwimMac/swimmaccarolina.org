@@ -27,4 +27,7 @@ bio: >-
 
 
   Inspired by mentors like Coach Martha, her step-dad, and her Papa, Chan brings warmth, guidance, and dedication to her role. Her philosophy is rooted in helping individuals find their own path, knowing that while you can “Accept both compliments and criticism. It takes both sun and rain for a flower to grow.” Chan’s favorite places to travel include Croatia, Germany and Netherlands. Her best advice is to remember that you cannot enchant everyone—an insight that resonates with her empathetic approach to coaching and life.
+
+
+  ![](/static/uploads/chandra-barck-3.jpg)
 ---
