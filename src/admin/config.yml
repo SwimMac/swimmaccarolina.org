@@ -89,19 +89,15 @@ collections:
         name: "layout"
         widget: "hidden"
         default: "staff.njk"
-
       - label: "Name"
         name: "title"
         widget: "string"
-
       - label: "Job Title"
         name: "jobTitle"
         widget: "string"
-
       - label: "Email"
         name: "email"
         widget: "string"
-
       - label: "Department"
         name: "department"
         widget: "select"
@@ -114,24 +110,22 @@ collections:
           - { label: "JSL Teen-Fit & Homeschool", value: "jsl-teen-fit-homeschool" }
           - { label: "Masters Coaches", value: "masters-coaches" }
           - { label: "Board of Directors", value: "board" }
-
       - label: "Image"
         name: "staffImage"
         widget: "image"
-        media_folder: "/static/staff"
+        media_folder: "static/staff"
+        public_folder: "/static/staff"
         required: false
         choose_url: true
         default: "https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg"
         media_library:
           config:
             multiple: false
-
       - label: "Order"
         name: "order"
         widget: "number"
         default: 100
         value_type: "int"
-
       - label: "Bio"
         name: "bio"
         widget: "markdown"
