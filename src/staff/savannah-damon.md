@@ -5,7 +5,7 @@ jobTitle: North Marlin 2 Lead
 email: Sdamon@swimmaccarolina.org
 department:
   - competitive-team-coaches
-staffImage: /static/staff/savannah_d.jpeg
+staffImage: ""
 order: 100
 bio: >-
   Savannah Damon leads the Marlin 2 group at SwimMAC’s Davidson location, where
