@@ -6,7 +6,7 @@ email: kthornton@swimmaccarolina.org
 department:
   - competitive-team-coaches
   - competitive-team-leadership
-staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
+staffImage: /static/staff/kevin-t.jpg
 order: 2
 bio: >-
   Kevin Thornton has been with SwimMAC since May 2002, bringing over 45 years of
