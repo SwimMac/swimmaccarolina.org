@@ -5,7 +5,7 @@ jobTitle: Event Coordinator
 email: sstephens@swimmaccarolina.org
 department:
   - administration
-staffImage: https://www.swimmaccarolina.org/static/staff/scott-stephens.jpg
+staffImage: /static/staff/scotts.jpg
 order: 5
 bio: >-
   Scott Stephens has been a dedicated member of the SwimMAC team since 2017,
