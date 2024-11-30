@@ -5,6 +5,7 @@ jobTitle: South Marlin Division, Marlin 1 & Marlin 2 Lead
 email: Cclose@swimmaccarolina.org
 department:
   - competitive-team-leadership
+staffImage: /static/staff/christinac.jpg
 order: 2
 bio: >-
   Christina Close (nickname Christie) started with SwimMAC in April of 2023 as
