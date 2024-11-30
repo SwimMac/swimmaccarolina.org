@@ -5,7 +5,7 @@ jobTitle: North Shark 3 Lead
 email: jschellenberg@swimmaccarolina.org
 department:
   - competitive-team-coaches
-staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
+staffImage: /static/staff/jamies.jpg
 order: 100
 bio: >-
   Jamie Schellenberg joined SwimMAC in June 2024 and is the Lead Coach for the
