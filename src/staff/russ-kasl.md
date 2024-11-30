@@ -7,7 +7,7 @@ email: rkasl
 department:
   - competitive-team-leadership
   - competitive-team-coaches
-staffImage: https://www.swimmaccarolina.org/static/staff/russ-kasl.jpg
+staffImage: /static/staff/russk.jpg
 order: 100
 bio: >-
   Russ Kasl has been an integral part of SwimMAC since 2002.  Based at the Latin
