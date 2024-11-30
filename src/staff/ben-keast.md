@@ -5,6 +5,6 @@ jobTitle: High Performance Training Group
 email: Bkeast@swimmaccarolina.org
 department:
   - competitive-team-coaches
-staffImage: ""
+staffImage: /static/staff/benk.jpg
 order: 0
 ---
