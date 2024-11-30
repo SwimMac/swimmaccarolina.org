@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Kevin Thornton
-jobTitle: South Senior 1 Lead, Senior Division Lead, South Shark 2 Lead
+jobTitle: South Senior Division & Senior 1 Lead, South Shark 2 Lead
 email: kthornton@swimmaccarolina.org
 department:
   - competitive-team-coaches
