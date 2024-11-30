@@ -5,7 +5,7 @@ jobTitle: Head of Business Management
 email: tavischious@swimmaccarolina.org
 department:
   - administration
-staffImage: https://www.swimmaccarolina.org/static/staff/tom-avischious.jpg
+staffImage: /static/staff/toma.jpg
 order: 1
 bio: >-
   Tom Avishious joined SwimMAC in August 2022, bringing nearly 25 years of
