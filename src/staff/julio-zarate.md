@@ -6,7 +6,7 @@ email: jzarate@swimmaccarolina.org
 department:
   - competitive-team-coaches
   - competitive-team-leadership
-staffImage: ""
+staffImage: /static/staff/julio-z2.jpg
 order: 1
 bio: >-
   Julio Zarate, SwimMAC’s Senior I Lead and North Site Lead Coach, brings over
