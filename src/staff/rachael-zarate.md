@@ -5,7 +5,7 @@ jobTitle: North Shark Division & Shark 1 Lead
 email: rzarate@swimmaccarolina.org
 department:
   - competitive-team-leadership
-staffImage: ""
+staffImage: /static/staff/rachaelz.jpg
 order: 100
 bio: >-
   Rachael Zarate is a valued member of SwimMAC, where she leads the Shark North
