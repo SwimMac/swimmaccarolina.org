@@ -5,7 +5,7 @@ jobTitle: Director of Competitive Swimming, Head Coach
 email: cbatchelor@swimmaccarolina.org
 department:
   - competitive-team-leadership
-staffImage: https://www.swimmaccarolina.org/static/staff/chuck-batchelor.jpg
+staffImage: /static/staff/chuckb.jpg
 order: 1
 bio: >-
   Swimming is more than a sport for Chuck Batchelor—it’s a pathway to lifelong
