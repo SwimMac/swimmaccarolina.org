@@ -1,11 +1,11 @@
 ---
 layout: staff.njk
 title: Ariel Hopper
-jobTitle: North Shark 2 Lead, North Dolphin 2 Lead
+jobTitle: North Shark 2 Lead, Dolphin 2 Lead
 email: Ahopper@swimmaccarolina.org
 department:
   - competitive-team-coaches
-staffImage: /static/staff/ariel-hopper.jpg
+staffImage: /static/staff/arielh.jpg
 order: 5
 bio: >-
   Ariel Hopper has been part of the SwimMAC family since 2009, first as a
