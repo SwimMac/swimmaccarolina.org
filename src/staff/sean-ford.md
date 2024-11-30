@@ -6,7 +6,7 @@ email: sford@swimmaccarolina.org
 department:
   - competitive-team-coaches
   - competitive-team-leadership
-staffImage: https://www.swimmaccarolina.org/static/staff/sean-ford.jpg
+staffImage: /static/staff/seanf.jpg
 order: 100
 bio: >-
   Sean Ford has been a dedicated member of SwimMAC since 2019, taking over as
