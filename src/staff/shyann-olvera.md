@@ -5,7 +5,7 @@ jobTitle: North Swim School Assistant Manager
 email: solvera@swimmaccarolina.org
 department:
   - swim-school
-staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
+staffImage: /static/staff/shyanno.jpg
 order: 100
 bio: >-
   Shyann Olvera joined SwimMAC in August 2024 as the North Swim School Assistant
