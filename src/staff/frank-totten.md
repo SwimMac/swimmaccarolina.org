@@ -5,7 +5,7 @@ jobTitle: South Shark 3 Lead, South Dolphin 3 Lead
 email: ftotten@swimmaccarolina.org
 department:
   - competitive-team-coaches
-staffImage: https://www.swimmaccarolina.org/static/staff/frank-totten.jpg
+staffImage: /static/staff/frankt.jpg
 order: 100
 bio: >-
   Frank Totten has been an integral part of SwimMAC since August 2017, beginning
