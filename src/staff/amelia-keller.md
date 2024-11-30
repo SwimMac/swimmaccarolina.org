@@ -5,7 +5,7 @@ jobTitle: North Dolphin 3 Lead
 email: akeller@swimmaccarolina.org
 department:
   - competitive-team-coaches
-staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
+staffImage: /static/staff/ameliak.jpg
 order: 100
 bio: >-
   Amelia Keller joined SwimMAC in August 2023 with Marlin 3 and Dolphin 3, and
