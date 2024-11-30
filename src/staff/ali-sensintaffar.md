@@ -2,12 +2,12 @@
 layout: staff.njk
 title: Ali Sensintaffar
 jobTitle: North Auxiliary Program Director, North Shark Division & Dolphin 1
-  Lead, North Senior 1 Assistant
+  Lead, Senior 1 Assistant
 email: asensintaffar@swimmaccarolina.org
 department:
   - jsl-teen-fit-homeschool
   - competitive-team-coaches
-staffImage: ""
+staffImage: /static/staff/alis.jpg
 order: 6
 bio: >-
   ﻿Ali Sensintaffar joined SwimMAC in January 2024, bringing a diverse
