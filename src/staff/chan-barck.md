@@ -5,7 +5,7 @@ jobTitle: North Swim School Manager
 email: cbarck@swimmaccarolina.org
 department:
   - swim-school
-staffImage: https://www.swimmaccarolina.org/static/staff/chandra-barck.jpg
+staffImage: /static/staff/chandrab.jpg
 order: 2
 bio: >-
   Chandra “Chan” Barck has been an integral part of SwimMAC since 2015,
