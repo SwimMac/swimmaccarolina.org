@@ -5,7 +5,7 @@ jobTitle: North Senior 2 Lead
 email: jraulerson@swimmaccarolina.org
 department:
   - competitive-team-coaches
-staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
+staffImage: /static/staff/josephkr.jpg
 order: 100
 bio: >-
   Joseph Raulerson joined SwimMAC in August 2023 as the Lead Coach for the
