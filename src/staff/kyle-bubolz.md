@@ -5,7 +5,7 @@ jobTitle: South Senior 2 Lead
 email: kbubolz@swimmaccarolina.org
 department:
   - competitive-team-coaches
-staffImage: ""
+staffImage: /static/staff/kyleb.jpg
 order: 3
 bio: >-
   Kyle Bubolz joined SwimMAC in Fall 2022.  He started as High Performance
