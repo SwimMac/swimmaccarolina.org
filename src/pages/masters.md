@@ -43,8 +43,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Thursday, November 28 (Thanksgiving) - 7:00-8:15am; NO NOON PRACTICE
-
 </ul>
 
 </div>
@@ -83,13 +81,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Wednesday, November 27 - 12:45-2:00pm
-
-<li>Thursday, November 28 (Thanksgiving) - 7:00-8:30am ONLY
-
-<li>Friday, November 29 - 12:15-1:30pm; NO 8:30am PRACTICE
-
-</ul>
+<li>Sunday, December 8 - 6:00-7:15 AM</ul>
 
 </div>
 
