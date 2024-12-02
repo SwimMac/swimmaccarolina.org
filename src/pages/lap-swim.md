@@ -16,7 +16,7 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-<b></b>
+<b>Tuesday, December 3 - LAP SWIM CANCELED</b>
 
 </div>
 
