@@ -81,6 +81,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Tuesday, December 3 - BOTH PRACTICES CANCELED
+
 <li>Sunday, December 8 - 6:00-7:15 AM</ul>
 
 </div>
