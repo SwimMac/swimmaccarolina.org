@@ -43,6 +43,11 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Tuesday, Dec 24 (CHRISTMAS EVE) – 5:30-6:45 AM; NO 12:00 PM PRACTICE
+<li>Tuesday, Dec 31 (NEW YEAR’S EVE) – 5:30-6:45 AM; NO 12:00 PM PRACTICE
+<li>Wednesday, Jan 1 (NEW YEAR’S DAY) – 7:00 AM
+<li>Sunday, Jan 5 – NO PRACTICE (Swim Meet)
+
 </ul>
 
 </div>
@@ -81,9 +86,32 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Tuesday, December 3 - BOTH PRACTICES CANCELED
+<li>Sunday, December 8 - 6:00-7:15 AM
 
-<li>Sunday, December 8 - 6:00-7:15 AM</ul>
+</ul>
+
+<b>2024-25 Holiday Practice Schedule</b>
+
+<ul>
+
+<li>Saturday, Dec 21 – 5:30-6:45 AM
+<li>Sunday, Dec 22 – 7:15-8:30 AM
+<li>Monday, Dec 23 – 12:45-2:00 PM
+<li>Tuesday, Dec 24 (CHRISTMAS EVE) – 8:30-10:00 AM; NO 5:15 AM PRACTICE
+<li>Wednesday, Dec 25 (CHRISTMAS DAY) – NO PRACTICE
+<li>Thursday, Dec 26 – 5:15-6:30 AM & 8:30-9:45 AM
+<li>Friday, Dec 27 – 12:45-2:00 PM; NO 8:30 AM PRACTICE
+<li>Saturday, Dec 28 – 5:30-6:45 AM
+<li>Sunday, Dec 29 – 5:30-6:45 AM
+<li>Monday, Dec 30 – 12:45-2:00 PM
+<li>Tuesday, Dec 31 (NEW YEAR’S EVE) – 5:15-6:30 AM; NO 8:30 AM PRACTICE
+<li>Wednesday, Jan 1 (NEW YEAR’S DAY) – 8:30-11:00 AM
+<li>Thursday, Jan 2 – 5:15-6:30 AM; NO 8:30 AM PRACTICE
+<li>Friday, Jan 3 – 12:45-2:00 PM; NO 8:30 AM PRACTICE
+<li>Saturday, Jan 4 – 5:30-6:45 AM
+<li>Sunday, Jan 5 – 7:15-8:30 AM
+
+</ul>
 
 </div>
 
