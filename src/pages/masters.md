@@ -94,8 +94,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Saturday, Dec 21 – 5:30-6:45 AM
-<li>Sunday, Dec 22 – 7:15-8:30 AM
 <li>Monday, Dec 23 – 12:45-2:00 PM
 <li>Tuesday, Dec 24 (CHRISTMAS EVE) – 8:30-10:00 AM; NO 5:15 AM PRACTICE
 <li>Wednesday, Dec 25 (CHRISTMAS DAY) – NO PRACTICE
