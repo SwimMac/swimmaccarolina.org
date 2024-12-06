@@ -43,9 +43,9 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Tuesday, Dec 24 (CHRISTMAS EVE) – 5:30-6:45 AM; NO 12:00 PM PRACTICE
-<li>Tuesday, Dec 31 (NEW YEAR’S EVE) – 5:30-6:45 AM; NO 12:00 PM PRACTICE
-<li>Wednesday, Jan 1 (NEW YEAR’S DAY) – 7:00 AM
+<li>Tuesday, Dec 24 (CHRISTMAS EVE) – 7:00-8:15 AM; NO 12:00 PM PRACTICE
+<li>Tuesday, Dec 31 (NEW YEAR’S EVE) – 7:00-8:15 AM; NO 12:00 PM PRACTICE
+<li>Wednesday, Jan 1 (NEW YEAR’S DAY) – 9:00-11:00 AM
 <li>Sunday, Jan 5 – NO PRACTICE (Swim Meet)
 
 </ul>
