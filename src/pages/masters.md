@@ -91,9 +91,6 @@ title: Masters Training Schedule
 <li>Wednesday, Jan 1 (NEW YEAR’S DAY) – 8:30-11:00 AM
 <li>Thursday, Jan 2 – 5:15-6:30 AM; NO 8:30 AM PRACTICE
 <li>Friday, Jan 3 – 12:45-2:00 PM; NO 8:30 AM PRACTICE
-<li>Saturday, Jan 4 – 5:30-6:45 AM
-<li>Sunday, Jan 5 – 7:15-8:30 AM
-
 </ul>
 
 <ul>
