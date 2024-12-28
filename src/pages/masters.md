@@ -83,8 +83,6 @@ title: Masters Training Schedule
 
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
-<b>2024-25 Holiday Practice Schedule</b>
-
 <ul>
 
 <li>Sunday, Dec 29 – 5:30-6:45 AM
