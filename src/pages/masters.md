@@ -43,10 +43,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Tuesday, Dec 31 (NEW YEAR’S EVE) – 7:00-8:15 AM; NO 12:00 PM PRACTICE
-<li>Wednesday, Jan 1 (NEW YEAR’S DAY) – 9:00-11:00 AM
-<li>Sunday, Jan 5 – NO PRACTICE (Swim Meet)
-
 </ul>
 
 </div>
@@ -82,16 +78,6 @@ title: Masters Training Schedule
 <div class="bg-gray-100 p-6 my-6 text-left" markdown="1">
 
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
-
-<ul>
-
-<li>Sunday, Dec 29 – 5:30-6:45 AM
-<li>Monday, Dec 30 – 12:45-2:00 PM
-<li>Tuesday, Dec 31 (NEW YEAR’S EVE) – 5:15-6:30 AM; NO 8:30 AM PRACTICE
-<li>Wednesday, Jan 1 (NEW YEAR’S DAY) – 8:30-11:00 AM
-<li>Thursday, Jan 2 – 5:15-6:30 AM; NO 8:30 AM PRACTICE
-<li>Friday, Jan 3 – 12:45-2:00 PM; NO 8:30 AM PRACTICE
-</ul>
 
 <ul>
 
