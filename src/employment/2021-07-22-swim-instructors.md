@@ -14,11 +14,11 @@ Swim Instructors for the following programs:
 * Teen Fit
 * Lifeguards – South location only
 
-Our North facility is located at
-
+Our North facility is located at:\
 11725 Verhoeff Dr., Huntersville, NC 28078
 
-and our South facility is located at 9850 Providence Rd., Charlotte, NC 28277.
+and our South facility is located at:\
+9850 Providence Rd., Charlotte, NC 28277
 
 <!--EndFragment-->
 
