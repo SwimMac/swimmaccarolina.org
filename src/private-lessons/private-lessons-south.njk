@@ -52,6 +52,7 @@ contact :
                         start_time: c.start_time,
                         end_time: c.end_time,
                         openings: c.openings.calculated_openings,
+                        room: c.room,
                         tuitionFee: c.tuition.fee,
                         online_reg_link: c.online_reg_link
                     };
@@ -77,6 +78,7 @@ contact :
                             <th scope="col" class="md:text-center"> Openings </th>
                             <th scope="col"> Session Starts </th>
                             <th scope="col"> Session Ends </th>
+                            <th scope="col"> Pool </th>
                             <th scope="col"> Tuition Fee </th>
                             <th scope="col"> Register </th>
                         </tr>
@@ -90,6 +92,7 @@ contact :
                             <td class="text-right md:text-center" data-heading="Openings" x-text="Math.sign(item.openings) === -1 ? '0' : item.openings"></td>
                             <td class="text-right md:text-left" data-heading="Class Starts" x-text="macfunctions.dateConvert(item.start_date)"></td>
                             <td class="text-right md:text-left" data-heading="Class Ends" x-text="macfunctions.dateConvert(item.end_date)"></td>
+                            <td class="text-right md:text-left" data-heading="Room" x-text="item.room"></td>
                             <td class="text-right md:text-left" data-heading="Tuition" x-text="'$' + item.tuitionFee"></td>
                             <td class="text-center md:text-left">
                                <template x-if="item.online_reg_link.length > 0">
