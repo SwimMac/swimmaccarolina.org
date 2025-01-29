@@ -45,12 +45,8 @@ title: Masters Overview
 
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h3>Beginners</h3>
-<p>In order to participate in our Masters program we recommend that swimmers are able to swim at least 2 lengths (50 yards) of freestyle without stopping and preferably 1 length (25 yards) of another stroke (backstroke, breaststroke, or butterfly). For those who need to improve their basic skills as a swimmer or become more comfortable in the water, the SwimMAC Swim School offers an Adult-Learn-to-Swim (ALTS) program.</p>
+<p>In order to participate in our Masters program we recommend that swimmers are able to swim at least 2 lengths (50 yards) of freestyle without stopping and preferably 1 length (25 yards) of another stroke (backstroke, breaststroke, or butterfly). For those who need to improve their basic skills as a swimmer or become more comfortable in the water, the SwimMAC Swim School offers an <a href="https://www.swimmaccarolina.org/adult-programs/adult-group-lessons/" target="_blank" rel="noopener">Adult-Learn-to-Swim (ALTS) program.</a></p>
 
-<p>For more information about <a href="https://www.swimmaccarolina.org/adult-programs/adult-group-lessons/" target="_blank" rel="noopener">adult lessons</a>, please contact us: <br>
-<strong>HFFA SITE:</strong> Chandra Barck 704-766-1520 or <a href="mailto:cbarck@swimmaccarolina.org" target="_blank">cbarck@swimmaccarolina.org</a><br>
-<strong>LATIN SITE:</strong> Nicolle Hollmon 980-339-8912 or <a href="mailto:nhollmon@swimmaccarolina.org" target="_blank">nhollmon@swimmaccarolina.org</a>
-</p>
 </div>
 
 </div>
