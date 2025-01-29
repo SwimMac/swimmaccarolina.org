@@ -16,7 +16,7 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-<b>ATTENTION: Latin facility will open at 10am on Wednesday, 1/22 due to a Winter Weather Advisory
+<b></b>
 
 </div>
 
