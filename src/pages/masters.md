@@ -43,6 +43,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Sunday, March 2 - NO PRACTICE (Swim Meet)
+
 </ul>
 
 </div>
@@ -80,10 +82,6 @@ title: Masters Training Schedule
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
 <ul>
-
-<li>Sunday, January 19 - 5:45-7:00 AM (Swim Meet)
-
-<li>Monday, January 20 - NO PRACTICE (Swim Meet)
 
 <li>Saturday, February 8 - NO PRACTICE (Sunbelt Meet)
 
