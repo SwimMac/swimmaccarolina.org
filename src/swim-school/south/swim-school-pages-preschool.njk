@@ -41,7 +41,7 @@ permalink: "swim-school/south/preschool/{{ swim.name | slug }}/"
                 {% if jackrabbit.south.sessions.length > 0 %}
                     {% for session in jackrabbit.south.sessions %}
                     <h3 class="separator-left">{{ session.session }}</h3>
-                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=Pre-School&amp;Cat3={{ swim.color }}&amp;Session={{ session.session }}&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.south.orgId }}&amp;Cat2=Pre-School&amp;Cat3={{ swim.color }}&amp;Session={{ session.session }}&hidecols=Gender,Class,Session,Description&showcols=Room&style=font-size:16px&sort=days" type="text/javascript"></script>
                     {% endfor %}
                 {% else %}
                     <div class="bg-red-100 border border-red-900 p-4 my-6">
