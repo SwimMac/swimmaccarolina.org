@@ -83,9 +83,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Saturday, February 8 - NO PRACTICE (Sunbelt Meet)
-
-<li>Sunday, February 9 - NO PRACTICE (Sunbelt Meet)
+<li>Sunday, March 23 - 5:45-7:00 AM (Swim Meet)
 
 </ul>
 
