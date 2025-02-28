@@ -83,6 +83,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Friday, February 28 - POOL CLOSED FOR MAINTENANCE
+
 <li>Sunday, March 23 - 5:45-7:00 AM (Swim Meet)
 
 </ul>
