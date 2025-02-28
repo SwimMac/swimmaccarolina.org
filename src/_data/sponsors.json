@@ -1,21 +1,16 @@
 [
   {
-    "level": "gold",
+    "level": "corporate",
     "sponsors": [
       {
-        "name": "TYR Sports",
-        "image": "tyr-sports.png",
-        "url": "https://www.tyr.com"
+        "name": "Speedo",
+        "image": "speedo-global.svg",
+        "url": "https://www.speedo.com"
       },
       {
         "name": "Novant Health",
         "image": "novant-health.jpg",
         "url": "https://www.novanthealth.org"
-      },
-      {
-        "name": "Charlottes Got a Lot",
-        "image": "crva.jpg",
-        "url": "https://www.charlottesgotalot.com"
       },
       {
         "name": "Harris Teeter",
@@ -25,22 +20,47 @@
     ]
   },
   {
+    "level": "gold",
+    "sponsors": [
+      {
+        "name": "Big Air",
+        "image": "big-air.png",
+        "url": "https://www.bigairusa.com/charlotte"
+      },
+      {
+        "name": "Performance Staffing Solutions",
+        "image": "performance-staffing.png",
+        "url": "https://www.performss.com/"
+      },
+      {
+        "name": "Charlotte Roofing",
+        "image": "charlotte-roofing.png",
+        "url": "http://www.charlotteroofing.com/"
+      },
+      {
+        "name": "Cornerstone Dental",
+        "image": "cornerstone-dental.png",
+        "url": "https://csdentalgroup.com/"
+      }
+    ]
+  },
+  {
     "level":"silver",
     "sponsors": [
       {
-        "name": "Charlotte Latin",
-        "image": "charlotte-latin.png",
-        "url": "https://www.charlottelatin.org"
+        "name": "Carolina Voltage",
+        "image": "carolina-voltage.png",
+        "url": "http://carolinavoltage.com/"
       },
       {
-        "name": "Paddock Evacuator",
-        "image": "paddock.jpg",
-        "url": "https://www.paddockindustries.com"
+        "name": "H / K / B Cosmetic Surgery",
+        "image": "hkb.png",
+        "url": "https://hkbsurgery.com/"
       },
       {
-        "name": "Shiel Sexton",
-        "image": "shiel-sexton.jpg",
-        "url": "https://www.shielsexton.com"
+        "name": "Layton Dentistry",
+        "image": "layton-dentistry.png",
+        "url": "http://www.laytondentistrync.com/"
       }
     ]
   },
@@ -48,9 +68,34 @@
     "level":"bronze",
     "sponsors": [
       {
-        "name": "Nothing But Noodles",
-        "image": "nothing-but-noodles.png",
-        "url": "https://nothingbutnoodles.com"
+        "name": "Fairway",
+        "image": "fairway.png",
+        "url": "http://fairwayofthesoutheast.com/"
+      },
+      {
+        "name": "McRorie Landing",
+        "image": "mcrorie-landing.png",
+        "url": ""
+      },
+      {
+        "name": "Pucker Butt Pepper Company",
+        "image": "puckerbutt-peppers.png",
+        "url": "https://puckerbuttpeppercompany.com/"
+      },
+      {
+        "name": "TruNorth Homes",
+        "image": "trunorth-homes.png",
+        "url": "http://www.trunorthhomes.com/"
+      },
+      {
+        "name": "Mathnasium",
+        "image": "mathnasium.png",
+        "url": "https://www.mathnasium.com/math-centers/southcharlotte"
+      },
+      {
+        "name": "G Brokerage",
+        "image": "g-brokerage.png",
+        "url": "http://www.gbrokerage.com/"
       }
     ]
   }
