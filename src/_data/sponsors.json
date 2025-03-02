@@ -9,12 +9,12 @@
       },
       {
         "name": "Novant Health",
-        "image": "novant-health.jpg",
+        "image": "novant-health.svg",
         "url": "https://www.novanthealth.org"
       },
       {
         "name": "Harris Teeter",
-        "image": "harris-teeter.jpg",
+        "image": "harris-teeter.svg",
         "url": "https://www.harristeeter.com"
       }
     ]

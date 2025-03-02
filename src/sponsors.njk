@@ -32,10 +32,10 @@ title : Sponsors
                 {% for levels in sponsors %}
                 <h3 class="separator-center">{{ levels.level | toTitleCase }} Medal Sponsors</h3>
 
-                <div class="flex flex-wrap justify-center">
+                <div class="flex flex-wrap justify-center items-center">
                     {% for sponsor in levels.sponsors %}
                     <div class="w-1/2 md:w-1/3 lg:w-1/4 p-4">
-                        <img class="mx-auto" src="/static/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}" >
+                        <img class="mx-auto max-h-52" src="/static/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}">
                     </div>
                     {% endfor %}
                 </div>
