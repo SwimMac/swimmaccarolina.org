@@ -43,8 +43,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, March 2 - NO PRACTICE (Swim Meet)
-
 </ul>
 
 </div>
@@ -82,8 +80,6 @@ title: Masters Training Schedule
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
 <ul>
-
-<li>Friday, February 28 - POOL CLOSED FOR MAINTENANCE
 
 <li>Sunday, March 23 - 5:45-7:00 AM (Swim Meet)
 
