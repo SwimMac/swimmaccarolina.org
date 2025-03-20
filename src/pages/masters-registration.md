@@ -19,7 +19,7 @@ If you would like to join or still have questions, please email Chandler and inc
 <div class="w-full md:w-1/2 p-4" markdown="1">
 <h4>STEP 1:</h4>
 <p><img src="/static/USMS_Logo_Horz_tm.gif" alt="" width="532" height="100"></p>
-<p>Each SwimMAC Masters member will need to register annually with US Masters Swimming. The annual USMS registration fee is <b>$70</b>. <a href="https://www.usms.org/reg/register.php">Become a USMS member or renew your membership here</a>.</p>
+<p>Each SwimMAC Masters member will need to register annually with US Masters Swimming. The annual USMS registration fee is <b>$75</b>. <a href="https://www.usms.org/reg/register.php">Become a USMS member or renew your membership here</a>.</p>
 <p><b>LOCAL CLUB = North Carolina Masters Swimming (NCMS)<br>
 WORKOUT GROUP = SwimMAC</b></p>
 </div>
