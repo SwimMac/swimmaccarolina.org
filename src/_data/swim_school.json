@@ -7,7 +7,7 @@
       "description": "MiniMAC is a safe place for little swimmers to learn how to swim with the guidance of an adult* and instructors. Lessons will include water safety, along with songs, games and toys to build confidence and prepare for group lessons.",
       "image": "minimac.jpg",
       "north": true,
-      "south": false,
+      "south": true,
       "levels": [
         {
           "name": "MiniMAC Beginner",
@@ -23,7 +23,7 @@
           "description": "Designed for toddlers who have mastered junior and intermediate skills, and are moving toward a class without a parent. The goal for the end of the class is to have adults out of the water by the last class of the session. This class prepares the swimmer for our group classes without an adult in the pool.",
           "image": "minimac-advanced.jpg",
           "north": true,
-          "south": false
+          "south": true
         }
       ]
     },

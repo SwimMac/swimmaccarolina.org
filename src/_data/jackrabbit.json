@@ -15,6 +15,86 @@
         "gradeschool": true,
         "teen": true,
         "adult": true
+      },
+      {
+        "session": "2025 South Summer Power Session 1",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
+      },
+      {
+        "session": "2025 South Summer Power Session 2",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
+      },
+      {
+        "session": "2025 South Summer Power Session 3",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
+      },
+      {
+        "session": "2025 South Summer Power Session 4",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
+      },
+      {
+        "session": "2025 South Summer Power Session 5",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
+      },
+      {
+        "session": "2025 South Summer Power Session 6",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
+      },
+      {
+        "session": "2025 South Summer Power Session 7",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
+      },
+      {
+        "session": "2025 South Summer Power Session 8",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
+      },
+      {
+        "session": "2025 South Summer Power Session 9",
+        "minimac": false,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
+      },
+      {
+        "session": "2025 South Summer Weekly Class Session",
+        "minimac": true,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
       }
     ]
   },
