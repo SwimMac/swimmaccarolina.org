@@ -107,6 +107,11 @@ module.exports = function (eleventyConfig) {
         </form>`;
     });
 
+    // Filter for string data
+    eleventyConfig.addFilter("startsWith", (value, str) => {
+        return value?.startsWith(str);
+    });
+
      // Add the Markdown filter
     eleventyConfig.addFilter('markdown', (content) => {
         return markdownFilter.render(content);
