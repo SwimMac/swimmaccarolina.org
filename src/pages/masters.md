@@ -17,7 +17,7 @@ title: Masters Training Schedule
 
 <p>Huntersville Family Fitness & Aquatics (HFFA)<br>11725 Verhoeff Drive, Huntersville, NC 28078</p>
 
-<span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE</strong></span>
+<span style="text-decoration: underline;"><strong>SPRING SCHEDULE</strong></span>
 
 <ul>
 
@@ -57,7 +57,7 @@ title: Masters Training Schedule
 
 <p>SwimMAC Training Facility at Charlotte Latin School<br>9850 Providence Road, Charlotte, NC 28277</p>
 
-<span style="text-decoration: underline;"><strong>FALL/WINTER SCHEDULE</strong></span>
+<span style="text-decoration: underline;"><strong>SPRING SCHEDULE</strong></span>
 
 <ul>
 
