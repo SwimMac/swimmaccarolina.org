@@ -43,6 +43,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Sunday, April 20 - NO PRACTICE (Easter)
+
 </ul>
 
 </div>
@@ -81,7 +83,11 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, March 23 - 5:45-7:00 AM (Swim Meet)
+<li>Sunday, April 6 - 6:00-7:15 AM (Swim Meet)
+
+<li>Sunday, April 20 - NO PRACTICE (Easter)
+
+<li>Sunday, May 4 - 6:00-7:15 AM (Swim Meet)
 
 </ul>
 
