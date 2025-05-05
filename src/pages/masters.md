@@ -81,6 +81,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Monday, May 26 (Memorial Day) - 1:00-2:15 PM
+
 </ul>
 
 </div>
