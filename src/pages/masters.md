@@ -43,6 +43,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Monday, May 26 (Memorial Day) - NO PRACTICE
+
 </ul>
 
 </div>
