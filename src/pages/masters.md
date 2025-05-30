@@ -75,8 +75,6 @@ title: Masters Training Schedule
 
 </ul>
 
-<div class="bg-gray-100 p-6 my-6 text-left" markdown="1">
-
 <span style="text-decoration: underline;"><strong>SUMMER SCHEDULE (Begins 6/11)</strong></span>
 
 <ul>
