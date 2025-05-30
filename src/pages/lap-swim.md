@@ -16,7 +16,7 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-<b>Monday, May 26 (Memorial Day) - NO LAP SWIM</b>
+<b>SUMMER BREAK - Lap swim will resume on Tuesday, September 2</b>
 
 </div>
 
