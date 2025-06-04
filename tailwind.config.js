@@ -24,6 +24,7 @@ module.exports = {
   plugins: [
     require('@tailwindcss/forms')
   ],
+  content: ['src/**/*.njk', 'src/**/*.js', '.eleventy.js'],
   purge: process.env.NODE_ENV === 'production' ? {
     enabled: true,
     content: ['src/**/*.njk', 'src/**/*.js', '.eleventy.js'],
