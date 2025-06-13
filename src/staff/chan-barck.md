@@ -1,14 +1,14 @@
 ---
 layout: staff.njk
-title: Chandra Barck
+title: Chandra Dominguez
 jobTitle: North Swim School Manager
-email: cbarck@swimmaccarolina.org
+email: cdominguez@swimmaccarolina.org
 department:
   - swim-school
 staffImage: /static/staff/chandrab.jpg
 order: 2
 bio: >-
-  Chandra “Chan” Barck has been an integral part of SwimMAC since 2015,
+  Chandra “Chan” Dominguez has been an integral part of SwimMAC since 2015,
   currently serving as the North Swim School Manager at the HFFA/Davidson sites.
   In her role, Chan oversees registration for swim lessons, manages staff
   scheduling, and ensures exceptional customer service for parents and future

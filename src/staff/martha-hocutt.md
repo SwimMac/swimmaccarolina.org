@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Martha Hocutt
-jobTitle: Senior Swim School Director
+jobTitle: Director of Developmental Swimming
 email: mhocutt@swimmaccarolina.org
 department:
   - swim-school
@@ -15,9 +15,9 @@ bio: >-
   taking on expanded roles with programs such as Homeschool, JSL, Teen Fit, and
   as an assistant coach for Dolphin 3. Her skill in communication, organization,
   and leadership propelled her into positions as North Swim School Deck Manager,
-  North Manager, and now, Senior Swim School Director. Today, Martha ensures
-  that every swimmer is welcomed into a safe, supportive environment designed to
-  help them master this essential life skill.
+  North Manager, Senior Swim School Director, and now, Director of Developmental Swimming.
+  Today, Martha ensures that every swimmer is welcomed into a safe, supportive environment
+  designed to help them master this essential life skill.
 
 
   Martha brings a wealth of experience in aquatics, including lifeguarding at pools, lakes, and water parks, as well as teaching both swimming and in the classroom across the country. She has also served in various volunteer leadership roles, such as Vice President of the PTO and a member of the MOPS leadership team. Martha holds multiple certifications, including as a lifeguard, Chemical Pool Operator (CPO), Level 2 ASCA-certified coach, and Program Director with SwimAmerica. She is also a USMS member and LTS Certified instructor, prioritizing the highest standards of safety across all SwimMAC facilities.
