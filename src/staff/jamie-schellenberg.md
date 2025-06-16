@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Jamie Schellenberg
-jobTitle: North Shark 3 Lead
+jobTitle: North Shark 3 Lead, North Dolphin 2 Lead
 email: jschellenberg@swimmaccarolina.org
 department:
   - competitive-team-coaches
@@ -25,7 +25,7 @@ bio: >-
   In her coaching, Jamie prioritizes discipline, ownership, and the fun that comes with hard work, guiding her athletes to support each other as they develop their skills. Currently, she is expanding SwimMAC’s dryland program and incorporating mental strength training for swimmers of all ages. Looking ahead, she hopes to contribute to an open water racing program, combining her passion for open water with her expertise.
 
 
-  For Jamie, SwimMAC represents the lifelong benefits of sports and the character-building aspects of swimming. Her goal is to prepare swimmers who feel confident in their abilities, supportive of one another, and open to continuous growth. Her coaching philosophy centers on the idea that swimming is as much about building character as it is about technique and competition. Her children serve as her daily inspiration, and her favorite quote, “To succeed in life, you need three things: a wishbone, a backbone, and a funny bone,” reflects her belief in resilience, ambition, and joy in all pursuits. 
+  For Jamie, SwimMAC represents the lifelong benefits of sports and the character-building aspects of swimming. Her goal is to prepare swimmers who feel confident in their abilities, supportive of one another, and open to continuous growth. Her coaching philosophy centers on the idea that swimming is as much about building character as it is about technique and competition. Her children serve as her daily inspiration, and her favorite quote, “To succeed in life, you need three things: a wishbone, a backbone, and a funny bone,” reflects her belief in resilience, ambition, and joy in all pursuits.
 
 
   Jamie grew up in Northern California and Hawaii, and her favorite place traveled is Iceland. Passionate about creating a strong team culture, Jamie is excited to continue building a positive environment that nurtures lifelong swimmers and well-rounded individuals.

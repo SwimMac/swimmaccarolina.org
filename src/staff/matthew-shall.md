@@ -1,6 +1,6 @@
 ---
 layout: staff.njk
-title: "Matthew Shall "
+title: "Matthew Shall"
 jobTitle: Board of Directors
 email: mshall@swimmaccarolina.org
 department:

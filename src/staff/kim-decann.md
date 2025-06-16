@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Kim DeCann
-jobTitle: Competitive Team Manager, North Senior 3 Lead
+jobTitle: Competitive Team Manager
 email: kdecann@swimmaccarolina.org
 department:
   - competitive-team-coaches
