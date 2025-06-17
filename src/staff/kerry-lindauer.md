@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Kerry Lindauer
-jobTitle: Assistant Coach
+jobTitle: Master's Coach
 email: kerrylindauer@gmail.com
 department:
   - masters-coaches
