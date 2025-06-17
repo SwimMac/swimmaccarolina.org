@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Chuck Graf
-jobTitle: Assistant Coach
+jobTitle: Master's Coach
 email: charlesegraf@gmail.com
 department:
   - masters-coaches
