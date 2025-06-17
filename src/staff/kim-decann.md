@@ -4,8 +4,7 @@ title: Kim DeCann
 jobTitle: Competitive Team Manager
 email: kdecann@swimmaccarolina.org
 department:
-  - competitive-team-coaches
-  - competitive-team-leadership
+  - administration
 staffImage: https://www.swimmaccarolina.org/static/staff/kim-decann.jpg
 order: 3
 bio: >-
