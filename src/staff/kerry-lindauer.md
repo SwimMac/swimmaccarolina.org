@@ -1,0 +1,10 @@
+---
+layout: staff.njk
+title: Kerry Lindauer
+jobTitle: Assistant Coach
+email: kerrylindauer@gmail.com
+department:
+  - masters-coaches
+staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
+order: 100
+---
