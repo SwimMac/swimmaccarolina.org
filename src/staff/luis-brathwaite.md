@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Luis Brathwaite
-jobTitle: Assistant Coach
+jobTitle: Master's Coach
 email: LFBrathwaite@pm.me
 department:
   - masters-coaches
