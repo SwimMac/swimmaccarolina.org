@@ -5,6 +5,6 @@ jobTitle: Assistant Coach
 email: bcelasun@swimmaccarolina.org
 department:
   - competitive-team-coaches
-staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
+staffImage: /static/staff/berk.jpeg
 order: 100
 ---
