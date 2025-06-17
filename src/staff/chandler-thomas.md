@@ -5,7 +5,7 @@ jobTitle: Masters Program Director, South Masters Lead
 email: Cthomas@swimmaccarolina.org
 department:
   - masters-coaches
-order: 100
+order: 1
 bio: >-
   Chandler Thomas, SwimMAC’s Masters Program Director and South Lead Coach,
   brings decades of experience and dedication to the organization, having been
