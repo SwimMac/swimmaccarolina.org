@@ -121,5 +121,13 @@
         "session": "JSL Summer 2 2025"
       }
     ]
+  },
+  "homeschoolSouth": {
+    "orgId": "541681",
+    "sessions": [
+      {
+        "session": "HomeSchool 2025-2026"
+      }
+    ]
   }
 }
