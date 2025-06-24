@@ -136,9 +136,17 @@ coach:
             </div>
 
             <h3 class="separator-center">North Region Class Registration</h3>
-            <div class="bg-yellow-300 p-6 my-6 text-center">
-                <p>2025-2026 Homeschool Schedule Coming Soon</p>
-            </div>
+            {% if jackrabbit.homeschoolNorth.sessions.length > 0 %}
+            {% for session in jackrabbit.homeschoolNorth.sessions %}
+            <h3 class="separator-left mt-12">{{ session.session }}</h3>
+
+            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.homeschoolNorth.orgId }}&amp;Session={{ session.session }}&hidecols=Gender,Session,ages&style=font-size:16px&sort=days" type="text/javascript"></script>
+            {% endfor %}
+            {% else %}
+                <div class="bg-red-100 border border-red-900 p-4 my-6">
+                    There are no scheduled JSL classes at this time
+                </div>
+            {% endif %}
         </div>
 
         <div class="card p-4 mt-4">
