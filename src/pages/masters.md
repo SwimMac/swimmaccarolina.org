@@ -45,6 +45,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Friday, July 4 - NO PRACTICE
+
 <li>Sunday, August 17 - Sunday, August 24 - NO PRACTICE
 
 </ul>
