@@ -87,9 +87,11 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Friday, July 4 - 12:45-2:00 PM <u>ONLY</u>
+
 <li>Sunday, July 6 - 6:00-7:15 AM (Swim Meet)
 
-<li>Friday, July 25 - 5:15-6:30 AM ONLY (Swim Meet)
+<li>Friday, July 25 - 5:15-6:30 AM <u>ONLY</u> (Swim Meet)
 
 <li>Sunday, July 27 - 6:00-7:15 AM (Swim Meet)
 
