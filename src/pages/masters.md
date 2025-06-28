@@ -45,6 +45,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Sunday, August 17 - Sunday, August 24 - NO PRACTICE
+
 </ul>
 
 </div>
@@ -88,6 +90,8 @@ title: Masters Training Schedule
 <li>Friday, July 25 - 5:15-6:30 AM ONLY (Swim Meet)
 
 <li>Sunday, July 27 - 6:00-7:15 AM (Swim Meet)
+
+<li>Sunday, August 10 - Sunday, August 17 - NO PRACTICE
 
 </ul>
 
