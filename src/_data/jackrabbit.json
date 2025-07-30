@@ -2,21 +2,12 @@
   "north": {
     "orgId": "524744",
     "sessions": [
-      "2025 North Summer Power Session 8",
       "2025 North Summer Power Session 9"
     ]
   },
   "south": {
     "orgId": "524998",
     "sessions": [
-      {
-        "session": "2025 South Summer Power Session 8",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adult": true
-      },
       {
         "session": "2025 South Summer Power Session 9",
         "minimac": false,
@@ -53,7 +44,6 @@
   },
   "privateLessonsNorth": {
     "sessions": [
-      "2025 North Summer Power Session 8",
       "2025 North Summer Power Session 9"
     ]
   },
@@ -93,7 +83,6 @@
   },
   "privateLessonsSouth": {
     "sessions": [
-      "2025 South Summer Power Session 8",
       "2025 South Summer Power Session 9"
     ]
   }
