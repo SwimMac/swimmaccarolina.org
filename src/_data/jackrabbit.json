@@ -16,6 +16,14 @@
         "gradeschool": true,
         "teen": true,
         "adult": true
+      },
+      {
+        "session": "25/26 School Year Session (Sep-Jun)",
+        "minimac": true,
+        "preschool": true,
+        "gradeschool": true,
+        "teen": true,
+        "adult": true
       }
     ]
   },
@@ -25,28 +33,6 @@
       {
         "session": "Summer 2025 Teen Fit Session 7"
       }
-    ]
-  },
-  "jslNorth": {
-    "orgId": "541680",
-    "sessions": [
-      {
-        "session": "Summer 2025 JSL Session 7"
-      }
-    ]
-  },
-  "homeschoolNorth": {
-    "orgId": "541680",
-    "sessions": [
-      {
-        "session": "HFFA Homeschool 2025-2026"
-      }
-    ]
-  },
-  "privateLessonsNorth": {
-    "sessions": [
-      "2025 North Summer Power Session 9",
-      "25/26 School Year (Sept-June)"
     ]
   },
   "teenFitSouth": {
@@ -59,6 +45,14 @@
       {
         "name": "TF Summer 2 2025",
         "session": "TF Summer 2 2025"
+      }
+    ]
+  },
+  "jslNorth": {
+    "orgId": "541680",
+    "sessions": [
+      {
+        "session": "Summer 2025 JSL Session 7"
       }
     ]
   },
@@ -75,6 +69,14 @@
       }
     ]
   },
+  "homeschoolNorth": {
+    "orgId": "541680",
+    "sessions": [
+      {
+        "session": "HFFA Homeschool 2025-2026"
+      }
+    ]
+  },
   "homeschoolSouth": {
     "orgId": "541681",
     "sessions": [
@@ -83,9 +85,16 @@
       }
     ]
   },
+  "privateLessonsNorth": {
+    "sessions": [
+      "2025 North Summer Power Session 9",
+      "25/26 School Year (Sept-June)"
+    ]
+  },
   "privateLessonsSouth": {
     "sessions": [
-      "2025 South Summer Power Session 9"
+      "2025 South Summer Power Session 9",
+      "25/26 School Year Session (Sep-Jun)"
     ]
   }
 }
