@@ -2,21 +2,12 @@
   "north": {
     "orgId": "524744",
     "sessions": [
-      "2025 North Summer Power Session 9",
       "25/26 School Year (Sept-June)"
     ]
   },
   "south": {
     "orgId": "524998",
     "sessions": [
-      {
-        "session": "2025 South Summer Power Session 9",
-        "minimac": false,
-        "preschool": true,
-        "gradeschool": true,
-        "teen": true,
-        "adult": true
-      },
       {
         "session": "25/26 School Year Session (Sep-Jun)",
         "minimac": true,
@@ -87,13 +78,11 @@
   },
   "privateLessonsNorth": {
     "sessions": [
-      "2025 North Summer Power Session 9",
       "25/26 School Year (Sept-June)"
     ]
   },
   "privateLessonsSouth": {
     "sessions": [
-      "2025 South Summer Power Session 9",
       "25/26 School Year Session (Sep-Jun)"
     ]
   }
