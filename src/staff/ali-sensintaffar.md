@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Ali Sensintaffar
-jobTitle: North Auxiliary Program Director, North Dolphin Division & Dolphin 1 Lead
+jobTitle: North Dolphin Division & Dolphin 1 Lead
 email: asensintaffar@swimmaccarolina.org
 department:
   - bridge-programs
