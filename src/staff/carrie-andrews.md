@@ -4,7 +4,7 @@ title: Carrie Andrews
 jobTitle: South Auxiliary Program Director
 email: candrews@swimmaccarolina.org
 department:
-  - jsl-teen-fit-homeschool
+  - bridge-programs
 staffImage: https://www.swimmaccarolina.org/static/staff/carrie-andrews.jpg
 order: 1
 bio: >-
@@ -14,8 +14,8 @@ bio: >-
   in swimming includes coaching competitive 9–12-year-olds with SwimMAC, as well
   as previous roles as a swim coach with Team Greenville (SC) and the Athens
   Bulldogs at the University of Georgia. As the Auxiliary Program Director,
-  Carrie hires and manages coaches for the HomeSchool, Junior Swim League, and
-  TeenFit programs, all of which help swimmers prepare for competitive teams,
+  Carrie hires and manages coaches for the HomeSchool, Pre-Comp, and
+  MAC Fit programs, all of which help swimmers prepare for competitive teams,
   middle and high school swim meets, or summer league competition.
 
 

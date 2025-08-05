@@ -49,11 +49,11 @@ title: Our People
       {% endfor%}
     </div>
 
-    <h2 class="separator-center">Junior Swim League (JSL), Teen-Fit, &amp; Homeschool</h2>
+    <h2 class="separator-center">Pre-Comp, MAC Fit, &amp; Homeschool</h2>
 
     <div class="flex flex-wrap justify-center -m-4 mb-8">
         {% for staffMember in collections.staffOrder %}
-          {% if staffMember.data.department and 'jsl-teen-fit-homeschool' in staffMember.data.department %}
+          {% if staffMember.data.department and 'bridge-programs' in staffMember.data.department %}
             {% include 'staff-card.njk' %}
           {% endif %}
         {% endfor%}

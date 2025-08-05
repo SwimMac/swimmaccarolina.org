@@ -107,7 +107,7 @@ collections:
           - { label: "Competitive Team Leadership", value: "competitive-team-leadership" }
           - { label: "Competitive Team Coaches", value: "competitive-team-coaches" }
           - { label: "Swim School", value: "swim-school" }
-          - { label: "JSL Teen-Fit & Homeschool", value: "jsl-teen-fit-homeschool" }
+          - { label: "Pre-Comp Mac Fit & Homeschool", value: "bridge-programs" }
           - { label: "Masters Coaches", value: "masters-coaches" }
           - { label: "Board of Directors", value: "board" }
       - label: "Image"

@@ -1,6 +1,6 @@
 ---
 layout : base.njk
-title : Junior Swim League (JSL) - North
+title : Pre-Comp - North
 coach:
     name: Ali Sensintaffar
     email: asensintaffar@swimmaccarolina.org
@@ -14,16 +14,15 @@ coach:
     <div class="container py-6">
         <p>
             <a href="/">Home</a> /
-            <a href="/jsl/">Junior Swim League</a> /
+            <a href="/pre-comp/">Junior Swim League</a> /
             {{ title }}
         </p>
 
         <p class="lead">
-            Junior Swim League (JSL) is for swimmers ages 6-12 who are looking to improve their technique and take their swimming
-            to the next level before joining competitive swimming. Swimmers must be able to complete 25 yards (one length) of
-            freestyle with proper head and body position and side breathing, 25 yards backstroke with proper head and body position,
-            and have knowledge of breaststroke (with legal breaststroke kick) and knowledge of butterfly in order to be considered for JSL.
-            All new participants must complete an evaluation prior to joining.
+            SwimMAC's Pre-Comp allows swimmers the opportunity to continue the fun of summer league throughout the year.
+            Pre-Comp offers a chance for your child to improve in all 4 strokes with individual attention from highly qualified coaches.
+            Swimmers gain endurance, strength and confidence while having fun with swimming. Pre-Comp can be a stepping stone from lessons
+            or summer league to year round competitive swimming.
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSckvg72MxxeObKc-SnV0juRTyleWVAFFz41lcHZOCVy-e31mg/viewform" target="_blank">Please fill out this form to sign up for an evaluation</a>.
         </p>
 
@@ -92,15 +91,15 @@ coach:
             <h3 class="separator-center">North Region Class Registration</h3>
             <p class="text-center">All swimmers must have passed the G7 level of swim school or completed a successful evaluation.</p>
 
-            {% if jackrabbit.jslNorth.sessions.length > 0 %}
-            {% for session in jackrabbit.jslNorth.sessions %}
+            {% if jackrabbit.preCompNorth.sessions.length > 0 %}
+            {% for session in jackrabbit.preCompNorth.sessions %}
             <h3 class="separator-left mt-12">{{ session.session }}</h3>
 
-            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.jslNorth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&showCols=location,Cat1&style=font-size:16px&sort=days" type="text/javascript"></script>
+            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.preCompNorth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&showCols=location,Cat1&style=font-size:16px&sort=days" type="text/javascript"></script>
             {% endfor %}
             {% else %}
                 <div class="bg-red-100 border border-red-900 p-4 my-6">
-                    There are no scheduled JSL classes at this time
+                    There are no scheduled Pre-Comp classes at this time
                 </div>
             {% endif %}
         </div>

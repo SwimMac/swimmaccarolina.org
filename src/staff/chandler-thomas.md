@@ -9,7 +9,7 @@ order: 1
 bio: >-
   Chandler Thomas, SwimMAC’s Masters Program Director and South Lead Coach,
   brings decades of experience and dedication to the organization, having been
-  part of SwimMAC since 1997. Starting as a Junior Swim League (JSL)
+  part of SwimMAC since 1997. Starting as a Pre-Comp (formerly Junior Swim League (JSL))
   participant, Chandler progressed to the competitive team, competing with the
   club through high school and returning each summer during college. In 2011, he
   launched his Masters swimming journey and has been deeply connected to SwimMAC

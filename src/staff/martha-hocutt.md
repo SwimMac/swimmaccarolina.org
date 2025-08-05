@@ -12,7 +12,7 @@ bio: >-
   to building a strong swim school presence in Charlotte. Under her leadership,
   SwimMAC’s customer base has tripled, and the two locations she oversees are
   thriving. Martha began her journey at SwimMAC as a swim instructor, later
-  taking on expanded roles with programs such as Homeschool, JSL, Teen Fit, and
+  taking on expanded roles with programs such as Homeschool, Pre-Comp, MAC Fit, and
   as an assistant coach for Dolphin 3. Her skill in communication, organization,
   and leadership propelled her into positions as North Swim School Deck Manager,
   North Manager, Senior Swim School Director, and now, Director of Developmental Swimming.

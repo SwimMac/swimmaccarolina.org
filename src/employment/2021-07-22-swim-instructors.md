@@ -10,8 +10,8 @@ Swim Instructors for the following programs:
 
 * Swim school
 * Homeschool
-* JSL
-* Teen Fit
+* Pre-Comp
+* Mac Fit
 * Lifeguards – South location only
 
 Our North facility is located at:\

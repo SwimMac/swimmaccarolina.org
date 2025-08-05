@@ -1,6 +1,6 @@
 ---
 layout : base.njk
-title : Teen Fit - North
+title : MAC Fit - North
 coach:
     name: Ali Sensintaffar
     email: asensintaffar@swimmaccarolina.org
@@ -13,15 +13,14 @@ coach:
     <div class="container overflow-hidden">
         <p>
             <a href="/">Home</a> /
-            <a href="/teen-fit/">Teen Fit</a> /
+            <a href="/mac-fit/">MAC Fit</a> /
             {{ title }}
         </p>
 
         <p class="lead">
-            SwimMAC's Teen Fit offers a chance for your child to improve
-            technique in all 4 strokes with individual attention from highly qualified coaches, gain endurance &amp; strength, and have
-            fun with swimming! Whether you are looking for a fitness activity, preparing for a school swim team, getting ready for
-            summer league, or cross training for other sports, swimming is a great way to stay active and get stronger.
+            SwimMAC's Mac Fit is for kids age 11 to 18 who are looking for a program that will prepare them for middle school, high school,
+            summer league swimming, or a fun way to stay fit or cross-train for other sports. Each class will have elements of aerobic development,
+            stroke technique for all strokes, turn work, and some fun and exciting aquatic games.
         </p>
 
         <div class="card p-4">
@@ -98,17 +97,17 @@ coach:
                 <iframe src="https://app3.jackrabbitclass.com/eventcalendar.asp?orgid=541680" width="100%" height="650" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
             </div>
 
-            <h3 class="separator-center">Schedule and Registration for Teen Fit North</h3>
+            <h3 class="separator-center">Schedule and Registration for MAC Fit North</h3>
 
-            {% if jackrabbit.teenFitNorth.sessions.length > 0 %}
-                {% for session in jackrabbit.teenFitNorth.sessions %}
+            {% if jackrabbit.MACFitNorth.sessions.length > 0 %}
+                {% for session in jackrabbit.MACFitNorth.sessions %}
                 <h3 class="separator-left mt-12">{{ session.session }}</h3>
 
-                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.teenFitNorth.orgId }}&amp;Session={{ session.session }}&showCols=location,Cat1&hidecols=Class,Gender,Session,ages&style=font-size:16px&sort=days" type="text/javascript"></script>
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.MACFitNorth.orgId }}&amp;Session={{ session.session }}&showCols=location,Cat1&hidecols=Class,Gender,Session,ages&style=font-size:16px&sort=days" type="text/javascript"></script>
                 {% endfor %}
             {% else %}
                 <div class="bg-red-100 border border-red-900 p-4 my-6">
-                    There are no scheduled Teen Fit classes at this time
+                    There are no scheduled MAC Fit classes at this time
                 </div>
             {% endif %}
         </div>

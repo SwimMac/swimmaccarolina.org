@@ -262,7 +262,7 @@
       "id": "childComfortableFitnessChild",
       "results": [
         {
-          "result": "JSL"
+          "result": "Pre-Comp"
         },
         {
           "result": "Homeschool"
@@ -273,10 +273,10 @@
       "id": "childComfortableFitnessPreteen",
       "results": [
         {
-          "result": "JSL"
+          "result": "Pre-Comp"
         },
         {
-          "result": "Teen Fit"
+          "result": "Mac Fit"
         }
       ]
     },
@@ -293,7 +293,7 @@
           "result": "Homeschool"
         },
         {
-          "result": "JSL"
+          "result": "Pre-Comp"
         },
         {
           "result": "Marlin"
@@ -313,7 +313,7 @@
           "result": "Homeschool"
         },
         {
-          "result": "JSL"
+          "result": "Pre-Comp"
         },
         {
           "result": "Marlin"
@@ -330,7 +330,7 @@
           "result": "Homeschool"
         },
         {
-          "result": "JSL"
+          "result": "Pre-Comp"
         }
       ]
     },
@@ -397,7 +397,7 @@
       "id": "childIntermediateFitness",
       "results": [
         {
-          "result": "Teen Fit"
+          "result": "Mac Fit"
         },
         {
           "result": "Homeschool"
@@ -557,16 +557,16 @@
       "img": "pool-tiles.jpg"
     },
     {
-      "label": "JSL",
-      "url": "/jsl",
+      "label": "Pre-Comp",
+      "url": "/pre-comp",
       "description": "A technique-based program for all four strokes. Increase strength and endurance through drills and kicking. Provides an intro to racing skills such as dives and turns. Get a good workout in a close team setting. Tryouts required.",
       "img": "jsl.jpg"
     },
     {
-      "label": "Teen Fit",
-      "url": "/teen-fit",
+      "label": "MAC Fit",
+      "url": "/mac-fit",
       "description": "Intended for teens and preteens looking for a great aerobic and skill base program that creates a nurturing competitive environment. A great way to stay active and get stronger! Prepare for a swim team, improve technique, or cross train for other sports.",
-      "img": "teen-fit.jpg"
+      "img": "mac-fit.jpg"
     },
     {
       "label": "Teen Lessons",

@@ -18,7 +18,7 @@
       }
     ]
   },
-  "teenFitNorth": {
+  "MACFitNorth": {
     "orgId": "541680",
     "sessions": [
       {
@@ -26,20 +26,16 @@
       }
     ]
   },
-  "teenFitSouth": {
+  "MACFitSouth": {
     "orgId": "541681",
     "sessions": [
       {
         "name": "Summer Aux Program Clinics 2025",
         "session": "Summer Aux Program Clinics 2025"
-      },
-      {
-        "name": "TF Summer 2 2025",
-        "session": "TF Summer 2 2025"
       }
     ]
   },
-  "jslNorth": {
+  "preCompNorth": {
     "orgId": "541680",
     "sessions": [
       {
@@ -47,7 +43,7 @@
       }
     ]
   },
-  "jslSouth": {
+  "preCompSouth": {
     "orgId": "541681",
     "sessions": [
       {
