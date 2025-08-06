@@ -22,3 +22,27 @@
 [[redirects]]
   from = "/learn_to_swim/swim_school.html"
   to = "/swim-school"
+
+[[redirects]]
+  from = "/jsl"
+  to = "/pre-comp"
+
+[[redirects]]
+  from = "/jsl/jsl-north"
+  to = "/pre-comp/pre-comp-north"
+
+[[redirects]]
+  from = "/jsl/jsl-south"
+  to = "/pre-comp/pre-comp-south"
+
+[[redirects]]
+  from = "/teen-fit"
+  to = "/mac-fit"
+
+[[redirects]]
+  from = "/teen-fit/teen-fit-north"
+  to = "/mac-fit/mac-fit-north"
+
+[[redirects]]
+  from = "/teen-fit/teen-fit-south"
+  to = "/mac-fit/mac-fit-south"

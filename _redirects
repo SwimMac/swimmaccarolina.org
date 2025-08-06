@@ -1,7 +1,0 @@
-# Redirects from what the browser requests to what we serve
-/jsl                        /pre-comp
-/jsl/jsl-north              /pre-comp/pre-comp-north
-/jsl/jsl-south              /pre-comp/pre-comp-south
-/teen-fit                   /mac-fit
-/teen-fit/teen-fit-north    /mac-fit/mac-fit-north
-/teen-fit/teen-fit-south    /mac-fit/mac-fit-south
