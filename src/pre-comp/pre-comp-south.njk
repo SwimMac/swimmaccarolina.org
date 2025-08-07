@@ -1,6 +1,6 @@
 ---
 layout : base.njk
-title : Junior Swim League (JSL) - South
+title : Pre-Comp - South
 coach:
     name: Carrie Andrews
     email: candrews@swimmaccarolina.org
@@ -13,7 +13,7 @@ coach:
     <div class="container py-6">
         <p>
             <a href="/">Home</a> /
-            <a href="/jsl/">Junior Swim League</a> /
+            <a href="/jsl/">Pre-Comp</a> /
             {{ title }}
         </p>
 
@@ -96,11 +96,11 @@ coach:
 
             <h3 class="separator-center">South Region Class Registration</h3>
 
-            {% if jackrabbit.jslSouth.sessions.length > 0 %}
-                {% for session in jackrabbit.jslSouth.sessions %}
+            {% if jackrabbit.preCompSouth.sessions.length > 0 %}
+                {% for session in jackrabbit.preCompSouth.sessions %}
                 <h3 class="separator-left">{{ session.name }}</h3>
 
-                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.jslSouth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&style=font-size:16px&sort=days" type="text/javascript"></script>
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.preCompSouth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&style=font-size:16px&sort=days" type="text/javascript"></script>
                 {% endfor %}
             {% else %}
                 <div class="bg-red-100 border border-red-900 p-4 my-6">
