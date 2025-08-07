@@ -1,6 +1,6 @@
 ---
 layout : base.njk
-title : MAC Fit - North
+title : MAC Fit 1 - North
 coach:
     name: Jen Bronson
     email: jbronson@swimmaccarolina.org
@@ -13,10 +13,11 @@ coach:
         <p>
             <a href="/">Home</a> /
             <a href="/mac-fit/">MAC Fit</a> /
+            <a href="/mac-fit/mac-fit-north">Mac Fit North</a> /
             {{ title }}
         </p>
 
-        <h2>MAC Fit (formerly Teen Fit)</h2>
+        <h2>MAC Fit 1 (formerly Teen Fit)</h2>
 
         <p class="lead">
             Love the water but not ready for year-round competitive swimming?
@@ -27,23 +28,12 @@ coach:
         <div class="card p-4">
             <div class="flex flex-wrap -mx-4">
                 <div class="w-full md:w-1/2 p-4">
-                    <h3>MAC Fit 1</h3>
                     <p>10 - 13 year old swimmers who can swim</p>
                     <ul>
                         <li>25 yards freestyle with bilateral side breathing</li>
                         <li>25 yards backstroke with straight leg kicking &amp; body rotation</li>
                         <li>25 yards breaststroke with legal breaststroke kick (feet flexed &amp; toes turned out)</li>
                         <li>25 yards butterfly with dolphin kick, knowledge of stroke concept to build on</li>
-                        <li>Swimmers must be comfortable diving into the pool</li>
-                    </ul>
-
-                    <h3 class="mt-8">MAC Fit 2</h3>
-                    <p>14 - 17 year old swimmers who can swim</p>
-                    <ul>
-                        <li>50 yards freestyle with bilateral side breathing</li>
-                        <li>50 yards backstroke with straight leg kicking &amp; body rotation</li>
-                        <li>50 yards breaststroke with legal breaststroke kick (feet flexed &amp; toes turned out)</li>
-                        <li>50 yards butterfly with dolphin kick, knowledge of stroke concept to build on</li>
                         <li>Swimmers must be comfortable diving into the pool</li>
                     </ul>
                 </div>
@@ -98,7 +88,7 @@ coach:
                 {% for session in jackrabbit.MACFitNorth.sessions %}
                 <h3 class="separator-left mt-12">{{ session.session }}</h3>
 
-                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.MACFitNorth.orgId }}&amp;Session={{ session.session }}&showCols=location,Cat1&hidecols=Class,Gender,Session,ages&style=font-size:16px&sort=days" type="text/javascript"></script>
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.MACFitNorth.orgId }}&amp;Session={{ session.session }}&amp;cat2=MAC%20Fit%201&amp;showCols=location,Cat1,Cat2&amp;hidecols=Class,Gender,Session,ages&amp;style=font-size:16px&amp;sort=days" type="text/javascript"></script>
                 {% endfor %}
             {% else %}
                 <div class="bg-red-100 border border-red-900 p-4 my-6">

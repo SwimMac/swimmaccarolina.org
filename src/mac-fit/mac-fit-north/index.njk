@@ -1,0 +1,51 @@
+---
+layout : base.njk
+title : MAC Fit North
+---
+<main id="main" class="bg-gray-100 overflow-hidden">
+    {% banner title, {image: 'hffa.jpg'} %}
+
+    <div class="container my-6">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/mac-fit/">MAC Fit</a> /
+            {{ title }}
+        </p>
+
+       <div class="flex flex-wrap justify-center -mx-4">
+
+            <div class="w-full md:w-1/2 lg:w-1/3 p-4">
+                <a href="mac-fit-1" class="card h-full overflow-hidden">
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/cards/teen-fit.jpg');"></div>
+                    <div class="p-4">
+                        <h2>MAC Fit 1</h2>
+                        <p><strong>10 - 13 years</strong></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="w-full md:w-1/2 lg:w-1/3 p-4">
+                <a href="mac-fit-2" class="card h-full overflow-hidden">
+                    <div class="card-image h-64 bg-center bg-cover" style="background-image: url('/static/cards/teen-fit.jpg');"></div>
+                    <div class="p-4">
+                        <h2>MAC Fit 2</h2>
+                        <p><strong>14 - 17 years</strong></p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="w-full p-4">
+                <a href="/private-lessons/private-lessons-north/" class="card flex h-full overflow-hidden">
+                    <div class="card-image h-full w-64 bg-center bg-cover" style="background-image: url('/static/cards/private-lessons.jpg');"></div>
+                    <div class="p-4">
+                        <h2>Private Lessons</h2>
+                        <p><strong>All Ages</strong></p>
+                        <p>Private lessons cater to a swimmer's specific objectives with a customized training plan created by one of our qualified private lesson instructors.</p>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+</main>

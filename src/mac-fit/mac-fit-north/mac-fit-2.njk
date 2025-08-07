@@ -1,0 +1,109 @@
+---
+layout : base.njk
+title : MAC Fit 2 - North
+coach:
+    name: Jen Bronson
+    email: jbronson@swimmaccarolina.org
+---
+
+{% banner title, {image: 'teen-fit.jpg'} %}
+
+<main id="main" class="bg-gray-100 py-6">
+    <div class="container overflow-hidden">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/mac-fit/">MAC Fit</a> /
+            <a href="/mac-fit/mac-fit-north">Mac Fit North</a> /
+            {{ title }}
+        </p>
+
+        <h2>MAC Fit 2 (formerly Teen Fit)</h2>
+
+        <p class="lead">
+            Love the water but not ready for year-round competitive swimming?
+            MAC Fit is perfect for swimmers who want to stay in shape, build endurance, improve technique, and prepare for school or summer league team tryouts.
+            Each session combines aerobic conditioning, stroke refinement, and skill-building drills in a fun, positive environment, helping swimmers gain confidence, stay active, and enjoy the sport—without the pressure of competition.
+        </p>
+
+        <div class="card p-4">
+            <div class="flex flex-wrap -mx-4">
+                <div class="w-full md:w-1/2 p-4">
+                    <p>14 - 17 year old swimmers who can swim</p>
+                    <ul>
+                        <li>50 yards freestyle with bilateral side breathing</li>
+                        <li>50 yards backstroke with straight leg kicking &amp; body rotation</li>
+                        <li>50 yards breaststroke with legal breaststroke kick (feet flexed &amp; toes turned out)</li>
+                        <li>50 yards butterfly with dolphin kick, knowledge of stroke concept to build on</li>
+                        <li>Swimmers must be comfortable diving into the pool</li>
+                    </ul>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>Structure</h2>
+
+                    <ul>
+                        <li>Evaluations are held intermittently throughout the year <br>
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeXP5tx0rLbDc97S4Gpk7c1Tpe9kkUq_RLcfjny7taKE-7iQ/viewform" class="button" target="_blank">Sign up for an evaluation </a>
+                        </li>
+                        <li>Swimmers can sign up for multiple classes depending on their goals</li>
+                    </ul>
+
+                    <h2 class="mt-8">Pricing</h2>
+
+                    <ul>
+                        <li>Annual (September-August) Registration Fees (includes swim cap and t-shirt)
+                            <ul class="list-none">
+                                <li>$32 for first swimmer</li>
+                                <li>$26 for second swimmer</li>
+                                <li>$22 for third swimmer</li>
+                                <li>Free for fourth+ swimmer</li>
+                            </ul>
+                        </li>
+                        <li>Tuition Price
+                            <ul class="list-none">
+                                <li>$25.00 per 45 min class</li>
+                                <li>$33.00 per 60 min class</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="card p-4 my-6">
+            <div class="text-right">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=541680" class="button button--small mb-3" target="_blank">
+                    Portal Login
+                </a>
+            </div>
+
+            <h3 class="separator-center">Bridge Program Clinics Calendar</h3>
+            <div class="my-8 mx-auto" style="max-width: 800px;">
+                <iframe src="https://app3.jackrabbitclass.com/eventcalendar.asp?orgid=541680" width="100%" height="650" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
+            </div>
+
+            <h3 class="separator-center">Schedule and Registration for MAC Fit North</h3>
+
+            {% if jackrabbit.MACFitNorth.sessions.length > 0 %}
+                {% for session in jackrabbit.MACFitNorth.sessions %}
+                <h3 class="separator-left mt-12">{{ session.session }}</h3>
+
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.MACFitNorth.orgId }}&amp;Session={{ session.session }}&amp;cat2=MAC%20Fit%202&amp;showCols=location,Cat1,Cat2&amp;hidecols=Class,Gender,Session,ages&amp;style=font-size:16px&amp;sort=days" type="text/javascript"></script>
+                {% endfor %}
+            {% else %}
+                <div class="bg-red-100 border border-red-900 p-4 my-6">
+                    There are no scheduled MAC Fit classes at this time
+                </div>
+            {% endif %}
+        </div>
+
+        <div class="card p-4 my-6">
+            {% coachContact coach.name, coach.email, coach.phone %}
+        </div>
+
+        <div class="card p-4 my-6">
+            {% include 'hffa-map.njk' %}
+        </div>
+    </div>
+
+</main>
