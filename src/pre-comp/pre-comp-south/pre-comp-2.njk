@@ -1,6 +1,6 @@
 ---
 layout : base.njk
-title : Pre-Comp - South
+title : Pre-Comp 2 - South
 coach:
     name: Carrie Andrews
     email: candrews@swimmaccarolina.org
@@ -14,6 +14,7 @@ coach:
         <p>
             <a href="/">Home</a> /
             <a href="/jsl/">Pre-Comp</a> /
+            <a href="/pre-comp/pre-comp-south">Pre-Comp South</a> /
             {{ title }}
         </p>
 
@@ -36,16 +37,6 @@ coach:
            <div class="flex flex-wrap -mx-4">
                 <div class="w-full md:w-1/2 p-4">
                     <h2>Overview</h2>
-                    <h3>Pre-Comp 1</h3>
-                    <p>6 - 9 year ear old swimmers who can swim:</p>
-                    <ul>
-                        <li>25 yards freestyle with bilateral side breathing</li>
-                        <li>25 yards backstroke with straight leg kicking &amp; body rotation</li>
-                        <li>25 yards breaststroke with legal breaststroke kick (feet flexed &amp; toes turned out)</li>
-                        <li>25 yards butterfly with general knowledge and beginner concept</li>
-                    </ul>
-
-                    <h3>Pre-Comp 2</h3>
                     <p>10 - 13 year old swimmers who can swim</p>
                     <ul>
                         <li>50 yards freestyle with bilateral side breathing</li>
@@ -100,7 +91,7 @@ coach:
                 {% for session in jackrabbit.preCompSouth.sessions %}
                 <h3 class="separator-left">{{ session.name }}</h3>
 
-                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.preCompSouth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&style=font-size:16px&sort=days" type="text/javascript"></script>
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.preCompSouth.orgId }}&amp;Session={{ session.session }}&amp;Cat2=Pre-Comp%202&amp;hidecols=Class,Gender,Session,ages&amp;style=font-size:16px&amp;sort=days" type="text/javascript"></script>
                 {% endfor %}
             {% else %}
                 <div class="bg-red-100 border border-red-900 p-4 my-6">

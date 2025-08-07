@@ -1,6 +1,6 @@
 ---
 layout : base.njk
-title : Pre-Comp - North
+title : Pre-Comp 2 - North
 coach:
     name: Jen Bronson
     email: jbronson@swimmaccarolina.org
@@ -14,17 +14,18 @@ coach:
         <p>
             <a href="/">Home</a> /
             <a href="/pre-comp/">Pre-Comp</a> /
+            <a href="/pre-comp/pre-comp-north">Pre-Comp North</a> /
             {{ title }}
         </p>
 
-        <h2>SwimMAC's Pre-Competitive Program (Pre-Comp 1 & 2)<br>
+        <h2>SwimMAC's Pre-Competitive Program 2 (Pre-Comp 2)<br>
         (formerly Junior Swim League)</h2>
 
         <p class="lead">
             Take the next big step in your swimmer's journey!
             SwimMAC's Pre-Comp program bridges the gap between swim lessons and year-round competitive swimming.
             Our expert coaches focus on building strong technique, boosting endurance, and growing confidence in all four strokes—all in a fun, team-like environment.
-            With practices designed to mirror the structure of a competitive team, Pre-Comp 1 & 2 prepare swimmers to successfully transition onto a competitive swim team.
+            With practices designed to mirror the structure of a competitive team, Pre-Comp 1 &amp; 2 prepare swimmers to successfully transition onto a competitive swim team.
             <br>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSckvg72MxxeObKc-SnV0juRTyleWVAFFz41lcHZOCVy-e31mg/viewform" target="_blank">Please fill out this form to sign up for an evaluation</a>.
         </p>
@@ -33,16 +34,6 @@ coach:
            <div class="flex flex-wrap -mx-4">
                 <div class="w-full md:w-1/2 p-4">
                     <h2>Overview</h2>
-                    <h3>Pre-Comp 1</h3>
-                    <p>6 - 9 year ear old swimmers who can swim:</p>
-                    <ul>
-                        <li>25 yards freestyle with bilateral side breathing</li>
-                        <li>25 yards backstroke with straight leg kicking &amp; body rotation</li>
-                        <li>25 yards breaststroke with legal breaststroke kick (feet flexed &amp; toes turned out)</li>
-                        <li>25 yards butterfly with general knowledge and beginner concept</li>
-                    </ul>
-
-                    <h3>Pre-Comp 2</h3>
                     <p>10 - 13 year old swimmers who can swim</p>
                     <ul>
                         <li>50 yards freestyle with bilateral side breathing</li>
@@ -103,7 +94,7 @@ coach:
             {% for session in jackrabbit.preCompNorth.sessions %}
             <h3 class="separator-left mt-12">{{ session.session }}</h3>
 
-            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.preCompNorth.orgId }}&amp;Session={{ session.session }}&hidecols=Class,Gender,Session,ages&showCols=location,Cat1&style=font-size:16px&sort=days" type="text/javascript"></script>
+            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.preCompNorth.orgId }}&amp;Session={{ session.session }}&amp;Cat2=Pre-Comp%202&amp;hidecols=Class,Gender,Session,ages&amp;showCols=location,Cat1&amp;style=font-size:16px&amp;sort=days" type="text/javascript"></script>
             {% endfor %}
             {% else %}
                 <div class="bg-red-100 border border-red-900 p-4 my-6">

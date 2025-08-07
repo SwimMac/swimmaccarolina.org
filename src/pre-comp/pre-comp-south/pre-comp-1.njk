@@ -1,0 +1,111 @@
+---
+layout : base.njk
+title : Pre-Comp 1 - South
+coach:
+    name: Carrie Andrews
+    email: candrews@swimmaccarolina.org
+---
+
+<main id="main" class="bg-gray-100 overflow-hidden">
+
+    {% banner title, {image: 'jsl.jpg' } %}
+
+    <div class="container py-6">
+        <p>
+            <a href="/">Home</a> /
+            <a href="/jsl/">Pre-Comp</a> /
+            <a href="/pre-comp/pre-comp-south">Pre-Comp South</a> /
+            {{ title }}
+        </p>
+
+        <h2>SwimMAC's Pre-Competitive Program 1 (Pre-Comp 1)<br>
+        (formerly Junior Swim League)</h2>
+
+        <p class="lead">
+            Take the next big step in your swimmer's journey!
+            SwimMAC's Pre-Comp program bridges the gap between swim lessons and year-round competitive swimming.
+            Our expert coaches focus on building strong technique, boosting endurance, and growing confidence in all four strokes—all in a fun, team-like environment.
+            With practices designed to mirror the structure of a competitive team, Pre-Comp 1 & 2 prepare swimmers to successfully transition onto a competitive swim team.
+        </p>
+        <p class="lead">
+            Swimmers who have completed level G7 of the SwimMAC swim school may register without a tryout.
+            All other swimmers must complete a tryout prior to registration.
+            Contact Carrie Andrews <a href="mailto:candrews@swimmaccarolina.org">candrews@swimmaccarolina.org</a> for a tryout.
+        </p>
+
+         <div class="card p-4">
+           <div class="flex flex-wrap -mx-4">
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>Overview</h2>
+                    <p>6 - 9 year ear old swimmers who can swim:</p>
+                    <ul>
+                        <li>25 yards freestyle with bilateral side breathing</li>
+                        <li>25 yards backstroke with straight leg kicking &amp; body rotation</li>
+                        <li>25 yards breaststroke with legal breaststroke kick (feet flexed &amp; toes turned out)</li>
+                        <li>25 yards butterfly with general knowledge and beginner concept</li>
+                    </ul>
+                </div>
+
+                <div class="w-full md:w-1/2 p-4">
+                    <h2>Structure</h2>
+                    <ul>
+                        <li>Evaluations are held intermittently throughout the year.
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeXP5tx0rLbDc97S4Gpk7c1Tpe9kkUq_RLcfjny7taKE-7iQ/viewform" class="button" target="_blank">Sign up for an evaluation</a>
+                        </li>
+                        <li>Classes are 45 minutes long and 1-2 times a week depending on the level</li>
+                    </ul>
+               </div>
+
+               <div class="w-full p-4">
+                    <h2>Pricing</h2>
+
+                    <ul>
+                        <li>Annual (September-August) Registration Fees (includes swim cap and t-shirt)
+                            <ul class="list-none">
+                                <li>$32 for first swimmer</li>
+                                <li>$26 for second swimmer</li>
+                                <li>$22 for third swimmer</li>
+                                <li>Free for fourth+ swimmer</li>
+                            </ul>
+                        </li>
+                        <li>Tuition Price
+                            <ul class="list-none">
+                                <li>$25.00 per 45 min class</li>
+                                <li>$33.00 per 60 min class</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="card p-4 mt-4">
+            <div class="text-right">
+                <a href="https://app3.jackrabbitclass.com/portal/ppLogin.asp?id=541681" class="button button--small mb-3" target="_blank">Portal Login</a>
+            </div>
+
+            <h3 class="separator-center">South Region Class Registration</h3>
+
+            {% if jackrabbit.preCompSouth.sessions.length > 0 %}
+                {% for session in jackrabbit.preCompSouth.sessions %}
+                <h3 class="separator-left">{{ session.name }}</h3>
+
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.preCompSouth.orgId }}&amp;Session={{ session.session }}&amp;Cat2=Pre-Comp%201&amp;hidecols=Class,Gender,Session,ages&amp;style=font-size:16px&amp;sort=days" type="text/javascript"></script>
+                {% endfor %}
+            {% else %}
+                <div class="bg-red-100 border border-red-900 p-4 my-6">
+                    There are no scheduled Pre-Comp classes at this time
+                </div>
+            {% endif %}
+        </div>
+
+        <div class="card p-4 mt-4">
+            {% coachContact coach.name, coach.email %}
+        </div>
+
+        <div class="container card p-4 my-6">
+            {% include 'latin-map.njk' %}
+        </div>
+    </div>
+
+</main>
