@@ -21,6 +21,9 @@
   "MACFitNorth": {
     "orgId": "541680",
     "sessions": [
+      {
+        "session": "Fall 2025 Bridge Program Session"
+      }
     ]
   },
   "MACFitSouth": {
@@ -35,7 +38,9 @@
   "preCompNorth": {
     "orgId": "541680",
     "sessions": [
-
+      {
+        "session": "Fall 2025 Bridge Program Session"
+      }
     ]
   },
   "preCompSouth": {

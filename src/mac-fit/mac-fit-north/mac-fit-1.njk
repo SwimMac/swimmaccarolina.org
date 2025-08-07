@@ -89,7 +89,7 @@ coach:
                 {% for session in jackrabbit.MACFitNorth.sessions %}
                 <h3 class="separator-left mt-12">{{ session.session }}</h3>
 
-                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.MACFitNorth.orgId }}&amp;Session={{ session.session }}&amp;cat2=MAC%20Fit%201&amp;showCols=location,Cat1,Cat2&amp;hidecols=Class,Gender,Session,ages&amp;style=font-size:16px&amp;sort=days" type="text/javascript"></script>
+                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.MACFitNorth.orgId }}&amp;Session={{ session.session }}&amp;cat2=MAC%20Fit%201&amp;showCols=location&amp;hidecols=Class,Gender,Session,ages&amp;style=font-size:16px&amp;sort=days" type="text/javascript"></script>
                 {% endfor %}
             {% else %}
                 <div class="bg-red-100 border border-red-900 p-4 my-6">
