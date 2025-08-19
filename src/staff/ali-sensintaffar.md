@@ -7,7 +7,7 @@ department:
   - bridge-programs
   - competitive-team-coaches
 staffImage: /static/staff/alis.jpg
-order: 6
+order: 11
 bio: >-
   Ali Sensintaffar joined SwimMAC in January 2024, bringing a diverse background
   in coaching, education, and program development to her role. Ali leads the
