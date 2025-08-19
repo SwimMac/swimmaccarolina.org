@@ -6,7 +6,7 @@ email: cbains@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
-order: 100
+order: 4
 bio: >-
   Cade Bains joined SwimMAC in August 2025 as the Senior 2 Lead Coach at the
   Huntersville Family Fitness & Aquatics (HFFA) site. He leads practices that
