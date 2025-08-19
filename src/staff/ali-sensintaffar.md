@@ -4,7 +4,6 @@ title: Ali Sensintaffar
 jobTitle: North Dolphin 3 Lead
 email: asensintaffar@swimmaccarolina.org
 department:
-  - bridge-programs
   - competitive-team-coaches
 staffImage: /static/staff/alis.jpg
 order: 11
