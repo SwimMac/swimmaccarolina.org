@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Amelia Keller
-jobTitle: North Dolphin 3 Lead
+jobTitle: Assistant Coach
 email: akeller@swimmaccarolina.org
 department:
   - competitive-team-coaches
