@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Ali Sensintaffar
-jobTitle: North Dolphin Division & Dolphin 1 Lead
+jobTitle: North Dolphin 3 Lead
 email: asensintaffar@swimmaccarolina.org
 department:
   - bridge-programs
@@ -9,15 +9,11 @@ department:
 staffImage: /static/staff/alis.jpg
 order: 6
 bio: >-
-  ﻿Ali Sensintaffar joined SwimMAC in January 2024, bringing a diverse
-  background in coaching, education, and program development to her role as
-  North Dolphin 1 Lead Coach and North Auxiliary Program Director at the
-  HFFA/Davidson site. Ali leads the Dolphin 1 group, focusing on helping
-  11-12-year-old athletes refine their technique, build effectivepractice
-  habits, and develop the mental and emotional skills that foster success both
-  inand out of the pool. She also oversees the North Dolphin Division, working
-  with Dolphin 2 and Dolphin 3 coaches to ensure a cohesive, comprehensive
-  program for all 11-12-year-olds in SwimMAC’s competitive team.
+  Ali Sensintaffar joined SwimMAC in January 2024, bringing a diverse background
+  in coaching, education, and program development to her role. Ali leads the
+  Dolphin 3 group, focusing on helping 11-12-year-old athletes refine their
+  technique, build effectivepractice habits, and develop the mental and
+  emotional skills that foster success both inand out of the pool.
 
 
   With a Bachelor's degree in Creative Writing and a Master’s degree in English Education, Ali has taught English at the high school level and brings her educational expertise to her coaching, blending athletic skill-building with life skills. Before moving to North Carolina, she served as Head Age Group Coach at Highlands Ranch Aquatics in Colorado and asAssistant Aquatic Program Coordinator for the Highlands Ranch Community Association.Her experience in managing swim programs and understanding child development and psychology further strengthens her role in supporting SwimMAC’s young athletes.
