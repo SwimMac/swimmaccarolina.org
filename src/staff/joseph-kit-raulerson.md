@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Joseph (Kit) Raulerson
-jobTitle: North Senior 2 Lead; Shark 2 Lead
+jobTitle: North Shark Division & Shark 1 Lead, North Dolphin Division & Dolphin 1 Lead
 email: jraulerson@swimmaccarolina.org
 department:
   - competitive-team-coaches
