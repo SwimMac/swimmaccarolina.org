@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Jamie Schellenberg
-jobTitle: North Shark 3 Lead, North Dolphin 2 Lead
+jobTitle: North Shark 3 Lead
 email: jschellenberg@swimmaccarolina.org
 department:
   - competitive-team-coaches
