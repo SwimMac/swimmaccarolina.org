@@ -85,6 +85,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Sunday, September 28 - 5:45-7:00 AM (Swim Meet)
+
 </ul>
 
 </div>
