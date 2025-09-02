@@ -6,7 +6,7 @@ email: bcelasun@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/berk.jpeg
-order: 100
+order: 102
 bio: >-
   Ataberk “Berk” Celasun is an assistant coach with SwimMAC Carolina, working
   primarily at the Latin (South) site. He officially joined the competitive team
