@@ -7,5 +7,5 @@ department:
   - administration
 staffImage: https://www.swimmaccarolina.org/static/staff/kim-decann.jpg
 order: 3
-bio: ""
+bio: .
 ---
