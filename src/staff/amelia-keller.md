@@ -6,7 +6,7 @@ email: akeller@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/ameliak.jpg
-order: 100
+order: 104
 bio: >-
   Amelia Keller joined SwimMAC in August 2023 with Marlin 3 and Dolphin 3, and
   now coaches as Lead Dolphin 3, working primarily with 11-12-year-old swimmers
