@@ -1,11 +1,11 @@
 ---
 layout: staff.njk
 title: Kim DeCann
-jobTitle: Competitive Team Manager
+jobTitle: Assistant Coach
 email: kdecann@swimmaccarolina.org
 department:
-  - administration
-staffImage: https://www.swimmaccarolina.org/static/staff/kim-decann.jpg
-order: 3
+  - competitive-team-coaches
+staffImage: ""
+order: 101
 bio: .
 ---
