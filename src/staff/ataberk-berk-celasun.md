@@ -1,7 +1,7 @@
 ---
 layout: staff.njk
 title: Ataberk (Berk) Celasun
-jobTitle: Assistant Coach
+jobTitle: South Dolphin 3 Lead, Dolphin 3 Assistant
 email: bcelasun@swimmaccarolina.org
 department:
   - competitive-team-coaches
