@@ -7,7 +7,7 @@ department:
   - competitive-team-coaches
   - competitive-team-leadership
 staffImage: /static/staff/seanf.jpg
-order: 100
+order: 42
 bio: >-
   Sean Ford has been a dedicated member of SwimMAC since 2019, taking over as
   Marlin North Division Lead and Lead Coach for Marlin 1 and Marlin 2 at the
