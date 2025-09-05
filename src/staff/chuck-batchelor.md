@@ -9,14 +9,14 @@ staffImage: /static/staff/chuckb.jpg
 order: 1
 bio: >-
   Swimming is more than a sport for Chuck Batchelor—it’s a pathway to lifelong
-  growth and achievement.  Named Director of Competitive Swimming and Head Coach
+  growth and achievement. Named Director of Competitive Swimming and Head Coach
   in July 2021, Chuck has been with SwimMAC Carolina ever since, continually
   striving to elevate its standards of excellence, adding new chapters to the
   team’s storied legacy by inspiring future generations to pursue their
-  greatness.  
+  greatness.
 
 
-  Chuck’s vision for SwimMAC has been self-evident in the team’s results since his arrival, with SwimMAC finishing 1st overall in the nation every year (2021-22, 2022-23, and 2023-24) according to all three major metrics: Long Course and Short Course Virtual Club Rankings; Scholastic All-American; USA Swimming Gold Medal Club of Excellence.  To bring the best competitive opportunities to North Carolina, Chuck has revitalized SwimMAC’s meet offerings with the return of the Martha McKee Charlotte Open and by creating new marquee events like the Long Course Short Course Invitational.  
+  Chuck’s vision for SwimMAC has been self-evident in the team’s results since his arrival, with SwimMAC finishing 1st overall in the nation every year (2021-22, 2022-23, 2023-24, and 2024-25) according to all three major metrics: Long Course and Short Course Virtual Club Rankings; Scholastic All-American; USA Swimming Gold Medal Club of Excellence. To bring the best competitive opportunities to North Carolina, Chuck has revitalized SwimMAC’s meet offerings with the return of the Martha McKee Charlotte Open and by creating new marquee events like the Long Course Short Course Invitational.
 
 
   A former NCAA swimmer for the University of North Carolina at Chapel Hill, Chuck competed as a scholarship athlete, contributing to two ACC Championship teams. His coaching journey began at The Peddie School and included numerous prestigious roles, such as Head Women’s Coach for the Pan-American Games and Head Coach for the World Junior Championships.
