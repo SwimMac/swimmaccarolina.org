@@ -6,7 +6,7 @@ email: solvera@swimmaccarolina.org
 department:
   - swim-school
 staffImage: /static/staff/savannnah-d.jpg
-order: 100
+order: 54
 bio: >-
   Shyann Olvera joined SwimMAC in August 2024 as the North Swim School Assistant
   Manager, based at the HFFA/Davidson location. In her role, Shyann is dedicated
