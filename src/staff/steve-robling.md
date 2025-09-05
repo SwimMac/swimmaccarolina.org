@@ -7,7 +7,7 @@ department:
   - competitive-team-coaches
   - masters-coaches
 staffImage: /static/staff/stever.jpg
-order: 99
+order: 16
 bio: >-
   Since joining SwimMAC in 2009, Steve Robling has served as Lead Coach for
   three distinct groups: Marlin 3, Senior 3, and Masters, all based at the South
