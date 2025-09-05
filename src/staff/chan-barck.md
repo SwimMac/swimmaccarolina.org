@@ -6,7 +6,7 @@ email: cdominguez@swimmaccarolina.org
 department:
   - swim-school
 staffImage: /static/staff/chandrab.jpg
-order: 2
+order: 51
 bio: >-
   Chandra “Chan” Dominguez has been an integral part of SwimMAC since 2015,
   currently serving as the North Swim School Manager at the HFFA/Davidson sites.
