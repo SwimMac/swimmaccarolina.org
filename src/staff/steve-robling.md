@@ -5,7 +5,6 @@ jobTitle: South Marlin 3 Lead, Senior 3 Lead, Master's Coach
 email: srobling@swimmaccarolina.org
 department:
   - competitive-team-coaches
-  - masters-coaches
 staffImage: /static/staff/stever.jpg
 order: 16
 bio: >-
