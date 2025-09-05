@@ -6,7 +6,7 @@ email: kbubolz@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/kyleb.jpg
-order: 3
+order: 14
 bio: >-
   Kyle Bubolz joined SwimMAC in Fall 2022.  He started as High Performance
   assistant, then was Shark 1 North Lead for a year, and now is Senior 2 South
