@@ -5,7 +5,7 @@ jobTitle: South Swim School Manager
 email: nhollmon@swimmaccarolina.org
 department:
   - swim-school
-order: 3
+order: 52
 bio: >-
   Nicolle Hollmon joined SwimMAC in December 2018, and she now serves as the
   South Swim School Manager at the Latin site. In her role, Nicolle oversees the
