@@ -6,7 +6,7 @@ email: ftotten@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/frankt.jpg
-order: 100
+order: 25
 bio: >-
   Frank Totten has been an integral part of SwimMAC since August 2017, beginning
   as an Assistant Coach and transitioning to a Lead Coach role in 2019. Over the
