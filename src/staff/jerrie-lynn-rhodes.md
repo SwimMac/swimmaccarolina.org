@@ -6,5 +6,5 @@ email: jrhodes
 department:
   - masters-coaches
 staffImage: https://www.swimmaccarolina.org/static/staff/jerrie-lynn-rhodes.jpg
-order: 100
+order: 86
 ---
