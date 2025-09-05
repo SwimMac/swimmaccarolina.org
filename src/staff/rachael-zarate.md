@@ -6,7 +6,7 @@ email: rzarate@swimmaccarolina.org
 department:
   - competitive-team-leadership
 staffImage: /static/staff/rachaelz.jpg
-order: 100
+order: 23
 bio: >-
   Rachael Zarate is a valued member of SwimMAC, where she leads the North Shark
   & Dolphin Divisions at the HFFA and Davidson sites. A lifelong connection to
