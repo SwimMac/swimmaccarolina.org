@@ -6,7 +6,7 @@ email: elaurent@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/emilyl.jpg
-order: 100
+order: 33
 bio: >-
   Emily Laurent joined SwimMAC in January 2024 as the Lead Coach for Dolphin 2
   and Assistant Coach for Shark 2, bringing a vibrant and thoughtful approach to
