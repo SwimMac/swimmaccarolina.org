@@ -6,5 +6,5 @@ email: Bkeast@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/benk.jpg
-order: 0
+order: 11
 ---
