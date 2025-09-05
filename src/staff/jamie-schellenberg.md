@@ -6,7 +6,7 @@ email: jschellenberg@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/jamies.jpg
-order: 100
+order: 26
 bio: >-
   Jamie Schellenberg joined SwimMAC in June 2024 and is the Lead Coach for the
   Shark 3 group, based at the North HFFA/Davidson site. Working with swimmers
