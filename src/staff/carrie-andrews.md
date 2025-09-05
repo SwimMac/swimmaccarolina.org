@@ -6,7 +6,7 @@ email: candrews@swimmaccarolina.org
 department:
   - bridge-programs
 staffImage: https://www.swimmaccarolina.org/static/staff/carrie-andrews.jpg
-order: 1
+order: 61
 bio: >-
   Carrie Andrews has been an integral part of the SwimMAC family since 2002,
   where she now serves as the South Auxiliary Program Director at the Latin
