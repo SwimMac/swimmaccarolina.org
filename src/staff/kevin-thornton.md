@@ -7,7 +7,7 @@ department:
   - competitive-team-coaches
   - competitive-team-leadership
 staffImage: /static/staff/kevint.jpg
-order: 2
+order: 12
 bio: >-
   Kevin Thornton has been with SwimMAC since May 2022, bringing over 45 years of
   coaching expertise to his role as Lead Coach for the Senior 1 and Shark 2
