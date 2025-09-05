@@ -6,7 +6,7 @@ email: Sdamon@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/shyanno.jpg
-order: 100
+order: 44
 bio: >-
   Savannah Damon leads the Marlin 2 group at SwimMAC’s Davidson location, where
   she coaches the club's 10-and-under athletes. Since joining SwimMAC in April
