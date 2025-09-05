@@ -6,7 +6,7 @@ email: jbronson@swimmaccarolina.org
 department:
   - bridge-programs
 staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
-order: 2
+order: 62
 bio: >-
   Jen brings over 30 years of aquatics experience to SwimMAC, with a background
   that spans from competitive swimming, swim lessons, age group teams, water
