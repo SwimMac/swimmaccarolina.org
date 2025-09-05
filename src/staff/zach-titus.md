@@ -6,5 +6,5 @@ email: ztitus@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/zacht.jpg
-order: 46
+order: 17
 ---
