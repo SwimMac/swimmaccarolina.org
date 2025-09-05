@@ -6,7 +6,7 @@ email: akeller@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/ameliak.jpg
-order: 104
+order: 92
 bio: >-
   Amelia Keller joined SwimMAC in August 2023 with Marlin 3 and Dolphin 3, and
   now assists working with Dolphin 1 and Dolphin 3, working primarily with
