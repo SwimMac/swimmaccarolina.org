@@ -7,7 +7,7 @@ department:
   - competitive-team-coaches
   - competitive-team-leadership
 staffImage: /static/staff/julio-z2.jpg
-order: 1
+order: 13
 bio: >-
   Julio Zarate, SwimMAC’s Senior I Lead and North Site Lead Coach, brings over
   two decades of experience, passion, and dedication to coaching young athletes.
