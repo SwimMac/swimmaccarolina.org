@@ -8,7 +8,7 @@ department:
   - competitive-team-leadership
   - competitive-team-coaches
 staffImage: /static/staff/russk.jpg
-order: 100
+order: 21
 bio: >-
   Russ Kasl has been an integral part of SwimMAC since 2002.  Based at the Latin
   location in South Charlotte, Russ is dedicated to mentoring and guiding the
