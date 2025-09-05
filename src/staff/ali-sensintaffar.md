@@ -6,7 +6,7 @@ email: asensintaffar@swimmaccarolina.org
 department:
   - competitive-team-coaches
 staffImage: /static/staff/alis.jpg
-order: 11
+order: 36
 bio: >-
   Ali Sensintaffar joined SwimMAC in January 2024, bringing a diverse background
   in coaching, education, and program development to her role. Ali leads the
