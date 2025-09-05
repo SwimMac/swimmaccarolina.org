@@ -5,16 +5,17 @@ jobTitle: Masters Program Director, South Masters Lead
 email: Cthomas@swimmaccarolina.org
 department:
   - masters-coaches
-order: 1
+order: 81
 bio: >-
   Chandler Thomas, SwimMAC’s Masters Program Director and South Lead Coach,
   brings decades of experience and dedication to the organization, having been
-  part of SwimMAC since 1997. Starting as a Pre-Comp (formerly Junior Swim League (JSL))
-  participant, Chandler progressed to the competitive team, competing with the
-  club through high school and returning each summer during college. In 2011, he
-  launched his Masters swimming journey and has been deeply connected to SwimMAC
-  ever since. Chandler also spent three seasons as an assistant coach for the
-  Senior, Dolphin, and Marlin divisions, honing his coaching skills.
+  part of SwimMAC since 1997. Starting as a Pre-Comp (formerly Junior Swim
+  League (JSL)) participant, Chandler progressed to the competitive team,
+  competing with the club through high school and returning each summer during
+  college. In 2011, he launched his Masters swimming journey and has been deeply
+  connected to SwimMAC ever since. Chandler also spent three seasons as an
+  assistant coach for the Senior, Dolphin, and Marlin divisions, honing his
+  coaching skills.
 
 
   In his current role, Chandler oversees a vibrant community of over 200 adult Masters swimmers, ages 19 to 81, who range from competitive athletes and triathletes to open water and fitness swimmers. His primary responsibilities include collaborating with the Masters staff at both the HFFA and Charlotte Latin facilities to provide structured practices and competitive opportunities for all members. Chandler writes and coaches practices specifically at the Latin location, tailoring sessions to accommodate the varied skill levels and goals of SwimMAC’s diverse adult membership.
