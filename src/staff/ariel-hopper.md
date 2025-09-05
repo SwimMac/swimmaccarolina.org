@@ -5,6 +5,6 @@ jobTitle: North Dolphin 2 Lead
 email: ahopper@swimmaccarolina.org
 department:
   - competitive-team-coaches
-staffImage: https://www.swimmaccarolina.org/static/staff/coach-avatar.jpg
+staffImage: /static/staff/arielh.jpg
 order: 34
 ---
