@@ -43,8 +43,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Monday, September 1 (Labor Day) - NO PRACTICE
-
 </ul>
 
 </div>
