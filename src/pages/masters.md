@@ -25,8 +25,6 @@ title: Masters Training Schedule
 
 <li>Tuesday – 5:15-6:30 AM (SCY) & 12:00-1:00 PM (SCY)
 
-<li>Wednesday - TBD
-
 <li>Thursday – 5:15-6:30 AM (SCY) & 12:00-1:00 PM (SCY)
 
 <li>Friday – 5:15-6:30 AM (LCM)
