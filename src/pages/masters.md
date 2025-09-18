@@ -43,6 +43,8 @@ title: Masters Training Schedule
 
 <ul>
 
+<li>Sunday, September 28 - NO PRACTICE
+
 </ul>
 
 </div>
