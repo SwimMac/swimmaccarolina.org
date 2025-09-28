@@ -24,7 +24,7 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-<b></b>
+<b>Monday, September 29 - NO LAP SWIM</b>
 
 </div>
 
