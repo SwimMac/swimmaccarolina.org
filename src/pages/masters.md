@@ -43,8 +43,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, September 28 - NO PRACTICE
-
 <li>Sunday, October 19 - NO PRACTICE (Swim Meet)
 
 </ul>
@@ -84,8 +82,6 @@ title: Masters Training Schedule
 <span style="text-decoration: underline;"><strong>Exceptions to Latin Schedule:</strong></span>
 
 <ul>
-
-<li>Sunday, September 28 - PRACTICE CANCELED
 
 <li>Sunday, November 2 - 6:15-7:30 AM (Swim Meet)
 
