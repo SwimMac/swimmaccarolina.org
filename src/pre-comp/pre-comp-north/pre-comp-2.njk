@@ -26,12 +26,10 @@ coach:
             SwimMAC's Pre-Comp program bridges the gap between swim lessons and year-round competitive swimming.
             Our expert coaches focus on building strong technique, boosting endurance, and growing confidence in all four strokes—all in a fun, team-like environment.
             With practices designed to mirror the structure of a competitive team, Pre-Comp 1 &amp; 2 prepare swimmers to successfully transition onto a competitive swim team.
-            <br>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSckvg72MxxeObKc-SnV0juRTyleWVAFFz41lcHZOCVy-e31mg/viewform" target="_blank">Please fill out this form to sign up for an evaluation</a>.
         </p>
 
-        <div class="card p-4">
-           <div class="flex flex-wrap -mx-4">
+        <div class="card p-4 mb-4">
+            <div class="flex flex-wrap -mx-4">
                 <div class="w-full md:w-1/2 p-4">
                     <h2>Overview</h2>
                     <p>10 - 13 year old swimmers who can swim</p>
@@ -65,6 +63,51 @@ coach:
                     </ul>
                 </div>
             </div>
+        </div>
+
+        <div class="card p-4 mb-4">
+            <h3 class="text-center mb-4">Schedule a Try Out</h3>
+            <p class="text-center mb-4">Fill out the form below to schedule a try out. We'll contact you to confirm the date and time.</p>
+
+            <form class="form" name="tryout-schedule" method="POST" action="/thank-you/" netlify-honeypot="bot-field" data-netlify="true">
+                <div class="flex flex-wrap -mx-2">
+                    <div class="w-full md:w-1/2 px-2 mb-4">
+                        <label class="block" for="name">Full Name (required)</label>
+                        <input class="w-full" id="name" type="text" name="name" autocomplete="name" required="required">
+                    </div>
+
+                    <div class="w-full md:w-1/2 px-2 mb-4">
+                        <label class="block" for="swimmer-name">Swimmer's Name</label>
+                        <input class="w-full" id="swimmer-name" type="text" name="swimmer-name">
+                    </div>
+                </div>
+
+                <div class="flex flex-wrap -mx-2">
+                    <div class="w-full md:w-1/2 px-2 mb-4">
+                        <label class="block" for="email">Email (required)</label>
+                        <input class="w-full" id="email" type="email" name="email" autocapitalize="off" autocomplete="email" required="required">
+                    </div>
+
+                    <div class="w-full md:w-1/2 px-2 mb-4">
+                        <label class="block" for="phone">Phone Number</label>
+                        <input class="w-full" id="phone" type="tel" name="phone" autocapitalize="off" autocomplete="tel">
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <label class="block" for="notes">Let us know a little about your swimmer's abilities</label>
+                    <textarea rows="3" class="w-full" id="notes" name="notes" placeholder="Any additional information we should know"></textarea>
+                </div>
+
+                <div class="hidden">
+                    <label>Don't fill this out if you're human:
+                    <input name="bot-field"/></label>
+                </div>
+
+                <div class="text-center mb-2">
+                    <button class="button" type="submit">Schedule Try Out</button>
+                </div>
+            </form>
         </div>
 
         <div class="card p-4 mt-4">
