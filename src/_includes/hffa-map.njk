@@ -1,43 +1,50 @@
-<div id="map-north" style="height: 600px; width: 100%;"></div>
+<div id="map-north" style="height: 600px; width: 100%;" role="region" aria-label="Map showing the Huntersville Family Fitness &amp; Aquatics Pool location" tabindex="0"></div>
 
 <script async="" defer="defer" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHae0FCfiNKtysUK7o-Jr5-u7giUETcbQ&amp;callback=initMap"></script>
 <script>
      function initMap() {
-        function addMapMarker(location, map) {
-            var contentString = '<h3>' + location[0] + '</h3><p>' + location[1] + '</p>';
-            var infowindow = new google.maps.InfoWindow({content: contentString});
-            var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(location[2], location[3]),
-                title: location[0],
+        const mapElement = document.getElementById('map-north');
+        if (!mapElement) {
+            return;
+        }
+
+        const infoWindow = new google.maps.InfoWindow();
+
+        const locations = [
+            {
+                title: 'North Region Office - Huntersville Family Fitness & Aquatics Pool (HFFA)',
+                address: '11725 Verhoeff Drive, Huntersville, NC 28078',
+                position: {
+                    lat: 35.391931,
+                    lng: -80.845053
+                }
+            }
+        ];
+
+        const defaultCenter = locations.length > 0
+            ? locations[0].position
+            : {lat: 35.2092443, lng: -80.8604379};
+
+        const map = new google.maps.Map(mapElement, {
+            zoom: 10,
+            center: defaultCenter,
+            mapTypeId: 'roadmap'
+        });
+
+        // Provide a single reusable info window so screen reader and memory usage stay lean.
+        locations.forEach(function (location) {
+            const marker = new google.maps.Marker({
+                position: location.position,
+                title: location.title,
                 map: map
             });
-            // Each map marker click function
-            google.maps.event.addListener(marker, 'click', (function (marker, location) {
-                return function () {
-                    infowindow.open(map, marker);
-                }
-            })(marker, location));
-        }
-        // -------------- Recommendations Map ----------------//
-        var map = new google.maps.Map(document.getElementById('map-north'), {
-            zoom: 10,
-            center: new google.maps.LatLng(35.2092443, -80.8604379),
-            mapTypeId: 'roadmap',
-            disableDefaultUI: true
+
+            marker.addListener('click', function () {
+                infoWindow.setContent(
+                    '<h3>' + location.title + '</h3><p>' + location.address + '</p>'
+                );
+                infoWindow.open(map, marker);
+            });
         });
-        var locations = [
-            [
-                'North Region Office - Huntersville Family Fitness & Aquatics Pool (HFFA)',
-                '11725 Verhoeff Drive, Huntersville, NC 28078',
-                35.391931,
-                -80.845053,
-                2
-            ]
-        ];
-        // Create markers.
-        for (var index = 0; index < locations.length; index++) {
-            var element = locations[index];
-            addMapMarker(element, map);
-        }
     }
 </script>
