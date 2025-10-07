@@ -1,0 +1,112 @@
+<script>
+    (function () {
+        if (!window.fetch || typeof URLSearchParams === 'undefined') {
+            return;
+        }
+
+        function clearStatus(statusEl) {
+            if (!statusEl) {
+                return;
+            }
+            statusEl.classList.add('hidden');
+            statusEl.textContent = '';
+            statusEl.classList.remove(
+                'bg-green-100',
+                'text-green-800',
+                'border-green-300',
+                'bg-red-100',
+                'text-red-800',
+                'border-red-300',
+                'border'
+            );
+        }
+
+        function showStatus(statusEl, message, isSuccess) {
+            if (!statusEl) {
+                return;
+            }
+            clearStatus(statusEl);
+            statusEl.textContent = message;
+            statusEl.classList.remove('hidden');
+
+            if (isSuccess) {
+                statusEl.classList.add('bg-green-100', 'text-green-800', 'border', 'border-green-300');
+            } else {
+                statusEl.classList.add('bg-red-100', 'text-red-800', 'border', 'border-red-300');
+            }
+        }
+
+        function ensureStatusElement(form) {
+            var statusEl = form.querySelector('.js-form-status');
+            if (!statusEl) {
+                statusEl = document.createElement('div');
+                statusEl.className = 'hidden js-form-status p-3 rounded';
+                statusEl.setAttribute('role', 'status');
+                statusEl.setAttribute('aria-live', 'polite');
+                form.insertBefore(statusEl, form.firstElementChild);
+            } else {
+                if (!statusEl.hasAttribute('role')) {
+                    statusEl.setAttribute('role', 'status');
+                }
+                if (!statusEl.hasAttribute('aria-live')) {
+                    statusEl.setAttribute('aria-live', 'polite');
+                }
+            }
+            return statusEl;
+        }
+
+        function encodeFormData(formData) {
+            var encoded = new URLSearchParams();
+            formData.forEach(function (value, key) {
+                encoded.append(key, value);
+            });
+            return encoded.toString();
+        }
+
+        function attachHandler(form) {
+            var statusEl = ensureStatusElement(form);
+            var submitButton = form.querySelector('button[type="submit"]');
+
+            form.addEventListener('submit', function (event) {
+                event.preventDefault();
+                clearStatus(statusEl);
+
+                if (submitButton) {
+                    submitButton.disabled = true;
+                }
+
+                var formData = new FormData(form);
+                var formName = form.getAttribute('name');
+                if (formName && !formData.has('form-name')) {
+                    formData.append('form-name', formName);
+                }
+
+                fetch(form.getAttribute('action') || '/', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded'
+                    },
+                    body: encodeFormData(formData)
+                })
+                    .then(function (response) {
+                        if (!response.ok) {
+                            throw new Error('Network response was not ok');
+                        }
+                        form.reset();
+                        showStatus(statusEl, 'Thanks! We will contact you soon to arrange your tryout.', true);
+                    })
+                    .catch(function () {
+                        showStatus(statusEl, 'Something went wrong. Please try again or email us directly.', false);
+                    })
+                    .finally(function () {
+                        if (submitButton) {
+                            submitButton.disabled = false;
+                        }
+                    });
+            });
+        }
+
+        var forms = document.querySelectorAll('.js-netlify-ajax-form');
+        Array.prototype.forEach.call(forms, attachHandler);
+    })();
+</script>

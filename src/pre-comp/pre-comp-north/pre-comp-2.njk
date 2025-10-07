@@ -69,9 +69,11 @@ coach:
             <h3 class="text-center mb-4">Schedule a Try Out</h3>
             <p class="text-center mb-4">Fill out the form below to schedule a try out. We'll contact you to confirm the date and time.</p>
 
-            <form class="form" name="tryout-request" method="POST" action="/thank-you/" netlify-honeypot="bot-field" data-netlify="true">
+            <form class="form js-netlify-ajax-form" name="tryout-request" method="POST" action="/thank-you/" netlify-honeypot="bot-field" data-netlify="true">
+                <input type="hidden" name="form-name" value="tryout-request">
                 <input type="hidden" name="tryout-name" value="Pre-Comp">
 
+                <div class="hidden js-form-status p-3 rounded" role="status" aria-live="polite"></div>
                 <div class="flex flex-wrap -mx-2">
                     <div class="w-full md:w-1/2 px-2 mb-4">
                         <label class="block" for="name">Full Name (required)</label>
@@ -147,4 +149,5 @@ coach:
         </div>
     </div>
 
+    {% include 'scripts/netlify-ajax-form.njk' %}
 </main>
