@@ -70,7 +70,7 @@ permalink: "swim-school/north/{{ swim.name | slug }}/"
                 {% if jackrabbit.north.sessions.length > 0 %}
                     {% for session in jackrabbit.north.sessions %}
                     <h3 class="separator-left">{{ session }}</h3>
-                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&amp;Cat2=Adult&amp;Cat3={{ swim.color }}&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                    <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&amp;Cat2=Adult&amp;Cat3={{ swim.color }}&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&tuitionlabel=Monthly%20Tuition&style=font-size:16px&sort=days" type="text/javascript"></script>
                     {% endfor %}
                 {% else %}
                     <div class="bg-red-100 border border-red-900 p-4 my-6">

@@ -40,13 +40,13 @@ permalink: "swim-school/north/minimac/{{ swim.name | slug }}/"
                     {% for session in jackrabbit.north.sessions %}
                         {% if swim.name == "MiniMAC Advanced" %}
                             <h3 class="separator-left">{{ session }}</h3>
-                            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&amp;Cat2=Mini-Mac&amp;Cat3=Advanced%20Mini-Mac&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                            <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&amp;Cat2=Mini-Mac&amp;Cat3=Advanced%20Mini-Mac&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&tuitionlabel=Monthly%20Tuition&style=font-size:16px&sort=days" type="text/javascript"></script>
                         {% else %}
                             {% if session | startsWith("2025 North Summer Power Session") %}
                                 {# This session is filtered out (skipped) #}
                             {% else %}
                                 <h3 class="separator-left">{{ session }}</h3>
-                                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&amp;Cat2=Mini-Mac&amp;Cat3=MiniMac&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&style=font-size:16px&sort=days" type="text/javascript"></script>
+                                <script src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID={{ jackrabbit.north.orgId }}&amp;Cat2=Mini-Mac&amp;Cat3=MiniMac&amp;Session={{ session }}&showcols=Cat3&hidecols=Gender,Class,Session,Description&tuitionlabel=Monthly%20Tuition&style=font-size:16px&sort=days" type="text/javascript"></script>
                             {% endif %}
                         {% endif %}
                    {% endfor %}

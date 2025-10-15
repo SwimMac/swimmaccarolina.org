@@ -71,7 +71,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode('employeeApplicationForm', function ( jobTitle ) {
         return `<h3>Think you'd be a great fit?</h3>
         <p>Send us your information and we'll have our hiring manager contact you.</p>
-        <form name="employment-application" class="employment-form" method="POST" netlify>
+        <form name="employment-application" class="employment-form" method="POST" netlify data-netlify="true" enctype="multipart/form-data">
+            <input type="hidden" name="form-name" value="employment-application">
             <input type="hidden" name="job-title" value="${jobTitle}">
 
             <p>(<span class="text-red-500">*</span> Required to submit the form)</p>

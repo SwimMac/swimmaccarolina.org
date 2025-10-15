@@ -39,13 +39,14 @@ layout: base.njk
       }
 
       const handleSubmit = (e) => {
-        e.preventDefault()
-        let myForm = document.querySelector(".employment-form");
-        let formData = new FormData(myForm);
+        e.preventDefault();
+        const myForm = document.querySelector(".employment-form");
+        const formData = new FormData(myForm);
+        formData.set("form-name", myForm.getAttribute("name"));
+
         fetch('/', {
             method: 'POST',
-            headers: { "Content-Type": "multipart/form-data" },
-            body: new URLSearchParams(formData).toString()
+            body: formData
         }).then(() => formstuff(myForm)).catch((error) => alert(error));
       }
 
