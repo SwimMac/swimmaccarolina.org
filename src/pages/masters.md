@@ -45,6 +45,8 @@ title: Masters Training Schedule
 
 <li>Sunday, October 19 - NO PRACTICE (Swim Meet)
 
+<li>Sunday, October 26 - NO PRACTICE (Swim Meet)
+
 </ul>
 
 </div>
