@@ -3,7 +3,7 @@ layout: base.njk
 permalink: /employment/
 ---
 
-{% set jobsList = collections.employment %}
+{% set jobsList = collections.employmentByLastEdited or collections.employment %}
 <main id="main" class="bg-gray-100 overflow-hidden">
   {% banner 'SwimMAC Employment Opportunities' %}
 
