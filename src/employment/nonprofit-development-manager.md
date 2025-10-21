@@ -8,5 +8,5 @@ The Nonprofit Development Manager will lead SwimMAC’s fundraising and brand de
 
 <!--EndFragment-->
 
-Check out our posting on LinkedIn for more details:\
+Check out our posting on LinkedIn for more details: \
 [https://www.linkedin.com/jobs/​view/4314482129/](https://www.linkedin.com/jobs/view/4314482129/)
