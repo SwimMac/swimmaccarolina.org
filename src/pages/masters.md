@@ -43,9 +43,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, October 19 - NO PRACTICE (Swim Meet)
-
-<li>Sunday, October 26 - NO PRACTICE (Swim Meet)
+<li>Thursday, November 27 (Thanksgiving Day) - 7:00-8:15 AM
 
 </ul>
 
@@ -86,6 +84,16 @@ title: Masters Training Schedule
 <ul>
 
 <li>Sunday, November 2 - 6:15-7:30 AM (Swim Meet)
+
+<li>Saturday, November 15 - 5:15-6:30 AM (Swim Meet)
+
+<li>Sunday, November 16 - 5:15-6:30 AM (Swim Meet)
+
+<li>Wednesday, November 26 - 12:45-2:00 PM (Lanes 7-20)
+
+<li>Thursday, November 27 (Thanksgiving Day) - 7:00-8:30 AM
+
+<li>Friday, November 28 - 12:15-1:30 PM ONLY (Lanes 7-20) (<u>NO 8:30 PRACTICE</u>)
 
 </ul>
 
