@@ -24,7 +24,7 @@ title: Lap Swim
 
 \*Hours are subject to change based on holidays, swim meets, and club programming.
 
-<b></b>
+<b>Wednesday, November 26 - Friday, November 28 - NO LAP SWIM</b>
 
 </div>
 
@@ -44,7 +44,7 @@ title: Lap Swim
 
 <h4>General Public Monthly Membership</h4>
 
-<p>SwimMAC now offers a monthly lap swim membership option for <b>$60/month</b>. You will need to register through our TeamUnify registration website and put a card on file to pay for monthly dues, which will process on the 1st of every month. Membership allows for unlimited swims during open swim hours and may be canceled at any time. Any questions related to membership or billing can be directed to Chandler Thomas at <a href="mailto:cthomas@swimmaccarolina.org">cthomas@swimmaccarolina.org. </a></p>
+<p>SwimMAC now offers a monthly lap swim membership option for <b>$60/month</b>. You will need to sign up through our registration website and put a card on file to pay for monthly dues, which will process on the 1st of every month. Membership allows for unlimited swims during open swim hours and may be canceled at any time. Any questions related to membership or billing can be directed to Chandler Thomas at <a href="mailto:cthomas@swimmaccarolina.org">cthomas@swimmaccarolina.org. </a></p>
 
 <p><a class="button" href="https://www.gomotionapp.com/team/ncmac/page/team-registration?reg_id=85221" target="_blank" rel="noopener">Register</a></p>
 
