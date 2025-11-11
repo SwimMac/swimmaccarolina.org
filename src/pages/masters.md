@@ -83,8 +83,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, November 2 - 6:15-7:30 AM (Swim Meet)
-
 <li>Saturday, November 15 - 5:15-6:30 AM (Swim Meet)
 
 <li>Sunday, November 16 - 5:15-6:30 AM (Swim Meet)
