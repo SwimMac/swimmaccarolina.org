@@ -43,7 +43,7 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Thursday, November 27 (Thanksgiving Day) - 7:00-8:15 AM
+<li>Thursday, November 27 (Thanksgiving Day) - 6:00-7:15 AM
 
 </ul>
 
