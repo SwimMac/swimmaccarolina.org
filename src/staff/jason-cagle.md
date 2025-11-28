@@ -2,7 +2,7 @@
 layout: staff.njk
 title: Jason Cagle
 jobTitle: Board Member
-email: jcagle
+email: jcagle@swimmaccarolina.org
 department:
   - board
 order: 100
