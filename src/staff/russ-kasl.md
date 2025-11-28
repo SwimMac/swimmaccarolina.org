@@ -3,7 +3,7 @@ layout: staff.njk
 title: Russ Kasl
 jobTitle: Head Age Group Coach, Shark Division & Shark 1 Lead, Dolphin Division
   & Dolphin 1 Lead
-email: rkasl
+email: rkasl@swimmaccarolina.org
 department:
   - competitive-team-leadership
   - competitive-team-coaches
