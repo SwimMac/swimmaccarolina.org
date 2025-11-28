@@ -19,7 +19,7 @@ layout: base.njk
       <div class="radius drop-shadow-xl card flex-grow w-full {% if staffImage %}md:w-2/3{% endif %} p-4">
         <h2>{{ title }}</h2>
         <h3>{{ jobTitle }}</h3>
-        <p><a href="mailto:{{ email }}@swimmaccarolina.org">Email {{ title }}</a></p>
+        <p><a href="mailto:{{ email }}">Email {{ title }}</a></p>
         {% if bio %}
         {{ bio | markdown | safe }}
         {% endif %}
