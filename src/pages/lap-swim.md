@@ -26,6 +26,8 @@ title: Lap Swim
 
 <b>Wednesday, November 26 - Friday, November 28 - NO LAP SWIM</b>
 
+<b>Monday, December 22 - Friday, January 2 - NO LAP SWIM</b>
+
 </div>
 
 </div>
