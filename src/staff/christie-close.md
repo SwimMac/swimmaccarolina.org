@@ -2,7 +2,7 @@
 layout: staff.njk
 title: Christie Close
 jobTitle: South Marlin Division, Marlin 1 & Marlin 2 Lead
-email: Cclose@swimmaccarolina.org
+email: cclose@swimmaccarolina.org
 department:
   - competitive-team-leadership
 staffImage: /static/staff/christinac.jpg
