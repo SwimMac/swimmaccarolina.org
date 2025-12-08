@@ -45,7 +45,7 @@ title: Masters Training Schedule
 
 <li>Thursday, December 25 (Christmas Day) - NO PRACTICE
 
-<li>Thursday, January 1 (New Year's Day) - 7:00-9:00 AM
+<li>Thursday, January 1 (New Year's Day) - 9:00-11:00 AM
 
 <li>Sunday, January 4 - NO PRACTICE (Swim Meet)
 
