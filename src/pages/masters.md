@@ -87,14 +87,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Sunday, December 7 - 5:45-7:00 AM (Swim Meet)
-
-</ul>
-
-<b>HOLIDAY SCHEDULE</b>
-
-<ul>
-
 <li>Sunday, Dec 21 – 7:15-8:30 AM (<i>LCM Lanes 1-10</i>)
 <li>Monday, Dec 22 – 12:45-2:00 PM (<i>SCY Lanes 7-20</i>)
 <li>Tuesday, Dec 23 – 5:15-6:30 AM (<i>SCY Lanes 1-22</i>); <u>NO 8:30 AM PRACTICE</u>
