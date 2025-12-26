@@ -43,8 +43,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Thursday, December 25 (Christmas Day) - NO PRACTICE
-
 <li>Thursday, January 1 (New Year's Day) - 9:00-11:00 AM
 
 <li>Sunday, January 4 - NO PRACTICE (Swim Meet)
@@ -87,10 +85,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Monday, Dec 22 – 12:45-2:00 PM (<i>SCY Lanes 7-20</i>)
-<li>Tuesday, Dec 23 – 5:15-6:30 AM (<i>SCY Lanes 1-22</i>); <u>NO 8:30 AM PRACTICE</u>
-<li>Wednesday, Dec 24 (Christmas Eve) – 12:45-2:00 PM (<i>SCY Lanes 1-22</i>)
-<li>Thursday, Dec 25 (Christmas Day) – NO PRACTICE
 <li>Friday, Dec 26 – 8:30-9:45 AM (<i>SCY Lanes 1-22</i>); 12:45-2:00 PM (<i>SCY Lanes 5-22</i>)
 <li>Saturday, Dec 27 – 5:30-6:45 AM (<i>SCY Lanes TBD</i>)
 <li>Sunday, Dec 28 – 5:30-6:45 AM (<i>SCY Lanes 1-22</i>) (MILE MEET)
