@@ -26,6 +26,8 @@ title: Lap Swim
 
 <b>Monday, December 22 - Friday, January 2 - NO LAP SWIM</b>
 
+<b>Monday, January 19 - NO LAP SWIM (Swim Meet)</b>
+
 </div>
 
 </div>
