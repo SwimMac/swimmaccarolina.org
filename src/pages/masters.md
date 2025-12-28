@@ -85,9 +85,6 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Friday, Dec 26 – 8:30-9:45 AM (<i>SCY Lanes 1-22</i>); 12:45-2:00 PM (<i>SCY Lanes 5-22</i>)
-<li>Saturday, Dec 27 – 5:30-6:45 AM (<i>SCY Lanes TBD</i>)
-<li>Sunday, Dec 28 – 5:30-6:45 AM (<i>SCY Lanes 1-22</i>) (MILE MEET)
 <li>Monday, Dec 29 – 12:45-2:00 PM (<i>SCY Lanes 7-18</i>)
 <li>Tuesday, Dec 30 – 5:15-6:30 AM (<i>SCY Lanes 1-22</i>); <u>NO 8:30 AM PRACTICE</u>
 <li>Wednesday, Dec 31 (New Year's Eve) – 12:45-2:00 PM (<i>SCY Lanes 7-20</i>)
@@ -95,6 +92,16 @@ title: Masters Training Schedule
 <li>Friday, Jan 2 – 12:45-2:00 PM (<i>LCM Lanes 1-8</i>); <u>NO 8:30 AM PRACTICE</u>
 <li>Saturday, Jan 3 – 5:30-6:45 AM (<i>LCM Lanes 1-10</i>)
 <li>Sunday, Jan 4 – 7:15-8:30 AM (<i>LCM Lanes 1-10</i>)
+
+<br>
+
+<li>Sunday, January 18 - 6:00-7:15 AM (Swim Meet)
+
+<li>Monday, January 19 - NO PRACTICE <u>OR</u> LAP SWIM (Swim Meet)
+
+<li>Saturday, February 7 - NO PRACTICE (Sunbelt Meet)
+
+<li>Sunday, February 8 - NO PRACTICE (Sunbelt Meet)
 
 </ul>
 
