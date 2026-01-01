@@ -85,12 +85,9 @@ title: Masters Training Schedule
 
 <ul>
 
-<li>Monday, Dec 29 – 12:45-2:00 PM (<i>SCY Lanes 7-18</i>)
-<li>Tuesday, Dec 30 – 5:15-6:30 AM (<i>SCY Lanes 1-22</i>); <u>NO 8:30 AM PRACTICE</u>
-<li>Wednesday, Dec 31 (New Year's Eve) – 12:45-2:00 PM (<i>SCY Lanes 7-20</i>)
 <li>Thursday, Jan 1 (New Year's Day) – 8:30-11:00 AM (<i>SCY Lanes 1-22</i>)
 <li>Friday, Jan 2 – 12:45-2:00 PM (<i>LCM Lanes 1-8</i>); <u>NO 8:30 AM PRACTICE</u>
-<li>Saturday, Jan 3 – 5:30-6:45 AM (<i>LCM Lanes 1-10</i>)
+<li>Saturday, Jan 3 - 5:30-6:45 AM (<i>LCM Lanes 1-10</i>)
 <li>Sunday, Jan 4 – 7:15-8:30 AM (<i>LCM Lanes 1-10</i>)
 
 <br>
